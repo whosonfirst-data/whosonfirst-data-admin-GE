@@ -1,0 +1,73 @@
+{
+  "id": 1242897725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98528,41.6275,41.98528,41.6275",
+    "geom:latitude":41.6275,
+    "geom:longitude":41.98528,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"K'vasht'a",
+    "gn:country_code":"GE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613577,
+    "gn:latitude":41.6275,
+    "gn:longitude":41.98528,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"K\u2019vasht\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019vasht\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d5\u10d0\u10e8\u10e2\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613577
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6fb6f3690ede085bcb2dd6e42fdcabbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1242897725,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1242897725,
+    "wof:lastmodified":1537623187,
+    "wof:name":"K'vasht'a",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98528,
+    41.6275,
+    41.98528,
+    41.6275
+],
+  "geometry": {"coordinates":[41.98528,41.6275],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310219611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8,41.76667,44.8,41.76667",
+    "geom:latitude":41.76667,
+    "geom:longitude":44.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grmagele",
+    "gn:country_code":"GE",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614430,
+    "gn:latitude":41.76667,
+    "gn:longitude":44.8,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Grmagele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614430,
+        "wk:page":"Ghrmaghele_%28Tbilisi_Metro%29"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6248ad632d24fba3e7ffe10feff0c8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":1310219611,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":1310219611,
+    "wof:lastmodified":1537563006,
+    "wof:name":"Grmagele",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8,
+    41.76667,
+    44.8,
+    41.76667
+],
+  "geometry": {"coordinates":[44.8,41.76667],"type":"Point"}
+}

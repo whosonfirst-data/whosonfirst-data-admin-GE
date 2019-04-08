@@ -1,0 +1,84 @@
+{
+  "id": 1327334081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.64136,41.62665,41.64136,41.62665",
+    "geom:latitude":41.62665,
+    "geom:longitude":41.64136,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Urekhi",
+    "gn:country_code":"GE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611275,
+    "gn:latitude":41.62665,
+    "gn:longitude":41.64136,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Urekhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urekhi"
+    ],
+    "name:kat_x_preferred":[
+        "Urekhi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e3\u10e0\u10d4\u10ee\u10d8",
+        "Ureki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0435\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ureki",
+        "Urukhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611275
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"48a07d80e54fd87a1f027e5d790d6259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1327334081,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1327334081,
+    "wof:lastmodified":1537623052,
+    "wof:name":"Urekhi",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.64136,
+    41.62665,
+    41.64136,
+    41.62665
+],
+  "geometry": {"coordinates":[41.64136,41.62665],"type":"Point"}
+}

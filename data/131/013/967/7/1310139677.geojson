@@ -1,0 +1,80 @@
+{
+  "id": 1310139677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74388,41.43761,44.74388,41.43761",
+    "geom:latitude":41.43761,
+    "geom:longitude":44.74388,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"T'amarisi",
+    "gn:country_code":"GE",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611759,
+    "gn:latitude":41.43761,
+    "gn:longitude":44.74388,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"T\u2019amarisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T'amarisi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10db\u10d0\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "Traubenbergi",
+        "T\u2019amarisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611759
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a5b72f4dada90ab262cbc859c35d5ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1310139677,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310139677,
+    "wof:lastmodified":1537623079,
+    "wof:name":"T'amarisi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74388,
+    41.43761,
+    44.74388,
+    41.43761
+],
+  "geometry": {"coordinates":[44.74388,41.43761],"type":"Point"}
+}

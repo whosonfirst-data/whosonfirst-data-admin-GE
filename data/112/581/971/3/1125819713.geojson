@@ -1,0 +1,115 @@
+{
+  "id": 1125819713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.77861,41.99556,41.77861,41.99556",
+    "geom:latitude":41.99556,
+    "geom:longitude":41.77861,
+    "gn:gn_country":"GE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1625,
+    "gn:population":1625,
+    "iso:country":"GE",
+    "lbl:latitude":41.99556,
+    "lbl:longitude":41.77861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u057c\u0565\u056f\u056b"
+    ],
+    "name:dut_x_preferred":[
+        "Ureki"
+    ],
+    "name:eng_x_preferred":[
+        "Ureki"
+    ],
+    "name:epo_x_preferred":[
+        "Ureki"
+    ],
+    "name:fre_x_preferred":[
+        "Ureki"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e3\u10e0\u10d4\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ureki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05e7\u05d9"
+    ],
+    "name:kat_x_preferred":[
+        "Urek\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "\u10e3\u10e0\u10d4\u10d9\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0435\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Urek'i"
+    ],
+    "qs_pg:aaroncc":"GE",
+    "qs_pg:gn_country":"GE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":611274,
+    "qs_pg:gn_pop":1625,
+    "qs_pg:name":"Urek\u2019i",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":126080,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611274,
+        "qs_pg:id":126080,
+        "wd:id":"Q3651285"
+    },
+    "wof:country":"GE",
+    "wof:created":1497291994,
+    "wof:geomhash":"b8dec90ef69d1ba4c6fdf51a0144c76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691327,
+            "locality_id":1125819713,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1125819713,
+    "wof:lastmodified":1514443636,
+    "wof:name":"Urek\u2019i",
+    "wof:parent_id":1108691327,
+    "wof:placetype":"locality",
+    "wof:population":1625,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.77861,
+    41.99556,
+    41.77861,
+    41.99556
+],
+  "geometry": {"coordinates":[41.77861,41.99556],"type":"Point"}
+}

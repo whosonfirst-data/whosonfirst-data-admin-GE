@@ -1,0 +1,70 @@
+{
+  "id": 1243584777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01169,42.25431,43.01169,42.25431",
+    "geom:latitude":42.25431,
+    "geom:longitude":43.01169,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Zarnadzeyebi",
+    "gn:country_code":"GE",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611070,
+    "gn:latitude":42.25431,
+    "gn:longitude":43.01169,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zarnadzeyebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e0\u10dc\u10d0\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611070
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9e0e25605c21de09846d1578684fdd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691375,
+            "locality_id":1243584777,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1243584777,
+    "wof:lastmodified":1537623041,
+    "wof:name":"Zarnadzeyebi",
+    "wof:parent_id":1108691375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01169,
+    42.25431,
+    43.01169,
+    42.25431
+],
+  "geometry": {"coordinates":[43.01169,42.25431],"type":"Point"}
+}

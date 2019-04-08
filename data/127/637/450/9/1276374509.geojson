@@ -1,0 +1,70 @@
+{
+  "id": 1276374509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.10507,42.07214,45.10507,42.07214",
+    "geom:latitude":42.07214,
+    "geom:longitude":45.10507,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Shakhvetila",
+    "gn:country_code":"GE",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612034,
+    "gn:latitude":42.07214,
+    "gn:longitude":45.10507,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Shakhvetila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10ee\u10d5\u10d4\u10e2\u10d8\u10da\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612034
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ca9d9864221c6b536eaaf0bf3ff4e638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1276374509,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276374509,
+    "wof:lastmodified":1537623093,
+    "wof:name":"Shakhvetila",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.10507,
+    42.07214000000001,
+    45.10507,
+    42.07214000000001
+],
+  "geometry": {"coordinates":[45.10507,42.07214000000001],"type":"Point"}
+}

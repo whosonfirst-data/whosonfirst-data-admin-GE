@@ -1,0 +1,67 @@
+{
+  "id": 1210026559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.94417,42.40694,44.94417,42.40694",
+    "geom:latitude":42.40694,
+    "geom:longitude":44.94417,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Kutkhi",
+    "gn:country_code":"GE",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":613603,
+    "gn:latitude":42.40694,
+    "gn:longitude":44.94417,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kutkhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613603
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2930c4d2c3a73645cd5b3e56c5774f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1210026559,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1210026559,
+    "wof:lastmodified":1536390461,
+    "wof:name":"Kutkhi",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.94417,
+    42.40694000000001,
+    44.94417,
+    42.40694000000001
+],
+  "geometry": {"coordinates":[44.94417,42.40694000000001],"type":"Point"}
+}

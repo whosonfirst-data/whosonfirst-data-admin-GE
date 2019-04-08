@@ -1,0 +1,76 @@
+{
+  "id": 1343497231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46208,41.42923,43.46208,41.42923",
+    "geom:latitude":41.42923,
+    "geom:longitude":43.46208,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Diliska",
+    "gn:country_code":"GE",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614900,
+    "gn:latitude":41.42923,
+    "gn:longitude":43.46208,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Diliska",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Diliska"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10da\u10d8\u10e1\u10d9\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u0438\u0441\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614900
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"659df7fb140f33266ba50fdd50bc175b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691243,
+            "locality_id":1343497231,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1343497231,
+    "wof:lastmodified":1537623259,
+    "wof:name":"Diliska",
+    "wof:parent_id":1108691243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46208,
+    41.42923,
+    43.46208,
+    41.42923
+],
+  "geometry": {"coordinates":[43.46208,41.42923],"type":"Point"}
+}

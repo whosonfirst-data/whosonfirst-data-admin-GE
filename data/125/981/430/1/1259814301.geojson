@@ -1,0 +1,70 @@
+{
+  "id": 1259814301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.34428,43.03995,42.34428,43.03995",
+    "geom:latitude":43.03995,
+    "geom:longitude":42.34428,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Dizi",
+    "gn:country_code":"GE",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614893,
+    "gn:latitude":43.03995,
+    "gn:longitude":42.34428,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d6\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614893
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eee83e7a07f7e3befc265a2b6387cbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1259814301,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1259814301,
+    "wof:lastmodified":1537623259,
+    "wof:name":"Dizi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.34428,
+    43.03995,
+    42.34428,
+    43.03995
+],
+  "geometry": {"coordinates":[42.34428,43.03995],"type":"Point"}
+}

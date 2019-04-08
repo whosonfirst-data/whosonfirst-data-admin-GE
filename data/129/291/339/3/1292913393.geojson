@@ -1,0 +1,78 @@
+{
+  "id": 1292913393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.77334,41.76528,45.77334,41.76528",
+    "geom:latitude":41.76528,
+    "geom:longitude":45.77334,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chumlaki",
+    "gn:country_code":"GE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615084,
+    "gn:latitude":41.76528,
+    "gn:longitude":45.77334,
+    "gn:modification_date":"2017-10-07",
+    "gn:name":"Chumlaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch'umlaqi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043c\u043b\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chumiaki",
+        "Chumlaki",
+        "Ch\u2019umlaqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615084
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9e4d3938e4dcbf5cd5b09676fbc455bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1292913393,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1292913393,
+    "wof:lastmodified":1537623271,
+    "wof:name":"Chumlaki",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.77334000000001,
+    41.76528,
+    45.77334000000001,
+    41.76528
+],
+  "geometry": {"coordinates":[45.77334000000001,41.76528],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209730753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5423,41.61569,43.5423,41.61569",
+    "geom:latitude":41.61569,
+    "geom:longitude":43.5423,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Balant'a",
+    "gn:country_code":"GE",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615575,
+    "gn:latitude":41.61569,
+    "gn:longitude":43.5423,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Balant\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0\u10dc\u10d7\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Balant\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615575
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2c00a491f333ca35309ff18259170065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1209730753,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1209730753,
+    "wof:lastmodified":1537623296,
+    "wof:name":"Balant'a",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5423,
+    41.61569,
+    43.5423,
+    41.61569
+],
+  "geometry": {"coordinates":[43.5423,41.61569],"type":"Point"}
+}

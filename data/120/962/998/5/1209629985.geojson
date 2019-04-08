@@ -1,0 +1,61 @@
+{
+  "id": 1209629985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.16278,41.89067,45.16278,41.89067",
+    "geom:latitude":41.89067,
+    "geom:longitude":45.16278,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vashliani",
+    "gn:country_code":"GE",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611189,
+    "gn:latitude":41.89067,
+    "gn:longitude":45.16278,
+    "gn:modification_date":"2002-02-06",
+    "gn:name":"Vashliani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611189
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f8f4b16a1e59592fc1ad06225823d660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209629985
+        }
+    ],
+    "wof:id":1209629985,
+    "wof:lastmodified":1536281221,
+    "wof:name":"Vashliani",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.16278,
+    41.89067,
+    45.16278,
+    41.89067
+],
+  "geometry": {"coordinates":[45.16278,41.89067],"type":"Point"}
+}

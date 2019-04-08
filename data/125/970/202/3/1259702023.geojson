@@ -1,0 +1,77 @@
+{
+  "id": 1259702023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59765,41.36609,43.59765,41.36609",
+    "geom:latitude":41.36609,
+    "geom:longitude":43.59765,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ujmana",
+    "gn:country_code":"GE",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611311,
+    "gn:latitude":41.36609,
+    "gn:longitude":43.59765,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ujmana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ujmana"
+    ],
+    "name:kat_x_variant":[
+        "\u10e3\u10ef\u10db\u10d0\u10dc\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Uchmana",
+        "Udzhmana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611311
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"85b202430be68021a229c23faffeec26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691339,
+            "locality_id":1259702023,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1259702023,
+    "wof:lastmodified":1537623054,
+    "wof:name":"Ujmana",
+    "wof:parent_id":1108691339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59765,
+    41.36609,
+    43.59765,
+    41.36609
+],
+  "geometry": {"coordinates":[43.59765,41.36609],"type":"Point"}
+}

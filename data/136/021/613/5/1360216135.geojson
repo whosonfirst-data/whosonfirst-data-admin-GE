@@ -1,0 +1,71 @@
+{
+  "id": 1360216135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.24334,41.74653,45.24334,41.74653",
+    "geom:latitude":41.74653,
+    "geom:longitude":45.24334,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Patardzeuli",
+    "gn:country_code":"GE",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612440,
+    "gn:latitude":41.74653,
+    "gn:longitude":45.24334,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Patardzeuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e2\u10d0\u10e0\u10eb\u10d4\u10e3\u10da\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612440,
+        "wk:page":"Patardzeuli"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"049d486b047ed186f62a7e5439eda391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1360216135,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1360216135,
+    "wof:lastmodified":1537623115,
+    "wof:name":"Patardzeuli",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.24334,
+    41.74653,
+    45.24334,
+    41.74653
+],
+  "geometry": {"coordinates":[45.24334,41.74653],"type":"Point"}
+}

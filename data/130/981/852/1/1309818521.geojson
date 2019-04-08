@@ -1,0 +1,72 @@
+{
+  "id": 1309818521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63425,42.3651,43.63425,42.3651",
+    "geom:latitude":42.3651,
+    "geom:longitude":43.63425,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo-Karzmani",
+    "gn:country_code":"GE",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610956,
+    "gn:latitude":42.3651,
+    "gn:longitude":43.63425,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zemo-Karzmani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karzman",
+        "Vuallag-Karzman",
+        "Zemo-Karzmani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610956
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"025d13a131739c8267bf7cf5280c6d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1309818521,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1309818521,
+    "wof:lastmodified":1537623031,
+    "wof:name":"Zemo-Karzmani",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63425,
+    42.3651,
+    43.63425,
+    42.3651
+],
+  "geometry": {"coordinates":[43.63425,42.3651],"type":"Point"}
+}

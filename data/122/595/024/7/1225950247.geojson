@@ -1,0 +1,73 @@
+{
+  "id": 1225950247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.91348,41.94283,41.91348,41.94283",
+    "geom:latitude":41.94283,
+    "geom:longitude":41.91348,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ch'akhvati",
+    "gn:country_code":"GE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866875,
+    "gn:latitude":41.94283,
+    "gn:longitude":41.91348,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ch\u2019akhvati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019akhvati"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d0\u10ee\u10d5\u10d0\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866875
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f66dd2ea53ae052928de89b890d26540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1225950247,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1225950247,
+    "wof:lastmodified":1537623356,
+    "wof:name":"Ch'akhvati",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.91348,
+    41.94283,
+    41.91348,
+    41.94283
+],
+  "geometry": {"coordinates":[41.91348,41.94283],"type":"Point"}
+}

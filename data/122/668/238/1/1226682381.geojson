@@ -1,0 +1,86 @@
+{
+  "id": 1226682381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10833,41.5427,44.10833,41.5427",
+    "geom:latitude":41.5427,
+    "geom:longitude":44.10833,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"T'rialet'i",
+    "gn:country_code":"GE",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611580,
+    "gn:latitude":41.5427,
+    "gn:longitude":44.10833,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"T\u2019rialet\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T'rialet'i"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10e0\u10d8\u10d0\u10da\u10d4\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u0430\u043b\u0435\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Imeni Molotova",
+        "Molotovka",
+        "Rozenberg",
+        "Molotovo",
+        "Trialeta",
+        "T\u2019rialet\u2019i",
+        "Trialeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611580,
+        "wk:page":"Trialeti"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"057d989dd8bf83c093a9ddf01ac804e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691389,
+            "locality_id":1226682381,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1226682381,
+    "wof:lastmodified":1537623070,
+    "wof:name":"T'rialet'i",
+    "wof:parent_id":1108691389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10833,
+    41.5427,
+    44.10833,
+    41.5427
+],
+  "geometry": {"coordinates":[44.10833,41.5427],"type":"Point"}
+}

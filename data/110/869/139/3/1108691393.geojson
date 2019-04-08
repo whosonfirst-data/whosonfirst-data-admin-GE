@@ -1,0 +1,127 @@
+{
+  "id": 1108691393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000808,
+    "geom:area_square_m":7401892.512609,
+    "geom:bbox":"43.954536438,42.2084236145,43.9796829224,42.2509002686",
+    "geom:latitude":42.228545,
+    "geom:longitude":43.967065,
+    "iso:country":"GE",
+    "lbl:latitude":42.228147,
+    "lbl:longitude":43.967065,
+    "meso:admin_1":"Shida Kartli",
+    "meso:dissme":"TSKHINVALISHIDA KARTLI",
+    "meso:gadm_admin":"Gori",
+    "meso:gadm_hasc2":"GE.SD.GR",
+    "meso:gaul_admin":"Tskhinvali",
+    "meso:mps_x":43.967065,
+    "meso:mps_y":42.228147,
+    "meso:name_en":"Tskhinvali",
+    "meso:source":"ISCGM",
+    "mps:latitude":42.228147,
+    "mps:longitude":43.967065,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0533\u0578\u0580\u056b\u056b \u0574\u0578\u0582\u0576\u056b\u0581\u056b\u057a\u0561\u056c\u056b\u057f\u0565\u057f"
+    ],
+    "name:dut_x_preferred":[
+        "Gori"
+    ],
+    "name:eng_x_preferred":[
+        "Gori Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Tskhinvali",
+        "Gori"
+    ],
+    "name:fin_x_preferred":[
+        "Gorin piirikunta"
+    ],
+    "name:fre_x_preferred":[
+        "Gori"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Munizipalit\u00e4t Gori"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0393\u03ba\u03cc\u03c1\u03b9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05ea \u05d2\u05d5\u05e8\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Municipalit\u00e0 di Gori"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30ea"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0443\u0440\u044b \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0439\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Gori Destrict"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Gori"
+    ],
+    "name:swe_x_preferred":[
+        "Goris Munitsip'alit'et'i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u043e\u0440\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
+    ],
+    "name:war_x_preferred":[
+        "Gori"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GE.SD.GR",
+        "wd:id":"Q1417170"
+    },
+    "wof:country":"GE",
+    "wof:created":1474307953,
+    "wof:geomhash":"8e18167d5ac91970fcda6e86dd1a9938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691393,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1108691393,
+    "wof:lastmodified":1553816455,
+    "wof:name":"Tskhinvali",
+    "wof:parent_id":1108805941,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:shortcode":"GR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95453643798828,
+    42.20842361450195,
+    43.97968292236328,
+    42.25090026855469
+],
+  "geometry": {"coordinates":[[[43.95792770385742,42.21248626708984],[43.95453643798828,42.21974945068359],[43.95493316650391,42.230224609375],[43.95582580566406,42.23657989501953],[43.96173095703125,42.240966796875],[43.9605827331543,42.25026321411133],[43.97238540649414,42.25090026855469],[43.97968292236328,42.23097610473633],[43.97787857055664,42.21932601928711],[43.97420120239258,42.20903396606445],[43.96510696411133,42.20842361450195],[43.96181869506836,42.20945358276367],[43.95792770385742,42.21248626708984]]],"type":"Polygon"}
+}

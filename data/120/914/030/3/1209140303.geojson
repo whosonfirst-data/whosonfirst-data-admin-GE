@@ -1,0 +1,71 @@
+{
+  "id": 1209140303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02988,42.07434,44.02988,42.07434",
+    "geom:latitude":42.07434,
+    "geom:longitude":44.02988,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Variani",
+    "gn:country_code":"GE",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611200,
+    "gn:latitude":42.07434,
+    "gn:longitude":44.02988,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Variani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Variani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0438\u0430\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611200,
+        "wk:page":"Variani"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"93b5bcb373b831b109443a5b9753e7f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209140303
+        }
+    ],
+    "wof:id":1209140303,
+    "wof:lastmodified":1537623048,
+    "wof:name":"Variani",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02988,
+    42.07434,
+    44.02988,
+    42.07434
+],
+  "geometry": {"coordinates":[44.02988,42.07434],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226173937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.14217,42.08717,42.14217,42.08717",
+    "geom:latitude":42.08717,
+    "geom:longitude":42.14217,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Ch'q'onagora",
+    "gn:country_code":"GE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615131,
+    "gn:latitude":42.08717,
+    "gn:longitude":42.14217,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ch\u2019q\u2019onagora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019q\u2019onagora"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10e7\u10dd\u10dc\u10d0\u10d2\u10dd\u10e0\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Chkonagora",
+        "Chkonagvara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615131
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e4f8c9f3c0232462b555703dcd4ce632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691327,
+            "locality_id":1226173937,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1226173937,
+    "wof:lastmodified":1537623274,
+    "wof:name":"Ch'q'onagora",
+    "wof:parent_id":1108691327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.14217,
+    42.08717,
+    42.14217,
+    42.08717
+],
+  "geometry": {"coordinates":[42.14217,42.08717],"type":"Point"}
+}

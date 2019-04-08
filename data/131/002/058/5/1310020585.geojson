@@ -1,0 +1,67 @@
+{
+  "id": 1310020585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61917,42.40667,44.61917,42.40667",
+    "geom:latitude":42.40667,
+    "geom:longitude":44.61917,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zamtreuli",
+    "gn:country_code":"GE",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800717,
+    "gn:latitude":42.40667,
+    "gn:longitude":44.61917,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Zamtreuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800717
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9182e203ab867566242adbccd43d3ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1310020585,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310020585,
+    "wof:lastmodified":1536619361,
+    "wof:name":"Zamtreuli",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61917,
+    42.40667,
+    44.61917,
+    42.40667
+],
+  "geometry": {"coordinates":[44.61917,42.40667],"type":"Point"}
+}

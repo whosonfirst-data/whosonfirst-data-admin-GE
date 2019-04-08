@@ -1,0 +1,73 @@
+{
+  "id": 1293303307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.94252,42.03459,41.94252,42.03459",
+    "geom:latitude":42.03459,
+    "geom:longitude":41.94252,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ninoshvili",
+    "gn:country_code":"GE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612692,
+    "gn:latitude":42.03459,
+    "gn:longitude":41.94252,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ninoshvili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ninoshvili"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d8\u10dc\u10dd\u10e8\u10d5\u10d8\u10da\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612692
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3fe088e573ece224f830f48e829d54db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691327,
+            "locality_id":1293303307,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1293303307,
+    "wof:lastmodified":1537623132,
+    "wof:name":"Ninoshvili",
+    "wof:parent_id":1108691327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.94252,
+    42.03459,
+    41.94252,
+    42.03459
+],
+  "geometry": {"coordinates":[41.94252,42.03459],"type":"Point"}
+}

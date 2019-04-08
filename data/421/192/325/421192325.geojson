@@ -1,0 +1,138 @@
+{
+  "id": 421192325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.57332,41.56287,41.57332,41.56287",
+    "geom:latitude":41.56287,
+    "geom:longitude":41.57332,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Qonio Apsar"
+    ],
+    "name:ces_x_preferred":[
+        "Gonio"
+    ],
+    "name:deu_x_preferred":[
+        "Festung Gonio"
+    ],
+    "name:eng_x_preferred":[
+        "Gonio"
+    ],
+    "name:epo_x_preferred":[
+        "Gonio"
+    ],
+    "name:fin_x_preferred":[
+        "Gonio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0576\u056b\u0578\u0575\u056b \u0562\u0565\u0580\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "Gonio"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10dc\u10d8\u10dd\u10e1 \u10ea\u10d8\u10ee\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "Gonio",
+        "\u10d2\u10dd\u10dc\u10d8\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uace0\ub2c8\uc624"
+    ],
+    "name:pol_x_preferred":[
+        "Gonio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043d\u0438\u043e-\u0410\u043f\u0441\u0430\u0440\u043e\u0441\u0441\u043a\u0430\u044f \u043a\u0440\u0435\u043f\u043e\u0441\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u043e\u043d\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Gonio"
+    ],
+    "name:tur_x_preferred":[
+        "Gonio Kalesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043d\u0456\u043e-\u0410\u043f\u0441\u0430\u0440\u043e\u0441\u044c\u043a\u0430 \u0444\u043e\u0440\u0442\u0435\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Goniya"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":614471,
+    "qs:gn_pop":0,
+    "qs:name":"Gonio",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Ajaria",
+    "qs:photos":220,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":220,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167489,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1963474,
+    "src:geom":"quattroshapes",
+    "wd:latitude":41.573056,
+    "wd:longitude":41.573611,
+    "wd:wordcount":274,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614471,
+        "gp:id":1963474,
+        "qs:id":1167489,
+        "wd:id":"Q944813"
+    },
+    "wof:country":"GE",
+    "wof:created":1459009733,
+    "wof:geomhash":"58ce67d5356a1d78c5f63d5b7e63679e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":421192325,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":421192325,
+    "wof:lastmodified":1527716112,
+    "wof:name":"Gonio",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.57332,
+    41.56287,
+    41.57332,
+    41.56287
+],
+  "geometry": {"coordinates":[41.57332,41.56287],"type":"Point"}
+}

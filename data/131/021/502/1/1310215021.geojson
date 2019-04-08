@@ -1,0 +1,67 @@
+{
+  "id": 1310215021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.59589,42.12943,43.59589,42.12943",
+    "geom:latitude":42.12943,
+    "geom:longitude":43.59589,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ulumba",
+    "gn:country_code":"GE",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611291,
+    "gn:latitude":42.12943,
+    "gn:longitude":43.59589,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Ulumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611291
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"875368a947d4a29fc8c2c9692ecafa86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1310215021,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310215021,
+    "wof:lastmodified":1536837393,
+    "wof:name":"Ulumba",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.59589,
+    42.12943,
+    43.59589,
+    42.12943
+],
+  "geometry": {"coordinates":[43.59589,42.12943],"type":"Point"}
+}

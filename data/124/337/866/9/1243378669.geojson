@@ -1,0 +1,82 @@
+{
+  "id": 1243378669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21497,42.1298,44.21497,42.1298",
+    "geom:latitude":42.1298,
+    "geom:longitude":44.21497,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Didi Mejvriskhevi",
+    "gn:country_code":"GE",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614933,
+    "gn:latitude":42.1298,
+    "gn:longitude":44.21497,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Didi Mejvriskhevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Didi Mejvriskhevi"
+    ],
+    "name:kat_x_preferred":[
+        "Didi Mejvriskhevi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0434\u0438-\u041c\u0435\u0434\u0436\u0432\u0440\u0438\u0441\u0445\u0435\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Medzhvriskhevi",
+        "Didi-Medzheriskhevi",
+        "Medzheriskhevi",
+        "Didi-Medzhvriskhevi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614933
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d91d05907184993b278badc8b99aa95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1243378669,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1243378669,
+    "wof:lastmodified":1537623261,
+    "wof:name":"Didi Mejvriskhevi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21497,
+    42.1298,
+    44.21497,
+    42.1298
+],
+  "geometry": {"coordinates":[44.21497,42.1298],"type":"Point"}
+}

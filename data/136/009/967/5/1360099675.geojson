@@ -1,0 +1,67 @@
+{
+  "id": 1360099675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60674,41.32948,44.60674,41.32948",
+    "geom:latitude":41.32948,
+    "geom:longitude":44.60674,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Darbazi",
+    "gn:country_code":"GE",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615028,
+    "gn:latitude":41.32948,
+    "gn:longitude":44.60674,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Darbazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615028
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c3891cf76e25cd3680b079b036d6c4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1360099675,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1360099675,
+    "wof:lastmodified":1536925216,
+    "wof:name":"Darbazi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60674,
+    41.32948,
+    44.60674,
+    41.32948
+],
+  "geometry": {"coordinates":[44.60674,41.32948],"type":"Point"}
+}

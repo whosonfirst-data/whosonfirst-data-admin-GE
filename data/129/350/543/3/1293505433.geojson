@@ -1,0 +1,67 @@
+{
+  "id": 1293505433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.51194,43.0275,42.51194,43.0275",
+    "geom:latitude":43.0275,
+    "geom:longitude":42.51194,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kaulder",
+    "gn:country_code":"GE",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814591,
+    "gn:latitude":43.0275,
+    "gn:longitude":42.51194,
+    "gn:modification_date":"1996-03-04",
+    "gn:name":"Kaulder",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814591
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"64d53106c143495b1287c12e1b8d2ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1293505433,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1293505433,
+    "wof:lastmodified":1536761412,
+    "wof:name":"Kaulder",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.51194,
+    43.0275,
+    42.51194,
+    43.0275
+],
+  "geometry": {"coordinates":[42.51194,43.0275],"type":"Point"}
+}

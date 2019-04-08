@@ -1,0 +1,65 @@
+{
+  "id": 1209433129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92513,42.47159,43.92513,42.47159",
+    "geom:latitude":42.47159,
+    "geom:longitude":43.92513,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsagata",
+    "gn:country_code":"GE",
+    "gn:dem":1808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611571,
+    "gn:latitude":42.47159,
+    "gn:longitude":43.92513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsagat",
+        "Tsagata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611571
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"65f114284032fc2c77f7ec100c79b50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209433129
+        }
+    ],
+    "wof:id":1209433129,
+    "wof:lastmodified":1537623069,
+    "wof:name":"Tsagata",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92513,
+    42.47159,
+    43.92513,
+    42.47159
+],
+  "geometry": {"coordinates":[43.92513,42.47159],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327446159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23715,42.00481,43.23715,42.00481",
+    "geom:latitude":42.00481,
+    "geom:longitude":43.23715,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chkheri",
+    "gn:country_code":"GE",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615147,
+    "gn:latitude":42.00481,
+    "gn:longitude":43.23715,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Chkheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615147
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a1398644793952d42deeb8c26e378ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1327446159,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1327446159,
+    "wof:lastmodified":1536660867,
+    "wof:name":"Chkheri",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23715,
+    42.00481,
+    43.23715,
+    42.00481
+],
+  "geometry": {"coordinates":[43.23715,42.00481],"type":"Point"}
+}

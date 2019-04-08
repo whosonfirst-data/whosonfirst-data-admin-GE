@@ -1,0 +1,74 @@
+{
+  "id": 1293917107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41242,41.46966,44.41242,41.46966",
+    "geom:latitude":41.46966,
+    "geom:longitude":44.41242,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Senebi",
+    "gn:country_code":"GE",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612050,
+    "gn:latitude":41.46966,
+    "gn:longitude":44.41242,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Senebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10d4\u10d1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Seneba",
+        "Senebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612050
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8d4c4305b2a4dd9a06a2161eeb601ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1293917107,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1293917107,
+    "wof:lastmodified":1537623094,
+    "wof:name":"Senebi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41242,
+    41.46966,
+    44.41242,
+    41.46966
+],
+  "geometry": {"coordinates":[44.41242,41.46966],"type":"Point"}
+}

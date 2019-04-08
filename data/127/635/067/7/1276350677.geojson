@@ -1,0 +1,67 @@
+{
+  "id": 1276350677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.44512,43.04737,41.44512,43.04737",
+    "geom:latitude":43.04737,
+    "geom:longitude":41.44512,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Myasinovka",
+    "gn:country_code":"GE",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865465,
+    "gn:latitude":43.04737,
+    "gn:longitude":41.44512,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Myasinovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865465
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"365eab5c8e9dd7df880dbca79db185ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1276350677,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276350677,
+    "wof:lastmodified":1536755250,
+    "wof:name":"Myasinovka",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.44512,
+    43.04737,
+    41.44512,
+    43.04737
+],
+  "geometry": {"coordinates":[41.44512,43.04737],"type":"Point"}
+}

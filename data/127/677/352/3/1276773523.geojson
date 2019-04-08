@@ -1,0 +1,78 @@
+{
+  "id": 1276773523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9223,42.00617,44.9223,42.00617",
+    "geom:latitude":42.00617,
+    "geom:longitude":44.9223,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"T'olenji",
+    "gn:country_code":"GE",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611603,
+    "gn:latitude":42.00617,
+    "gn:longitude":44.9223,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"T\u2019olenji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T'olenji"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u0435\u043d\u0434\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tblendzhi",
+        "Tolendzhi",
+        "T\u2019olenji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611603
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5c02623cb73a594ef2fef988af0e8520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1276773523,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276773523,
+    "wof:lastmodified":1537623071,
+    "wof:name":"T'olenji",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9223,
+    42.00617,
+    44.9223,
+    42.00617
+],
+  "geometry": {"coordinates":[44.9223,42.00617],"type":"Point"}
+}

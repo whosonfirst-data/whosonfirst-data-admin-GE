@@ -1,0 +1,67 @@
+{
+  "id": 1209628383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.67381,43.08775,41.67381,43.08775",
+    "geom:latitude":43.08775,
+    "geom:longitude":41.67381,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shabatk'vara",
+    "gn:country_code":"GE",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612037,
+    "gn:latitude":43.08775,
+    "gn:longitude":41.67381,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Shabatk\u2019vara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10d1\u10d0\u10d7\u10d9\u10d5\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Shabatk\u2019vara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612037
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2e8301bd39687695bb385557910a5932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209628383
+        }
+    ],
+    "wof:id":1209628383,
+    "wof:lastmodified":1537623093,
+    "wof:name":"Shabatk'vara",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.67381,
+    43.08775,
+    41.67381,
+    43.08775
+],
+  "geometry": {"coordinates":[41.67381,43.08775],"type":"Point"}
+}

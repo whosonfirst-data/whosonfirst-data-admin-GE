@@ -1,0 +1,76 @@
+{
+  "id": 1209946241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74386,41.98173,44.74386,41.98173",
+    "geom:latitude":41.98173,
+    "geom:longitude":44.74386,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Navazi",
+    "gn:country_code":"GE",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612759,
+    "gn:latitude":41.98173,
+    "gn:longitude":44.74386,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Navazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Navazi"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d0\u10dd\u10d6\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Naoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612759
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"736497651c9a4ac1aadefa8fd3639bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1209946241,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1209946241,
+    "wof:lastmodified":1537623136,
+    "wof:name":"Navazi",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74386,
+    41.98173,
+    44.74386,
+    41.98173
+],
+  "geometry": {"coordinates":[44.74386,41.98173],"type":"Point"}
+}

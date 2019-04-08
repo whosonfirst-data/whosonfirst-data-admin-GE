@@ -1,0 +1,73 @@
+{
+  "id": 1276238375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.471,42.36952,44.471,42.36952",
+    "geom:latitude":42.36952,
+    "geom:longitude":44.471,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"K'arelt'kari",
+    "gn:country_code":"GE",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614129,
+    "gn:latitude":42.36952,
+    "gn:longitude":44.471,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"K\u2019arelt\u2019kari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019arelt\u2019kari"
+    ],
+    "name:und_x_variant":[
+        "Karletkari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614129
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8403ff2e233e363835988dc156821ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1276238375,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276238375,
+    "wof:lastmodified":1537623214,
+    "wof:name":"K'arelt'kari",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.471,
+    42.36952,
+    44.471,
+    42.36952
+],
+  "geometry": {"coordinates":[44.471,42.36952],"type":"Point"}
+}

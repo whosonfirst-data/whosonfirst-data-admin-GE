@@ -1,0 +1,71 @@
+{
+  "id": 1260303951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13597,41.83334,45.13597,41.83334",
+    "geom:latitude":41.83334,
+    "geom:longitude":45.13597,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paldo",
+    "gn:country_code":"GE",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612526,
+    "gn:latitude":41.83334,
+    "gn:longitude":45.13597,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paldo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paldo-Bol\u2019shoye",
+        "Paldo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612526
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"928a1b54a5183fdb692ca7b2ccf838cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1260303951,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1260303951,
+    "wof:lastmodified":1537623121,
+    "wof:name":"Paldo",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13597,
+    41.83334,
+    45.13597,
+    41.83334
+],
+  "geometry": {"coordinates":[45.13597,41.83334],"type":"Point"}
+}

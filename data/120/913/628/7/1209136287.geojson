@@ -1,0 +1,74 @@
+{
+  "id": 1209136287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.52961,43.01568,42.52961,43.01568",
+    "geom:latitude":43.01568,
+    "geom:longitude":42.52961,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Ghvebaldi",
+    "gn:country_code":"GE",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614329,
+    "gn:latitude":43.01568,
+    "gn:longitude":42.52961,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ghvebaldi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ghvebaldi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e6\u10d5\u10d4\u10d1\u10d0\u10da\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0432\u0435\u0431\u0430\u043b\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kvebaldi",
+        "Gvebaldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614329
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6734daa6ffff49069c031b20923fb2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209136287
+        }
+    ],
+    "wof:id":1209136287,
+    "wof:lastmodified":1537623225,
+    "wof:name":"Ghvebaldi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.52961,
+    43.01568,
+    42.52961,
+    43.01568
+],
+  "geometry": {"coordinates":[42.52961,43.01568],"type":"Point"}
+}

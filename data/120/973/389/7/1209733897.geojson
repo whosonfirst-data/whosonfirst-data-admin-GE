@@ -1,0 +1,67 @@
+{
+  "id": 1209733897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07525,42.31552,44.07525,42.31552",
+    "geom:latitude":42.31552,
+    "geom:longitude":44.07525,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Marmazeti",
+    "gn:country_code":"GE",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800839,
+    "gn:latitude":42.31552,
+    "gn:longitude":44.07525,
+    "gn:modification_date":"1996-03-06",
+    "gn:name":"Marmazeti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800839
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f3a0e3e390f49b2b104dae945637023a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1209733897,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1209733897,
+    "wof:lastmodified":1536375768,
+    "wof:name":"Marmazeti",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07525,
+    42.31552,
+    44.07525,
+    42.31552
+],
+  "geometry": {"coordinates":[44.07525,42.31552],"type":"Point"}
+}

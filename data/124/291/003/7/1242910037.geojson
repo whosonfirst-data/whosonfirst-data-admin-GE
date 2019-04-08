@@ -1,0 +1,74 @@
+{
+  "id": 1242910037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98025,42.34633,41.98025,42.34633",
+    "geom:latitude":42.34633,
+    "geom:longitude":41.98025,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Tsizeti",
+    "gn:country_code":"GE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611429,
+    "gn:latitude":42.34633,
+    "gn:longitude":41.98025,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsizeti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ea\u10d8\u10d6\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tsizetti",
+        "Tsizeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611429
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5ffc9c615d1fba6e3fd63115b89ee6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":1242910037,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1242910037,
+    "wof:lastmodified":1537623061,
+    "wof:name":"Tsizeti",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98025,
+    42.34633,
+    41.98025,
+    42.34633
+],
+  "geometry": {"coordinates":[41.98025,42.34633],"type":"Point"}
+}

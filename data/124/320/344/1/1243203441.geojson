@@ -1,0 +1,73 @@
+{
+  "id": 1243203441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.87611,41.98167,41.87611,41.98167",
+    "geom:latitude":41.98167,
+    "geom:longitude":41.87611,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zedubani",
+    "gn:country_code":"GE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611012,
+    "gn:latitude":41.98167,
+    "gn:longitude":41.87611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zedubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d3\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Zedubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611012
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"adaebe5b72231031b989f8e5fffe7c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1243203441,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1243203441,
+    "wof:lastmodified":1537623036,
+    "wof:name":"Zedubani",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.87611,
+    41.98167,
+    41.87611,
+    41.98167
+],
+  "geometry": {"coordinates":[41.87611,41.98167],"type":"Point"}
+}

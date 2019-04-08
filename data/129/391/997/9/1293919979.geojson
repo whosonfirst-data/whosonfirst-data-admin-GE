@@ -1,0 +1,79 @@
+{
+  "id": 1293919979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27027,42.1241,43.27027,42.1241",
+    "geom:latitude":42.1241,
+    "geom:longitude":43.27027,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Boriti",
+    "gn:country_code":"GE",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615404,
+    "gn:latitude":42.1241,
+    "gn:longitude":43.27027,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Boriti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borit'i"
+    ],
+    "name:kat_x_preferred":[
+        "Boriti"
+    ],
+    "name:kat_x_variant":[
+        "\u10d1\u10dd\u10e0\u10d8\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615404
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c82dc5b396462fc415479d576a374f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1293919979,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1293919979,
+    "wof:lastmodified":1537623288,
+    "wof:name":"Boriti",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27027,
+    42.1241,
+    43.27027,
+    42.1241
+],
+  "geometry": {"coordinates":[43.27027,42.1241],"type":"Point"}
+}

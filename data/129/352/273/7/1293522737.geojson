@@ -1,0 +1,71 @@
+{
+  "id": 1293522737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78056,41.86917,41.78056,41.86917",
+    "geom:latitude":41.86917,
+    "geom:longitude":41.78056,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"P'ichvnari",
+    "gn:country_code":"GE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612412,
+    "gn:latitude":41.86917,
+    "gn:longitude":41.78056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"P\u2019ichvnari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pichnari",
+        "P\u2019ichvnari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612412
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7e9e57b4553874e02885d5b31cfed519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1293522737,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1293522737,
+    "wof:lastmodified":1537623114,
+    "wof:name":"P'ichvnari",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78056,
+    41.86917,
+    41.78056,
+    41.86917
+],
+  "geometry": {"coordinates":[41.78056,41.86917],"type":"Point"}
+}

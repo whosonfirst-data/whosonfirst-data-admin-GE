@@ -1,0 +1,67 @@
+{
+  "id": 1242595645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85278,42.22111,44.85278,42.22111",
+    "geom:latitude":42.22111,
+    "geom:longitude":44.85278,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Kachev",
+    "gn:country_code":"GE",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800352,
+    "gn:latitude":42.22111,
+    "gn:longitude":44.85278,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kachev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800352
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c783ed81c444aa91ec7ae262cd9c557b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1242595645,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1242595645,
+    "wof:lastmodified":1537036085,
+    "wof:name":"Kachev",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85278,
+    42.22111,
+    44.85278,
+    42.22111
+],
+  "geometry": {"coordinates":[44.85278,42.22111],"type":"Point"}
+}

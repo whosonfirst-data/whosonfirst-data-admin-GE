@@ -1,0 +1,71 @@
+{
+  "id": 1193155229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12577,41.58613,44.12577,41.58613",
+    "geom:latitude":41.58613,
+    "geom:longitude":44.12577,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dashbashi",
+    "gn:country_code":"GE",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615016,
+    "gn:latitude":41.58613,
+    "gn:longitude":44.12577,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dashbashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tashbash",
+        "Dashbashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615016
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b7c99c5b1ff515ec6be7886b49e6a68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691389,
+            "locality_id":1193155229,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1193155229,
+    "wof:lastmodified":1537623267,
+    "wof:name":"Dashbashi",
+    "wof:parent_id":1108691389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12577,
+    41.58613,
+    44.12577,
+    41.58613
+],
+  "geometry": {"coordinates":[44.12577,41.58613],"type":"Point"}
+}

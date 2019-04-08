@@ -1,0 +1,67 @@
+{
+  "id": 1243472783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9346,41.70564,44.9346,41.70564",
+    "geom:latitude":41.70564,
+    "geom:longitude":44.9346,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tetrikhevges",
+    "gn:country_code":"GE",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865870,
+    "gn:latitude":41.70564,
+    "gn:longitude":44.9346,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tetrikhevges",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865870
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"795ccfe3189f51c0c4e03ea1958174dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":1243472783,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":1243472783,
+    "wof:lastmodified":1536768015,
+    "wof:name":"Tetrikhevges",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9346,
+    41.70564,
+    44.9346,
+    41.70564
+],
+  "geometry": {"coordinates":[44.9346,41.70564],"type":"Point"}
+}

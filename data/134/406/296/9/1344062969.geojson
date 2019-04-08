@@ -1,0 +1,73 @@
+{
+  "id": 1344062969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.815,41.49056,41.815,41.49056",
+    "geom:latitude":41.49056,
+    "geom:longitude":41.815,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sk'urdidi",
+    "gn:country_code":"GE",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611859,
+    "gn:latitude":41.49056,
+    "gn:longitude":41.815,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Sk\u2019urdidi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Sk\u2019urdidi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d9\u10e3\u10e0\u10d3\u10d8\u10d3\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611859
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6d5805d0a0bc0685da6dc75557ced033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1344062969,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1344062969,
+    "wof:lastmodified":1537623084,
+    "wof:name":"Sk'urdidi",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.815,
+    41.49056,
+    41.815,
+    41.49056
+],
+  "geometry": {"coordinates":[41.815,41.49056],"type":"Point"}
+}

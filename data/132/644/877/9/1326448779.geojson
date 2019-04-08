@@ -1,0 +1,67 @@
+{
+  "id": 1326448779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66706,41.9725,44.66706,41.9725",
+    "geom:latitude":41.9725,
+    "geom:longitude":44.66706,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Akhaldaba",
+    "gn:country_code":"GE",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615918,
+    "gn:latitude":41.9725,
+    "gn:longitude":44.66706,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Akhaldaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615918
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4f970e1c64d5a07bf93f4bb5848b4b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1326448779,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1326448779,
+    "wof:lastmodified":1536604274,
+    "wof:name":"Akhaldaba",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66706,
+    41.9725,
+    44.66706,
+    41.9725
+],
+  "geometry": {"coordinates":[44.66706,41.9725],"type":"Point"}
+}

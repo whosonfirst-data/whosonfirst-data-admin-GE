@@ -1,0 +1,70 @@
+{
+  "id": 1343575821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41377,41.99982,43.41377,41.99982",
+    "geom:latitude":41.99982,
+    "geom:longitude":43.41377,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Golatubani",
+    "gn:country_code":"GE",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614492,
+    "gn:latitude":41.99982,
+    "gn:longitude":43.41377,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Golatubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10da\u10d0\u10d7\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614492
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"09e922b9db3cf1996ab7db0b0a5fe68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1343575821,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1343575821,
+    "wof:lastmodified":1537623232,
+    "wof:name":"Golatubani",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41377,
+    41.99982,
+    43.41377,
+    41.99982
+],
+  "geometry": {"coordinates":[43.41377,41.99982],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276157197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.32125,42.20764,42.32125,42.20764",
+    "geom:latitude":42.20764,
+    "geom:longitude":42.32125,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Nabak'evi",
+    "gn:country_code":"GE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612830,
+    "gn:latitude":42.20764,
+    "gn:longitude":42.32125,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Nabak\u2019evi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d1\u10d0\u10d9\u10d4\u10d5\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Nabokevi",
+        "Nabak\u2019evi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612830
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6d17843462338815ba762d349a9e8383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691357,
+            "locality_id":1276157197,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1276157197,
+    "wof:lastmodified":1537623141,
+    "wof:name":"Nabak'evi",
+    "wof:parent_id":1108691357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.32125,
+    42.20764000000001,
+    42.32125,
+    42.20764000000001
+],
+  "geometry": {"coordinates":[42.32125,42.20764000000001],"type":"Point"}
+}

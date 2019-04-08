@@ -1,0 +1,77 @@
+{
+  "id": 1326467523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.33861,42.14083,45.33861,42.14083",
+    "geom:latitude":42.14083,
+    "geom:longitude":45.33861,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Zemo Khalatsani",
+    "gn:country_code":"GE",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610953,
+    "gn:latitude":42.14083,
+    "gn:longitude":45.33861,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zemo Khalatsani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10db\u10dd \u10ee\u10d0\u10da\u10d0\u10ec\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043e \u0425\u0430\u043b\u0430\u0446\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Verkhniye Khalatsani",
+        "Zemo Khalatsani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610953
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1af4e19e904684b97504e7f1c25a92dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1326467523,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1326467523,
+    "wof:lastmodified":1537623031,
+    "wof:name":"Zemo Khalatsani",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.33861,
+    42.14083,
+    45.33861,
+    42.14083
+],
+  "geometry": {"coordinates":[45.33861,42.14083],"type":"Point"}
+}

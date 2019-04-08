@@ -1,0 +1,76 @@
+{
+  "id": 1293696877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05121,41.50643,45.05121,41.50643",
+    "geom:latitude":41.50643,
+    "geom:longitude":45.05121,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"T'azak'endi",
+    "gn:country_code":"GE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611726,
+    "gn:latitude":41.50643,
+    "gn:longitude":45.05121,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"T\u2019azak\u2019endi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "T\u0259z\u0259k\u0259nd"
+    ],
+    "name:und_x_variant":[
+        "Tazavendi",
+        "Tazakend",
+        "T\u2019azak\u2019endi",
+        "Tazakendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611726
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dd52d74fe8a2f672609cb47cb66ef579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691281,
+            "locality_id":1293696877,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1293696877,
+    "wof:lastmodified":1537623078,
+    "wof:name":"T'azak'endi",
+    "wof:parent_id":1108691281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05121,
+    41.50643,
+    45.05121,
+    41.50643
+],
+  "geometry": {"coordinates":[45.05121,41.50643],"type":"Point"}
+}

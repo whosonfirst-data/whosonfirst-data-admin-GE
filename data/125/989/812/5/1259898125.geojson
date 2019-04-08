@@ -1,0 +1,67 @@
+{
+  "id": 1259898125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29111,41.78611,44.29111,41.78611",
+    "geom:latitude":41.78611,
+    "geom:longitude":44.29111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gogoti",
+    "gn:country_code":"GE",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799997,
+    "gn:latitude":41.78611,
+    "gn:longitude":44.29111,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Gogoti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799997
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"537b4f40d54a8977e0e533b00d6647f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1259898125,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1259898125,
+    "wof:lastmodified":1536758159,
+    "wof:name":"Gogoti",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29111,
+    41.78611,
+    44.29111,
+    41.78611
+],
+  "geometry": {"coordinates":[44.29111,41.78611],"type":"Point"}
+}

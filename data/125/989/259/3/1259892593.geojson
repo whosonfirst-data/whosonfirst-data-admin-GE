@@ -1,0 +1,70 @@
+{
+  "id": 1259892593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83126,42.57305,41.83126,42.57305",
+    "geom:latitude":42.57305,
+    "geom:longitude":41.83126,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeni",
+    "gn:country_code":"GE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874222,
+    "gn:latitude":42.57305,
+    "gn:longitude":41.83126,
+    "gn:modification_date":"2013-12-14",
+    "gn:name":"Zeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874222
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5c9d7759727d01d5a3b7c06b4c10684e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1259892593,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259892593,
+    "wof:lastmodified":1537623348,
+    "wof:name":"Zeni",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83126,
+    42.57305,
+    41.83126,
+    42.57305
+],
+  "geometry": {"coordinates":[41.83126,42.57305],"type":"Point"}
+}

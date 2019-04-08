@@ -1,0 +1,136 @@
+{
+  "id": 421180493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65141,42.52274,43.65141,42.52274",
+    "geom:latitude":42.52274,
+    "geom:longitude":43.65141,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0432\u0430\u0439\u0441\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0432\u0430\u0438\u0441\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Kvaisi"
+    ],
+    "name:deu_x_preferred":[
+        "Kwaissa"
+    ],
+    "name:dut_x_preferred":[
+        "Kvaisa"
+    ],
+    "name:eng_x_preferred":[
+        "Kvaisi"
+    ],
+    "name:fra_x_preferred":[
+        "Kvaisi"
+    ],
+    "name:fre_x_preferred":[
+        "Kvaisi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d5\u10d0\u10d8\u10e1\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Kwaissa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30f4\u30a1\u30a4\u30b5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d5\u10d0\u10d8\u10e1\u10d0"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u044a\u0443\u0430\u0439\u0441\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Kwaisa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0430\u0439\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0432\u0430\u0438\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kvaisi"
+    ],
+    "name:vep_x_preferred":[
+        "Kvais"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":613593,
+    "qs:gn_pop":237,
+    "qs:name":"Kvaisi",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Onis Raioni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":433428,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1964240,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613593,
+        "gp:id":1964240,
+        "qs:id":433428,
+        "wd:id":"Q1794889",
+        "wk:page":"Kvaisa"
+    },
+    "wof:country":"GE",
+    "wof:created":1459009261,
+    "wof:geomhash":"3918b9aadc2afffe39f57247edac1695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":421180493,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":421180493,
+    "wof:lastmodified":1527716240,
+    "wof:name":"Kvaisi",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:population":237,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65141,
+    42.52274,
+    43.65141,
+    42.52274
+],
+  "geometry": {"coordinates":[43.65141,42.52274],"type":"Point"}
+}

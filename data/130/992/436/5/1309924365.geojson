@@ -1,0 +1,67 @@
+{
+  "id": 1309924365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41972,42.21583,43.41972,42.21583",
+    "geom:latitude":42.21583,
+    "geom:longitude":43.41972,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Shomakhet'i",
+    "gn:country_code":"GE",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611965,
+    "gn:latitude":42.21583,
+    "gn:longitude":43.41972,
+    "gn:modification_date":"2009-02-03",
+    "gn:name":"Shomakhet\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611965
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8999003f4f39657f67eaf08853ec4b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1309924365,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1309924365,
+    "wof:lastmodified":1536760400,
+    "wof:name":"Shomakhet'i",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41972,
+    42.21583,
+    43.41972,
+    42.21583
+],
+  "geometry": {"coordinates":[43.41972,42.21583],"type":"Point"}
+}

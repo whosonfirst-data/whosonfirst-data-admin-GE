@@ -1,0 +1,67 @@
+{
+  "id": 1276247193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15833,42.23111,43.15833,42.23111",
+    "geom:latitude":42.23111,
+    "geom:longitude":43.15833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhokoyeti",
+    "gn:country_code":"GE",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614764,
+    "gn:latitude":42.23111,
+    "gn:longitude":43.15833,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Dzhokoyeti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614764
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eb705fa5f6f4dd5315e9fb3b8d35316b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1276247193,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1276247193,
+    "wof:lastmodified":1536893800,
+    "wof:name":"Dzhokoyeti",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15833,
+    42.23111,
+    43.15833,
+    42.23111
+],
+  "geometry": {"coordinates":[43.15833,42.23111],"type":"Point"}
+}

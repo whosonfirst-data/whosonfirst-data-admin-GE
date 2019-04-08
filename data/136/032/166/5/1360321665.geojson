@@ -1,0 +1,82 @@
+{
+  "id": 1360321665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03877,42.87676,42.03877,42.87676",
+    "geom:latitude":42.87676,
+    "geom:longitude":42.03877,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Barjashi",
+    "gn:country_code":"GE",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824106,
+    "gn:latitude":42.87676,
+    "gn:longitude":42.03877,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Barjashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barkashi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10ef\u10d0\u10e8\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Barjashi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0434\u0436\u0430\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Barkashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824106
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bba3da1b2e4e6c0c4ecdfb4944b2d682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1360321665,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1360321665,
+    "wof:lastmodified":1537623334,
+    "wof:name":"Barjashi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03877,
+    42.87676,
+    42.03877,
+    42.87676
+],
+  "geometry": {"coordinates":[42.03877,42.87676],"type":"Point"}
+}

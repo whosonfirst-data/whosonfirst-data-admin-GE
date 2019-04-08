@@ -1,0 +1,71 @@
+{
+  "id": 1225854899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84597,42.25167,43.84597,42.25167",
+    "geom:latitude":42.25167,
+    "geom:longitude":43.84597,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo-Ambreti",
+    "gn:country_code":"GE",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610990,
+    "gn:latitude":42.25167,
+    "gn:longitude":43.84597,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zemo-Ambreti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verkhniye Ambreti",
+        "Zemo-Ambreti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610990
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dca3c0e35f3e6d2f12ca36a6bfe863de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1225854899,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1225854899,
+    "wof:lastmodified":1537623034,
+    "wof:name":"Zemo-Ambreti",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84597,
+    42.25167,
+    43.84597,
+    42.25167
+],
+  "geometry": {"coordinates":[43.84597,42.25167],"type":"Point"}
+}

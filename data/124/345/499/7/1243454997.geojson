@@ -1,0 +1,73 @@
+{
+  "id": 1243454997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.82667,41.78556,41.82667,41.78556",
+    "geom:latitude":41.78556,
+    "geom:longitude":41.82667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zeda K'virik'e",
+    "gn:country_code":"GE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611039,
+    "gn:latitude":41.78556,
+    "gn:longitude":41.82667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Zeda K\u2019virik\u2019e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zeda K\u2019virik\u2019e"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10d3\u10d0 \u10d9\u10d5\u10d8\u10e0\u10d8\u10d9\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611039
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"620c5d3fe43aee07f32fa14d758dba0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1243454997,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1243454997,
+    "wof:lastmodified":1537623038,
+    "wof:name":"Zeda K'virik'e",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.82667,
+    41.78556,
+    41.82667,
+    41.78556
+],
+  "geometry": {"coordinates":[41.82667,41.78556],"type":"Point"}
+}

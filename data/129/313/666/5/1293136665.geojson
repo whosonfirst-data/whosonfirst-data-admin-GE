@@ -1,0 +1,71 @@
+{
+  "id": 1293136665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51058,42.54061,43.51058,42.54061",
+    "geom:latitude":42.54061,
+    "geom:longitude":43.51058,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Gunda",
+    "gn:country_code":"GE",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614367,
+    "gn:latitude":42.54061,
+    "gn:longitude":43.51058,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Gunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gukda",
+        "Gunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614367
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5f6d3523b7155d8cf5b41127ec0ebb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":1293136665,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1293136665,
+    "wof:lastmodified":1537623226,
+    "wof:name":"Gunda",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51058,
+    42.54061,
+    43.51058,
+    42.54061
+],
+  "geometry": {"coordinates":[43.51058,42.54061],"type":"Point"}
+}

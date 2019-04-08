@@ -1,0 +1,73 @@
+{
+  "id": 1209639407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23915,41.5575,42.23915,41.5575",
+    "geom:latitude":41.5575,
+    "geom:longitude":42.23915,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"K'viakhidzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613380,
+    "gn:latitude":41.5575,
+    "gn:longitude":42.23915,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u2019viakhidzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019viakhidzeebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d5\u10d8\u10d0\u10ee\u10d8\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0438\u0430\u0445\u0438\u0434\u0437\u0435\u0435\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kviakhidzeyebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613380
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cbd81d35c04d8ccd21e449c7781e0c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209639407
+        }
+    ],
+    "wof:id":1209639407,
+    "wof:lastmodified":1537623172,
+    "wof:name":"K'viakhidzeebi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23915,
+    41.5575,
+    42.23915,
+    41.5575
+],
+  "geometry": {"coordinates":[42.23915,41.5575],"type":"Point"}
+}

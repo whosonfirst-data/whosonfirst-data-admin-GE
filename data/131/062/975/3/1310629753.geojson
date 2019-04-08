@@ -1,0 +1,73 @@
+{
+  "id": 1310629753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31516,42.22138,42.31516,42.22138",
+    "geom:latitude":42.22138,
+    "geom:longitude":42.31516,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Chkhenishi",
+    "gn:country_code":"GE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615149,
+    "gn:latitude":42.22138,
+    "gn:longitude":42.31516,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Chkhenishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Chkhenishi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e9\u10ee\u10d4\u10dc\u10d8\u10e8\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615149
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"77fd6f1f6e2940b2f0a512d1d5bd094e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691357,
+            "locality_id":1310629753,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1310629753,
+    "wof:lastmodified":1537623275,
+    "wof:name":"Chkhenishi",
+    "wof:parent_id":1108691357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31516,
+    42.22138,
+    42.31516,
+    42.22138
+],
+  "geometry": {"coordinates":[42.31516,42.22138],"type":"Point"}
+}

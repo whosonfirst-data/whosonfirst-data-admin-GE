@@ -1,0 +1,79 @@
+{
+  "id": 1225978651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17264,41.80083,46.17264,41.80083",
+    "geom:latitude":41.80083,
+    "geom:longitude":46.17264,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Sheerteba",
+    "gn:country_code":"GE",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":872228,
+    "gn:latitude":41.80083,
+    "gn:longitude":46.17264,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Sheerteba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Sheerteba"
+    ],
+    "name:kat_x_variant":[
+        "\u10e8\u10d4\u10d4\u10e0\u10d7\u10d4\u10d1\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0435\u0440\u0442\u0435\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sheyerteba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":872228
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5e178459e725035607104eb184978071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1225978651,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1225978651,
+    "wof:lastmodified":1537623346,
+    "wof:name":"Sheerteba",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17264,
+    41.80083,
+    46.17264,
+    41.80083
+],
+  "geometry": {"coordinates":[46.17264,41.80083],"type":"Point"}
+}

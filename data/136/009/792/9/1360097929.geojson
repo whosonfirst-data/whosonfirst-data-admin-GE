@@ -1,0 +1,80 @@
+{
+  "id": 1360097929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.54282,42.64946,41.54282,42.64946",
+    "geom:latitude":42.64946,
+    "geom:longitude":41.54282,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Meore Gudava",
+    "gn:country_code":"GE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613015,
+    "gn:latitude":42.64946,
+    "gn:longitude":41.54282,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Meore Gudava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meore Gudava"
+    ],
+    "name:kat_x_preferred":[
+        "Meore Gudava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043e\u0440\u0435-\u0413\u0443\u0434\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gudavsli",
+        "Gudava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613015
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"91df75131b3b663f6b4b89a0c03b9c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1360097929,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1360097929,
+    "wof:lastmodified":1537623152,
+    "wof:name":"Meore Gudava",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.54282,
+    42.64946,
+    41.54282,
+    42.64946
+],
+  "geometry": {"coordinates":[41.54282,42.64946],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343377261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62019,41.57813,44.62019,41.57813",
+    "geom:latitude":41.57813,
+    "geom:longitude":44.62019,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bogvi",
+    "gn:country_code":"GE",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615424,
+    "gn:latitude":41.57813,
+    "gn:longitude":44.62019,
+    "gn:modification_date":"2002-05-03",
+    "gn:name":"Bogvi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615424
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c710f343fc378280169dff570cd78f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1343377261,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1343377261,
+    "wof:lastmodified":1536864925,
+    "wof:name":"Bogvi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62019,
+    41.57813,
+    44.62019,
+    41.57813
+],
+  "geometry": {"coordinates":[44.62019,41.57813],"type":"Point"}
+}

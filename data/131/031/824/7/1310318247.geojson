@@ -1,0 +1,76 @@
+{
+  "id": 1310318247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80397,42.58286,41.80397,42.58286",
+    "geom:latitude":42.58286,
+    "geom:longitude":41.80397,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Meore Ak'vagha",
+    "gn:country_code":"GE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823952,
+    "gn:latitude":42.58286,
+    "gn:longitude":41.80397,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Meore Ak\u2019vagha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Meore Ak\u2019vagha"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10dd\u10e0\u10d4 \u10d0\u10d9\u10d5\u10d0\u10e6\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Meore Akvaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823952
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cd3c78d3a4b02be30e2924893959afc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1310318247,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1310318247,
+    "wof:lastmodified":1537623332,
+    "wof:name":"Meore Ak'vagha",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80397,
+    42.58286,
+    41.80397,
+    42.58286
+],
+  "geometry": {"coordinates":[41.80397,42.58286],"type":"Point"}
+}

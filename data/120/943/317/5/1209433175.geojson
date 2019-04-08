@@ -1,0 +1,61 @@
+{
+  "id": 1209433175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81347,42.25403,43.81347,42.25403",
+    "geom:latitude":42.25403,
+    "geom:longitude":43.81347,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bekmari",
+    "gn:country_code":"GE",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615499,
+    "gn:latitude":42.25403,
+    "gn:longitude":43.81347,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Bekmari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615499
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"72f25f535e20ee797307209e13c5242e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209433175
+        }
+    ],
+    "wof:id":1209433175,
+    "wof:lastmodified":1536287178,
+    "wof:name":"Bekmari",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81347,
+    42.25403,
+    43.81347,
+    42.25403
+],
+  "geometry": {"coordinates":[43.81347,42.25403],"type":"Point"}
+}

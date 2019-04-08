@@ -1,0 +1,67 @@
+{
+  "id": 1360099997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.86047,42.24919,42.86047,42.24919",
+    "geom:latitude":42.24919,
+    "geom:longitude":42.86047,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Navenakhevi",
+    "gn:country_code":"GE",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612727,
+    "gn:latitude":42.24919,
+    "gn:longitude":42.86047,
+    "gn:modification_date":"2001-09-12",
+    "gn:name":"Navenakhevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612727
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dceaa2eba62b2f33a5d0602d552bd314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691375,
+            "locality_id":1360099997,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1360099997,
+    "wof:lastmodified":1536924749,
+    "wof:name":"Navenakhevi",
+    "wof:parent_id":1108691375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.86047,
+    42.24919000000001,
+    42.86047,
+    42.24919000000001
+],
+  "geometry": {"coordinates":[42.86047,42.24919000000001],"type":"Point"}
+}

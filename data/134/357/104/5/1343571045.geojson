@@ -1,0 +1,73 @@
+{
+  "id": 1343571045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.91528,41.91028,45.91528,41.91028",
+    "geom:latitude":41.91028,
+    "geom:longitude":45.91528,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ch'antlisquri",
+    "gn:country_code":"GE",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824940,
+    "gn:latitude":41.91028,
+    "gn:longitude":45.91528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ch\u2019antlisquri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019antlisquri"
+    ],
+    "name:und_x_variant":[
+        "Chantlis-Kure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824940
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5bdd992d63897c894b8ddab41ed758eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691321,
+            "locality_id":1343571045,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1343571045,
+    "wof:lastmodified":1537623339,
+    "wof:name":"Ch'antlisquri",
+    "wof:parent_id":1108691321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.91528,
+    41.91028,
+    45.91528,
+    41.91028
+],
+  "geometry": {"coordinates":[45.91528,41.91028],"type":"Point"}
+}

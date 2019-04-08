@@ -1,0 +1,76 @@
+{
+  "id": 1344093419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.55403,42.74374,43.55403,42.74374",
+    "geom:latitude":42.74374,
+    "geom:longitude":43.55403,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Chiora",
+    "gn:country_code":"GE",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615177,
+    "gn:latitude":42.74374,
+    "gn:longitude":43.55403,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Chiora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chiora"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ed\u10d8\u10dd\u10e0\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615177
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5528bcc51e7d466ab643cfb1dbf0b406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":1344093419,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1344093419,
+    "wof:lastmodified":1537623277,
+    "wof:name":"Chiora",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.55403,
+    42.74374,
+    43.55403,
+    42.74374
+],
+  "geometry": {"coordinates":[43.55403,42.74374],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277088897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60533,41.60123,44.60533,41.60123",
+    "geom:latitude":41.60123,
+    "geom:longitude":44.60533,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ardisubani",
+    "gn:country_code":"GE",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615700,
+    "gn:latitude":41.60123,
+    "gn:longitude":44.60533,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ardisubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d3\u10d8\u10e1\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Ardasubani",
+        "Ardisubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615700
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b397bbbbf0e7951248da114d1305bc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1277088897,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1277088897,
+    "wof:lastmodified":1537623304,
+    "wof:name":"Ardisubani",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60533,
+    41.60123,
+    44.60533,
+    41.60123
+],
+  "geometry": {"coordinates":[44.60533,41.60123],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309804567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.89972,41.80056,41.89972,41.80056",
+    "geom:latitude":41.80056,
+    "geom:longitude":41.89972,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"K'okhi",
+    "gn:country_code":"GE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613735,
+    "gn:latitude":41.80056,
+    "gn:longitude":41.89972,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"K\u2019okhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10ee\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "K\u2019okhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613735
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"65c46a9f47153ed49e1bdbd92c274c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1309804567,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1309804567,
+    "wof:lastmodified":1537623195,
+    "wof:name":"K'okhi",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.89972,
+    41.80056,
+    41.89972,
+    41.80056
+],
+  "geometry": {"coordinates":[41.89972,41.80056],"type":"Point"}
+}

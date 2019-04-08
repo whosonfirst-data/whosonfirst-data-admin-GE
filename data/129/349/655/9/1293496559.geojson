@@ -1,0 +1,84 @@
+{
+  "id": 1293496559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.64982,42.73791,41.64982,42.73791",
+    "geom:latitude":42.73791,
+    "geom:longitude":41.64982,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bedia",
+    "gn:country_code":"GE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615508,
+    "gn:latitude":42.73791,
+    "gn:longitude":41.64982,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Bedia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bedia"
+    ],
+    "name:kat_x_preferred":[
+        "Bedia"
+    ],
+    "name:kat_x_variant":[
+        "\u10d1\u10d4\u10d3\u10d8\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0434\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Meore-Bedia",
+        "Bediya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615508,
+        "wk:page":"Bedia_%28village%29"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4439fe7f1890fecc0e41e5313faf1731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1293496559,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293496559,
+    "wof:lastmodified":1537623293,
+    "wof:name":"Bedia",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.64982,
+    42.73791,
+    41.64982,
+    42.73791
+],
+  "geometry": {"coordinates":[41.64982,42.73791],"type":"Point"}
+}

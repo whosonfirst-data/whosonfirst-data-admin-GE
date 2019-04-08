@@ -1,0 +1,78 @@
+{
+  "id": 1327043185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.66144,42.83486,41.66144,42.83486",
+    "geom:latitude":42.83486,
+    "geom:longitude":41.66144,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aq'varchapani",
+    "gn:country_code":"GE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615819,
+    "gn:latitude":42.83486,
+    "gn:longitude":41.66144,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Aq\u2019varchapani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Aq\u2019varchapani"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e7\u10d5\u10d0\u10e0\u10e9\u10d0\u10e4\u10d0\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Akvarchapan",
+        "Akvarchapani",
+        "Akuarchapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615819
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9c2ec8379a8405b6c9efe000fc5c83d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1327043185,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1327043185,
+    "wof:lastmodified":1537623311,
+    "wof:name":"Aq'varchapani",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.66144,
+    42.83486,
+    41.66144,
+    42.83486
+],
+  "geometry": {"coordinates":[41.66144,42.83486],"type":"Point"}
+}

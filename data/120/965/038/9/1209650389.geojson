@@ -1,0 +1,65 @@
+{
+  "id": 1209650389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.32333,42.14722,42.32333,42.14722",
+    "geom:latitude":42.14722,
+    "geom:longitude":42.32333,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Napagauri",
+    "gn:country_code":"GE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612758,
+    "gn:latitude":42.14722,
+    "gn:longitude":42.32333,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Napagauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Napagouri",
+        "Napagauri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612758
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"17b67e6f3574c57409d5694ac7966225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209650389
+        }
+    ],
+    "wof:id":1209650389,
+    "wof:lastmodified":1537623136,
+    "wof:name":"Napagauri",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.32333,
+    42.14722,
+    42.32333,
+    42.14722
+],
+  "geometry": {"coordinates":[42.32333,42.14722],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209424987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72806,42.15556,44.72806,42.15556",
+    "geom:latitude":42.15556,
+    "geom:longitude":44.72806,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Pitavi",
+    "gn:country_code":"GE",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800487,
+    "gn:latitude":42.15556,
+    "gn:longitude":44.72806,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Pitavi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800487
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ad8f7d45433ba1c05c72648e85211c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209424987
+        }
+    ],
+    "wof:id":1209424987,
+    "wof:lastmodified":1536287409,
+    "wof:name":"Pitavi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72806,
+    42.15556,
+    44.72806,
+    42.15556
+],
+  "geometry": {"coordinates":[44.72806,42.15556],"type":"Point"}
+}

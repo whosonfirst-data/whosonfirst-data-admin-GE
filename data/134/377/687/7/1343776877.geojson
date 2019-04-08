@@ -1,0 +1,71 @@
+{
+  "id": 1343776877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89123,41.97549,44.89123,41.97549",
+    "geom:latitude":41.97549,
+    "geom:longitude":44.89123,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Nadkokra",
+    "gn:country_code":"GE",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612813,
+    "gn:latitude":41.97549,
+    "gn:longitude":44.89123,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nadkokra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadokra",
+        "Nadkokra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612813
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"31694ed98a0324372f99ea2fa1209851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1343776877,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343776877,
+    "wof:lastmodified":1537623140,
+    "wof:name":"Nadkokra",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89123,
+    41.97549,
+    44.89123,
+    41.97549
+],
+  "geometry": {"coordinates":[44.89123,41.97549],"type":"Point"}
+}

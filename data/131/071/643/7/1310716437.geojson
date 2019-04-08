@@ -1,0 +1,67 @@
+{
+  "id": 1310716437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.82917,43.10083,40.82917,43.10083",
+    "geom:latitude":43.10083,
+    "geom:longitude":40.82917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akui",
+    "gn:country_code":"GE",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874469,
+    "gn:latitude":43.10083,
+    "gn:longitude":40.82917,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Akui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874469
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fb97a32a5866ef8e2b5d9e26048152c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1310716437,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1310716437,
+    "wof:lastmodified":1536609922,
+    "wof:name":"Akui",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.82917,
+    43.10083,
+    40.82917,
+    43.10083
+],
+  "geometry": {"coordinates":[40.82917,43.10083],"type":"Point"}
+}

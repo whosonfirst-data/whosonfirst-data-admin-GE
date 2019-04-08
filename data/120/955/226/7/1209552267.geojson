@@ -1,0 +1,67 @@
+{
+  "id": 1209552267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91994,41.4325,44.91994,41.4325",
+    "geom:latitude":41.4325,
+    "geom:longitude":44.91994,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Khutor Lezhbadini",
+    "gn:country_code":"GE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613861,
+    "gn:latitude":41.4325,
+    "gn:longitude":44.91994,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khutor Lezhbadini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Khutor Lezhbadini"
+    ],
+    "name:kat_x_variant":[
+        "\u10ee\u10e3\u10d7\u10dd\u10e0-\u10da\u10d4\u10df\u10d1\u10d0\u10d3\u10d8\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613861
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f154c5bff3039aa12b70472e0346d480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209552267
+        }
+    ],
+    "wof:id":1209552267,
+    "wof:lastmodified":1537623201,
+    "wof:name":"Khutor Lezhbadini",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91994,
+    41.4325,
+    44.91994,
+    41.4325
+],
+  "geometry": {"coordinates":[44.91994,41.4325],"type":"Point"}
+}

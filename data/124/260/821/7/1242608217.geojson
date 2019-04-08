@@ -1,0 +1,76 @@
+{
+  "id": 1242608217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.41639,42.13972,45.41639,42.13972",
+    "geom:latitude":42.13972,
+    "geom:longitude":45.41639,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lech'uri",
+    "gn:country_code":"GE",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613269,
+    "gn:latitude":42.13972,
+    "gn:longitude":45.41639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lech\u2019uri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lech'uri"
+    ],
+    "name:kat_x_preferred":[
+        "Lech\u2019uri"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0447\u0443\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613269
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"65db5364303e59e57318bb15f162f8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":1242608217,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1242608217,
+    "wof:lastmodified":1537623166,
+    "wof:name":"Lech'uri",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.41639,
+    42.13972,
+    45.41639,
+    42.13972
+],
+  "geometry": {"coordinates":[45.41639,42.13972],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293524413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93212,41.9241,43.93212,41.9241",
+    "geom:latitude":41.9241,
+    "geom:longitude":43.93212,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Tkemala",
+    "gn:country_code":"GE",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611644,
+    "gn:latitude":41.9241,
+    "gn:longitude":43.93212,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tkemala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "T\u2019q\u2019emala"
+    ],
+    "name:kat_x_variant":[
+        "\u10e2\u10e7\u10d4\u10db\u10d0\u10da\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611644
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5b385a9ec79bf9521a1d630e52d7d080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1293524413,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1293524413,
+    "wof:lastmodified":1537623074,
+    "wof:name":"Tkemala",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93212,
+    41.9241,
+    43.93212,
+    41.9241
+],
+  "geometry": {"coordinates":[43.93212,41.9241],"type":"Point"}
+}

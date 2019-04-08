@@ -1,0 +1,67 @@
+{
+  "id": 1360003879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58222,41.76361,44.58222,41.76361",
+    "geom:latitude":41.76361,
+    "geom:longitude":44.58222,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tabaruki",
+    "gn:country_code":"GE",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611783,
+    "gn:latitude":41.76361,
+    "gn:longitude":44.58222,
+    "gn:modification_date":"2002-05-03",
+    "gn:name":"Tabaruki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611783
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"271b4ca1f8c1ce8b14f43fad27639b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1360003879,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1360003879,
+    "wof:lastmodified":1537060140,
+    "wof:name":"Tabaruki",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58222,
+    41.76361,
+    44.58222,
+    41.76361
+],
+  "geometry": {"coordinates":[44.58222,41.76361],"type":"Point"}
+}

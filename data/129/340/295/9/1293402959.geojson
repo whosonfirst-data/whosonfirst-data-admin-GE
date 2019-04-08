@@ -1,0 +1,76 @@
+{
+  "id": 1293402959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35764,43.2469,40.35764,43.2469",
+    "geom:latitude":43.2469,
+    "geom:longitude":40.35764,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bzibta",
+    "gn:country_code":"GE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823852,
+    "gn:latitude":43.2469,
+    "gn:longitude":40.35764,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Bzibta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d6\u10d8\u10d1\u10d7\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Bzibta"
+    ],
+    "name:und_x_variant":[
+        "Bzybta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823852
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"489cf66488b733a3b4dc8261f4b00f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1293402959,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293402959,
+    "wof:lastmodified":1537623328,
+    "wof:name":"Bzibta",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35764,
+    43.2469,
+    40.35764,
+    43.2469
+],
+  "geometry": {"coordinates":[40.35764,43.2469],"type":"Point"}
+}

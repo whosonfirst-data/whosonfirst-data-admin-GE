@@ -1,0 +1,76 @@
+{
+  "id": 1293408011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83384,43.12827,40.83384,43.12827",
+    "geom:latitude":43.12827,
+    "geom:longitude":40.83384,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ajmat'vara",
+    "gn:country_code":"GE",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823899,
+    "gn:latitude":43.12827,
+    "gn:longitude":40.83384,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ajmat\u2019vara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10ef\u10db\u10d0\u10e2\u10d5\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Ajmat\u2019vara"
+    ],
+    "name:und_x_variant":[
+        "Adzhmatvara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823899
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3f3423293033e8aeffd92782b49a1bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1293408011,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293408011,
+    "wof:lastmodified":1537623330,
+    "wof:name":"Ajmat'vara",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83384,
+    43.12827,
+    40.83384,
+    43.12827
+],
+  "geometry": {"coordinates":[40.83384,43.12827],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259717627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92224,41.65885,43.92224,41.65885",
+    "geom:latitude":41.65885,
+    "geom:longitude":43.92224,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Gumbat'i",
+    "gn:country_code":"GE",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614375,
+    "gn:latitude":41.65885,
+    "gn:longitude":43.92224,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gumbat\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10db\u10d1\u10d0\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Gumbat\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614375
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f639f4b77d67f9f3c9c9db726e60b13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691389,
+            "locality_id":1259717627,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1259717627,
+    "wof:lastmodified":1537623227,
+    "wof:name":"Gumbat'i",
+    "wof:parent_id":1108691389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92224,
+    41.65885,
+    43.92224,
+    41.65885
+],
+  "geometry": {"coordinates":[43.92224,41.65885],"type":"Point"}
+}

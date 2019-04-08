@@ -1,0 +1,67 @@
+{
+  "id": 1343771999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35097,42.10847,44.35097,42.10847",
+    "geom:latitude":42.10847,
+    "geom:longitude":44.35097,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Chachamuri",
+    "gn:country_code":"GE",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615310,
+    "gn:latitude":42.10847,
+    "gn:longitude":44.35097,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Chachamuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615310
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"be4f0d59f966c520b0651c315cac4db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1343771999,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343771999,
+    "wof:lastmodified":1536794451,
+    "wof:name":"Chachamuri",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35097,
+    42.10847,
+    44.35097,
+    42.10847
+],
+  "geometry": {"coordinates":[44.35097,42.10847],"type":"Point"}
+}

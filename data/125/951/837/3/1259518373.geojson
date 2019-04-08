@@ -1,0 +1,77 @@
+{
+  "id": 1259518373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.07527,41.94837,42.07527,41.94837",
+    "geom:latitude":41.94837,
+    "geom:longitude":42.07527,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Gaghma Dvabzu",
+    "gn:country_code":"GE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614631,
+    "gn:latitude":41.94837,
+    "gn:longitude":42.07527,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Gaghma Dvabzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Gaghma Dvabzu"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d0\u10e6\u10db\u10d0 \u10d3\u10d5\u10d0\u10d1\u10d6\u10e3"
+    ],
+    "name:und_x_variant":[
+        "Gagma-Dvabzu",
+        "Gaghma Dvabze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614631
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"97e227e2fa649f2481df6cb01ede4bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1259518373,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1259518373,
+    "wof:lastmodified":1537623242,
+    "wof:name":"Gaghma Dvabzu",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.07527,
+    41.94837,
+    42.07527,
+    41.94837
+],
+  "geometry": {"coordinates":[42.07527,41.94837],"type":"Point"}
+}

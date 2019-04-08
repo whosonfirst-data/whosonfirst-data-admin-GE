@@ -1,0 +1,61 @@
+{
+  "id": 1209224633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.94583,41.49,45.94583,41.49",
+    "geom:latitude":41.49,
+    "geom:longitude":45.94583,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ostelok Arboshiki",
+    "gn:country_code":"GE",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799698,
+    "gn:latitude":41.49,
+    "gn:longitude":45.94583,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Ostelok Arboshiki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799698
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"26be2138ac4a751435b5d91903117920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209224633
+        }
+    ],
+    "wof:id":1209224633,
+    "wof:lastmodified":1536293840,
+    "wof:name":"Ostelok Arboshiki",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.94583,
+    41.49,
+    45.94583,
+    41.49
+],
+  "geometry": {"coordinates":[45.94583,41.49],"type":"Point"}
+}

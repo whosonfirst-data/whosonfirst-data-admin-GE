@@ -1,0 +1,65 @@
+{
+  "id": 1209429515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15,42.18333,44.15,42.18333",
+    "geom:latitude":42.18333,
+    "geom:longitude":44.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eldzarta",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614691,
+    "gn:latitude":42.18333,
+    "gn:longitude":44.15,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Eldzarta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elzartikau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614691
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"673cd00d02128ab733ade36f73c1eb42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209429515
+        }
+    ],
+    "wof:id":1209429515,
+    "wof:lastmodified":1537623246,
+    "wof:name":"Eldzarta",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15,
+    42.18333,
+    44.15,
+    42.18333
+],
+  "geometry": {"coordinates":[44.15,42.18333],"type":"Point"}
+}

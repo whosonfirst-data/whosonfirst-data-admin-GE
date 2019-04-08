@@ -1,0 +1,71 @@
+{
+  "id": 1293426447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64129,42.50482,43.64129,42.50482",
+    "geom:latitude":42.50482,
+    "geom:longitude":43.64129,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Khardisari",
+    "gn:country_code":"GE",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613999,
+    "gn:latitude":42.50482,
+    "gn:longitude":43.64129,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Khardisari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khardisar",
+        "Khardisari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613999
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ba02374e2abc0824a159d159654159a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":1293426447,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1293426447,
+    "wof:lastmodified":1537623208,
+    "wof:name":"Khardisari",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64129000000001,
+    42.50482,
+    43.64129000000001,
+    42.50482
+],
+  "geometry": {"coordinates":[43.64129000000001,42.50482],"type":"Point"}
+}

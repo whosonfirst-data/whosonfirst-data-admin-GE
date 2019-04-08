@@ -1,0 +1,67 @@
+{
+  "id": 1343968267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51812,41.98972,44.51812,41.98972",
+    "geom:latitude":41.98972,
+    "geom:longitude":44.51812,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'sovrisi",
+    "gn:country_code":"GE",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613658,
+    "gn:latitude":41.98972,
+    "gn:longitude":44.51812,
+    "gn:modification_date":"2002-05-03",
+    "gn:name":"K\u2019sovrisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613658
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"47e1c3c64349c25cf5a209fac73a998f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1343968267,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343968267,
+    "wof:lastmodified":1537007910,
+    "wof:name":"K'sovrisi",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51812,
+    41.98972,
+    44.51812,
+    41.98972
+],
+  "geometry": {"coordinates":[44.51812,41.98972],"type":"Point"}
+}

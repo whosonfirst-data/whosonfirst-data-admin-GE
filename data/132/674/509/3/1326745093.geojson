@@ -1,0 +1,71 @@
+{
+  "id": 1326745093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80513,42.26223,43.80513,42.26223",
+    "geom:latitude":42.26223,
+    "geom:longitude":43.80513,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Didi-Tsikhiata",
+    "gn:country_code":"GE",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614919,
+    "gn:latitude":42.26223,
+    "gn:longitude":43.80513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Didi-Tsikhiata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsikhiati",
+        "Didi-Tsikhiata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614919
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4457539346ef52ef93c80d4b8acddec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1326745093,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1326745093,
+    "wof:lastmodified":1537623260,
+    "wof:name":"Didi-Tsikhiata",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80513,
+    42.26223,
+    43.80513,
+    42.26223
+],
+  "geometry": {"coordinates":[43.80513,42.26223],"type":"Point"}
+}

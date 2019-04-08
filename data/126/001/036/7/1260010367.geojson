@@ -1,0 +1,73 @@
+{
+  "id": 1260010367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.05028,41.73454,45.05028,41.73454",
+    "geom:latitude":41.73454,
+    "geom:longitude":45.05028,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Saak'adze",
+    "gn:country_code":"GE",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865239,
+    "gn:latitude":41.73454,
+    "gn:longitude":45.05028,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Saak\u2019adze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Saak\u2019adze"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10d0\u10d9\u10d0\u10eb\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865239
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6dc21b5b586beb4e73ee9b1023cfd2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691281,
+            "locality_id":1260010367,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1260010367,
+    "wof:lastmodified":1537623341,
+    "wof:name":"Saak'adze",
+    "wof:parent_id":1108691281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.05028,
+    41.73454,
+    45.05028,
+    41.73454
+],
+  "geometry": {"coordinates":[45.05028,41.73454],"type":"Point"}
+}

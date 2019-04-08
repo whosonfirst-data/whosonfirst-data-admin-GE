@@ -1,0 +1,77 @@
+{
+  "id": 1226783537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75826,42.26685,41.75826,42.26685",
+    "geom:latitude":42.26685,
+    "geom:longitude":41.75826,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Gaghma Kariat'i",
+    "gn:country_code":"GE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":798772,
+    "gn:latitude":42.26685,
+    "gn:longitude":41.75826,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Gaghma Kariat\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10e6\u10db\u10d0 \u10e5\u10d0\u10e0\u10d8\u10d0\u10e2\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Gaghma Kariat\u2019i"
+    ],
+    "name:und_x_variant":[
+        "Gagma-Kariata",
+        "Gagma-Kanata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":798772
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"775a5b1b3ebe16eea95e2e86279119c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1226783537,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226783537,
+    "wof:lastmodified":1537623324,
+    "wof:name":"Gaghma Kariat'i",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75826,
+    42.26685,
+    41.75826,
+    42.26685
+],
+  "geometry": {"coordinates":[41.75826,42.26685],"type":"Point"}
+}

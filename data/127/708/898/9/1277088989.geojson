@@ -1,0 +1,74 @@
+{
+  "id": 1277088989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81613,41.92045,44.81613,41.92045",
+    "geom:latitude":41.92045,
+    "geom:longitude":44.81613,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Tsinamdzghvriant'kari",
+    "gn:country_code":"GE",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611495,
+    "gn:latitude":41.92045,
+    "gn:longitude":44.81613,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tsinamdzghvriant\u2019kari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Tsinamdzghvriant\u2019kari"
+    ],
+    "name:und_x_variant":[
+        "Tsinamdzgvariantkari",
+        "Tsinamdzgvriantkari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611495
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"536ef2bb539ef439d273f15cf69a12e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1277088989,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1277088989,
+    "wof:lastmodified":1537623064,
+    "wof:name":"Tsinamdzghvriant'kari",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81613,
+    41.92045,
+    44.81613,
+    41.92045
+],
+  "geometry": {"coordinates":[44.81613,41.92045],"type":"Point"}
+}

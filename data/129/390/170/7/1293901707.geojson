@@ -1,0 +1,67 @@
+{
+  "id": 1293901707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.38333,42.3,45.38333,42.3",
+    "geom:latitude":42.3,
+    "geom:longitude":45.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'oret'i",
+    "gn:country_code":"GE",
+    "gn:dem":2734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613703,
+    "gn:latitude":42.3,
+    "gn:longitude":45.38333,
+    "gn:modification_date":"2000-07-07",
+    "gn:name":"K\u2019oret\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613703
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"838327dedf7534e210a728892144dd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1293901707,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1293901707,
+    "wof:lastmodified":1536687134,
+    "wof:name":"K'oret'i",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.38333,
+    42.3,
+    45.38333,
+    42.3
+],
+  "geometry": {"coordinates":[45.38333,42.3],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344265907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.69618,42.74889,41.69618,42.74889",
+    "geom:latitude":42.74889,
+    "geom:longitude":41.69618,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ajra",
+    "gn:country_code":"GE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874276,
+    "gn:latitude":42.74889,
+    "gn:longitude":41.69618,
+    "gn:modification_date":"2013-12-14",
+    "gn:name":"Ajra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ajra"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ef\u10e0\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Adzhra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874276
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f4ba86c92b7466d90bd103335c537ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1344265907,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1344265907,
+    "wof:lastmodified":1537623349,
+    "wof:name":"Ajra",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.69618,
+    42.74889,
+    41.69618,
+    42.74889
+],
+  "geometry": {"coordinates":[41.69618,42.74889],"type":"Point"}
+}

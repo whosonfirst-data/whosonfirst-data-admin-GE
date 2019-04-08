@@ -1,0 +1,67 @@
+{
+  "id": 1259501887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.29056,43.18361,40.29056,43.18361",
+    "geom:latitude":43.18361,
+    "geom:longitude":40.29056,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ptitsefabrika",
+    "gn:country_code":"GE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874560,
+    "gn:latitude":43.18361,
+    "gn:longitude":40.29056,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ptitsefabrika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874560
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b8d66dee55989c964d9e10d086410ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1259501887,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259501887,
+    "wof:lastmodified":1536831347,
+    "wof:name":"Ptitsefabrika",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.29056,
+    43.18361,
+    40.29056,
+    43.18361
+],
+  "geometry": {"coordinates":[40.29056,43.18361],"type":"Point"}
+}

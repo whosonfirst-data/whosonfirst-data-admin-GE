@@ -1,0 +1,76 @@
+{
+  "id": 1293393211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6072,43.06842,41.6072,43.06842",
+    "geom:latitude":43.06842,
+    "geom:longitude":41.6072,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kvabchara",
+    "gn:country_code":"GE",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613601,
+    "gn:latitude":43.06842,
+    "gn:longitude":41.6072,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Kvabchara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d0\u10d1\u10e9\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Kvabchara"
+    ],
+    "name:und_x_variant":[
+        "Kvachkara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613601
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d84bdb969e5aee4807e94b97074c32b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1293393211,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293393211,
+    "wof:lastmodified":1537623189,
+    "wof:name":"Kvabchara",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.6072,
+    43.06842,
+    41.6072,
+    43.06842
+],
+  "geometry": {"coordinates":[41.6072,43.06842],"type":"Point"}
+}

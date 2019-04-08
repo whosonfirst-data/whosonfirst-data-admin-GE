@@ -1,0 +1,76 @@
+{
+  "id": 1243097895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.25259,41.95835,42.25259,41.95835",
+    "geom:latitude":41.95835,
+    "geom:longitude":42.25259,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Bzholieti",
+    "gn:country_code":"GE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615326,
+    "gn:latitude":41.95835,
+    "gn:longitude":42.25259,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Bzholieti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Bzholieti"
+    ],
+    "name:kat_x_variant":[
+        "\u10d1\u10df\u10dd\u10da\u10d8\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Bzholiyeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615326
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a302ed3a167245e82a116e3ccb862005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1243097895,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1243097895,
+    "wof:lastmodified":1537623284,
+    "wof:name":"Bzholieti",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.25259000000001,
+    41.95835,
+    42.25259000000001,
+    41.95835
+],
+  "geometry": {"coordinates":[42.25259000000001,41.95835],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360315887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.3665,42.06052,42.3665,42.06052",
+    "geom:latitude":42.06052,
+    "geom:longitude":42.3665,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Nats'ilopeti",
+    "gn:country_code":"GE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612737,
+    "gn:latitude":42.06052,
+    "gn:longitude":42.3665,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Nats\u2019ilopeti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Nats\u2019ilopeti"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d0\u10ec\u10d8\u10da\u10dd\u10e4\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Natsil-Opeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612737
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7b610378ef391f598b78b6562977085d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691357,
+            "locality_id":1360315887,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1360315887,
+    "wof:lastmodified":1537623135,
+    "wof:name":"Nats'ilopeti",
+    "wof:parent_id":1108691357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.3665,
+    42.06052,
+    42.3665,
+    42.06052
+],
+  "geometry": {"coordinates":[42.3665,42.06052],"type":"Point"}
+}

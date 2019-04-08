@@ -1,0 +1,91 @@
+{
+  "id": 421197263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48194,41.80365,43.48194,41.80365",
+    "geom:latitude":41.80365,
+    "geom:longitude":43.48194,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tsaghveri"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10d0\u10e6\u10d5\u10d4\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0433\u0432\u0435\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Kurgan Tsagveri"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":611564,
+    "qs:gn_pop":2745,
+    "qs:name":"Tsagveri",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Borjomis Raioni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":119645,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1966061,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611564,
+        "gp:id":1966061,
+        "qs:id":119645
+    },
+    "wof:country":"GE",
+    "wof:created":1459009908,
+    "wof:geomhash":"3800dcf808c8fff823a7441eeb1d9db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":421197263,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":421197263,
+    "wof:lastmodified":1505340750,
+    "wof:name":"Tsagveri",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:population":2745,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48194,
+    41.80365,
+    43.48194,
+    41.80365
+],
+  "geometry": {"coordinates":[43.48194,41.80365],"type":"Point"}
+}

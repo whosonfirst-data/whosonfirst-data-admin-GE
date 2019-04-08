@@ -1,0 +1,70 @@
+{
+  "id": 1243206879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47912,41.98387,44.47912,41.98387",
+    "geom:latitude":41.98387,
+    "geom:longitude":44.47912,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Okami",
+    "gn:country_code":"GE",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612634,
+    "gn:latitude":41.98387,
+    "gn:longitude":44.47912,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Okami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10d0\u10db\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612634
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"df915fab326ad4dbec203c0209e646c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1243206879,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1243206879,
+    "wof:lastmodified":1537623128,
+    "wof:name":"Okami",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47912,
+    41.98387,
+    44.47912,
+    41.98387
+],
+  "geometry": {"coordinates":[44.47912,41.98387],"type":"Point"}
+}

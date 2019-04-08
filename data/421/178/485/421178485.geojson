@@ -1,0 +1,79 @@
+{
+  "id": 421178485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.39171,41.62933,42.39171,41.62933",
+    "geom:latitude":41.62933,
+    "geom:longitude":42.39171,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":614897,
+    "qs:gn_pop":7725,
+    "qs:name":"Dioknisi",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Ajaria",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":126120,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1963091,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614897,
+        "gp:id":1963091,
+        "qs:id":126120
+    },
+    "wof:country":"GE",
+    "wof:created":1459009183,
+    "wof:geomhash":"eac816357ebf1cb69808e5b8682e34f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":421178485,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":421178485,
+    "wof:lastmodified":1505340637,
+    "wof:name":"Dioknisi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:population":7725,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.39171,
+    41.62933,
+    42.39171,
+    41.62933
+],
+  "geometry": {"coordinates":[42.39171,41.62933],"type":"Point"}
+}

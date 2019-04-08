@@ -1,0 +1,79 @@
+{
+  "id": 1226376831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4181,42.49475,43.4181,42.49475",
+    "geom:latitude":42.49475,
+    "geom:longitude":43.4181,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Shk'meri",
+    "gn:country_code":"GE",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611970,
+    "gn:latitude":42.49475,
+    "gn:longitude":43.4181,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Shk\u2019meri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shk'meri"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e5\u10db\u10d4\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043c\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shk\u2019meri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611970
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"810e6f9053b0d624674ed1f9ab24efa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":1226376831,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1226376831,
+    "wof:lastmodified":1537623090,
+    "wof:name":"Shk'meri",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4181,
+    42.49475,
+    43.4181,
+    42.49475
+],
+  "geometry": {"coordinates":[43.4181,42.49475],"type":"Point"}
+}

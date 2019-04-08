@@ -1,0 +1,71 @@
+{
+  "id": 1327370117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08957,42.52841,43.08957,42.52841",
+    "geom:latitude":42.52841,
+    "geom:longitude":43.08957,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Saketsia",
+    "gn:country_code":"GE",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612195,
+    "gn:latitude":42.52841,
+    "gn:longitude":43.08957,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Saketsia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saketsiya",
+        "Saketsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612195
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"798ed093743daf2e4bd168910366f305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691249,
+            "locality_id":1327370117,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1327370117,
+    "wof:lastmodified":1537623102,
+    "wof:name":"Saketsia",
+    "wof:parent_id":1108691249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08957,
+    42.52841,
+    43.08957,
+    42.52841
+],
+  "geometry": {"coordinates":[43.08957,42.52841],"type":"Point"}
+}

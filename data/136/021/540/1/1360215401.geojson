@@ -1,0 +1,73 @@
+{
+  "id": 1360215401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66404,41.94091,43.66404,41.94091",
+    "geom:latitude":41.94091,
+    "geom:longitude":43.66404,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Aleksandrestskaro",
+    "gn:country_code":"GE",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615801,
+    "gn:latitude":41.94091,
+    "gn:longitude":43.66404,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aleksandrestskaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Aleksandrests\u2019q\u2019aro"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10da\u10d4\u10e5\u10e1\u10d0\u10dc\u10d3\u10e0\u10d4\u10e1\u10ec\u10e7\u10d0\u10e0\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615801
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"566fb6bc36afe95da61bcf3bfa95497f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1360215401,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1360215401,
+    "wof:lastmodified":1537623310,
+    "wof:name":"Aleksandrestskaro",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66404,
+    41.94091,
+    43.66404,
+    41.94091
+],
+  "geometry": {"coordinates":[43.66404,41.94091],"type":"Point"}
+}

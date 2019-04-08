@@ -1,0 +1,74 @@
+{
+  "id": 1242692221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5155,41.62708,44.5155,41.62708",
+    "geom:latitude":41.62708,
+    "geom:longitude":44.5155,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amlevi",
+    "gn:country_code":"GE",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615769,
+    "gn:latitude":41.62708,
+    "gn:longitude":44.5155,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Amlevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10da\u10d4\u10d5\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Amlivi",
+        "Amlevi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615769
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"72f8bc703dbc5c19973f5da9da4af388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1242692221,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1242692221,
+    "wof:lastmodified":1537623308,
+    "wof:name":"Amlevi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5155,
+    41.62708,
+    44.5155,
+    41.62708
+],
+  "geometry": {"coordinates":[44.5155,41.62708],"type":"Point"}
+}

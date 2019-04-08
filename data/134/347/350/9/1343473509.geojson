@@ -1,0 +1,67 @@
+{
+  "id": 1343473509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.60245,42.38327,42.60245,42.38327",
+    "geom:latitude":42.38327,
+    "geom:longitude":42.60245,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kumistavi",
+    "gn:country_code":"GE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613633,
+    "gn:latitude":42.38327,
+    "gn:longitude":42.60245,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Kumistavi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613633
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4b9f176507f6ce8e0c43c8bb053cff10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691391,
+            "locality_id":1343473509,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1343473509,
+    "wof:lastmodified":1536727596,
+    "wof:name":"Kumistavi",
+    "wof:parent_id":1108691391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.60245,
+    42.38327,
+    42.60245,
+    42.38327
+],
+  "geometry": {"coordinates":[42.60245,42.38327],"type":"Point"}
+}

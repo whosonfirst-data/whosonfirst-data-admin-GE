@@ -1,0 +1,83 @@
+{
+  "id": 1259614239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.95792,42.25681,41.95792,42.25681",
+    "geom:latitude":42.25681,
+    "geom:longitude":41.95792,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Gimozgonjili",
+    "gn:country_code":"GE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614527,
+    "gn:latitude":42.25681,
+    "gn:longitude":41.95792,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gimozgonjili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gimozgonjili"
+    ],
+    "name:kat_x_preferred":[
+        "Gimozgonjili"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d8\u10db\u10dd\u10d6\u10d2\u10dd\u10dc\u10ef\u10d8\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043c\u043e\u0437\u0433\u043e\u043d\u0434\u0436\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gimozgvendzhili",
+        "Gimozgondzhili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614527
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7619350281e90f7f9847c15228703983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1259614239,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1259614239,
+    "wof:lastmodified":1537623234,
+    "wof:name":"Gimozgonjili",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.95792,
+    42.25681,
+    41.95792,
+    42.25681
+],
+  "geometry": {"coordinates":[41.95792,42.25681],"type":"Point"}
+}

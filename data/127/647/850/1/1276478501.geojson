@@ -1,0 +1,80 @@
+{
+  "id": 1276478501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18692,42.94354,42.18692,42.94354",
+    "geom:latitude":42.94354,
+    "geom:longitude":42.18692,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Khaishi",
+    "gn:country_code":"GE",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614025,
+    "gn:latitude":42.94354,
+    "gn:longitude":42.18692,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khaishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khaishi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10d8\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0438\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khashiti",
+        "Khaishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614025
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"748fe0c1981049fe927218c1bb1e865f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1276478501,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1276478501,
+    "wof:lastmodified":1537623209,
+    "wof:name":"Khaishi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18692,
+    42.94354000000001,
+    42.18692,
+    42.94354000000001
+],
+  "geometry": {"coordinates":[42.18692,42.94354000000001],"type":"Point"}
+}

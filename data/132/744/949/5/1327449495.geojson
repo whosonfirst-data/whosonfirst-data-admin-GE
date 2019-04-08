@@ -1,0 +1,67 @@
+{
+  "id": 1327449495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42869,42.32397,43.42869,42.32397",
+    "geom:latitude":42.32397,
+    "geom:longitude":43.42869,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsitelsopeli",
+    "gn:country_code":"GE",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611449,
+    "gn:latitude":42.32397,
+    "gn:longitude":43.42869,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Tsitelsopeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611449
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b85488b393d700f2cc22762faa2e9ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1327449495,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1327449495,
+    "wof:lastmodified":1536656126,
+    "wof:name":"Tsitelsopeli",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42869,
+    42.32397,
+    43.42869,
+    42.32397
+],
+  "geometry": {"coordinates":[43.42869,42.32397],"type":"Point"}
+}

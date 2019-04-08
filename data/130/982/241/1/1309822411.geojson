@@ -1,0 +1,76 @@
+{
+  "id": 1309822411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.09514,42.12732,44.09514,42.12732",
+    "geom:latitude":42.12732,
+    "geom:longitude":44.09514,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"K'itsnisi",
+    "gn:country_code":"GE",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613790,
+    "gn:latitude":42.12732,
+    "gn:longitude":44.09514,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u2019itsnisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'itsnisi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0446\u043d\u0438\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "K\u2019itsnisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613790
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a46e72b62183724cc4110846e10a1328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1309822411,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1309822411,
+    "wof:lastmodified":1537623197,
+    "wof:name":"K'itsnisi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.09514,
+    42.12732000000001,
+    44.09514,
+    42.12732000000001
+],
+  "geometry": {"coordinates":[44.09514,42.12732000000001],"type":"Point"}
+}

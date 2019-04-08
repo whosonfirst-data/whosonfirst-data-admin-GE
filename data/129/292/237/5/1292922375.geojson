@@ -1,0 +1,70 @@
+{
+  "id": 1292922375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98021,42.57213,44.98021,42.57213",
+    "geom:latitude":42.57213,
+    "geom:longitude":44.98021,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ukankhadu",
+    "gn:country_code":"GE",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":801176,
+    "gn:latitude":42.57213,
+    "gn:longitude":44.98021,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ukankhadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e3\u10d9\u10d0\u10dc\u10ee\u10d0\u10d3\u10e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":801176
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"28d226b43177112249b4e0da8ad83045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1292922375,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1292922375,
+    "wof:lastmodified":1537623327,
+    "wof:name":"Ukankhadu",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98021,
+    42.57213,
+    44.98021,
+    42.57213
+],
+  "geometry": {"coordinates":[44.98021,42.57213],"type":"Point"}
+}

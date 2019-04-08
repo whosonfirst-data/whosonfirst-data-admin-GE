@@ -1,0 +1,73 @@
+{
+  "id": 1242874479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.08715,41.90206,42.08715,41.90206",
+    "geom:latitude":41.90206,
+    "geom:longitude":42.08715,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gonebisk'ari",
+    "gn:country_code":"GE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537337,
+    "gn:latitude":41.90206,
+    "gn:longitude":42.08715,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Gonebisk\u2019ari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Gonebisk\u2019ari"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10dd\u10dc\u10d4\u10d1\u10d8\u10e1\u10d9\u10d0\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537337
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cf46165f8616e2bc78fbc7c43828b232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1242874479,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1242874479,
+    "wof:lastmodified":1537623357,
+    "wof:name":"Gonebisk'ari",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.08715,
+    41.90206,
+    42.08715,
+    41.90206
+],
+  "geometry": {"coordinates":[42.08715,41.90206],"type":"Point"}
+}

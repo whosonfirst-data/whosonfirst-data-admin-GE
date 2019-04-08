@@ -1,0 +1,121 @@
+{
+  "id": 421198655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.57129,41.89315,45.57129,41.89315",
+    "geom:latitude":41.89315,
+    "geom:longitude":45.57129,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0426\u0438\u043d\u0430\u043d\u0434\u0430\u043b\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsinandali"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u043d\u0430\u043d\u0434\u0430\u043b\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Zinandali"
+    ],
+    "name:dut_x_preferred":[
+        "Tsinandali"
+    ],
+    "name:eng_x_preferred":[
+        "Tsinandali"
+    ],
+    "name:fin_x_preferred":[
+        "Tsinandali"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ec\u10d8\u10dc\u10d0\u10dc\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Zinandali"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10d8\u10dc\u10d0\u10dc\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043d\u0430\u043d\u0434\u0430\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tsinandali"
+    ],
+    "name:unk_x_variant":[
+        "Tsinondali"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":611492,
+    "qs:gn_pop":3800,
+    "qs:name":"Tsinandali",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"T\u00b4elavis Raioni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":184243,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1966125,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":385,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611492,
+        "gp:id":1966125,
+        "qs:id":184243,
+        "wd:id":"Q118953",
+        "wk:page":"Tsinandali"
+    },
+    "wof:country":"GE",
+    "wof:created":1459009955,
+    "wof:geomhash":"1ad51e59cfe04fb2c8c8b0265af080ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":421198655,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":421198655,
+    "wof:lastmodified":1527716356,
+    "wof:name":"Tsinandali",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:population":3800,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.57129,
+    41.89315,
+    45.57129,
+    41.89315
+],
+  "geometry": {"coordinates":[45.57129,41.89315],"type":"Point"}
+}

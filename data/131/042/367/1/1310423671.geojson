@@ -1,0 +1,77 @@
+{
+  "id": 1310423671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48422,43.20675,40.48422,43.20675",
+    "geom:latitude":43.20675,
+    "geom:longitude":40.48422,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ajkhakhara",
+    "gn:country_code":"GE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615959,
+    "gn:latitude":43.20675,
+    "gn:longitude":40.48422,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ajkhakhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10ef\u10ee\u10d0\u10ee\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Ajkhakhara"
+    ],
+    "name:und_x_variant":[
+        "Azhkhakhara",
+        "Adzhkhakhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615959
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cd72a0fefb7bdb676072bfeff86afa36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1310423671,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1310423671,
+    "wof:lastmodified":1537623319,
+    "wof:name":"Ajkhakhara",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48422,
+    43.20675,
+    40.48422,
+    43.20675
+],
+  "geometry": {"coordinates":[40.48422,43.20675],"type":"Point"}
+}

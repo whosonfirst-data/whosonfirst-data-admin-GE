@@ -1,0 +1,76 @@
+{
+  "id": 1243292845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63698,42.70498,43.63698,42.70498",
+    "geom:latitude":42.70498,
+    "geom:longitude":43.63698,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Glola",
+    "gn:country_code":"GE",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614518,
+    "gn:latitude":42.70498,
+    "gn:longitude":43.63698,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Glola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Glola"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10dd\u10da\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u043e\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614518
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f56b73f321e55fbbf3eb10bdb039a5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":1243292845,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1243292845,
+    "wof:lastmodified":1537623234,
+    "wof:name":"Glola",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63698,
+    42.70498,
+    43.63698,
+    42.70498
+],
+  "geometry": {"coordinates":[43.63698,42.70498],"type":"Point"}
+}

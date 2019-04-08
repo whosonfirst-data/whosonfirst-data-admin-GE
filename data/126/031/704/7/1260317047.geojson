@@ -1,0 +1,73 @@
+{
+  "id": 1260317047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06509,41.97305,42.06509,41.97305",
+    "geom:latitude":41.97305,
+    "geom:longitude":42.06509,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Nasak'irali",
+    "gn:country_code":"GE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9506676,
+    "gn:latitude":41.97305,
+    "gn:longitude":42.06509,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Nasak\u2019irali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Nasak\u2019irali"
+    ],
+    "name:und_x_variant":[
+        "\u10dc\u10d0\u10e1\u10d0\u10d9\u10d8\u10e0\u10d0\u10da\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9506676
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d659d811dc69f38284c94faf2fd3dd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1260317047,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1260317047,
+    "wof:lastmodified":1537623359,
+    "wof:name":"Nasak'irali",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06509000000001,
+    41.97305,
+    42.06509000000001,
+    41.97305
+],
+  "geometry": {"coordinates":[42.06509000000001,41.97305],"type":"Point"}
+}

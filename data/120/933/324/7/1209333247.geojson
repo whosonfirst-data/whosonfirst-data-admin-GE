@@ -1,0 +1,61 @@
+{
+  "id": 1209333247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2961,42.25694,43.2961,42.25694",
+    "geom:latitude":42.25694,
+    "geom:longitude":43.2961,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Perevisa",
+    "gn:country_code":"GE",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612426,
+    "gn:latitude":42.25694,
+    "gn:longitude":43.2961,
+    "gn:modification_date":"2001-09-10",
+    "gn:name":"Perevisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612426
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f1197e1f152817d17577959baaeda692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209333247
+        }
+    ],
+    "wof:id":1209333247,
+    "wof:lastmodified":1536290305,
+    "wof:name":"Perevisa",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2961,
+    42.25694,
+    43.2961,
+    42.25694
+],
+  "geometry": {"coordinates":[43.2961,42.25694],"type":"Point"}
+}

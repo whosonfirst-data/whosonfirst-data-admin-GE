@@ -1,0 +1,85 @@
+{
+  "id": 1243563385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.32499,43.03705,41.32499,43.03705",
+    "geom:latitude":43.03705,
+    "geom:longitude":41.32499,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amt'q'eli",
+    "gn:country_code":"GE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615766,
+    "gn:latitude":43.03705,
+    "gn:longitude":41.32499,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Amt\u2019q\u2019eli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amtqeli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10e2\u10e7\u10d4\u10da\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Amt\u2019q\u2019eli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0442\u043a\u0435\u043b"
+    ],
+    "name:und_x_variant":[
+        "Amtkiali",
+        "Amtkhel",
+        "Amtkeli",
+        "Amtkel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615766
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"62c7c1f17880f6d684ee656ca254031d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1243563385,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1243563385,
+    "wof:lastmodified":1537623308,
+    "wof:name":"Amt'q'eli",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.32499,
+    43.03705,
+    41.32499,
+    43.03705
+],
+  "geometry": {"coordinates":[41.32499,43.03705],"type":"Point"}
+}

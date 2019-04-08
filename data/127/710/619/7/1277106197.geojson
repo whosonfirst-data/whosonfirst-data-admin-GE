@@ -1,0 +1,81 @@
+{
+  "id": 1277106197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.20446,41.57631,43.20446,41.57631",
+    "geom:latitude":41.57631,
+    "geom:longitude":43.20446,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Saqudabeli",
+    "gn:country_code":"GE",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612167,
+    "gn:latitude":41.57631,
+    "gn:longitude":43.20446,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Saqudabeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e7\u10e3\u10d3\u10d0\u10d1\u10d4\u10da\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10ee\u10e3\u10d3\u10d0\u10d1\u10d4\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0445\u0443\u0434\u0430\u0431\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sakudabeli",
+        "Sakhudabeli",
+        "Saqudabeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612167
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"89adf1ed76766685687511849353da2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691251,
+            "locality_id":1277106197,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1277106197,
+    "wof:lastmodified":1537623100,
+    "wof:name":"Saqudabeli",
+    "wof:parent_id":1108691251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.20446,
+    41.57631,
+    43.20446,
+    41.57631
+],
+  "geometry": {"coordinates":[43.20446,41.57631],"type":"Point"}
+}

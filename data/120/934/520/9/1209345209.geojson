@@ -1,0 +1,64 @@
+{
+  "id": 1209345209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96798,41.70911,42.96798,41.70911",
+    "geom:latitude":41.70911,
+    "geom:longitude":42.96798,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Tatanisi",
+    "gn:country_code":"GE",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611734,
+    "gn:latitude":41.70911,
+    "gn:longitude":42.96798,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tatanisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e2\u10d0\u10dc\u10d8\u10e1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611734
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"238a2fbfd130e15449df36f484e6c8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209345209
+        }
+    ],
+    "wof:id":1209345209,
+    "wof:lastmodified":1537623078,
+    "wof:name":"Tatanisi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96798,
+    41.70911,
+    42.96798,
+    41.70911
+],
+  "geometry": {"coordinates":[42.96798,41.70911],"type":"Point"}
+}

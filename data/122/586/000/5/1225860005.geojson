@@ -1,0 +1,67 @@
+{
+  "id": 1225860005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66667,41.94139,43.66667,41.94139",
+    "geom:latitude":41.94139,
+    "geom:longitude":43.66667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Didi Khalebi",
+    "gn:country_code":"GE",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614943,
+    "gn:latitude":41.94139,
+    "gn:longitude":43.66667,
+    "gn:modification_date":"2001-10-01",
+    "gn:name":"Didi Khalebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614943
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"aa454a4633f80f5ec779736e50b825d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1225860005,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1225860005,
+    "wof:lastmodified":1536992210,
+    "wof:name":"Didi Khalebi",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66667,
+    41.94139000000001,
+    43.66667,
+    41.94139000000001
+],
+  "geometry": {"coordinates":[43.66667,41.94139000000001],"type":"Point"}
+}

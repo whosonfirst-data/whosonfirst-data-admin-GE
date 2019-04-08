@@ -1,0 +1,70 @@
+{
+  "id": 1259400959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5275,42.41961,45.5275,42.41961",
+    "geom:latitude":42.41961,
+    "geom:longitude":45.5275,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gudanta",
+    "gn:country_code":"GE",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":800532,
+    "gn:latitude":42.41961,
+    "gn:longitude":45.5275,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Gudanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d3\u10d0\u10dc\u10d7\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800532
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"76c8322f292d6c955ede82744671d944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1259400959,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1259400959,
+    "wof:lastmodified":1537623325,
+    "wof:name":"Gudanta",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5275,
+    42.41961,
+    45.5275,
+    42.41961
+],
+  "geometry": {"coordinates":[45.5275,42.41961],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243398139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.75945,41.80861,45.75945,41.80861",
+    "geom:latitude":41.80861,
+    "geom:longitude":45.75945,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Velists'ikhe",
+    "gn:country_code":"GE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611163,
+    "gn:latitude":41.80861,
+    "gn:longitude":45.75945,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Velists\u2019ikhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Velists'ikhe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d8\u10e1\u10ea\u10d8\u10ee\u10d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0441\u0446\u0438\u0445\u0435"
+    ],
+    "name:und_x_variant":[
+        "Velists\u2019ikhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611163,
+        "wk:page":"Velistsikhe"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1432bae1d89cdddfd8083d5ab97021a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1243398139,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1243398139,
+    "wof:lastmodified":1537623045,
+    "wof:name":"Velists'ikhe",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.75945,
+    41.80861,
+    45.75945,
+    41.80861
+],
+  "geometry": {"coordinates":[45.75945,41.80861],"type":"Point"}
+}

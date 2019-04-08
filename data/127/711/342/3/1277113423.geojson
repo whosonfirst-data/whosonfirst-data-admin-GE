@@ -1,0 +1,80 @@
+{
+  "id": 1277113423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42953,41.35497,43.42953,41.35497",
+    "geom:latitude":41.35497,
+    "geom:longitude":43.42953,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Vach'iani",
+    "gn:country_code":"GE",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611247,
+    "gn:latitude":41.35497,
+    "gn:longitude":43.42953,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vach\u2019iani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vach'iani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e9\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0447\u0438\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vachian",
+        "Vach\u2019iani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611247
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0b6730d4d1e135773591964dbf70a8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691243,
+            "locality_id":1277113423,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1277113423,
+    "wof:lastmodified":1537623051,
+    "wof:name":"Vach'iani",
+    "wof:parent_id":1108691243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42953,
+    41.35497,
+    43.42953,
+    41.35497
+],
+  "geometry": {"coordinates":[43.42953,41.35497],"type":"Point"}
+}

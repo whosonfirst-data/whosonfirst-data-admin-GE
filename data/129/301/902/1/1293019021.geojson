@@ -1,0 +1,67 @@
+{
+  "id": 1293019021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03273,41.96542,45.03273,41.96542",
+    "geom:latitude":41.96542,
+    "geom:longitude":45.03273,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Orkhevi",
+    "gn:country_code":"GE",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612567,
+    "gn:latitude":41.96542,
+    "gn:longitude":45.03273,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Orkhevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612567
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a8b785e5b078788860f962aab1423436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1293019021,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1293019021,
+    "wof:lastmodified":1536965226,
+    "wof:name":"Orkhevi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03273,
+    41.96542,
+    45.03273,
+    41.96542
+],
+  "geometry": {"coordinates":[45.03273,41.96542],"type":"Point"}
+}

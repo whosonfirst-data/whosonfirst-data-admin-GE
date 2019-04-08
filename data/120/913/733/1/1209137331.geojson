@@ -1,0 +1,70 @@
+{
+  "id": 1209137331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62454,41.78987,43.62454,41.78987",
+    "geom:latitude":41.78987,
+    "geom:longitude":43.62454,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Mach'arts'q'ali",
+    "gn:country_code":"GE",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613155,
+    "gn:latitude":41.78987,
+    "gn:longitude":43.62454,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mach\u2019arts\u2019q\u2019ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Mach\u2019arts\u2019q\u2019ali"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10ed\u10d0\u10e0\u10ec\u10e7\u10d0\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Machartskali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613155
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eb195a8bba696220423595b939d4b881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209137331
+        }
+    ],
+    "wof:id":1209137331,
+    "wof:lastmodified":1537623160,
+    "wof:name":"Mach'arts'q'ali",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62454,
+    41.78987,
+    43.62454,
+    41.78987
+],
+  "geometry": {"coordinates":[43.62454,41.78987],"type":"Point"}
+}

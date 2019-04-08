@@ -1,0 +1,76 @@
+{
+  "id": 1343377265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.755,42.46889,41.755,42.46889",
+    "geom:latitude":42.46889,
+    "geom:longitude":41.755,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kakhat'i",
+    "gn:country_code":"GE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874086,
+    "gn:latitude":42.46889,
+    "gn:longitude":41.755,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Kakhat\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakhat'i"
+    ],
+    "name:kat_x_preferred":[
+        "Kakhat\u2019i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0445\u0430\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874086
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9f70c244f48ce2b63644d360b6d1a530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691401,
+            "locality_id":1343377265,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1343377265,
+    "wof:lastmodified":1537623347,
+    "wof:name":"Kakhat'i",
+    "wof:parent_id":1108691401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.755,
+    42.46889,
+    41.755,
+    42.46889
+],
+  "geometry": {"coordinates":[41.755,42.46889],"type":"Point"}
+}

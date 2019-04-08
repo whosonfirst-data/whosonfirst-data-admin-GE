@@ -1,0 +1,71 @@
+{
+  "id": 1209850275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.3766,41.83304,43.3766,41.83304",
+    "geom:latitude":41.83304,
+    "geom:longitude":43.3766,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Papa",
+    "gn:country_code":"GE",
+    "gn:dem":822,
+    "gn:elevation":"830.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8394309,
+    "gn:latitude":41.83304,
+    "gn:longitude":43.3766,
+    "gn:modification_date":"2012-09-24",
+    "gn:name":"Papa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10e4\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394309
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ec5d6cc5aa2a5728443af4da98bbbe23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1209850275,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1209850275,
+    "wof:lastmodified":1537550542,
+    "wof:name":"Papa",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.3766,
+    41.83304,
+    43.3766,
+    41.83304
+],
+  "geometry": {"coordinates":[43.3766,41.83304],"type":"Point"}
+}

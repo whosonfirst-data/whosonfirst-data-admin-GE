@@ -1,0 +1,70 @@
+{
+  "id": 1293215299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19805,41.82069,46.19805,41.82069",
+    "geom:latitude":41.82069,
+    "geom:longitude":46.19805,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gelati",
+    "gn:country_code":"GE",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614546,
+    "gn:latitude":41.82069,
+    "gn:longitude":46.19805,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Gelati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10da\u10d0\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614546
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9033fbf5f722b26eeb9fa8bb1553a917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1293215299,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1293215299,
+    "wof:lastmodified":1537623236,
+    "wof:name":"Gelati",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19805,
+    41.82069,
+    46.19805,
+    41.82069
+],
+  "geometry": {"coordinates":[46.19805,41.82069],"type":"Point"}
+}

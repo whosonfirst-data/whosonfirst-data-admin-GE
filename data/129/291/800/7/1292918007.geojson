@@ -1,0 +1,67 @@
+{
+  "id": 1292918007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.98947,42.15676,43.98947,42.15676",
+    "geom:latitude":42.15676,
+    "geom:longitude":43.98947,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pkhvenisi",
+    "gn:country_code":"GE",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612377,
+    "gn:latitude":42.15676,
+    "gn:longitude":43.98947,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Pkhvenisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612377
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fcd57573e9fc892104c168eadd20d1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1292918007,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1292918007,
+    "wof:lastmodified":1536611318,
+    "wof:name":"Pkhvenisi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.98947,
+    42.15676,
+    43.98947,
+    42.15676
+],
+  "geometry": {"coordinates":[43.98947,42.15676],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225954409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80583,41.99088,43.80583,41.99088",
+    "geom:latitude":41.99088,
+    "geom:longitude":43.80583,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'udat'q'e",
+    "gn:country_code":"GE",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613649,
+    "gn:latitude":41.99088,
+    "gn:longitude":43.80583,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"K\u2019udat\u2019q\u2019e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d3\u10d0\u10e2\u10e7\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "K\u2019udat\u2019q\u2019e"
+    ],
+    "name:und_x_variant":[
+        "Kudatke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613649
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9e6cf7598e916b833c9e35a32fed2e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1225954409,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1225954409,
+    "wof:lastmodified":1537623191,
+    "wof:name":"K'udat'q'e",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80583,
+    41.99088,
+    43.80583,
+    41.99088
+],
+  "geometry": {"coordinates":[43.80583,41.99088],"type":"Point"}
+}

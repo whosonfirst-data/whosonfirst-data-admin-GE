@@ -1,0 +1,70 @@
+{
+  "id": 1326636277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83194,41.80361,41.83194,41.80361",
+    "geom:latitude":41.80361,
+    "geom:longitude":41.83194,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Khutsubani",
+    "gn:country_code":"GE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613860,
+    "gn:latitude":41.80361,
+    "gn:longitude":41.83194,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Khutsubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Khutsubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613860
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"08dd5c610245918835ce3204560ec08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1326636277,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1326636277,
+    "wof:lastmodified":1537623201,
+    "wof:name":"Khutsubani",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83194,
+    41.80361,
+    41.83194,
+    41.80361
+],
+  "geometry": {"coordinates":[41.83194,41.80361],"type":"Point"}
+}

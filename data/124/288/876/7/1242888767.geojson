@@ -1,0 +1,71 @@
+{
+  "id": 1242888767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75571,42.461,43.75571,42.461",
+    "geom:latitude":42.461,
+    "geom:longitude":43.75571,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dodota",
+    "gn:country_code":"GE",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614880,
+    "gn:latitude":42.461,
+    "gn:longitude":43.75571,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dodota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dodotikau",
+        "Dodota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614880
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5b677198a5fd1c0044b0bc237e77e6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1242888767,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1242888767,
+    "wof:lastmodified":1537623258,
+    "wof:name":"Dodota",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75571,
+    42.46100000000001,
+    43.75571,
+    42.46100000000001
+],
+  "geometry": {"coordinates":[43.75571,42.46100000000001],"type":"Point"}
+}

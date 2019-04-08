@@ -1,0 +1,67 @@
+{
+  "id": 1326748805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.72949,41.67413,42.72949,41.67413",
+    "geom:latitude":41.67413,
+    "geom:longitude":42.72949,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ch'orch'ani",
+    "gn:country_code":"GE",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615100,
+    "gn:latitude":41.67413,
+    "gn:longitude":42.72949,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Ch\u2019orch\u2019ani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615100
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fb348ecbac1744807bcc9e3110153b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1326748805,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1326748805,
+    "wof:lastmodified":1536671740,
+    "wof:name":"Ch'orch'ani",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.72949000000001,
+    41.67413,
+    42.72949000000001,
+    41.67413
+],
+  "geometry": {"coordinates":[42.72949000000001,41.67413],"type":"Point"}
+}

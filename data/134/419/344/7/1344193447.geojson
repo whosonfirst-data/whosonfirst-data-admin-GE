@@ -1,0 +1,75 @@
+{
+  "id": 1344193447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.62639,42.35778,43.62639,42.35778",
+    "geom:latitude":42.35778,
+    "geom:longitude":43.62639,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"K'vemo K'arzmani",
+    "gn:country_code":"GE",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613467,
+    "gn:latitude":42.35778,
+    "gn:longitude":43.62639,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u2019vemo K\u2019arzmani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10e5\u10d0\u10e0\u10d6\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Dallag-Kanzman",
+        "Dallag-Karzman",
+        "K\u2019vemo K\u2019arzmani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613467
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"30fb3217bfb2957011d1db102d01e3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1344193447,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1344193447,
+    "wof:lastmodified":1537623178,
+    "wof:name":"K'vemo K'arzmani",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.62639,
+    42.35778,
+    43.62639,
+    42.35778
+],
+  "geometry": {"coordinates":[43.62639,42.35778],"type":"Point"}
+}

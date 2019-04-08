@@ -1,0 +1,78 @@
+{
+  "id": 1327245971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6565,41.29573,44.6565,41.29573",
+    "geom:latitude":41.29573,
+    "geom:longitude":44.6565,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tserak'vi",
+    "gn:country_code":"GE",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611525,
+    "gn:latitude":41.29573,
+    "gn:longitude":44.6565,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tserak\u2019vi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ec\u10d4\u10e0\u10d0\u10e5\u10d5\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0430\u043a\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tseravki",
+        "VerkhniyeTserakvi",
+        "Tserak\u2019vi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611525
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a4f1f7ee895aa101d97e79e6ec81d334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1327245971,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1327245971,
+    "wof:lastmodified":1537623066,
+    "wof:name":"Tserak'vi",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6565,
+    41.29573,
+    44.6565,
+    41.29573
+],
+  "geometry": {"coordinates":[44.6565,41.29573],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310415729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.71514,42.24222,43.71514,42.24222",
+    "geom:latitude":42.24222,
+    "geom:longitude":43.71514,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nagutni",
+    "gn:country_code":"GE",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612800,
+    "gn:latitude":42.24222,
+    "gn:longitude":43.71514,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nagutni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noguta",
+        "Nagutni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612800
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ef3711dd9894f0138814f7d4a302a848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1310415729,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310415729,
+    "wof:lastmodified":1537623139,
+    "wof:name":"Nagutni",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.71514000000001,
+    42.24222,
+    43.71514000000001,
+    42.24222
+],
+  "geometry": {"coordinates":[43.71514000000001,42.24222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243082461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98333,42.05,44.98333,42.05",
+    "geom:latitude":42.05,
+    "geom:longitude":44.98333,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Nakvetaurebi",
+    "gn:country_code":"GE",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612773,
+    "gn:latitude":42.05,
+    "gn:longitude":44.98333,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nakvetaurebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612773
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1cec015a5910581bd6d16a1403369375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1243082461,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243082461,
+    "wof:lastmodified":1536832107,
+    "wof:name":"Nakvetaurebi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98333,
+    42.05,
+    44.98333,
+    42.05
+],
+  "geometry": {"coordinates":[44.98333,42.05],"type":"Point"}
+}

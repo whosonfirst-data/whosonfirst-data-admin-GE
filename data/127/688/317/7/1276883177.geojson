@@ -1,0 +1,71 @@
+{
+  "id": 1276883177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59065,42.34116,45.59065,42.34116",
+    "geom:latitude":42.34116,
+    "geom:longitude":45.59065,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shtrolta",
+    "gn:country_code":"GE",
+    "gn:dem":1912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":611950,
+    "gn:latitude":42.34116,
+    "gn:longitude":45.59065,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shtrolta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Shtlorta",
+        "Shtrolta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611950
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"590ba949dbf50903e6848309e4509b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1276883177,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276883177,
+    "wof:lastmodified":1537623090,
+    "wof:name":"Shtrolta",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59065,
+    42.34116,
+    45.59065,
+    42.34116
+],
+  "geometry": {"coordinates":[45.59065,42.34116],"type":"Point"}
+}

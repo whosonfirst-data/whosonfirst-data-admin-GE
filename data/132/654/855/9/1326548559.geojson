@@ -1,0 +1,67 @@
+{
+  "id": 1326548559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.26611,42.31972,43.26611,42.31972",
+    "geom:latitude":42.31972,
+    "geom:longitude":43.26611,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sark'velt'ubani",
+    "gn:country_code":"GE",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800346,
+    "gn:latitude":42.31972,
+    "gn:longitude":43.26611,
+    "gn:modification_date":"2009-02-03",
+    "gn:name":"Sark\u2019velt\u2019ubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800346
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3f03b397573b64f9fe7f31f4b3a7accb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1326548559,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1326548559,
+    "wof:lastmodified":1536960388,
+    "wof:name":"Sark'velt'ubani",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.26611,
+    42.31972,
+    43.26611,
+    42.31972
+],
+  "geometry": {"coordinates":[43.26611,42.31972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326640117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27333,42.23597,43.27333,42.23597",
+    "geom:latitude":42.23597,
+    "geom:longitude":43.27333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tskhrukveti",
+    "gn:country_code":"GE",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611392,
+    "gn:latitude":42.23597,
+    "gn:longitude":43.27333,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Tskhrukveti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611392
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0b072d4cc6a69ee54ea229e33d2a244d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1326640117,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1326640117,
+    "wof:lastmodified":1536827397,
+    "wof:name":"Tskhrukveti",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27333,
+    42.23597,
+    43.27333,
+    42.23597
+],
+  "geometry": {"coordinates":[43.27333,42.23597],"type":"Point"}
+}

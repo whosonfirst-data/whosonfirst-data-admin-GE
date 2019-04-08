@@ -1,0 +1,73 @@
+{
+  "id": 1344175537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35347,42.17518,44.35347,42.17518",
+    "geom:latitude":42.17518,
+    "geom:longitude":44.35347,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Zemo Zakhori",
+    "gn:country_code":"GE",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610882,
+    "gn:latitude":42.17518,
+    "gn:longitude":44.35347,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Zemo Zakhori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zemo Zakhori"
+    ],
+    "name:und_x_variant":[
+        "Vuallag-Zakor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610882
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eb3409be66e6b821804af9808c16fbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1344175537,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1344175537,
+    "wof:lastmodified":1537623024,
+    "wof:name":"Zemo Zakhori",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35347,
+    42.17518,
+    44.35347,
+    42.17518
+],
+  "geometry": {"coordinates":[44.35347,42.17518],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276980773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65069,41.62892,41.65069,41.62892",
+    "geom:latitude":41.62892,
+    "geom:longitude":41.65069,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mnatobi",
+    "gn:country_code":"GE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612941,
+    "gn:latitude":41.62892,
+    "gn:longitude":41.65069,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mnatobi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Mnatobi"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10dc\u10d0\u10d7\u10dd\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043d\u0430\u0442\u043e\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Makhmudiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612941
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"94b4e084a3c89ee49169afd9b876a818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691257,
+            "locality_id":1276980773,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1276980773,
+    "wof:lastmodified":1537623147,
+    "wof:name":"Mnatobi",
+    "wof:parent_id":1108691257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65069,
+    41.62892,
+    41.65069,
+    41.62892
+],
+  "geometry": {"coordinates":[41.65069,41.62892],"type":"Point"}
+}

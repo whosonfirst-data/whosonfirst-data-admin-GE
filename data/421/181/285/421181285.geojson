@@ -1,0 +1,85 @@
+{
+  "id": 421181285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.341064,41.880945,43.341064,41.880945",
+    "geom:latitude":41.880945,
+    "geom:longitude":43.341064,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kharagaulis Raioni"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kharagaulis Raioni",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Kharagaulis Raioni",
+    "qs:photos":92,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":92,
+    "qs:photos_sr":3,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484695,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":20070385,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070385,
+        "qs:id":484695
+    },
+    "wof:country":"GE",
+    "wof:created":1459009291,
+    "wof:geomhash":"a697895acf08e1c16adf04b45dbd684a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "region_id":421181285
+        }
+    ],
+    "wof:id":421181285,
+    "wof:lang_x_official":[
+        "kat"
+    ],
+    "wof:lang_x_spoken":[
+        "kat",
+        "abk",
+        "oss"
+    ],
+    "wof:lastmodified":1529541196,
+    "wof:name":"Kharagaulis Raioni",
+    "wof:parent_id":85633163,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.341064,
+    41.880945,
+    43.341064,
+    41.880945
+],
+  "geometry": {"coordinates":[43.341064,41.880945],"type":"Point"}
+}

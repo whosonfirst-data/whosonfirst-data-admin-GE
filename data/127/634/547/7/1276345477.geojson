@@ -1,0 +1,70 @@
+{
+  "id": 1276345477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.84711,41.36994,44.84711,41.36994",
+    "geom:latitude":41.36994,
+    "geom:longitude":44.84711,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dashtapa",
+    "gn:country_code":"GE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615015,
+    "gn:latitude":41.36994,
+    "gn:longitude":44.84711,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Dashtapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e8\u10d7\u10d0\u10de\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615015
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"568d4040811af89aae6abc4c3adca3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1276345477,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1276345477,
+    "wof:lastmodified":1537623267,
+    "wof:name":"Dashtapa",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.84711,
+    41.36994,
+    44.84711,
+    41.36994
+],
+  "geometry": {"coordinates":[44.84711,41.36994],"type":"Point"}
+}

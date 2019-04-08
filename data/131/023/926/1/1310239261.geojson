@@ -1,0 +1,79 @@
+{
+  "id": 1310239261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.07916,41.92935,42.07916,41.92935",
+    "geom:latitude":41.92935,
+    "geom:longitude":42.07916,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Tskhemliskhidi",
+    "gn:country_code":"GE",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611411,
+    "gn:latitude":41.92935,
+    "gn:longitude":42.07916,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Tskhemliskhidi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Tskhemliskhidi"
+    ],
+    "name:kat_x_variant":[
+        "\u10ea\u10ee\u10d4\u10db\u10da\u10d8\u10e1\u10ee\u10d8\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0445\u0435\u043c\u043b\u0438\u0441\u0445\u0438\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tskhmeliskhidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611411
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d4449c61dfce6c9583625102a8a585d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1310239261,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1310239261,
+    "wof:lastmodified":1537623060,
+    "wof:name":"Tskhemliskhidi",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.07916,
+    41.92935,
+    42.07916,
+    41.92935
+],
+  "geometry": {"coordinates":[42.07916,41.92935],"type":"Point"}
+}

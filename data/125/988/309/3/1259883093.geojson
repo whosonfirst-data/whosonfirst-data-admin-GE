@@ -1,0 +1,75 @@
+{
+  "id": 1259883093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.5005,42.69609,41.5005,42.69609",
+    "geom:latitude":42.69609,
+    "geom:longitude":41.5005,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ilorgani",
+    "gn:country_code":"GE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614282,
+    "gn:latitude":42.69609,
+    "gn:longitude":41.5005,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ilorgani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ilori"
+    ],
+    "name:kat_x_variant":[
+        "Ilorgani",
+        "\u10d8\u10da\u10dd\u10e0\u10d2\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614282,
+        "wk:page":"Ilori"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4e6c39e95fbcab2b7482826c738a2aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1259883093,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259883093,
+    "wof:lastmodified":1537623222,
+    "wof:name":"Ilorgani",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.5005,
+    42.69609000000001,
+    41.5005,
+    42.69609000000001
+],
+  "geometry": {"coordinates":[41.5005,42.69609000000001],"type":"Point"}
+}

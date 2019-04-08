@@ -1,0 +1,70 @@
+{
+  "id": 1259898301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.515,41.70579,44.515,41.70579",
+    "geom:latitude":41.70579,
+    "geom:longitude":44.515,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dre",
+    "gn:country_code":"GE",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614860,
+    "gn:latitude":41.70579,
+    "gn:longitude":44.515,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Dre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10e0\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614860
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"73bffcfcefbf4a2fb2fda10328d92e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1259898301,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1259898301,
+    "wof:lastmodified":1537623257,
+    "wof:name":"Dre",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.515,
+    41.70579,
+    44.515,
+    41.70579
+],
+  "geometry": {"coordinates":[44.515,41.70579],"type":"Point"}
+}

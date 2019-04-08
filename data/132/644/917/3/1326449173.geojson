@@ -1,0 +1,71 @@
+{
+  "id": 1326449173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90585,42.6575,44.90585,42.6575",
+    "geom:latitude":42.6575,
+    "geom:longitude":44.90585,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Akhieli",
+    "gn:country_code":"GE",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615847,
+    "gn:latitude":42.6575,
+    "gn:longitude":44.90585,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Akhieli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhiyeli",
+        "Akhieli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615847
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9aeaeba8e6fad16addfb6f4b64e2142f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1326449173,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1326449173,
+    "wof:lastmodified":1537623312,
+    "wof:name":"Akhieli",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90585,
+    42.6575,
+    44.90585,
+    42.6575
+],
+  "geometry": {"coordinates":[44.90585,42.6575],"type":"Point"}
+}

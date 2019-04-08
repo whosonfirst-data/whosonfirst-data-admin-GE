@@ -1,0 +1,72 @@
+{
+  "id": 1326745031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.34083,41.29389,46.34083,41.29389",
+    "geom:latitude":41.29389,
+    "geom:longitude":46.34083,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Patara-Shiraki",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612451,
+    "gn:latitude":41.29389,
+    "gn:longitude":46.34083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Patara-Shiraki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malyye Shiraki",
+        "Patara-Shiraki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612451
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d8c1a61d350325454f46a392d9168abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691269,
+            "locality_id":1326745031,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1326745031,
+    "wof:lastmodified":1537623116,
+    "wof:name":"Patara-Shiraki",
+    "wof:parent_id":1108691269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.34083,
+    41.29389000000001,
+    46.34083,
+    41.29389000000001
+],
+  "geometry": {"coordinates":[46.34083,41.29389000000001],"type":"Point"}
+}

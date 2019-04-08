@@ -1,0 +1,70 @@
+{
+  "id": 1226477111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96042,41.90875,45.96042,41.90875",
+    "geom:latitude":41.90875,
+    "geom:longitude":45.96042,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Tivi",
+    "gn:country_code":"GE",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611652,
+    "gn:latitude":41.90875,
+    "gn:longitude":45.96042,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tivi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d7\u10d8\u10d5\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611652
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6ed1f7a46882227d17517647e415e0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691321,
+            "locality_id":1226477111,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1226477111,
+    "wof:lastmodified":1537623075,
+    "wof:name":"Tivi",
+    "wof:parent_id":1108691321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96042,
+    41.90875,
+    45.96042,
+    41.90875
+],
+  "geometry": {"coordinates":[45.96042,41.90875],"type":"Point"}
+}

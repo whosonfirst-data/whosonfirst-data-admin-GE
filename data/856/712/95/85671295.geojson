@@ -1,0 +1,201 @@
+{
+  "id": 85671295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.566936,
+    "geom:area_square_m":5156732614.358684,
+    "geom:bbox":"42.3525883316,42.3395864928,43.908160536,42.9344710723",
+    "geom:latitude":42.642324,
+    "geom:longitude":43.154233,
+    "iso:country":"GE",
+    "lbl:latitude":42.659001,
+    "lbl:longitude":43.246826,
+    "mps:latitude":42.659001,
+    "mps:longitude":43.246826,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:abk_x_preferred":[
+        "\u0420\u0430\u04b7\u0430-\u041b\u0435\u0447\u0445\u04d9\u044b\u043c-\u04b4\u0430\u049f\u0430\u0442\u04d9\u0438 \u0428\u04d9\u0430\u043d\u044b"
+    ],
+    "name:aze_x_preferred":[
+        "Ra\u00e7a-Le\u00e7xumi v\u0259 A\u015fa\u011f\u0131 Svaneti"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0456 \u0456 \u041a\u0432\u0435\u043c\u0430 \u0421\u0432\u0430\u043d\u0435\u0446\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0456 \u0456 \u041a\u0432\u044d\u043c\u0430 \u0421\u0432\u0430\u043d\u044d\u0446\u0456"
+    ],
+    "name:bre_x_preferred":[
+        "Ratcha-Letchc'houmi ha Khvemo Svanethi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0438 \u0438 \u0414\u043e\u043b\u043d\u0430 \u0421\u0432\u0430\u043d\u0435\u0442\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Racha-Lechkhumi and Kvemo Svaneti"
+    ],
+    "name:ces_x_preferred":[
+        "Ra\u010da-Le\u010dchumi a Doln\u00ed Svanetie"
+    ],
+    "name:deu_x_preferred":[
+        "Ratscha-Letschchumi und Niederswanetien"
+    ],
+    "name:eng_x_preferred":[
+        "Ambrolauris Raioni"
+    ],
+    "name:epo_x_preferred":[
+        "Ra\u0109a-Le\u0109\u0125umi kaj Kvemo Svaneti"
+    ],
+    "name:est_x_preferred":[
+        "Rat\u0161a-Let\u0161humi ja Khvemo Svanethi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0686\u0627-\u0644\u0686\u062e\u0648\u0645\u06cc \u0648 \u06a9\u0648\u0645\u0648 \u0633\u0648\u0627\u0646\u062a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Rat\u0161a-Let\u0161khumi ja Kvemo Svaneti"
+    ],
+    "name:fra_x_preferred":[
+        "Racha-Lechkhumi et Kvemo Svaneti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e6'\u05d4-\u05dc\u05e6'\u05d7\u05d5\u05de\u05d9 \u05d5\u05e1\u05d5\u05d5\u05d0\u05e0\u05ea\u05d9 \u05ea\u05d7\u05ea\u05d9\u05ea"
+    ],
+    "name:hun_x_preferred":[
+        "Racsa-Lecshumi \u00e9s Als\u00f3-Szvan\u00e9ti"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0573\u0561-\u053c\u0565\u0579\u056d\u0578\u0582\u0574 \u0587 \u0554\u057e\u0565\u0574\u0578 \u054d\u057e\u0561\u0576\u0565\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "Racha-Lechkhumi dan Kvemo Svaneti"
+    ],
+    "name:ita_x_preferred":[
+        "Racha-Lechkhumi e Kvemo Svaneti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c1\u30e3\uff1d\u30ec\u30c1\u30d5\u30df\u304a\u3088\u3073\u30af\u30f4\u30a7\u30e2\u30fb\u30b9\u30f4\u30a1\u30cd\u30c6\u30a3\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8\u10e1\u10d0 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ucc28\ub808\uce20\ud6c4\ubbf8\ud06c\ubca0\ubaa8\uc2a4\ubc14\ub124\ud2f0 \uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Ra\u010da-Le\u010dchumis ir Kvemo Svanetija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0438 \u0438 \u0414\u043e\u043b\u043d\u0430 \u0421\u0432\u0430\u043d\u0435\u0442\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Ratsja-Letsjchoemi en Kvemo Svaneti"
+    ],
+    "name:nor_x_preferred":[
+        "Racha-Lechkhumi og Kvemo Svaneti"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0430\u0446\u044a-\u041b\u0435\u0447\u0445\u0443\u043c \u00e6\u043c\u00e6 \u0414\u00e6\u043b\u043b\u0430\u0433 \u0421\u0443\u0430\u043d"
+    ],
+    "name:pam_x_preferred":[
+        "Racha-Lechkhumi at Kvemo Svaneti"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0686\u0627 \u0644\u06cc\u062e\u06cc\u0648\u0645\u06cc-\u062a\u06d2 \u06a9\u0648\u06cc\u0645\u0648 \u0633\u0648\u0627\u0646\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Racza-Leczchumi i Dolna Swanetia"
+    ],
+    "name:que_x_preferred":[
+        "Rat\u0161a-Let\u0161humi wan Khvemo Svanethi suyu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0438 \u0438 \u041d\u0438\u0436\u043d\u044f\u044f \u0421\u0432\u0430\u043d\u0435\u0442\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Racha-Lechkhumi an Kvemo Svaneti"
+    ],
+    "name:spa_x_preferred":[
+        "Racha-Lechjumi y Kvemo Svaneti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0438 \u0438 \u0414\u043e\u045a\u0430 \u0421\u0432\u0430\u043d\u0435\u0442\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ratja-Letjchumi och Nedre Svanetien"
+    ],
+    "name:tur_x_preferred":[
+        "Raca-Le\u00e7humi ve Kvemo Svaneti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0447\u0430-\u041b\u0435\u0447\u0445\u0443\u043c\u0456 \u0442\u0430 \u041a\u0432\u0435\u043c\u043e \u0421\u0432\u0430\u043d\u0435\u0442\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0686\u0627-\u0644\u0686\u062e\u0648\u0645\u06cc \u0648 \u06a9\u0648\u0645\u0648 \u0633\u0648\u0627\u0646\u062a\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Racha-Lechkhumi v\u00e0 Kvemo Svaneti"
+    ],
+    "name:war_x_preferred":[
+        "Racha-Lechkhumi ngan Kvemo Svaneti"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6070-\u5217\u5176\u547c\u7c73-\u4e0b\u65af\u74e6\u6d85\u5b63\u4e9e\u5dde"
+    ],
+    "qs:a0":"Georgia",
+    "qs:a0_lc":"GE",
+    "qs:a1":"Racha-Lechkhumi-Kvemo Svaneti",
+    "qs:a1_lc":"GEO-3035",
+    "qs:adm0":"Georgia",
+    "qs:adm0_a3":"GEO",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "qs:woeid":20070380,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":151,
+    "wof:belongsto":[
+        102191569,
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070380,
+        "wd:id":"Q38893"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ab7e3abcec40ff67b3e00d9d57c8b969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "region_id":85671295
+        }
+    ],
+    "wof:id":85671295,
+    "wof:lastmodified":1529540207,
+    "wof:name":"Racha-Lechkhumi-Kvemo Svaneti",
+    "wof:parent_id":85633163,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35258833158628,
+    42.33958649282243,
+    43.90816053598002,
+    42.93447107228224
+],
+  "geometry": {"coordinates":[[[43.38617831287888,42.88688235623579],[43.47959883751639,42.86746205692845],[43.51742598472146,42.86045990040412],[43.58625899245857,42.83562937409641],[43.60300215752358,42.82480316263587],[43.64434330220166,42.78857798318745],[43.66284346645284,42.77984466589868],[43.75596439633989,42.76312734015465],[43.78252564903954,42.75321298369232],[43.80061283381531,42.74646169035481],[43.81177494295929,42.71726450765095],[43.78872725425941,42.69307993648994],[43.7537939860037,42.67465728840318],[43.72568200711896,42.65440012766379],[43.72258142079596,42.6248670454778],[43.75110681173004,42.59874460887664],[43.79616866035542,42.58983042443458],[43.84500288887227,42.58703989737342],[43.88536218341807,42.57921091854911],[43.90816053598002,42.56628298966831],[43.90815229729071,42.56621348736263],[43.90215783111904,42.51564809808133],[43.84893110508648,42.4873552520433],[43.82712365073593,42.45823558190665],[43.80800337065909,42.45146596937906],[43.66899376804798,42.44332693129292],[43.58744835755573,42.39472524677279],[43.56645653074435,42.40044913751774],[43.5019755393397,42.41803131789106],[43.39996626163372,42.4118559845661],[43.29392622341652,42.42038259538054],[43.19894493975721,42.38361481447214],[43.16380496592649,42.35720815703087],[43.12163699714978,42.3443407255441],[43.05001346235144,42.33958649282243],[43.00236779223985,42.35943024331112],[42.98097374903932,42.36237580000324],[42.95606570836583,42.37725861309457],[42.94335330561063,42.408677882978],[42.89260704917604,42.4437403433422],[42.83741662018093,42.46975942625659],[42.81261193229489,42.46913930953156],[42.79049441868256,42.45265452688494],[42.76424279177149,42.4542048204961],[42.73902469273543,42.46200796179807],[42.6320544776321,42.43544627472585],[42.63122765533205,42.45678864198231],[42.62337283718676,42.47567637806247],[42.62306277882425,42.50104950583011],[42.61438113837886,42.52409719542931],[42.53831343012075,42.63613169981812],[42.56487511629365,42.67788625744487],[42.51950320840638,42.7119927034006],[42.40746870311818,42.75896657994377],[42.35258833158628,42.79379649541198],[42.37728966668482,42.82841970530524],[42.40901899583002,42.84159719515446],[42.44612267442193,42.84358673833736],[42.45821495865346,42.845860501461],[42.4690670103343,42.85198415794258],[42.4795056499658,42.87040680602934],[42.49190799255985,42.88714997019503],[42.51691938692022,42.88668488220162],[42.54162072111944,42.87810659454374],[42.6837309100535,42.85260427556693],[42.74222863094661,42.85095062916827],[42.7693070819563,42.85986481450965],[42.78139936708715,42.86748708775895],[42.79431847541736,42.87221548115957],[42.90294233602003,42.83614533134204],[42.97570275238019,42.84338003186303],[43.03771447074627,42.82570669171048],[43.06561974495531,42.82206350392761],[43.0834997897835,42.84301829755645],[43.08618696495654,42.87428253780894],[43.10840783135637,42.88955292452789],[43.14251427641278,42.92471873588102],[43.17522846122455,42.93447107228224],[43.19434492997459,42.92676076349846],[43.38617831287888,42.88688235623579]]],"type":"Polygon"}
+}

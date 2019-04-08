@@ -1,0 +1,76 @@
+{
+  "id": 1276689539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.98262,42.79449,42.98262,42.79449",
+    "geom:latitude":42.79449,
+    "geom:longitude":42.98262,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Sasashi",
+    "gn:country_code":"GE",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612089,
+    "gn:latitude":42.79449,
+    "gn:longitude":42.98262,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Sasashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sasashi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e1\u10d0\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u0430\u0448\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612089
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1a1068701927c90767a79bb01e9f8b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1276689539,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1276689539,
+    "wof:lastmodified":1537623096,
+    "wof:name":"Sasashi",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.98262,
+    42.79449,
+    42.98262,
+    42.79449
+],
+  "geometry": {"coordinates":[42.98262,42.79449],"type":"Point"}
+}

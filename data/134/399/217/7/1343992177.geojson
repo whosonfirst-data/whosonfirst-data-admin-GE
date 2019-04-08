@@ -1,0 +1,74 @@
+{
+  "id": 1343992177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23868,42.60083,42.23868,42.60083",
+    "geom:latitude":42.60083,
+    "geom:longitude":42.23868,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Nap'ich'khovo",
+    "gn:country_code":"GE",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612756,
+    "gn:latitude":42.60083,
+    "gn:longitude":42.23868,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nap\u2019ich\u2019khovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e4\u10d8\u10e9\u10ee\u10dd\u10d5\u10dd"
+    ],
+    "name:und_x_variant":[
+        "Napichkhu",
+        "Nap\u2019ich\u2019khovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612756
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f3b8ec1e2b3d3e49533f532070b5470c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691265,
+            "locality_id":1343992177,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1343992177,
+    "wof:lastmodified":1537623135,
+    "wof:name":"Nap'ich'khovo",
+    "wof:parent_id":1108691265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23868,
+    42.60083,
+    42.23868,
+    42.60083
+],
+  "geometry": {"coordinates":[42.23868,42.60083],"type":"Point"}
+}

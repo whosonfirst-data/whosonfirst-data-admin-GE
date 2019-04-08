@@ -1,0 +1,79 @@
+{
+  "id": 1276588915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31736,42.34272,42.31736,42.34272",
+    "geom:latitude":42.34272,
+    "geom:longitude":42.31736,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Najakhavo",
+    "gn:country_code":"GE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612674,
+    "gn:latitude":42.34272,
+    "gn:longitude":42.31736,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Najakhavo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10ef\u10d0\u10ee\u10d0\u10d5\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "Najakhavo"
+    ],
+    "name:und_x_variant":[
+        "Nodzhakhavo",
+        "Nodzhikhevi",
+        "Nadzhikhevi",
+        "Najakhavo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612674
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"072c760225c60c5e4d3b4e52df8bdd77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691333,
+            "locality_id":1276588915,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1276588915,
+    "wof:lastmodified":1537623131,
+    "wof:name":"Najakhavo",
+    "wof:parent_id":1108691333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31736,
+    42.34272,
+    42.31736,
+    42.34272
+],
+  "geometry": {"coordinates":[42.31736,42.34272],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243397201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48958,41.51496,44.48958,41.51496",
+    "geom:latitude":41.51496,
+    "geom:longitude":44.48958,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Samshvilde",
+    "gn:country_code":"GE",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612130,
+    "gn:latitude":41.51496,
+    "gn:longitude":44.48958,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Samshvilde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samshvilde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10e8\u10d5\u10d8\u10da\u10d3\u10d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0448\u0432\u0438\u043b\u0434\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612130
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6dd4168a683af59fa332f54f846ef10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1243397201,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1243397201,
+    "wof:lastmodified":1537623098,
+    "wof:name":"Samshvilde",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48958,
+    41.51496,
+    44.48958,
+    41.51496
+],
+  "geometry": {"coordinates":[44.48958,41.51496],"type":"Point"}
+}

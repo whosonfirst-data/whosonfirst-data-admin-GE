@@ -1,0 +1,73 @@
+{
+  "id": 1344181087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.24803,41.59208,42.24803,41.59208",
+    "geom:latitude":41.59208,
+    "geom:longitude":42.24803,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Momts'vari",
+    "gn:country_code":"GE",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7892040,
+    "gn:latitude":41.59208,
+    "gn:longitude":42.24803,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Momts\u2019vari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Momts\u2019vari"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10dd\u10db\u10ec\u10d5\u10d0\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7892040
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"12157bf208f5478407424e6c8cd3cf8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691363,
+            "locality_id":1344181087,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1344181087,
+    "wof:lastmodified":1537623356,
+    "wof:name":"Momts'vari",
+    "wof:parent_id":1108691363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.24803,
+    41.59208,
+    42.24803,
+    41.59208
+],
+  "geometry": {"coordinates":[42.24803,41.59208],"type":"Point"}
+}

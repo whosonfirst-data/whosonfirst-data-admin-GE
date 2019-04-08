@@ -1,0 +1,80 @@
+{
+  "id": 1226548497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.13684,42.94916,41.13684,42.94916",
+    "geom:latitude":42.94916,
+    "geom:longitude":41.13684,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zemo Gulripshi",
+    "gn:country_code":"GE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610960,
+    "gn:latitude":42.94916,
+    "gn:longitude":41.13684,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Zemo Gulripshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zemo Gulripshi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10db\u10dd \u10d2\u10e3\u10da\u10e0\u10d8\u10e4\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "Verkhniy Gul\u2019ripsh"
+    ],
+    "name:und_x_variant":[
+        "Gulripsh Verkhniy",
+        "Zemo-Gul\u2019ripshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610960
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"71b0c47d3e2dbd9af8fdf2397da26d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1226548497,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1226548497,
+    "wof:lastmodified":1537623031,
+    "wof:name":"Zemo Gulripshi",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.13684,
+    42.94916,
+    41.13684,
+    42.94916
+],
+  "geometry": {"coordinates":[41.13684,42.94916],"type":"Point"}
+}

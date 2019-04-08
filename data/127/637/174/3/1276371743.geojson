@@ -1,0 +1,74 @@
+{
+  "id": 1276371743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0824,42.92516,42.0824,42.92516",
+    "geom:latitude":42.92516,
+    "geom:longitude":42.0824,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Idliani",
+    "gn:country_code":"GE",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614295,
+    "gn:latitude":42.92516,
+    "gn:longitude":42.0824,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Idliani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d8\u10d3\u10da\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Idiani",
+        "Idliani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614295
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3f196f71952706cf9aa9e10c41322eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1276371743,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1276371743,
+    "wof:lastmodified":1537623223,
+    "wof:name":"Idliani",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0824,
+    42.92516,
+    42.0824,
+    42.92516
+],
+  "geometry": {"coordinates":[42.0824,42.92516],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1344067017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.15174,43.35861,40.15174,43.35861",
+    "geom:latitude":43.35861,
+    "geom:longitude":40.15174,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kholodnaia-Rech'ka",
+    "gn:country_code":"GE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613906,
+    "gn:latitude":43.35861,
+    "gn:longitude":40.15174,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kholodnaia-Rech\u2019ka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kholodnaia-Rech'ka"
+    ],
+    "name:kat_x_preferred":[
+        "Kholodnaia-Rech\u2019ka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043b\u043e\u0434\u043d\u0430\u044f_\u0440\u0435\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tsivtskaro",
+        "Kholodnaya Rechka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613906
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7780a4ce63de86e55a1d8ef45bfc5f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1344067017,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1344067017,
+    "wof:lastmodified":1537623204,
+    "wof:name":"Kholodnaia-Rech'ka",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.15174,
+    43.35861,
+    40.15174,
+    43.35861
+],
+  "geometry": {"coordinates":[40.15174,43.35861],"type":"Point"}
+}

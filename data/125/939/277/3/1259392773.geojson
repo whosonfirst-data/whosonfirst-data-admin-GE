@@ -1,0 +1,67 @@
+{
+  "id": 1259392773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11917,42.26639,44.11917,42.26639",
+    "geom:latitude":42.26639,
+    "geom:longitude":44.11917,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Charebi",
+    "gn:country_code":"GE",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615246,
+    "gn:latitude":42.26639,
+    "gn:longitude":44.11917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Charebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615246
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"628acef4b6f90f51cb0cc913df15ad7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1259392773,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1259392773,
+    "wof:lastmodified":1536987975,
+    "wof:name":"Charebi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11917,
+    42.26639,
+    44.11917,
+    42.26639
+],
+  "geometry": {"coordinates":[44.11917,42.26639],"type":"Point"}
+}

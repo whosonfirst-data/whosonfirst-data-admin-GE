@@ -1,0 +1,67 @@
+{
+  "id": 1276238441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03722,42.00333,45.03722,42.00333",
+    "geom:latitude":42.00333,
+    "geom:longitude":45.03722,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sionmsheni",
+    "gn:country_code":"GE",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800287,
+    "gn:latitude":42.00333,
+    "gn:longitude":45.03722,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sionmsheni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800287
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"64abeae64b43ed9c4834eaeb5b13bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1276238441,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276238441,
+    "wof:lastmodified":1536905963,
+    "wof:name":"Sionmsheni",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03722,
+    42.00333,
+    45.03722,
+    42.00333
+],
+  "geometry": {"coordinates":[45.03722,42.00333],"type":"Point"}
+}

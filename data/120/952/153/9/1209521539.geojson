@@ -1,0 +1,67 @@
+{
+  "id": 1209521539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.29993,41.56749,42.29993,41.56749",
+    "geom:latitude":41.56749,
+    "geom:longitude":42.29993,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Paposhvilebi",
+    "gn:country_code":"GE",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612515,
+    "gn:latitude":41.56749,
+    "gn:longitude":42.29993,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Paposhvilebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Paposhvilebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10d0\u10de\u10dd\u10e8\u10d5\u10d8\u10da\u10d4\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612515
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f925cbeb2912b723bea965c7bc008216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209521539
+        }
+    ],
+    "wof:id":1209521539,
+    "wof:lastmodified":1537623121,
+    "wof:name":"Paposhvilebi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.29993,
+    41.56749,
+    42.29993,
+    41.56749
+],
+  "geometry": {"coordinates":[42.29993,41.56749],"type":"Point"}
+}

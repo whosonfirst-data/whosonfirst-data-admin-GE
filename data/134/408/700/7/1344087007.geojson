@@ -1,0 +1,76 @@
+{
+  "id": 1344087007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.82731,41.90129,45.82731,41.90129",
+    "geom:latitude":41.90129,
+    "geom:longitude":45.82731,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Sanavardo",
+    "gn:country_code":"GE",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612118,
+    "gn:latitude":41.90129,
+    "gn:longitude":45.82731,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Sanavardo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sanavardo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d0\u10d5\u10d0\u10e0\u10d3\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0430\u0432\u0430\u0440\u0434\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612118
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d2b7061354306511303e5f229dcd4498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691321,
+            "locality_id":1344087007,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1344087007,
+    "wof:lastmodified":1537623097,
+    "wof:name":"Sanavardo",
+    "wof:parent_id":1108691321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.82731,
+    41.90129,
+    45.82731,
+    41.90129
+],
+  "geometry": {"coordinates":[45.82731,41.90129],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226352227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.58384,41.92433,45.58384,41.92433",
+    "geom:latitude":41.92433,
+    "geom:longitude":45.58384,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kondoli",
+    "gn:country_code":"GE",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613714,
+    "gn:latitude":41.92433,
+    "gn:longitude":45.58384,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kondoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kondoli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u043e\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613714
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8571daf6589b211a0c3955fd3feccad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":1226352227,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1226352227,
+    "wof:lastmodified":1537623194,
+    "wof:name":"Kondoli",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.58384,
+    41.92433,
+    45.58384,
+    41.92433
+],
+  "geometry": {"coordinates":[45.58384,41.92433],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226158027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9538,42.52664,44.9538,42.52664",
+    "geom:latitude":42.52664,
+    "geom:longitude":44.9538,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Chie",
+    "gn:country_code":"GE",
+    "gn:dem":1815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615159,
+    "gn:latitude":42.52664,
+    "gn:longitude":44.9538,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Chie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d4"
+    ],
+    "name:und_x_variant":[
+        "Chiye",
+        "Chie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615159
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fe978ead5fe6f83b1c072a6391ef38e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1226158027,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1226158027,
+    "wof:lastmodified":1537623276,
+    "wof:name":"Chie",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9538,
+    42.52664,
+    44.9538,
+    42.52664
+],
+  "geometry": {"coordinates":[44.9538,42.52664],"type":"Point"}
+}

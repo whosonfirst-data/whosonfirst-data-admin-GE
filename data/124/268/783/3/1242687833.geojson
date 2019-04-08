@@ -1,0 +1,67 @@
+{
+  "id": 1242687833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.68056,42.64944,41.68056,42.64944",
+    "geom:latitude":42.64944,
+    "geom:longitude":41.68056,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pirveli-Shesheleti",
+    "gn:country_code":"GE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874136,
+    "gn:latitude":42.64944,
+    "gn:longitude":41.68056,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Pirveli-Shesheleti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874136
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4011dbee38205c971b1d1e1257ea0b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1242687833,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1242687833,
+    "wof:lastmodified":1536905106,
+    "wof:name":"Pirveli-Shesheleti",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.68056,
+    42.64944000000001,
+    41.68056,
+    42.64944000000001
+],
+  "geometry": {"coordinates":[41.68056,42.64944000000001],"type":"Point"}
+}

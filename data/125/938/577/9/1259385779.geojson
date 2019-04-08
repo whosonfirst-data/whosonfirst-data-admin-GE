@@ -1,0 +1,73 @@
+{
+  "id": 1259385779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09106,43.03921,41.09106,43.03921",
+    "geom:latitude":43.03921,
+    "geom:longitude":41.09106,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gvarda",
+    "gn:country_code":"GE",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865410,
+    "gn:latitude":43.03921,
+    "gn:longitude":41.09106,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gvarda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10d5\u10d0\u10e0\u10d3\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Gvarda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865410
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"47dfa97db7277db3c1d78f73a401cd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1259385779,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259385779,
+    "wof:lastmodified":1537623342,
+    "wof:name":"Gvarda",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09106,
+    43.03921,
+    41.09106,
+    43.03921
+],
+  "geometry": {"coordinates":[41.09106,43.03921],"type":"Point"}
+}

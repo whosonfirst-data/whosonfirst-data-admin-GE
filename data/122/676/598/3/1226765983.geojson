@@ -1,0 +1,67 @@
+{
+  "id": 1226765983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.97111,41.93722,44.97111,41.93722",
+    "geom:latitude":41.93722,
+    "geom:longitude":44.97111,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Trani",
+    "gn:country_code":"GE",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611582,
+    "gn:latitude":41.93722,
+    "gn:longitude":44.97111,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Trani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611582
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d869cd1bc7cedb6d48f72809a36a0a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1226765983,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1226765983,
+    "wof:lastmodified":1536686429,
+    "wof:name":"Trani",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.97111,
+    41.93722,
+    44.97111,
+    41.93722
+],
+  "geometry": {"coordinates":[44.97111,41.93722],"type":"Point"}
+}

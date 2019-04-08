@@ -1,0 +1,77 @@
+{
+  "id": 1209825547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.46633,41.71994,45.46633,41.71994",
+    "geom:latitude":41.71994,
+    "geom:longitude":45.46633,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manavi",
+    "gn:country_code":"GE",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613098,
+    "gn:latitude":41.71994,
+    "gn:longitude":45.46633,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Manavi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manavi"
+    ],
+    "name:kat_x_preferred":[
+        "Manavi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0432\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613098,
+        "wk:page":"Manavi"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a439980e8d7922d6fd5513558ebe0ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1209825547,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1209825547,
+    "wof:lastmodified":1537623157,
+    "wof:name":"Manavi",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.46633,
+    41.71994,
+    45.46633,
+    41.71994
+],
+  "geometry": {"coordinates":[45.46633,41.71994],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276581383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.58786,41.64496,43.58786,41.64496",
+    "geom:latitude":41.64496,
+    "geom:longitude":43.58786,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Molit'i",
+    "gn:country_code":"GE",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612925,
+    "gn:latitude":41.64496,
+    "gn:longitude":43.58786,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Molit\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10d8\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Molit\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612925
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"60c9543715ed59840cd63338e03bc310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1276581383,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1276581383,
+    "wof:lastmodified":1537623146,
+    "wof:name":"Molit'i",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.58786,
+    41.64496,
+    43.58786,
+    41.64496
+],
+  "geometry": {"coordinates":[43.58786,41.64496],"type":"Point"}
+}

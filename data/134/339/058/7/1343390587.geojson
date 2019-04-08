@@ -1,0 +1,74 @@
+{
+  "id": 1343390587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.665,41.75333,44.665,41.75333",
+    "geom:latitude":41.75333,
+    "geom:longitude":44.665,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Lisi",
+    "gn:country_code":"GE",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613186,
+    "gn:latitude":41.75333,
+    "gn:longitude":44.665,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Lisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10e1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Zemo-Lisi",
+        "Lisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613186
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"366f7ba1cc7dc29e0497772fa2bcd534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1343390587,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343390587,
+    "wof:lastmodified":1537623161,
+    "wof:name":"Lisi",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.665,
+    41.75333,
+    44.665,
+    41.75333
+],
+  "geometry": {"coordinates":[44.665,41.75333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259789797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.97611,41.79,41.97611,41.79",
+    "geom:latitude":41.79,
+    "geom:longitude":41.97611,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"T'q'emak'aravi",
+    "gn:country_code":"GE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611645,
+    "gn:latitude":41.79,
+    "gn:longitude":41.97611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"T\u2019q\u2019emak\u2019aravi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "T\u2019q\u2019emak\u2019aravi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e2\u10e7\u10d4\u10db\u10d0\u10d9\u10d0\u10e0\u10d0\u10d5\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tkemakaravi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611645
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"083f109adceeb2fbfda02b977164a04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1259789797,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1259789797,
+    "wof:lastmodified":1537623074,
+    "wof:name":"T'q'emak'aravi",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.97611,
+    41.79,
+    41.97611,
+    41.79
+],
+  "geometry": {"coordinates":[41.97611,41.79],"type":"Point"}
+}

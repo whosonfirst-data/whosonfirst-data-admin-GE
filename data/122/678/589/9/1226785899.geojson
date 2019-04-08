@@ -1,0 +1,76 @@
+{
+  "id": 1226785899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51484,41.95723,43.51484,41.95723",
+    "geom:latitude":41.95723,
+    "geom:longitude":43.51484,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Satibebi",
+    "gn:country_code":"GE",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612078,
+    "gn:latitude":41.95723,
+    "gn:longitude":43.51484,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Satibebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Satibebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10d7\u10d8\u10d1\u10d4\u10d1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Sative"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612078
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bd8ff0cc68ae5d4208fceb863f8cb625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1226785899,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226785899,
+    "wof:lastmodified":1537623095,
+    "wof:name":"Satibebi",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51484,
+    41.95723,
+    43.51484,
+    41.95723
+],
+  "geometry": {"coordinates":[43.51484,41.95723],"type":"Point"}
+}

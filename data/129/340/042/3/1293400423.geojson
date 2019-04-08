@@ -1,0 +1,77 @@
+{
+  "id": 1293400423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.88417,42.14496,42.88417,42.14496",
+    "geom:latitude":42.14496,
+    "geom:longitude":42.88417,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Svetmaghali",
+    "gn:country_code":"GE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612304,
+    "gn:latitude":42.14496,
+    "gn:longitude":42.88417,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Svetmaghali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Svetmaghali"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d5\u10d4\u10e2\u10db\u10d0\u10e6\u10d0\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Rodinouli",
+        "Rodinauli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612304
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6122e26dafb0be28b3b802c3f72ff687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691399,
+            "locality_id":1293400423,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1293400423,
+    "wof:lastmodified":1537623109,
+    "wof:name":"Svetmaghali",
+    "wof:parent_id":1108691399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.88417000000001,
+    42.14496,
+    42.88417000000001,
+    42.14496
+],
+  "geometry": {"coordinates":[42.88417000000001,42.14496],"type":"Point"}
+}

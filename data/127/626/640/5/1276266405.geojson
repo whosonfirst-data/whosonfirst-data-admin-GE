@@ -1,0 +1,73 @@
+{
+  "id": 1276266405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01484,41.96873,42.01484,41.96873",
+    "geom:latitude":41.96873,
+    "geom:longitude":42.01484,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Kveda Nasak'irali",
+    "gn:country_code":"GE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9506675,
+    "gn:latitude":41.96873,
+    "gn:longitude":42.01484,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Kveda Nasak\u2019irali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kveda Nasak\u2019irali"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10dc\u10d0\u10e1\u10d0\u10d9\u10d8\u10e0\u10d0\u10da\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9506675
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ef9c0a8a0030dea21a7b77dde7098947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1276266405,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1276266405,
+    "wof:lastmodified":1537623359,
+    "wof:name":"Kveda Nasak'irali",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01484,
+    41.96873,
+    42.01484,
+    41.96873
+],
+  "geometry": {"coordinates":[42.01484,41.96873],"type":"Point"}
+}

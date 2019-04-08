@@ -1,0 +1,80 @@
+{
+  "id": 1344091373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.96913,41.70264,43.96913,41.70264",
+    "geom:latitude":41.70264,
+    "geom:longitude":43.96913,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Khach'k'oi",
+    "gn:country_code":"GE",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614030,
+    "gn:latitude":41.70264,
+    "gn:longitude":43.96913,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khach\u2019k\u2019oi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khach'k'oi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e9\u10d9\u10dd\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0447\u043a\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Khachkoy",
+        "Khach\u2019k\u2019oi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614030
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fdddbec613f2ef670473625df239231b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691389,
+            "locality_id":1344091373,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1344091373,
+    "wof:lastmodified":1537623209,
+    "wof:name":"Khach'k'oi",
+    "wof:parent_id":1108691389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.96913,
+    41.70264,
+    43.96913,
+    41.70264
+],
+  "geometry": {"coordinates":[43.96913,41.70264],"type":"Point"}
+}

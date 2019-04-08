@@ -1,0 +1,67 @@
+{
+  "id": 1209621369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33076,41.69293,42.33076,41.69293",
+    "geom:latitude":41.69293,
+    "geom:longitude":42.33076,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"K'urtskhali",
+    "gn:country_code":"GE",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7895290,
+    "gn:latitude":41.69293,
+    "gn:longitude":42.33076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"K\u2019urtskhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019urtskhali"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e3\u10e0\u10ea\u10ee\u10d0\u10da\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7895290
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"53c75bec844ff4e8f26949a7844389d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209621369
+        }
+    ],
+    "wof:id":1209621369,
+    "wof:lastmodified":1537623357,
+    "wof:name":"K'urtskhali",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33076,
+    41.69293,
+    42.33076,
+    41.69293
+],
+  "geometry": {"coordinates":[42.33076,41.69293],"type":"Point"}
+}

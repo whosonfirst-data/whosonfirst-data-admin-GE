@@ -1,0 +1,104 @@
+{
+  "id": 1326544717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17119,41.96553,44.17119,41.96553",
+    "geom:latitude":41.96553,
+    "geom:longitude":44.17119,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Uplistsikhe",
+    "gn:country_code":"GE",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611283,
+    "gn:latitude":41.96553,
+    "gn:longitude":44.17119,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Uplistsikhe",
+    "gn:population":728,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Uplisciche"
+    ],
+    "name:deu_x_preferred":[
+        "Uplisziche"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u0644\u06cc\u0633\u062a\u0633\u06cc\u062e\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Ouplistsikh\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0583\u056c\u056b\u057d\u0581\u056b\u056d\u0565"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e4\u10da\u10d8\u10e1\u10ea\u10d8\u10ee\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ud504\ub9ac\uc2a4\uce58\ucf00"
+    ],
+    "name:pol_x_preferred":[
+        "Uplisciche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043f\u043b\u0438\u0441\u0446\u0438\u0445\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043f\u043b\u0438\u0441\u0446\u0438\u0445\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043f\u043b\u0456\u0441\u0446\u0438\u0445\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611283,
+        "wk:page":"Uplistsikhe"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"75c7bd6bbc92c22dfe5596011aaf5ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1326544717,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1326544717,
+    "wof:lastmodified":1537623052,
+    "wof:name":"Uplistsikhe",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:population":728,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17119,
+    41.96553,
+    44.17119,
+    41.96553
+],
+  "geometry": {"coordinates":[44.17119,41.96553],"type":"Point"}
+}

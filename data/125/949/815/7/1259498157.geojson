@@ -1,0 +1,67 @@
+{
+  "id": 1259498157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42943,41.44371,44.42943,41.44371",
+    "geom:latitude":41.44371,
+    "geom:longitude":44.42943,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'veshi",
+    "gn:country_code":"GE",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613385,
+    "gn:latitude":41.44371,
+    "gn:longitude":44.42943,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"K\u2019veshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613385
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"16033850d19866fb8d81cc0cd1d638ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1259498157,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1259498157,
+    "wof:lastmodified":1536836601,
+    "wof:name":"K'veshi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42943,
+    41.44371,
+    44.42943,
+    41.44371
+],
+  "geometry": {"coordinates":[44.42943,41.44371],"type":"Point"}
+}

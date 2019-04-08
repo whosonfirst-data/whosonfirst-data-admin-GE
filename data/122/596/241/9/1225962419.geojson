@@ -1,0 +1,76 @@
+{
+  "id": 1225962419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.62306,41.85972,45.62306,41.85972",
+    "geom:latitude":41.85972,
+    "geom:longitude":45.62306,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akura",
+    "gn:country_code":"GE",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615824,
+    "gn:latitude":41.85972,
+    "gn:longitude":45.62306,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Akura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akura"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10e3\u10e0\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0443\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615824
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a154cf418ed1425ceefeb30b39215b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":1225962419,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1225962419,
+    "wof:lastmodified":1537623311,
+    "wof:name":"Akura",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.62306,
+    41.85972,
+    45.62306,
+    41.85972
+],
+  "geometry": {"coordinates":[45.62306,41.85972],"type":"Point"}
+}

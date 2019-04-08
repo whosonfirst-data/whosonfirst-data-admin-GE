@@ -1,0 +1,70 @@
+{
+  "id": 1259994273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.73306,41.79778,45.73306,41.79778",
+    "geom:latitude":41.79778,
+    "geom:longitude":45.73306,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zegaani",
+    "gn:country_code":"GE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611009,
+    "gn:latitude":41.79778,
+    "gn:longitude":45.73306,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zegaani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d2\u10d0\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611009
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"76712f07e43aa2e1a8f604c0dfac2b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1259994273,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1259994273,
+    "wof:lastmodified":1537623036,
+    "wof:name":"Zegaani",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.73306,
+    41.79778,
+    45.73306,
+    41.79778
+],
+  "geometry": {"coordinates":[45.73306,41.79778],"type":"Point"}
+}

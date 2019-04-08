@@ -1,0 +1,94 @@
+{
+  "id": 421197091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.03209,43.08334,41.03209,43.08334",
+    "geom:latitude":43.08334,
+    "geom:longitude":41.03209,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Shroma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e0\u10dd\u10db\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Shroma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0440\u043e\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mikhaylovka"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":611955,
+    "qs:gn_pop":100,
+    "qs:name":"Shroma",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Abkhazia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":1301448,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1965727,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611955,
+        "gp:id":1965727,
+        "qs:id":1301448
+    },
+    "wof:country":"GE",
+    "wof:created":1459009902,
+    "wof:geomhash":"5fb4b913844a035ed07ce4792d43ffc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":421197091,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":421197091,
+    "wof:lastmodified":1505340749,
+    "wof:name":"Shroma",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.03209,
+    43.08334,
+    41.03209,
+    43.08334
+],
+  "geometry": {"coordinates":[41.03209,43.08334],"type":"Point"}
+}

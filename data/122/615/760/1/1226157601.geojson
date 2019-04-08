@@ -1,0 +1,70 @@
+{
+  "id": 1226157601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.33232,41.92387,44.33232,41.92387",
+    "geom:latitude":41.92387,
+    "geom:longitude":44.33232,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barnabiantkari",
+    "gn:country_code":"GE",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615547,
+    "gn:latitude":41.92387,
+    "gn:longitude":44.33232,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Barnabiantkari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10dc\u10d0\u10d1\u10d8\u10d0\u10dc\u10d7\u10d9\u10d0\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615547
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"70ba623351d0ac850d605ff3b844a15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1226157601,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226157601,
+    "wof:lastmodified":1537623295,
+    "wof:name":"Barnabiantkari",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.33232,
+    41.92387,
+    44.33232,
+    41.92387
+],
+  "geometry": {"coordinates":[44.33232,41.92387],"type":"Point"}
+}

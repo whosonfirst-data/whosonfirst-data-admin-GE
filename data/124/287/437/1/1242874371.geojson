@@ -1,0 +1,76 @@
+{
+  "id": 1242874371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.77833,41.55611,41.77833,41.55611",
+    "geom:latitude":41.55611,
+    "geom:longitude":41.77833,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ch'ink'adzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615179,
+    "gn:latitude":41.55611,
+    "gn:longitude":41.77833,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ch\u2019ink\u2019adzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019ink\u2019adzeebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d8\u10dc\u10d9\u10d0\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Chinkadzeyebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615179
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"85df5d1e96e01244548521897ea0fbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1242874371,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1242874371,
+    "wof:lastmodified":1537623277,
+    "wof:name":"Ch'ink'adzeebi",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.77833,
+    41.55611,
+    41.77833,
+    41.55611
+],
+  "geometry": {"coordinates":[41.77833,41.55611],"type":"Point"}
+}

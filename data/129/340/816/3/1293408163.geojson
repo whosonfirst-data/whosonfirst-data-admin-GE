@@ -1,0 +1,67 @@
+{
+  "id": 1293408163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.62774,41.43449,44.62774,41.43449",
+    "geom:latitude":41.43449,
+    "geom:longitude":44.62774,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kochulo",
+    "gn:country_code":"GE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613756,
+    "gn:latitude":41.43449,
+    "gn:longitude":44.62774,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Kochulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613756
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3056b0d6ee2d39025e0d1eaa45803ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1293408163,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1293408163,
+    "wof:lastmodified":1536901481,
+    "wof:name":"Kochulo",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.62774,
+    41.43449,
+    44.62774,
+    41.43449
+],
+  "geometry": {"coordinates":[44.62774,41.43449],"type":"Point"}
+}

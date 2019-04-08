@@ -1,0 +1,73 @@
+{
+  "id": 1343296627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.41113,42.08922,42.41113,42.08922",
+    "geom:latitude":42.08922,
+    "geom:longitude":42.41113,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kveda Ets'eri",
+    "gn:country_code":"GE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613554,
+    "gn:latitude":42.08922,
+    "gn:longitude":42.41113,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kveda Ets\u2019eri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kveda Ets\u2019eri"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10d4\u10ec\u10d4\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613554
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cd23d4e420cd465d9dba809e2b5a5bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691395,
+            "locality_id":1343296627,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1343296627,
+    "wof:lastmodified":1537623186,
+    "wof:name":"Kveda Ets'eri",
+    "wof:parent_id":1108691395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.41113,
+    42.08922000000001,
+    42.41113,
+    42.08922000000001
+],
+  "geometry": {"coordinates":[42.41113,42.08922000000001],"type":"Point"}
+}

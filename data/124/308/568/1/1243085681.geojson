@@ -1,0 +1,67 @@
+{
+  "id": 1243085681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28838,41.94086,44.28838,41.94086",
+    "geom:latitude":41.94086,
+    "geom:longitude":44.28838,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grakali",
+    "gn:country_code":"GE",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614445,
+    "gn:latitude":41.94086,
+    "gn:longitude":44.28838,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Grakali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614445
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fe5e30fa0da0bf44f2c9d098388cdb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1243085681,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1243085681,
+    "wof:lastmodified":1536827614,
+    "wof:name":"Grakali",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28838,
+    41.94086,
+    44.28838,
+    41.94086
+],
+  "geometry": {"coordinates":[44.28838,41.94086],"type":"Point"}
+}

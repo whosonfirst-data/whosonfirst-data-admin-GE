@@ -1,0 +1,73 @@
+{
+  "id": 1293502195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.59889,42.35586,45.59889,42.35586",
+    "geom:latitude":42.35586,
+    "geom:longitude":45.59889,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chiglaurt'a",
+    "gn:country_code":"GE",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":615202,
+    "gn:latitude":42.35586,
+    "gn:longitude":45.59889,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Chiglaurt\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kat_x_preferred":[
+        "Chiglaurt\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10e9\u10d8\u10d2\u10da\u10d0\u10e3\u10e0\u10d7\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615202
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"32a0a125cb9ff8282b4daec2112a1416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1293502195,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1293502195,
+    "wof:lastmodified":1537623278,
+    "wof:name":"Chiglaurt'a",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.59889,
+    42.35586,
+    45.59889,
+    42.35586
+],
+  "geometry": {"coordinates":[45.59889,42.35586],"type":"Point"}
+}

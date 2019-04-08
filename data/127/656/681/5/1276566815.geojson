@@ -1,0 +1,73 @@
+{
+  "id": 1276566815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26917,42.40969,44.26917,42.40969",
+    "geom:latitude":42.40969,
+    "geom:longitude":44.26917,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lats'auri",
+    "gn:country_code":"GE",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613354,
+    "gn:latitude":42.40969,
+    "gn:longitude":44.26917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lats\u2019auri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Lats\u2019auri"
+    ],
+    "name:und_x_variant":[
+        "Lachauri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613354
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0ffaea642199b5866da55f59410f2c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1276566815,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1276566815,
+    "wof:lastmodified":1537623170,
+    "wof:name":"Lats'auri",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26917,
+    42.40969000000001,
+    44.26917,
+    42.40969000000001
+],
+  "geometry": {"coordinates":[44.26917,42.40969000000001],"type":"Point"}
+}

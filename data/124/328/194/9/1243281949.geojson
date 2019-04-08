@@ -1,0 +1,67 @@
+{
+  "id": 1243281949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1928,41.43617,44.1928,41.43617",
+    "geom:latitude":41.43617,
+    "geom:longitude":44.1928,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sadzha",
+    "gn:country_code":"GE",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612245,
+    "gn:latitude":41.43617,
+    "gn:longitude":44.1928,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Sadzha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612245
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"246c6e547bfed0aef3b12a6fed5e920f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1243281949,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1243281949,
+    "wof:lastmodified":1537040938,
+    "wof:name":"Sadzha",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1928,
+    41.43617,
+    44.1928,
+    41.43617
+],
+  "geometry": {"coordinates":[44.1928,41.43617],"type":"Point"}
+}

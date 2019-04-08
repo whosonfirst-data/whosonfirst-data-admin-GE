@@ -1,0 +1,73 @@
+{
+  "id": 1310106193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.96517,41.96409,41.96517,41.96409",
+    "geom:latitude":41.96409,
+    "geom:longitude":41.96517,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chaniyeturi",
+    "gn:country_code":"GE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615251,
+    "gn:latitude":41.96409,
+    "gn:longitude":41.96517,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Chaniyeturi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019anieturi"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d0\u10dc\u10d8\u10e3\u10d7\u10e3\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615251
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ace96672c6205a6e6e02506ceb2065d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1310106193,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1310106193,
+    "wof:lastmodified":1537623281,
+    "wof:name":"Chaniyeturi",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.96517,
+    41.96409,
+    41.96517,
+    41.96409
+],
+  "geometry": {"coordinates":[41.96517,41.96409],"type":"Point"}
+}

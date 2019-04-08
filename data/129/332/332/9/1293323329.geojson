@@ -1,0 +1,77 @@
+{
+  "id": 1293323329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98389,41.90944,41.98389,41.90944",
+    "geom:latitude":41.90944,
+    "geom:longitude":41.98389,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Anaseuli",
+    "gn:country_code":"GE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615756,
+    "gn:latitude":41.90944,
+    "gn:longitude":41.98389,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Anaseuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d0\u10e1\u10d4\u10e3\u10da\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Anaseuli"
+    ],
+    "name:und_x_variant":[
+        "Anasouli",
+        "Anaseuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615756
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1e7a01dd070d10c6201ad1f09a8e818c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1293323329,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1293323329,
+    "wof:lastmodified":1537623307,
+    "wof:name":"Anaseuli",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98389,
+    41.90944,
+    41.98389,
+    41.90944
+],
+  "geometry": {"coordinates":[41.98389,41.90944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209142371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.22652,41.97913,42.22652,41.97913",
+    "geom:latitude":41.97913,
+    "geom:longitude":42.22652,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Int'abueti",
+    "gn:country_code":"GE",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614255,
+    "gn:latitude":41.97913,
+    "gn:longitude":42.22652,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Int\u2019abueti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Int\u2019abueti"
+    ],
+    "name:kat_x_variant":[
+        "\u10d8\u10dc\u10e2\u10d0\u10d1\u10e3\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Intabuyeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614255
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"73f9da3added27557179754a38f16640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209142371
+        }
+    ],
+    "wof:id":1209142371,
+    "wof:lastmodified":1537623221,
+    "wof:name":"Int'abueti",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.22652,
+    41.97913,
+    42.22652,
+    41.97913
+],
+  "geometry": {"coordinates":[42.22652,41.97913],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209425075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.88333,41.55,41.88333,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":41.88333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Derekhokhna",
+    "gn:country_code":"GE",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614991,
+    "gn:latitude":41.55,
+    "gn:longitude":41.88333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Derekhokhna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614991
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9fffc98413ab3b70defc0d1a43a5945e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209425075
+        }
+    ],
+    "wof:id":1209425075,
+    "wof:lastmodified":1536287406,
+    "wof:name":"Derekhokhna",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.88333,
+    41.55,
+    41.88333,
+    41.55
+],
+  "geometry": {"coordinates":[41.88333,41.55],"type":"Point"}
+}

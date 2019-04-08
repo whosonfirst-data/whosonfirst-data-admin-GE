@@ -1,0 +1,70 @@
+{
+  "id": 1293898587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13097,41.78986,46.13097,41.78986",
+    "geom:latitude":41.78986,
+    "geom:longitude":46.13097,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Karsubani",
+    "gn:country_code":"GE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614120,
+    "gn:latitude":41.78986,
+    "gn:longitude":46.13097,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karsubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Karsubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614120
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"701cc9622bfb4f9079076318e574f1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1293898587,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1293898587,
+    "wof:lastmodified":1537623214,
+    "wof:name":"Karsubani",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13097,
+    41.78986,
+    46.13097,
+    41.78986
+],
+  "geometry": {"coordinates":[46.13097,41.78986],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209945395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1389,42.25524,42.1389,42.25524",
+    "geom:latitude":42.25524,
+    "geom:longitude":42.1389,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Sak'ilasonio",
+    "gn:country_code":"GE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7530599,
+    "gn:latitude":42.25524,
+    "gn:longitude":42.1389,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Sak\u2019ilasonio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Sak\u2019ilasonio"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10d9\u10d8\u10da\u10d0\u10e1\u10dd\u10dc\u10d8\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7530599
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c1dfc78167235b413e335e5076b1cc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":1209945395,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1209945395,
+    "wof:lastmodified":1537623354,
+    "wof:name":"Sak'ilasonio",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1389,
+    42.25524,
+    42.1389,
+    42.25524
+],
+  "geometry": {"coordinates":[42.1389,42.25524],"type":"Point"}
+}

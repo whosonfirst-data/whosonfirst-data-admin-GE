@@ -1,0 +1,72 @@
+{
+  "id": 1242592367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90299,42.4569,43.90299,42.4569",
+    "geom:latitude":42.4569,
+    "geom:longitude":43.90299,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsamadi",
+    "gn:country_code":"GE",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611544,
+    "gn:latitude":42.4569,
+    "gn:longitude":43.90299,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsamadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsamad",
+        "Tsamat",
+        "Tsamadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611544
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"544281500e0658e97f9fb2b7a42eb4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1242592367,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1242592367,
+    "wof:lastmodified":1537623067,
+    "wof:name":"Tsamadi",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90299,
+    42.4569,
+    43.90299,
+    42.4569
+],
+  "geometry": {"coordinates":[43.90299,42.4569],"type":"Point"}
+}

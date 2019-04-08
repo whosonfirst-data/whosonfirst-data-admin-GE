@@ -1,0 +1,73 @@
+{
+  "id": 1225962653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.86867,43.32456,40.86867,43.32456",
+    "geom:latitude":43.32456,
+    "geom:longitude":40.86867,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Reshevie",
+    "gn:country_code":"GE",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824148,
+    "gn:latitude":43.32456,
+    "gn:longitude":40.86867,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Reshevie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Reshevie"
+    ],
+    "name:kat_x_variant":[
+        "\u10e0\u10d4\u10e8\u10d4\u10d5\u10d8\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824148
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d05eaf26ef81e3d6a37a2fd33b3a58c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1225962653,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1225962653,
+    "wof:lastmodified":1537623335,
+    "wof:name":"Reshevie",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.86867,
+    43.32456,
+    40.86867,
+    43.32456
+],
+  "geometry": {"coordinates":[40.86867,43.32456],"type":"Point"}
+}

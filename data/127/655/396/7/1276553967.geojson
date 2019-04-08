@@ -1,0 +1,76 @@
+{
+  "id": 1276553967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.87005,41.48788,41.87005,41.48788",
+    "geom:latitude":41.48788,
+    "geom:longitude":41.87005,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kokoleti",
+    "gn:country_code":"GE",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613730,
+    "gn:latitude":41.48788,
+    "gn:longitude":41.87005,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kokoleti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kokoleti"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10dd\u10e5\u10dd\u10da\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Kobaleti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613730
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cd647980aff701f4e45e0b730d6ae7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1276553967,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1276553967,
+    "wof:lastmodified":1537623195,
+    "wof:name":"Kokoleti",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.87005,
+    41.48788,
+    41.87005,
+    41.48788
+],
+  "geometry": {"coordinates":[41.87005,41.48788],"type":"Point"}
+}

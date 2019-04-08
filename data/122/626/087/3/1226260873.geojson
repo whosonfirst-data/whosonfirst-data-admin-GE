@@ -1,0 +1,73 @@
+{
+  "id": 1226260873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13477,42.14731,44.13477,42.14731",
+    "geom:latitude":42.14731,
+    "geom:longitude":44.13477,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'veshi",
+    "gn:country_code":"GE",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613384,
+    "gn:latitude":42.14731,
+    "gn:longitude":44.13477,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u2019veshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019veshi"
+    ],
+    "name:und_x_variant":[
+        "Kvechi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613384
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"de3ae289dc85fe5847a1a72c849a7133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1226260873,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226260873,
+    "wof:lastmodified":1537623172,
+    "wof:name":"K'veshi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13477,
+    42.14731,
+    44.13477,
+    42.14731
+],
+  "geometry": {"coordinates":[44.13477,42.14731],"type":"Point"}
+}

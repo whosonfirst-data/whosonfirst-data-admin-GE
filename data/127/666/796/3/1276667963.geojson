@@ -1,0 +1,74 @@
+{
+  "id": 1276667963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87326,41.88952,44.87326,41.88952",
+    "geom:latitude":41.88952,
+    "geom:longitude":44.87326,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Buriani",
+    "gn:country_code":"GE",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615347,
+    "gn:latitude":41.88952,
+    "gn:longitude":44.87326,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Buriani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Guriani",
+        "Buriani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615347
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"be5b9e504770ea6a55f3afaf02c49925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1276667963,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276667963,
+    "wof:lastmodified":1537623286,
+    "wof:name":"Buriani",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87326,
+    41.88952000000001,
+    44.87326,
+    41.88952000000001
+],
+  "geometry": {"coordinates":[44.87326,41.88952000000001],"type":"Point"}
+}

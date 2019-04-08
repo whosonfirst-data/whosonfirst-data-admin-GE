@@ -1,0 +1,67 @@
+{
+  "id": 1293898051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42042,41.71347,44.42042,41.71347",
+    "geom:latitude":41.71347,
+    "geom:longitude":44.42042,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mokhisi",
+    "gn:country_code":"GE",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612932,
+    "gn:latitude":41.71347,
+    "gn:longitude":44.42042,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Mokhisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612932
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4cdaa2bf122a03128b2a8310099accad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1293898051,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1293898051,
+    "wof:lastmodified":1536692457,
+    "wof:name":"Mokhisi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42042,
+    41.71347,
+    44.42042,
+    41.71347
+],
+  "geometry": {"coordinates":[44.42042,41.71347],"type":"Point"}
+}

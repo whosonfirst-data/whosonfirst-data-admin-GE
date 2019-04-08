@@ -1,0 +1,85 @@
+{
+  "id": 421192443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2204,41.96081,44.2204,41.96081",
+    "geom:latitude":41.96081,
+    "geom:longitude":44.2204,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "K'vakhvreli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0430\u0445\u0432\u0440\u0435\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "K\u2019vakhvreli"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":799973,
+    "qs:gn_pop":0,
+    "qs:name":"Kvakhvreli",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Kaspis Raioni",
+    "qs:photos":350,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":350,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168215,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1964244,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799973,
+        "gp:id":1964244,
+        "qs:id":1168215
+    },
+    "wof:country":"GE",
+    "wof:created":1459009737,
+    "wof:geomhash":"35be97fe5a079472397e565b5edf47a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":421192443,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":421192443,
+    "wof:lastmodified":1501216241,
+    "wof:name":"Kvakhvreli",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2204,
+    41.96081,
+    44.2204,
+    41.96081
+],
+  "geometry": {"coordinates":[44.2204,41.96081],"type":"Point"}
+}

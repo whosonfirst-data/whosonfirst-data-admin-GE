@@ -1,0 +1,67 @@
+{
+  "id": 1242587425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91278,42.35167,44.91278,42.35167",
+    "geom:latitude":42.35167,
+    "geom:longitude":44.91278,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ino",
+    "gn:country_code":"GE",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614256,
+    "gn:latitude":42.35167,
+    "gn:longitude":44.91278,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614256
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b437f21fe5abfaae79cd57a0ef5d08a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1242587425,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1242587425,
+    "wof:lastmodified":1537047387,
+    "wof:name":"Ino",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91278,
+    42.35167,
+    44.91278,
+    42.35167
+],
+  "geometry": {"coordinates":[44.91278,42.35167],"type":"Point"}
+}

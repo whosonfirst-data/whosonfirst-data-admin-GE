@@ -1,0 +1,65 @@
+{
+  "id": 1209215243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.4,41.96667,42.4,41.96667",
+    "geom:latitude":41.96667,
+    "geom:longitude":42.4,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Didi-Vani",
+    "gn:country_code":"GE",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614918,
+    "gn:latitude":41.96667,
+    "gn:longitude":42.4,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Didi-Vani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vani",
+        "Didi-Vani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614918
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"77ace108ea484d6f25b3b6580d6a0e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209215243
+        }
+    ],
+    "wof:id":1209215243,
+    "wof:lastmodified":1537623260,
+    "wof:name":"Didi-Vani",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.4,
+    41.96667,
+    42.4,
+    41.96667
+],
+  "geometry": {"coordinates":[42.4,41.96667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326638751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.70453,43.11565,40.70453,43.11565",
+    "geom:latitude":43.11565,
+    "geom:longitude":40.70453,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abgharkhuki",
+    "gn:country_code":"GE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616010,
+    "gn:latitude":43.11565,
+    "gn:longitude":40.70453,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Abgharkhuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10e6\u10d0\u10e0\u10ee\u10e3\u10e5\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Abgharkhuki"
+    ],
+    "name:und_x_variant":[
+        "Abgarkhuk",
+        "Agbarkhuk",
+        "Abgarkhuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616010
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fc1fd80f98702dde251426e347f4bebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1326638751,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1326638751,
+    "wof:lastmodified":1537623322,
+    "wof:name":"Abgharkhuki",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.70453,
+    43.11565,
+    40.70453,
+    43.11565
+],
+  "geometry": {"coordinates":[40.70453,43.11565],"type":"Point"}
+}

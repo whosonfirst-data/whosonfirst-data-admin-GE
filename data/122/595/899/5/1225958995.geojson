@@ -1,0 +1,79 @@
+{
+  "id": 1225958995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.69224,41.67899,45.69224,41.67899",
+    "geom:latitude":41.67899,
+    "geom:longitude":45.69224,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jimit'i",
+    "gn:country_code":"GE",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614772,
+    "gn:latitude":41.67899,
+    "gn:longitude":45.69224,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Jimit\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Jimit\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "\u10ef\u10d8\u10db\u10d8\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043c\u0438\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhimiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614772
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"df3c1fcb5df30a8f4ac444750001fecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1225958995,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1225958995,
+    "wof:lastmodified":1537623251,
+    "wof:name":"Jimit'i",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.69224000000001,
+    41.67899,
+    45.69224000000001,
+    41.67899
+],
+  "geometry": {"coordinates":[45.69224000000001,41.67899],"type":"Point"}
+}

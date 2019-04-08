@@ -1,0 +1,73 @@
+{
+  "id": 1293889633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.81083,41.53694,41.81083,41.53694",
+    "geom:latitude":41.53694,
+    "geom:longitude":41.81083,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uchkhiti",
+    "gn:country_code":"GE",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611316,
+    "gn:latitude":41.53694,
+    "gn:longitude":41.81083,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Uchkhiti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Uchkhiti"
+    ],
+    "name:kat_x_variant":[
+        "\u10e3\u10e9\u10ee\u10d8\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611316
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a02f02a7d891679d2543ebbea64f98a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1293889633,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1293889633,
+    "wof:lastmodified":1537623055,
+    "wof:name":"Uchkhiti",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.81083,
+    41.53694,
+    41.81083,
+    41.53694
+],
+  "geometry": {"coordinates":[41.81083,41.53694],"type":"Point"}
+}

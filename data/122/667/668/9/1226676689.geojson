@@ -1,0 +1,77 @@
+{
+  "id": 1226676689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.46306,41.28833,46.46306,41.28833",
+    "geom:latitude":41.28833,
+    "geom:longitude":46.46306,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Kasristsqali",
+    "gn:country_code":"GE",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614102,
+    "gn:latitude":41.28833,
+    "gn:longitude":46.46306,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kasristsqali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10e0\u10d8\u10e1\u10ec\u10e7\u10d0\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "El\u2019darskiy",
+        "Eldari",
+        "Kasristskali",
+        "El\u2019dar",
+        "Kasristsqali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614102
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"41fb5f3d6ea6b9a8cce535130aeeff6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691269,
+            "locality_id":1226676689,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1226676689,
+    "wof:lastmodified":1537623213,
+    "wof:name":"Kasristsqali",
+    "wof:parent_id":1108691269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.46306,
+    41.28833,
+    46.46306,
+    41.28833
+],
+  "geometry": {"coordinates":[46.46306,41.28833],"type":"Point"}
+}

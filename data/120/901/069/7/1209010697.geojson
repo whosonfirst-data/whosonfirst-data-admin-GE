@@ -1,0 +1,67 @@
+{
+  "id": 1209010697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.76831,41.91188,41.76831,41.91188",
+    "geom:latitude":41.91188,
+    "geom:longitude":41.76831,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nat'anebi",
+    "gn:country_code":"GE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866874,
+    "gn:latitude":41.91188,
+    "gn:longitude":41.76831,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nat\u2019anebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Nat\u2019anebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d0\u10e2\u10d0\u10dc\u10d4\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866874
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a7133e7c52e481f9e3d23a7ddc9c11ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209010697
+        }
+    ],
+    "wof:id":1209010697,
+    "wof:lastmodified":1537623355,
+    "wof:name":"Nat'anebi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.76831,
+    41.91188,
+    41.76831,
+    41.91188
+],
+  "geometry": {"coordinates":[41.76831,41.91188],"type":"Point"}
+}

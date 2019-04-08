@@ -1,0 +1,96 @@
+{
+  "id": 421183867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6965,43.09236,40.6965,43.09236",
+    "geom:latitude":43.09236,
+    "geom:longitude":40.6965,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10db\u10dd\u10e0\u10e1\u10d9\u10dd\u10d4"
+    ],
+    "name:kat_x_variant":[
+        "P\u2019rimorsk\u2019oe"
+    ],
+    "name:unk_x_variant":[
+        "Barnitsats"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":799955,
+    "qs:gn_pop":2573,
+    "qs:name":"Primorskoe",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Abkhazia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1301428,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1965372,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        85671267,
+        1108691285,
+        1108805957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799955,
+        "gp:id":1965372,
+        "qs:id":1301428
+    },
+    "wof:country":"GE",
+    "wof:created":1459009389,
+    "wof:geomhash":"4b38e5082e44bca13a63e6b489d092a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":421183867,
+            "region_id":85671267
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":421183867,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":421183867,
+    "wof:lastmodified":1505340687,
+    "wof:name":"Primorskoe",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:population":2573,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6965,
+    43.09236,
+    40.6965,
+    43.09236
+],
+  "geometry": {"coordinates":[40.6965,43.09236],"type":"Point"}
+}

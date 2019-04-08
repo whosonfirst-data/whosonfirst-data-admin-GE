@@ -1,0 +1,67 @@
+{
+  "id": 1209430065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73444,42.2175,42.73444,42.2175",
+    "geom:latitude":42.2175,
+    "geom:longitude":42.73444,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Kvakhchiri",
+    "gn:country_code":"GE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613590,
+    "gn:latitude":42.2175,
+    "gn:longitude":42.73444,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kvakhchiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10d5\u10d0\u10ee\u10ed\u10d8\u10e0\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Kvakhtchiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613590
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4dec3fb9f0db329fc32940e56c6570ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209430065
+        }
+    ],
+    "wof:id":1209430065,
+    "wof:lastmodified":1537623188,
+    "wof:name":"Kvakhchiri",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73444,
+    42.2175,
+    42.73444,
+    42.2175
+],
+  "geometry": {"coordinates":[42.73444,42.2175],"type":"Point"}
+}

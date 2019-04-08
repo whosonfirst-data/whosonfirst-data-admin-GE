@@ -1,0 +1,82 @@
+{
+  "id": 1276127409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26698,43.0231,41.26698,43.0231",
+    "geom:latitude":43.0231,
+    "geom:longitude":41.26698,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ts'ebelda",
+    "gn:country_code":"GE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611532,
+    "gn:latitude":43.0231,
+    "gn:longitude":41.26698,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ts\u2019ebelda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsebelda"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10d4\u10d1\u10d4\u10da\u10d3\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Ts\u2019ebelda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0431\u0435\u043b\u044c\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tsebel\u2019dinskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611532
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f5658f2fd3156b5ca86069fb62200dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1276127409,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276127409,
+    "wof:lastmodified":1537623067,
+    "wof:name":"Ts'ebelda",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26698,
+    43.0231,
+    41.26698,
+    43.0231
+],
+  "geometry": {"coordinates":[41.26698,43.0231],"type":"Point"}
+}

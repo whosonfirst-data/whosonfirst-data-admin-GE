@@ -1,0 +1,95 @@
+{
+  "id": 421205253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.6099,43.0737,42.6099,43.0737",
+    "geom:latitude":43.0737,
+    "geom:longitude":42.6099,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mazeri"
+    ],
+    "name:fre_x_preferred":[
+        "Mazeri"
+    ],
+    "name:ger_x_preferred":[
+        "Mazeri"
+    ],
+    "name:kat_x_preferred":[
+        "Mazeri"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10d6\u10d4\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0435\u0440\u0438"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":613050,
+    "qs:gn_pop":0,
+    "qs:name":"Mazeri",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Mestiis Raioni",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":260031,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1964711,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613050,
+        "gp:id":1964711,
+        "qs:id":260031,
+        "wd:id":"Q14467132"
+    },
+    "wof:country":"GE",
+    "wof:created":1459010217,
+    "wof:geomhash":"641988b613d6f0f7a044644e1ecaa825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":421205253,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":421205253,
+    "wof:lastmodified":1514443605,
+    "wof:name":"Mazeri",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.6099,
+    43.0737,
+    42.6099,
+    43.0737
+],
+  "geometry": {"coordinates":[42.6099,43.0737],"type":"Point"}
+}

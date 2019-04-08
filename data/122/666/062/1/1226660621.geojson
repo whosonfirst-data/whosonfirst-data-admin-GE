@@ -1,0 +1,67 @@
+{
+  "id": 1226660621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.48639,43.04333,42.48639,43.04333",
+    "geom:latitude":43.04333,
+    "geom:longitude":42.48639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Liya",
+    "gn:country_code":"GE",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":814588,
+    "gn:latitude":43.04333,
+    "gn:longitude":42.48639,
+    "gn:modification_date":"1996-03-04",
+    "gn:name":"Liya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":814588
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7761a87b9c9b4fd0380d85efb1a38346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1226660621,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226660621,
+    "wof:lastmodified":1536836915,
+    "wof:name":"Liya",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.48639,
+    43.04333,
+    42.48639,
+    43.04333
+],
+  "geometry": {"coordinates":[42.48639,43.04333],"type":"Point"}
+}

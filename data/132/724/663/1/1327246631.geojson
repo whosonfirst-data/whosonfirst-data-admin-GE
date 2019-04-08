@@ -1,0 +1,79 @@
+{
+  "id": 1327246631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.14306,41.45556,46.14306,41.45556",
+    "geom:latitude":41.45556,
+    "geom:longitude":46.14306,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Jap'aridze",
+    "gn:country_code":"GE",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614798,
+    "gn:latitude":41.45556,
+    "gn:longitude":46.14306,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Jap\u2019aridze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Jap\u2019aridze"
+    ],
+    "name:kat_x_variant":[
+        "\u10ef\u10d0\u10e4\u10d0\u10e0\u10d8\u10eb\u10d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043f\u0430\u0440\u0438\u0434\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Dzhaparidze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614798
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f9d689c774ebf40d63d739b8a409d58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691269,
+            "locality_id":1327246631,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1327246631,
+    "wof:lastmodified":1537623253,
+    "wof:name":"Jap'aridze",
+    "wof:parent_id":1108691269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.14306,
+    41.45556,
+    46.14306,
+    41.45556
+],
+  "geometry": {"coordinates":[46.14306,41.45556],"type":"Point"}
+}

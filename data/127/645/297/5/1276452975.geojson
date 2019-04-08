@@ -1,0 +1,71 @@
+{
+  "id": 1276452975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.85135,41.35789,44.85135,41.35789",
+    "geom:latitude":41.35789,
+    "geom:longitude":44.85135,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Arpalo",
+    "gn:country_code":"GE",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615682,
+    "gn:latitude":41.35789,
+    "gn:longitude":44.85135,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arpalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araplo",
+        "Arpalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615682
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"87c28dfea05705380adcceb5c53d4a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1276452975,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1276452975,
+    "wof:lastmodified":1537623303,
+    "wof:name":"Arpalo",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.85135,
+    41.35789000000001,
+    44.85135,
+    41.35789000000001
+],
+  "geometry": {"coordinates":[44.85135,41.35789000000001],"type":"Point"}
+}

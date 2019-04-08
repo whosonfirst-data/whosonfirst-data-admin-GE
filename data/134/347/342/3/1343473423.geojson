@@ -1,0 +1,77 @@
+{
+  "id": 1343473423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.85389,41.71083,42.85389,41.71083",
+    "geom:latitude":41.71083,
+    "geom:longitude":42.85389,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abast'umani",
+    "gn:country_code":"GE",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824434,
+    "gn:latitude":41.71083,
+    "gn:longitude":42.85389,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Abast\u2019umani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abast'umani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Abast\u2019umani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824434,
+        "wk:page":"Abastumani"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3eec13faf8f18b7e2114e7446b904275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1343473423,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1343473423,
+    "wof:lastmodified":1537623338,
+    "wof:name":"Abast'umani",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.85389,
+    41.71083,
+    42.85389,
+    41.71083
+],
+  "geometry": {"coordinates":[42.85389,41.71083],"type":"Point"}
+}

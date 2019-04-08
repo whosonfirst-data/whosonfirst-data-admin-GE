@@ -1,0 +1,71 @@
+{
+  "id": 1209914471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.35,41.68333,42.35,41.68333",
+    "geom:latitude":41.68333,
+    "geom:longitude":42.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Iremadzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614241,
+    "gn:latitude":41.68333,
+    "gn:longitude":42.35,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Iremadzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iremadzeyebi",
+        "Iremadzeebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614241
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9f270e4044882ab73d2c8ec5f8fd10f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1209914471,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1209914471,
+    "wof:lastmodified":1537623220,
+    "wof:name":"Iremadzeebi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35,
+    41.68333,
+    42.35,
+    41.68333
+],
+  "geometry": {"coordinates":[42.35,41.68333],"type":"Point"}
+}

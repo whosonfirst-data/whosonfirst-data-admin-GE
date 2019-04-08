@@ -1,0 +1,61 @@
+{
+  "id": 1209124365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6325,41.37417,44.6325,41.37417",
+    "geom:latitude":41.37417,
+    "geom:longitude":44.6325,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shalbuzlo",
+    "gn:country_code":"GE",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800159,
+    "gn:latitude":41.37417,
+    "gn:longitude":44.6325,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Shalbuzlo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800159
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"031a48251e62500509759b809bf222b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209124365
+        }
+    ],
+    "wof:id":1209124365,
+    "wof:lastmodified":1536297000,
+    "wof:name":"Shalbuzlo",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6325,
+    41.37417,
+    44.6325,
+    41.37417
+],
+  "geometry": {"coordinates":[44.6325,41.37417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343868637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95083,42.06264,44.95083,42.06264",
+    "geom:latitude":42.06264,
+    "geom:longitude":44.95083,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Bokoni",
+    "gn:country_code":"GE",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615422,
+    "gn:latitude":42.06264,
+    "gn:longitude":44.95083,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bokoni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615422
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"af6da2a94a380d9110a09ca9cca4803b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1343868637,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343868637,
+    "wof:lastmodified":1536654723,
+    "wof:name":"Bokoni",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95083,
+    42.06264,
+    44.95083,
+    42.06264
+],
+  "geometry": {"coordinates":[44.95083,42.06264],"type":"Point"}
+}

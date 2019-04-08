@@ -1,0 +1,67 @@
+{
+  "id": 1209345531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.54485,42.06295,42.54485,42.06295",
+    "geom:latitude":42.06295,
+    "geom:longitude":42.54485,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Zenobani",
+    "gn:country_code":"GE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9504979,
+    "gn:latitude":42.06295,
+    "gn:longitude":42.54485,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Zenobani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zenobani"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10dc\u10dd\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9504979
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9ffb824e23e84dc1ec426954d33bb6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209345531
+        }
+    ],
+    "wof:id":1209345531,
+    "wof:lastmodified":1537623358,
+    "wof:name":"Zenobani",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.54485,
+    42.06295,
+    42.54485,
+    42.06295
+],
+  "geometry": {"coordinates":[42.54485,42.06295],"type":"Point"}
+}

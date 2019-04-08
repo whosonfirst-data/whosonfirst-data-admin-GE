@@ -1,0 +1,77 @@
+{
+  "id": 1193016975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0759,41.64772,42.0759,41.64772",
+    "geom:latitude":41.64772,
+    "geom:longitude":42.0759,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gegelidzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614550,
+    "gn:latitude":41.64772,
+    "gn:longitude":42.0759,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Gegelidzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10d2\u10d4\u10da\u10d8\u10da\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0433\u0435\u043b\u0438\u0434\u0437\u0435\u0435\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gegelidzeyebi",
+        "Gegelidzeebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614550
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"957e9f4e04bceec047b7cfeec46c9902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1193016975,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1193016975,
+    "wof:lastmodified":1537623236,
+    "wof:name":"Gegelidzeebi",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0759,
+    41.64772,
+    42.0759,
+    41.64772
+],
+  "geometry": {"coordinates":[42.0759,41.64772],"type":"Point"}
+}

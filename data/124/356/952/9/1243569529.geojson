@@ -1,0 +1,67 @@
+{
+  "id": 1243569529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23361,42.31674,43.23361,42.31674",
+    "geom:latitude":42.31674,
+    "geom:longitude":43.23361,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Rgani",
+    "gn:country_code":"GE",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612320,
+    "gn:latitude":42.31674,
+    "gn:longitude":43.23361,
+    "gn:modification_date":"2001-09-10",
+    "gn:name":"Rgani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612320
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0adc9b80e214cfb253818fa9ca7ce7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1243569529,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1243569529,
+    "wof:lastmodified":1536626253,
+    "wof:name":"Rgani",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23361,
+    42.31674,
+    43.23361,
+    42.31674
+],
+  "geometry": {"coordinates":[43.23361,42.31674],"type":"Point"}
+}

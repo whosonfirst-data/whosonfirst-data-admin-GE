@@ -1,0 +1,74 @@
+{
+  "id": 1259619445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.19188,42.40658,42.19188,42.40658",
+    "geom:latitude":42.40658,
+    "geom:longitude":42.19188,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Mokhashi",
+    "gn:country_code":"GE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612934,
+    "gn:latitude":42.40658,
+    "gn:longitude":42.19188,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Mokhashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10ee\u10d0\u10e8\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Mokhash",
+        "Mokhashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612934
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ad07ccb0afcc62f5e9dd16b4860bcf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":1259619445,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1259619445,
+    "wof:lastmodified":1537623146,
+    "wof:name":"Mokhashi",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.19188,
+    42.40658,
+    42.19188,
+    42.40658
+],
+  "geometry": {"coordinates":[42.19188,42.40658],"type":"Point"}
+}

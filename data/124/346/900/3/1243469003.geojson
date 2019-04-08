@@ -1,0 +1,67 @@
+{
+  "id": 1243469003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98333,42.01667,44.98333,42.01667",
+    "geom:latitude":42.01667,
+    "geom:longitude":44.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kupriantkari",
+    "gn:country_code":"GE",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613625,
+    "gn:latitude":42.01667,
+    "gn:longitude":44.98333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kupriantkari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613625
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"781a03cf62903b81c1ddd6f3513ad848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1243469003,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243469003,
+    "wof:lastmodified":1536773585,
+    "wof:name":"Kupriantkari",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98333,
+    42.01667,
+    44.98333,
+    42.01667
+],
+  "geometry": {"coordinates":[44.98333,42.01667],"type":"Point"}
+}

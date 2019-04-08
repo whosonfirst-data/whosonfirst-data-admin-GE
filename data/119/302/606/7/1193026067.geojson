@@ -1,0 +1,71 @@
+{
+  "id": 1193026067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80492,41.42085,44.80492,41.42085",
+    "geom:latitude":41.42085,
+    "geom:longitude":44.80492,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Didi-Beglari",
+    "gn:country_code":"GE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614965,
+    "gn:latitude":41.42085,
+    "gn:longitude":44.80492,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Didi-Beglari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beglyar Bol\u2019shoy",
+        "Didi-Beglari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614965
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"97efa76aca63c5013fa47245042c640d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1193026067,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1193026067,
+    "wof:lastmodified":1537623264,
+    "wof:name":"Didi-Beglari",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80492,
+    41.42085,
+    44.80492,
+    41.42085
+],
+  "geometry": {"coordinates":[44.80492,41.42085],"type":"Point"}
+}

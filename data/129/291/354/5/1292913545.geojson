@@ -1,0 +1,74 @@
+{
+  "id": 1292913545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03271,41.39628,45.03271,41.39628",
+    "geom:latitude":41.39628,
+    "geom:longitude":45.03271,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pirveli-Kesalo",
+    "gn:country_code":"GE",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612400,
+    "gn:latitude":41.39628,
+    "gn:longitude":45.03271,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Pirveli-Kesalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Pirv\u0259li Kesalo"
+    ],
+    "name:und_x_variant":[
+        "Kesalo",
+        "Pirveli-Kesalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612400
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9f457eee25df50dfd5ce8734e7cfb493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1292913545,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1292913545,
+    "wof:lastmodified":1537623114,
+    "wof:name":"Pirveli-Kesalo",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03271,
+    41.39628,
+    45.03271,
+    41.39628
+],
+  "geometry": {"coordinates":[45.03271,41.39628],"type":"Point"}
+}

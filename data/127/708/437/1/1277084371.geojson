@@ -1,0 +1,80 @@
+{
+  "id": 1277084371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95745,41.97555,44.95745,41.97555",
+    "geom:latitude":41.97555,
+    "geom:longitude":44.95745,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Saqdrioni",
+    "gn:country_code":"GE",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612199,
+    "gn:latitude":41.97555,
+    "gn:longitude":44.95745,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Saqdrioni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saqdrioni"
+    ],
+    "name:kat_x_preferred":[
+        "Saqdrioni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u0434\u0440\u0438\u043e\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Sakdrioni",
+        "Sagdrioni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612199
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7476113cf094f872e2b33739d944664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1277084371,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1277084371,
+    "wof:lastmodified":1537623102,
+    "wof:name":"Saqdrioni",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95745,
+    41.97555,
+    44.95745,
+    41.97555
+],
+  "geometry": {"coordinates":[44.95745,41.97555],"type":"Point"}
+}

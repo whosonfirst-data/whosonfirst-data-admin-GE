@@ -1,0 +1,79 @@
+{
+  "id": 1209830649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75611,42.19875,43.75611,42.19875",
+    "geom:latitude":42.19875,
+    "geom:longitude":43.75611,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"T'ighva",
+    "gn:country_code":"GE",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611666,
+    "gn:latitude":42.19875,
+    "gn:longitude":43.75611,
+    "gn:modification_date":"2016-03-06",
+    "gn:name":"T\u2019ighva",
+    "gn:population":273,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tigva"
+    ],
+    "name:eng_x_variant":[
+        "T\u2019ighva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0433\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611666
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9d5ff7e7e75167ea90a1af4f97f17bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1209830649,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1209830649,
+    "wof:lastmodified":1537623075,
+    "wof:name":"T'ighva",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75611,
+    42.19875,
+    43.75611,
+    42.19875
+],
+  "geometry": {"coordinates":[43.75611,42.19875],"type":"Point"}
+}

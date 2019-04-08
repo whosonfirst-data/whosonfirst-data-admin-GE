@@ -1,0 +1,67 @@
+{
+  "id": 1293705233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.69486,41.74319,44.69486,41.74319",
+    "geom:latitude":41.74319,
+    "geom:longitude":44.69486,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tkhinvali",
+    "gn:country_code":"GE",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611630,
+    "gn:latitude":41.74319,
+    "gn:longitude":44.69486,
+    "gn:modification_date":"2002-05-03",
+    "gn:name":"Tkhinvali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611630
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4d2217e9c424bd64f4a7ee3a7bde9fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":1293705233,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":1293705233,
+    "wof:lastmodified":1536970161,
+    "wof:name":"Tkhinvali",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.69486,
+    41.74319000000001,
+    44.69486,
+    41.74319000000001
+],
+  "geometry": {"coordinates":[44.69486,41.74319000000001],"type":"Point"}
+}

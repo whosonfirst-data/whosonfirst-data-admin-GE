@@ -1,0 +1,73 @@
+{
+  "id": 1360190761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.96361,41.83155,41.96361,41.83155",
+    "geom:latitude":41.83155,
+    "geom:longitude":41.96361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gogmachauri",
+    "gn:country_code":"GE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874787,
+    "gn:latitude":41.83155,
+    "gn:longitude":41.96361,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Gogmachauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Gogmachauri"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10dd\u10d2\u10db\u10d0\u10e9\u10d0\u10e3\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874787
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fa5861208cbd153b990f7247c44f58b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1360190761,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1360190761,
+    "wof:lastmodified":1537623351,
+    "wof:name":"Gogmachauri",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.96361,
+    41.83155,
+    41.96361,
+    41.83155
+],
+  "geometry": {"coordinates":[41.96361,41.83155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310340041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.96276,42.65498,41.96276,42.65498",
+    "geom:latitude":42.65498,
+    "geom:longitude":41.96276,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Pakhulani",
+    "gn:country_code":"GE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612533,
+    "gn:latitude":42.65498,
+    "gn:longitude":41.96276,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Pakhulani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Pakhulani"
+    ],
+    "name:kat_x_variant":[
+        "\u10e4\u10d0\u10ee\u10e3\u10da\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612533
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"44d373aeb55560661968f76272fdbc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691387,
+            "locality_id":1310340041,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1310340041,
+    "wof:lastmodified":1537623122,
+    "wof:name":"Pakhulani",
+    "wof:parent_id":1108691387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.96276,
+    42.65498,
+    41.96276,
+    42.65498
+],
+  "geometry": {"coordinates":[41.96276,42.65498],"type":"Point"}
+}

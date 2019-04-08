@@ -1,0 +1,80 @@
+{
+  "id": 1327268317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.54373,42.24999,42.54373,42.24999",
+    "geom:latitude":42.24999,
+    "geom:longitude":42.54373,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Maghlaki",
+    "gn:country_code":"GE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613143,
+    "gn:latitude":42.24999,
+    "gn:longitude":42.54373,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Maghlaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maghlaki"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e6\u10da\u10d0\u10d9\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0433\u043b\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Maglaki",
+        "Maghlaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613143
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"53be0a703097bfa0492411a57c2dbe05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691391,
+            "locality_id":1327268317,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1327268317,
+    "wof:lastmodified":1537623159,
+    "wof:name":"Maghlaki",
+    "wof:parent_id":1108691391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.54373,
+    42.24999,
+    42.54373,
+    42.24999
+],
+  "geometry": {"coordinates":[42.54373,42.24999],"type":"Point"}
+}

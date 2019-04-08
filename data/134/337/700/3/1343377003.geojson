@@ -1,0 +1,67 @@
+{
+  "id": 1343377003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.31667,43.03333,41.31667,43.03333",
+    "geom:latitude":43.03333,
+    "geom:longitude":41.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khevi",
+    "gn:country_code":"GE",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613954,
+    "gn:latitude":43.03333,
+    "gn:longitude":41.31667,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Khevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613954
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d6d12b8447fa8a1726d0b9c8185b2493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1343377003,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343377003,
+    "wof:lastmodified":1536865315,
+    "wof:name":"Khevi",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.31667,
+    43.03333,
+    41.31667,
+    43.03333
+],
+  "geometry": {"coordinates":[41.31667,43.03333],"type":"Point"}
+}

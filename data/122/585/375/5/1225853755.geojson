@@ -1,0 +1,79 @@
+{
+  "id": 1225853755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95322,43.00749,40.95322,43.00749",
+    "geom:latitude":43.00749,
+    "geom:longitude":40.95322,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lech'k'op'i",
+    "gn:country_code":"GE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613270,
+    "gn:latitude":43.00749,
+    "gn:longitude":40.95322,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lech\u2019k\u2019op\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lech'k'op'i"
+    ],
+    "name:kat_x_preferred":[
+        "Lech\u2019k\u2019op\u2019i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0447\u043a\u043e\u043f"
+    ],
+    "name:und_x_variant":[
+        "Lechkop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613270
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"da42d067f380a71036e52f7ac3be201b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1225853755,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1225853755,
+    "wof:lastmodified":1537623166,
+    "wof:name":"Lech'k'op'i",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95322,
+    43.00749,
+    40.95322,
+    43.00749
+],
+  "geometry": {"coordinates":[40.95322,43.00749],"type":"Point"}
+}

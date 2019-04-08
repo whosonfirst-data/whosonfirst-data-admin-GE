@@ -1,0 +1,67 @@
+{
+  "id": 1293036017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75417,42.75389,42.75417,42.75389",
+    "geom:latitude":42.75389,
+    "geom:longitude":42.75417,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Lamanashur",
+    "gn:country_code":"GE",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800922,
+    "gn:latitude":42.75389,
+    "gn:longitude":42.75417,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Lamanashur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800922
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"065eb2bb8f0262c17fdd6eba6669705f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1293036017,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1293036017,
+    "wof:lastmodified":1536941568,
+    "wof:name":"Lamanashur",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75417,
+    42.75389000000001,
+    42.75417,
+    42.75389000000001
+],
+  "geometry": {"coordinates":[42.75417,42.75389000000001],"type":"Point"}
+}

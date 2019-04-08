@@ -1,0 +1,77 @@
+{
+  "id": 1225959031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6519,43.08901,41.6519,43.08901",
+    "geom:latitude":43.08901,
+    "geom:longitude":41.6519,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"K'vemo Zima",
+    "gn:country_code":"GE",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613397,
+    "gn:latitude":43.08901,
+    "gn:longitude":41.6519,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"K\u2019vemo Zima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10d6\u10d8\u10db\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "K\u2019vemo Zima"
+    ],
+    "name:und_x_variant":[
+        "Zemo Zima",
+        "Zima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613397
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"92403e23f9f5a97f17531cb8a401bc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1225959031,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1225959031,
+    "wof:lastmodified":1537623172,
+    "wof:name":"K'vemo Zima",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.6519,
+    43.08901,
+    41.6519,
+    43.08901
+],
+  "geometry": {"coordinates":[41.6519,43.08901],"type":"Point"}
+}

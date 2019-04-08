@@ -1,0 +1,73 @@
+{
+  "id": 421171131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"45.169944,42.674169,45.169944,42.674169",
+    "geom:latitude":42.674169,
+    "geom:longitude":45.169944,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nazranovskiy Raion",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Ingushetia Republic",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1209222,
+    "qs:woe_adm0":23424936,
+    "qs:woe_id":12597314,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        85671291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12597314,
+        "qs:id":1209222
+    },
+    "wof:country":"GE",
+    "wof:created":1459008882,
+    "wof:geomhash":"6e51444771835f4e6ee035d79e9c49e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":421171131,
+            "region_id":85671291
+        }
+    ],
+    "wof:id":421171131,
+    "wof:lastmodified":1474311207,
+    "wof:name":"Nazranovskiy Raion",
+    "wof:parent_id":85671291,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.169944,
+    42.674169,
+    45.169944,
+    42.674169
+],
+  "geometry": {"coordinates":[45.169944,42.674169],"type":"Point"}
+}

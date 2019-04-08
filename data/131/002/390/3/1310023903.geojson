@@ -1,0 +1,67 @@
+{
+  "id": 1310023903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.10667,42.48778,44.10667,42.48778",
+    "geom:latitude":42.48778,
+    "geom:longitude":44.10667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Visto",
+    "gn:country_code":"GE",
+    "gn:dem":2011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800878,
+    "gn:latitude":42.48778,
+    "gn:longitude":44.10667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Visto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800878
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3581ecf23fb70e0e8b1b396617fc45a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1310023903,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310023903,
+    "wof:lastmodified":1536614421,
+    "wof:name":"Visto",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.10667,
+    42.48778,
+    44.10667,
+    42.48778
+],
+  "geometry": {"coordinates":[44.10667,42.48778],"type":"Point"}
+}

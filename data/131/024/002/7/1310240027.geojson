@@ -1,0 +1,73 @@
+{
+  "id": 1310240027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52846,41.99815,43.52846,41.99815",
+    "geom:latitude":41.99815,
+    "geom:longitude":43.52846,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Rusaantubani",
+    "gn:country_code":"GE",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612289,
+    "gn:latitude":41.99815,
+    "gn:longitude":43.52846,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rusaantubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Rusaantubani"
+    ],
+    "name:kat_x_variant":[
+        "\u10e0\u10e3\u10e1\u10d0\u10d0\u10dc\u10d7\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612289
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6206613dcf543be6fda437b3b7249f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1310240027,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310240027,
+    "wof:lastmodified":1537623107,
+    "wof:name":"Rusaantubani",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52846,
+    41.99815,
+    43.52846,
+    41.99815
+],
+  "geometry": {"coordinates":[43.52846,41.99815],"type":"Point"}
+}

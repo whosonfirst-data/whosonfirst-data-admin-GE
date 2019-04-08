@@ -1,0 +1,73 @@
+{
+  "id": 1243472447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1025,43.01194,41.1025,43.01194",
+    "geom:latitude":43.01194,
+    "geom:longitude":41.1025,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kelasuri",
+    "gn:country_code":"GE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614068,
+    "gn:latitude":43.01194,
+    "gn:longitude":41.1025,
+    "gn:modification_date":"2006-08-09",
+    "gn:name":"Kelasuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kelasuri"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043b\u0430\u0441\u0443\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614068
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c01f5ef0b3f3977984ff5a221d891d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1243472447,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1243472447,
+    "wof:lastmodified":1537623212,
+    "wof:name":"Kelasuri",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.1025,
+    43.01194,
+    41.1025,
+    43.01194
+],
+  "geometry": {"coordinates":[41.1025,43.01194],"type":"Point"}
+}

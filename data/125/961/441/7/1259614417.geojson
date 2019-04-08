@@ -1,0 +1,79 @@
+{
+  "id": 1259614417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92495,42.5746,42.92495,42.5746",
+    "geom:latitude":42.5746,
+    "geom:longitude":42.92495,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zeda Chqvishi",
+    "gn:country_code":"GE",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611055,
+    "gn:latitude":42.5746,
+    "gn:longitude":42.92495,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Zeda Chqvishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d3\u10d0 \u10ed\u10e7\u10d5\u10d8\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0434\u0430 \u0427\u043a\u0432\u0438\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zeda Tchkvishi",
+        "Zeda Chkvishi",
+        "Zemo-Chkvishi",
+        "Zeda Chqvishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611055
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"21ee63d0bcdb292e919288648ae49c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691249,
+            "locality_id":1259614417,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1259614417,
+    "wof:lastmodified":1537623040,
+    "wof:name":"Zeda Chqvishi",
+    "wof:parent_id":1108691249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92495,
+    42.5746,
+    42.92495,
+    42.5746
+],
+  "geometry": {"coordinates":[42.92495,42.5746],"type":"Point"}
+}

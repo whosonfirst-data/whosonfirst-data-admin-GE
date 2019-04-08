@@ -1,0 +1,71 @@
+{
+  "id": 1326848773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93884,42.42427,43.93884,42.42427",
+    "geom:latitude":42.42427,
+    "geom:longitude":43.93884,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Muguti",
+    "gn:country_code":"GE",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612879,
+    "gn:latitude":42.42427,
+    "gn:longitude":43.93884,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muguti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugut",
+        "Muguti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612879
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1855eda71324c0565284c8c58b002b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1326848773,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1326848773,
+    "wof:lastmodified":1537623144,
+    "wof:name":"Muguti",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93884,
+    42.42427,
+    43.93884,
+    42.42427
+],
+  "geometry": {"coordinates":[43.93884,42.42427],"type":"Point"}
+}

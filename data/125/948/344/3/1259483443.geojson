@@ -1,0 +1,80 @@
+{
+  "id": 1259483443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.19358,41.58585,42.19358,41.58585",
+    "geom:latitude":41.58585,
+    "geom:longitude":42.19358,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kidzinidzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613844,
+    "gn:latitude":41.58585,
+    "gn:longitude":42.19358,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kidzinidzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kidzinidzeebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d8\u10eb\u10d8\u10dc\u10d8\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0434\u0437\u0438\u043d\u0438\u0434\u0437\u0435\u0435\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kidzinidzeyebi",
+        "Kidzinidzeebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613844
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"56a79f0bc268272b6304eeeb4c7269c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691363,
+            "locality_id":1259483443,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1259483443,
+    "wof:lastmodified":1537623200,
+    "wof:name":"Kidzinidzeebi",
+    "wof:parent_id":1108691363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.19358,
+    41.58585,
+    42.19358,
+    41.58585
+],
+  "geometry": {"coordinates":[42.19358,41.58585],"type":"Point"}
+}

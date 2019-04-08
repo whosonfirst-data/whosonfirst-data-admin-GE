@@ -1,0 +1,79 @@
+{
+  "id": 1310223611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5826,42.43915,45.5826,42.43915",
+    "geom:latitude":42.43915,
+    "geom:longitude":45.5826,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dart'lo",
+    "gn:country_code":"GE",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":615019,
+    "gn:latitude":42.43915,
+    "gn:longitude":45.5826,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Dart\u2019lo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Dart'lo"
+    ],
+    "name:kat_x_preferred":[
+        "Dart\u2019lo"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d0\u10e0\u10d7\u10da\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0442\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615019
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c8b6160c1d07b47e5f6ad58ceee50f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1310223611,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310223611,
+    "wof:lastmodified":1537623267,
+    "wof:name":"Dart'lo",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5826,
+    42.43915,
+    45.5826,
+    42.43915
+],
+  "geometry": {"coordinates":[45.5826,42.43915],"type":"Point"}
+}

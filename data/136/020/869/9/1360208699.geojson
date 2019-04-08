@@ -1,0 +1,73 @@
+{
+  "id": 1360208699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.64333,41.5425,41.64333,41.5425",
+    "geom:latitude":41.5425,
+    "geom:longitude":41.64333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zeda Tkhilnari",
+    "gn:country_code":"GE",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874700,
+    "gn:latitude":41.5425,
+    "gn:longitude":41.64333,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Zeda Tkhilnari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zeda Tkhilnari"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10d3\u10d0 \u10d7\u10ee\u10d8\u10da\u10dc\u10d0\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874700
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4061a5dc35d25406e3ccca8a1260f317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1360208699,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1360208699,
+    "wof:lastmodified":1537623351,
+    "wof:name":"Zeda Tkhilnari",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.64333,
+    41.5425,
+    41.64333,
+    41.5425
+],
+  "geometry": {"coordinates":[41.64333,41.5425],"type":"Point"}
+}

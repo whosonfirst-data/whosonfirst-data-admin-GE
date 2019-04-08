@@ -1,0 +1,67 @@
+{
+  "id": 1209227635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.62662,42.77742,41.62662,42.77742",
+    "geom:latitude":42.77742,
+    "geom:longitude":41.62662,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rek'a",
+    "gn:country_code":"GE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612325,
+    "gn:latitude":42.77742,
+    "gn:longitude":41.62662,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Rek\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Rek\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10e0\u10d4\u10d9\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612325
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2cc63e92a38f0297d9c130dd5a057113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209227635
+        }
+    ],
+    "wof:id":1209227635,
+    "wof:lastmodified":1537623110,
+    "wof:name":"Rek'a",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.62662,
+    42.77742,
+    41.62662,
+    42.77742
+],
+  "geometry": {"coordinates":[41.62662,42.77742],"type":"Point"}
+}

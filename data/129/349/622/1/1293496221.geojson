@@ -1,0 +1,77 @@
+{
+  "id": 1293496221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26527,42.92091,41.26527,42.92091",
+    "geom:latitude":42.92091,
+    "geom:longitude":41.26527,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ch'ala",
+    "gn:country_code":"GE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612698,
+    "gn:latitude":42.92091,
+    "gn:longitude":41.26527,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ch\u2019ala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019ala"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d0\u10da\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Nikolayevka",
+        "Nikolo-Anastas\u2019evka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612698
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a657b3d46e8685b88f93647ded89344d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1293496221,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293496221,
+    "wof:lastmodified":1537623133,
+    "wof:name":"Ch'ala",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26527,
+    42.92091,
+    41.26527,
+    42.92091
+],
+  "geometry": {"coordinates":[41.26527,42.92091],"type":"Point"}
+}

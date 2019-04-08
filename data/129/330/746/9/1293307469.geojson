@@ -1,0 +1,73 @@
+{
+  "id": 1293307469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23219,41.27823,44.23219,41.27823",
+    "geom:latitude":41.27823,
+    "geom:longitude":44.23219,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amamlo",
+    "gn:country_code":"GE",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615779,
+    "gn:latitude":41.27823,
+    "gn:longitude":44.23219,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Amamlo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amamlo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043c\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615779
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a07e610607e23e3699bc9608936cfc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1293307469,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1293307469,
+    "wof:lastmodified":1537623308,
+    "wof:name":"Amamlo",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23219,
+    41.27823,
+    44.23219,
+    41.27823
+],
+  "geometry": {"coordinates":[44.23219,41.27823],"type":"Point"}
+}

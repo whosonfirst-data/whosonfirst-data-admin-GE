@@ -1,0 +1,64 @@
+{
+  "id": 1209549737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.51667,41.95,44.51667,41.95",
+    "geom:latitude":41.95,
+    "geom:longitude":44.51667,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Ferma",
+    "gn:country_code":"GE",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601375,
+    "gn:latitude":41.95,
+    "gn:longitude":44.51667,
+    "gn:modification_date":"2013-11-08",
+    "gn:name":"Ferma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ferma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601375
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"516d1e37789fb1806975379b744ec7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209549737
+        }
+    ],
+    "wof:id":1209549737,
+    "wof:lastmodified":1537623020,
+    "wof:name":"Ferma",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.51667,
+    41.95,
+    44.51667,
+    41.95
+],
+  "geometry": {"coordinates":[44.51667,41.95],"type":"Point"}
+}

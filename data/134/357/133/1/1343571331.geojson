@@ -1,0 +1,83 @@
+{
+  "id": 1343571331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.01861,43.11572,41.01861,43.11572",
+    "geom:latitude":43.11572,
+    "geom:longitude":41.01861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akhalsheni",
+    "gn:country_code":"GE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615879,
+    "gn:latitude":43.11572,
+    "gn:longitude":41.01861,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Akhalsheni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akhalsheni"
+    ],
+    "name:kat_x_preferred":[
+        "Akhalsheni"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ee\u10d0\u10da\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0448\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Andreyevka",
+        "Andreyevskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615879
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5a2e666fade18f50dffc38d4a448ebef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1343571331,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343571331,
+    "wof:lastmodified":1537623314,
+    "wof:name":"Akhalsheni",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.01861,
+    43.11572,
+    41.01861,
+    43.11572
+],
+  "geometry": {"coordinates":[41.01861,43.11572],"type":"Point"}
+}

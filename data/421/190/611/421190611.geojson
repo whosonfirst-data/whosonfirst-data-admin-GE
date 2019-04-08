@@ -1,0 +1,75 @@
+{
+  "id": 421190611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.47084,41.922413,45.47084,41.922413",
+    "geom:latitude":41.922413,
+    "geom:longitude":45.47084,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"T'elavi",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"T\u00b4elavis Raioni",
+    "qs:photos":293,
+    "qs:photos_1k":59,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":293,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119898,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1965879,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1965879,
+        "qs:id":1119898
+    },
+    "wof:country":"GE",
+    "wof:created":1459009663,
+    "wof:geomhash":"03ad6269420530ed6c7dbebb096ec29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":421190611,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":421190611,
+    "wof:lastmodified":1500037626,
+    "wof:name":"T'elavi",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.47084,
+    41.922413,
+    45.47084,
+    41.922413
+],
+  "geometry": {"coordinates":[45.47084,41.922413],"type":"Point"}
+}

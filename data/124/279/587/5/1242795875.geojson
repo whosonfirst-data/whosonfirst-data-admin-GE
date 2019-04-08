@@ -1,0 +1,73 @@
+{
+  "id": 1242795875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75944,43.12528,41.75944,43.12528",
+    "geom:latitude":43.12528,
+    "geom:longitude":41.75944,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo-Azhara",
+    "gn:country_code":"GE",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865448,
+    "gn:latitude":43.12528,
+    "gn:longitude":41.75944,
+    "gn:modification_date":"2006-08-09",
+    "gn:name":"Zemo-Azhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zemo-Azhara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043e-\u0410\u0436\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865448
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"72b5c82524fa32882e709c657bcd5a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1242795875,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1242795875,
+    "wof:lastmodified":1537623343,
+    "wof:name":"Zemo-Azhara",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75944000000001,
+    43.12528,
+    41.75944000000001,
+    43.12528
+],
+  "geometry": {"coordinates":[41.75944000000001,43.12528],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1108691319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003101,
+    "geom:area_square_m":28382093.3481,
+    "geom:bbox":"42.6610374451,42.2195091248,42.7361221313,42.2925643921",
+    "geom:latitude":42.258282,
+    "geom:longitude":42.696259,
+    "iso:country":"GE",
+    "lbl:latitude":42.25778,
+    "lbl:longitude":42.696259,
+    "meso:admin_1":"Imereti",
+    "meso:dissme":"KUTAISIIMERETI",
+    "meso:gadm_admin":"Kutaisi",
+    "meso:gadm_hasc2":"GE.IM.KT",
+    "meso:gaul_admin":"Kutaisi",
+    "meso:mps_x":42.696259,
+    "meso:mps_y":42.25778,
+    "meso:name_en":"Kutaisi",
+    "meso:source":"ISCGM",
+    "mps:latitude":42.25778,
+    "mps:longitude":42.696259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kutaisi"
+    ],
+    "name:eng_x_variant":[
+        "Kutaisi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-01-17",
+    "statoids:area_km":"68.0",
+    "statoids:as_of_date":"2002-01-17",
+    "statoids:capital":"",
+    "statoids:country":"GE",
+    "statoids:hasc":"GE.IM",
+    "statoids:name":"Kutaisi",
+    "statoids:population":"185965",
+    "statoids:statoid":"GE.IM.KT",
+    "statoids:timezone":"+4",
+    "statoids:type":"city",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GE.IM.KT"
+    },
+    "wof:country":"GE",
+    "wof:created":1474307905,
+    "wof:geomhash":"df64089574128f06599fe5939e725a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691319,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1108691319,
+    "wof:lastmodified":1536615235,
+    "wof:name":"Kutaisi",
+    "wof:parent_id":1108805937,
+    "wof:placetype":"county",
+    "wof:placetype_local":"city",
+    "wof:population":185965,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:shortcode":"KT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.66103744506836,
+    42.21950912475586,
+    42.73612213134766,
+    42.29256439208984
+],
+  "geometry": {"coordinates":[[[42.66452407836914,42.26559066772461],[42.6701545715332,42.27555847167969],[42.68091583251953,42.27507400512695],[42.68995666503906,42.2869873046875],[42.71436309814453,42.28489303588867],[42.72261428833008,42.29256439208984],[42.72898101806641,42.29128646850586],[42.73612213134766,42.28602981567383],[42.72864151000977,42.27438735961914],[42.72095108032227,42.25992202758789],[42.71488571166992,42.23540115356445],[42.71329116821289,42.22715759277344],[42.70379257202148,42.22790908813477],[42.69077301025391,42.2299919128418],[42.6802864074707,42.23189163208008],[42.67127227783203,42.21950912475586],[42.66491317749023,42.22078704833984],[42.66416931152344,42.22382354736328],[42.66741561889648,42.22998809814453],[42.67664337158203,42.24518966674805],[42.66676712036133,42.2475700378418],[42.66128158569336,42.2507438659668],[42.66103744506836,42.25730895996094],[42.66452407836914,42.26559066772461]]],"type":"Polygon"}
+}

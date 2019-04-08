@@ -1,0 +1,73 @@
+{
+  "id": 1276365533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43013,41.87374,43.43013,41.87374",
+    "geom:latitude":41.87374,
+    "geom:longitude":43.43013,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Vardgineti",
+    "gn:country_code":"GE",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611210,
+    "gn:latitude":41.87374,
+    "gn:longitude":43.43013,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vardgineti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Vardgineti"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10e0\u10d3\u10d2\u10d8\u10dc\u10d4\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611210
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a12d53f5a506a43e7a2c5a766178c638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1276365533,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1276365533,
+    "wof:lastmodified":1537623048,
+    "wof:name":"Vardgineti",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43013,
+    41.87374000000001,
+    43.43013,
+    41.87374000000001
+],
+  "geometry": {"coordinates":[43.43013,41.87374000000001],"type":"Point"}
+}

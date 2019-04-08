@@ -1,0 +1,68 @@
+{
+  "id": 1209251633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65077,41.24731,44.65077,41.24731",
+    "geom:latitude":41.24731,
+    "geom:longitude":44.65077,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Khokhmeli",
+    "gn:country_code":"GE",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613907,
+    "gn:latitude":41.24731,
+    "gn:longitude":44.65077,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khokhmeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10ee\u10db\u10d4\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Khorkhmeli",
+        "Khokhmeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613907
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a8451749424816dbfd28f7e0f04bb4a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209251633
+        }
+    ],
+    "wof:id":1209251633,
+    "wof:lastmodified":1537623204,
+    "wof:name":"Khokhmeli",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65077,
+    41.24731,
+    44.65077,
+    41.24731
+],
+  "geometry": {"coordinates":[44.65077,41.24731],"type":"Point"}
+}

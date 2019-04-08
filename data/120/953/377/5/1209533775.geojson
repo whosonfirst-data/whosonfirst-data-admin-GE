@@ -1,0 +1,64 @@
+{
+  "id": 1209533775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03333,41.88333,45.03333,41.88333",
+    "geom:latitude":41.88333,
+    "geom:longitude":45.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bol'shaya Ikvliv-Gorana",
+    "gn:country_code":"GE",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615415,
+    "gn:latitude":41.88333,
+    "gn:longitude":45.03333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bol\u2019shaya Ikvliv-Gorana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bol\u2019shaya Ikvliv-Gorana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615415
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ece89a04cb8ef54def123a68f8f0f71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209533775
+        }
+    ],
+    "wof:id":1209533775,
+    "wof:lastmodified":1537623289,
+    "wof:name":"Bol'shaya Ikvliv-Gorana",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03333,
+    41.88333,
+    45.03333,
+    41.88333
+],
+  "geometry": {"coordinates":[45.03333,41.88333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259796571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.39482,42.95521,41.39482,42.95521",
+    "geom:latitude":42.95521,
+    "geom:longitude":41.39482,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akhuts'a",
+    "gn:country_code":"GE",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615831,
+    "gn:latitude":42.95521,
+    "gn:longitude":41.39482,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Akhuts\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Akhuts\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ee\u10e3\u10ec\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615831
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"836875b3057e95406386d01d5e9fc238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1259796571,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259796571,
+    "wof:lastmodified":1537623312,
+    "wof:name":"Akhuts'a",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.39482,
+    42.95521,
+    41.39482,
+    42.95521
+],
+  "geometry": {"coordinates":[41.39482,42.95521],"type":"Point"}
+}

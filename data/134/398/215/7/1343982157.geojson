@@ -1,0 +1,83 @@
+{
+  "id": 1343982157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73278,41.72528,41.73278,41.72528",
+    "geom:latitude":41.72528,
+    "geom:longitude":41.73278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chakvi",
+    "gn:country_code":"GE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615297,
+    "gn:latitude":41.72528,
+    "gn:longitude":41.73278,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Chakvi",
+    "gn:population":8100,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch'ak'vi"
+    ],
+    "name:kat_x_preferred":[
+        "Chakvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chakva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615297,
+        "wk:page":"Chakvi"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f46a0561839388ad5c960b3de7791137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1343982157,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1343982157,
+    "wof:lastmodified":1537623283,
+    "wof:name":"Chakvi",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:population":8100,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73278,
+    41.72528,
+    41.73278,
+    41.72528
+],
+  "geometry": {"coordinates":[41.73278,41.72528],"type":"Point"}
+}

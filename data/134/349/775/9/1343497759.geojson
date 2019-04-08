@@ -1,0 +1,76 @@
+{
+  "id": 1343497759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23487,41.32359,44.23487,41.32359",
+    "geom:latitude":41.32359,
+    "geom:longitude":44.23487,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Dalari",
+    "gn:country_code":"GE",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615044,
+    "gn:latitude":41.32359,
+    "gn:longitude":44.23487,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Dalari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Dalari"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d0\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Dalyari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615044
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"37803d49caa6af5d4dc78171575e6652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1343497759,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1343497759,
+    "wof:lastmodified":1537623269,
+    "wof:name":"Dalari",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23487,
+    41.32359,
+    44.23487,
+    41.32359
+],
+  "geometry": {"coordinates":[44.23487,41.32359],"type":"Point"}
+}

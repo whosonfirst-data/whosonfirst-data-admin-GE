@@ -1,0 +1,80 @@
+{
+  "id": 1259601515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.61386,43.25012,42.61386,43.25012",
+    "geom:latitude":43.25012,
+    "geom:longitude":42.61386,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tegenekli",
+    "gn:country_code":"GE",
+    "gn:dem":1833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611706,
+    "gn:latitude":43.25012,
+    "gn:longitude":42.61386,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tegenekli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tegenekli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0433\u0435\u043d\u0435\u043a\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pichvnari",
+        "Tegenekl\u2019",
+        "Tegenekli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85688089,
+        102191581,
+        85632685,
+        874393555,
+        1108733451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611706
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f79ab0ae272945056f9f294296eed027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632685,
+            "county_id":1108733451,
+            "empire_id":874393555,
+            "locality_id":1259601515,
+            "region_id":85688089
+        }
+    ],
+    "wof:id":1259601515,
+    "wof:lastmodified":1537623077,
+    "wof:name":"Tegenekli",
+    "wof:parent_id":1108733451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.61386,
+    43.25012,
+    42.61386,
+    43.25012
+],
+  "geometry": {"coordinates":[42.61386,43.25012],"type":"Point"}
+}

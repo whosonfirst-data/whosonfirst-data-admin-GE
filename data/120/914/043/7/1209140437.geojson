@@ -1,0 +1,67 @@
+{
+  "id": 1209140437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80958,41.69373,43.80958,41.69373",
+    "geom:latitude":41.69373,
+    "geom:longitude":43.80958,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Khando",
+    "gn:country_code":"GE",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614009,
+    "gn:latitude":41.69373,
+    "gn:longitude":43.80958,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khando",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Khando"
+    ],
+    "name:kat_x_variant":[
+        "\u10ee\u10d0\u10dc\u10d3\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614009
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"610f1fc4e56b2bb88d10e9370a29baaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209140437
+        }
+    ],
+    "wof:id":1209140437,
+    "wof:lastmodified":1537623208,
+    "wof:name":"Khando",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80958,
+    41.69373,
+    43.80958,
+    41.69373
+],
+  "geometry": {"coordinates":[43.80958,41.69373],"type":"Point"}
+}

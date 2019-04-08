@@ -1,0 +1,73 @@
+{
+  "id": 1276550671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09748,43.00385,41.09748,43.00385",
+    "geom:latitude":43.00385,
+    "geom:longitude":41.09748,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akhalsop'eli",
+    "gn:country_code":"GE",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615862,
+    "gn:latitude":43.00385,
+    "gn:longitude":41.09748,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Akhalsop\u2019eli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Akhalsop\u2019eli"
+    ],
+    "name:und_x_variant":[
+        "Naidorf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615862
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"09d13599f3ae1e4804bbb55ca94535c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1276550671,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276550671,
+    "wof:lastmodified":1537623313,
+    "wof:name":"Akhalsop'eli",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09748,
+    43.00385,
+    41.09748,
+    43.00385
+],
+  "geometry": {"coordinates":[41.09748,43.00385],"type":"Point"}
+}

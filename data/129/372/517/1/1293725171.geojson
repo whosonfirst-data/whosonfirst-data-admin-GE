@@ -1,0 +1,82 @@
+{
+  "id": 1293725171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55978,42.48195,42.55978,42.48195",
+    "geom:latitude":42.48195,
+    "geom:longitude":42.55978,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kveda K'inchkha",
+    "gn:country_code":"GE",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613547,
+    "gn:latitude":42.48195,
+    "gn:longitude":42.55978,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kveda K\u2019inchkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'veda Kinch'kha"
+    ],
+    "name:kat_x_preferred":[
+        "Kveda K\u2019inchkha"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10d9\u10d8\u10dc\u10e9\u10ee\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0435\u0434\u0430-\u041a\u0438\u043d\u0447\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zeda Kinchkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613547
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7732e4c7ee0f7186860939d7af9cf5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691313,
+            "locality_id":1293725171,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1293725171,
+    "wof:lastmodified":1537623185,
+    "wof:name":"Kveda K'inchkha",
+    "wof:parent_id":1108691313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55978,
+    42.48195,
+    42.55978,
+    42.48195
+],
+  "geometry": {"coordinates":[42.55978,42.48195],"type":"Point"}
+}

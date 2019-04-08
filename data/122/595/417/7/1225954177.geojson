@@ -1,0 +1,77 @@
+{
+  "id": 1225954177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.41825,41.37866,44.41825,41.37866",
+    "geom:latitude":41.37866,
+    "geom:longitude":44.41825,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kazret'i",
+    "gn:country_code":"GE",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614084,
+    "gn:latitude":41.37866,
+    "gn:longitude":44.41825,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Kazret\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazret'i"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0440\u0435\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kazret\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614084,
+        "wk:page":"Kazreti"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0a3bdd351bd144917f6e54bf1caafb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1225954177,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1225954177,
+    "wof:lastmodified":1537623212,
+    "wof:name":"Kazret'i",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.41825,
+    41.37866,
+    44.41825,
+    41.37866
+],
+  "geometry": {"coordinates":[44.41825,41.37866],"type":"Point"}
+}

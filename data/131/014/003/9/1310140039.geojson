@@ -1,0 +1,76 @@
+{
+  "id": 1310140039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.94817,42.31786,41.94817,42.31786",
+    "geom:latitude":42.31786,
+    "geom:longitude":41.94817,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Sakhoch'olavo",
+    "gn:country_code":"GE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612190,
+    "gn:latitude":42.31786,
+    "gn:longitude":41.94817,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Sakhoch\u2019olavo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10ee\u10dd\u10ed\u10dd\u10da\u10d0\u10d5\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "Sakhoch\u2019olavo"
+    ],
+    "name:und_x_variant":[
+        "Sakhocholao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612190
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c23da8adb3ca55fe16f597d8534b27d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1310140039,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1310140039,
+    "wof:lastmodified":1537623101,
+    "wof:name":"Sakhoch'olavo",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.94817000000001,
+    42.31786,
+    41.94817000000001,
+    42.31786
+],
+  "geometry": {"coordinates":[41.94817000000001,42.31786],"type":"Point"}
+}

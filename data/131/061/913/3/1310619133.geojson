@@ -1,0 +1,71 @@
+{
+  "id": 1310619133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02861,42.28389,45.02861,42.28389",
+    "geom:latitude":42.28389,
+    "geom:longitude":45.02861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bachali",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615618,
+    "gn:latitude":42.28389,
+    "gn:longitude":45.02861,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Bachali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bachati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615618
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ab5ef2aa98167628bd19e43dd94a6992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1310619133,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310619133,
+    "wof:lastmodified":1537623299,
+    "wof:name":"Bachali",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02861,
+    42.28389,
+    45.02861,
+    42.28389
+],
+  "geometry": {"coordinates":[45.02861,42.28389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260300005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23256,41.29942,44.23256,41.29942",
+    "geom:latitude":41.29942,
+    "geom:longitude":44.23256,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bash-Gamamly",
+    "gn:country_code":"GE",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615543,
+    "gn:latitude":41.29942,
+    "gn:longitude":44.23256,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Bash-Gamamly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615543
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d5bf7652904f779e7fd4e2b51008608b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1260300005,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1260300005,
+    "wof:lastmodified":1536689782,
+    "wof:name":"Bash-Gamamly",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23256,
+    41.29942,
+    44.23256,
+    41.29942
+],
+  "geometry": {"coordinates":[44.23256,41.29942],"type":"Point"}
+}

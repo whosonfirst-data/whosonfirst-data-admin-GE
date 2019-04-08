@@ -1,0 +1,80 @@
+{
+  "id": 1243172743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72749,41.54375,41.72749,41.54375",
+    "geom:latitude":41.54375,
+    "geom:longitude":41.72749,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ach'arists'q'ali",
+    "gn:country_code":"GE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610816,
+    "gn:latitude":41.54375,
+    "gn:longitude":41.72749,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ach\u2019arists\u2019q\u2019ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ach\u2019arists\u2019q\u2019ali"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ed\u10d0\u10e0\u10d8\u10e1\u10ec\u10e7\u10d0\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Yacharistskali",
+        "Adzharis Tskhalskaya",
+        "Atcharistskali",
+        "Acharistskhali",
+        "Adzharistskali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610816
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3fb7c5c29f7213f65cad479c76ff61e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1243172743,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1243172743,
+    "wof:lastmodified":1537623020,
+    "wof:name":"Ach'arists'q'ali",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72749,
+    41.54375,
+    41.72749,
+    41.54375
+],
+  "geometry": {"coordinates":[41.72749,41.54375],"type":"Point"}
+}

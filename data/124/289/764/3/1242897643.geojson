@@ -1,0 +1,73 @@
+{
+  "id": 1242897643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.99859,41.84119,41.99859,41.84119",
+    "geom:latitude":41.84119,
+    "geom:longitude":41.99859,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ach'i",
+    "gn:country_code":"GE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615986,
+    "gn:latitude":41.84119,
+    "gn:longitude":41.99859,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ach\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ach\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ed\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615986
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7863cf77578fab3cccd8b20045e25aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1242897643,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1242897643,
+    "wof:lastmodified":1537623321,
+    "wof:name":"Ach'i",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.99859,
+    41.84119000000001,
+    41.99859,
+    41.84119000000001
+],
+  "geometry": {"coordinates":[41.99859,41.84119000000001],"type":"Point"}
+}

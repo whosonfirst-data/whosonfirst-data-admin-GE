@@ -1,0 +1,73 @@
+{
+  "id": 1210052243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.36728,42.42915,42.36728,42.42915",
+    "geom:latitude":42.42915,
+    "geom:longitude":42.36728,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Ch'aburta",
+    "gn:country_code":"GE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615311,
+    "gn:latitude":42.42915,
+    "gn:longitude":42.36728,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ch\u2019aburta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019aburta"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d0\u10d1\u10e3\u10e0\u10d7\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615311
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7052a3ac0459b68dda9a554f6109343d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691333,
+            "locality_id":1210052243,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1210052243,
+    "wof:lastmodified":1537623284,
+    "wof:name":"Ch'aburta",
+    "wof:parent_id":1108691333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.36728,
+    42.42915,
+    42.36728,
+    42.42915
+],
+  "geometry": {"coordinates":[42.36728,42.42915],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310333731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.51962,41.60589,45.51962,41.60589",
+    "geom:latitude":41.60589,
+    "geom:longitude":45.51962,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Ts'its'mat'iani",
+    "gn:country_code":"GE",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611437,
+    "gn:latitude":41.60589,
+    "gn:longitude":45.51962,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ts\u2019its\u2019mat\u2019iani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ts\u2019its\u2019mat\u2019iani"
+    ],
+    "name:kat_x_variant":[
+        "\u10ec\u10d8\u10ec\u10db\u10d0\u10e2\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611437
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"970ec046107dbaaf4a756b72cc70d342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1310333731,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310333731,
+    "wof:lastmodified":1537623061,
+    "wof:name":"Ts'its'mat'iani",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.51962,
+    41.60589,
+    45.51962,
+    41.60589
+],
+  "geometry": {"coordinates":[45.51962,41.60589],"type":"Point"}
+}

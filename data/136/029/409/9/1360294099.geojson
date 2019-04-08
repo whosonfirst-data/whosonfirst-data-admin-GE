@@ -1,0 +1,85 @@
+{
+  "id": 1360294099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16637,42.94294,41.16637,42.94294",
+    "geom:latitude":42.94294,
+    "geom:longitude":41.16637,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Parnauti",
+    "gn:country_code":"GE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612507,
+    "gn:latitude":42.94294,
+    "gn:longitude":41.16637,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Parnauti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "P'arnaut'i"
+    ],
+    "name:kat_x_preferred":[
+        "Parnauti"
+    ],
+    "name:kat_x_variant":[
+        "\u10e4\u10d0\u10e0\u10dc\u10d0\u10e3\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u043d\u0430\u0443\u0442"
+    ],
+    "name:und_x_variant":[
+        "Ivano-Alekseyevka",
+        "Stambul-Nakhalovka",
+        "Ordu-Kuchuk",
+        "Parnaut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612507
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"21bc7ec0b2424e9c849e85bd3de4e7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1360294099,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1360294099,
+    "wof:lastmodified":1537623120,
+    "wof:name":"Parnauti",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16637,
+    42.94294,
+    41.16637,
+    42.94294
+],
+  "geometry": {"coordinates":[41.16637,42.94294],"type":"Point"}
+}

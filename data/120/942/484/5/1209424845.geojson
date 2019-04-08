@@ -1,0 +1,66 @@
+{
+  "id": 1209424845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82483,41.40054,44.82483,41.40054",
+    "geom:latitude":41.40054,
+    "geom:longitude":44.82483,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imiri",
+    "gn:country_code":"GE",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614268,
+    "gn:latitude":41.40054,
+    "gn:longitude":44.82483,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ymir",
+        "Imir",
+        "Imiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614268
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5a20d005b72b57786e1951266685afeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209424845
+        }
+    ],
+    "wof:id":1209424845,
+    "wof:lastmodified":1537623221,
+    "wof:name":"Imiri",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82483,
+    41.40054,
+    44.82483,
+    41.40054
+],
+  "geometry": {"coordinates":[44.82483,41.40054],"type":"Point"}
+}

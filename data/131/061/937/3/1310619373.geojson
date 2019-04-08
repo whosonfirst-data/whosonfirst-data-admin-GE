@@ -1,0 +1,73 @@
+{
+  "id": 1310619373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.14417,41.44111,45.14417,41.44111",
+    "geom:latitude":41.44111,
+    "geom:longitude":45.14417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lemshveniera",
+    "gn:country_code":"GE",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824965,
+    "gn:latitude":41.44111,
+    "gn:longitude":45.14417,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Lemshveniera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Lemisvaniyera"
+    ],
+    "name:kat_x_preferred":[
+        "Lemshveniera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824965
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ecd9eb65c22a0969b5cb2a0654784d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691281,
+            "locality_id":1310619373,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310619373,
+    "wof:lastmodified":1537623339,
+    "wof:name":"Lemshveniera",
+    "wof:parent_id":1108691281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.14417,
+    41.44111,
+    45.14417,
+    41.44111
+],
+  "geometry": {"coordinates":[45.14417,41.44111],"type":"Point"}
+}

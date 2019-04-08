@@ -1,0 +1,71 @@
+{
+  "id": 1310416309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27719,42.34692,43.27719,42.34692",
+    "geom:latitude":42.34692,
+    "geom:longitude":43.27719,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tsirk'vali",
+    "gn:country_code":"GE",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611456,
+    "gn:latitude":42.34692,
+    "gn:longitude":43.27719,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsirk\u2019vali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirkvaly",
+        "Tsirk\u2019vali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611456
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"166a59a177f3a8d4bad5b741584728d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1310416309,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1310416309,
+    "wof:lastmodified":1537623062,
+    "wof:name":"Tsirk'vali",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27719,
+    42.34692,
+    43.27719,
+    42.34692
+],
+  "geometry": {"coordinates":[43.27719,42.34692],"type":"Point"}
+}

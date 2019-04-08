@@ -1,0 +1,70 @@
+{
+  "id": 1276999715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95881,41.70837,42.95881,41.70837",
+    "geom:latitude":41.70837,
+    "geom:longitude":42.95881,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eliatsminda",
+    "gn:country_code":"GE",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614690,
+    "gn:latitude":41.70837,
+    "gn:longitude":42.95881,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Eliatsminda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10d0\u10ec\u10db\u10d8\u10dc\u10d3\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614690
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bcbdf8e13813c5ac17d2d0baa4d8d66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691245,
+            "locality_id":1276999715,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1276999715,
+    "wof:lastmodified":1537623246,
+    "wof:name":"Eliatsminda",
+    "wof:parent_id":1108691245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95881,
+    41.70837,
+    42.95881,
+    41.70837
+],
+  "geometry": {"coordinates":[42.95881,41.70837],"type":"Point"}
+}

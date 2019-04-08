@@ -1,0 +1,61 @@
+{
+  "id": 1209018989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.21667,42.6,42.21667,42.6",
+    "geom:latitude":42.6,
+    "geom:longitude":42.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Meore-Taia",
+    "gn:country_code":"GE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613002,
+    "gn:latitude":42.6,
+    "gn:longitude":42.21667,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Meore-Taia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613002
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"818cba4133e754205faf4d5fccde2d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209018989
+        }
+    ],
+    "wof:id":1209018989,
+    "wof:lastmodified":1536300205,
+    "wof:name":"Meore-Taia",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.21667,
+    42.6,
+    42.21667,
+    42.6
+],
+  "geometry": {"coordinates":[42.21667,42.6],"type":"Point"}
+}

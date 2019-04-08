@@ -1,0 +1,70 @@
+{
+  "id": 1242587417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.61629,42.33274,44.61629,42.33274",
+    "geom:latitude":42.33274,
+    "geom:longitude":44.61629,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ukanamkhari",
+    "gn:country_code":"GE",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611304,
+    "gn:latitude":42.33274,
+    "gn:longitude":44.61629,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ukanamkhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ukanamkhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611304
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6e85257129536267c65c65eca6f39d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1242587417,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1242587417,
+    "wof:lastmodified":1537623054,
+    "wof:name":"Ukanamkhari",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.61629,
+    42.33274,
+    44.61629,
+    42.33274
+],
+  "geometry": {"coordinates":[44.61629,42.33274],"type":"Point"}
+}

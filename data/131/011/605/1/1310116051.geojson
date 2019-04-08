@@ -1,0 +1,71 @@
+{
+  "id": 1310116051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80333,41.88785,44.80333,41.88785",
+    "geom:latitude":41.88785,
+    "geom:longitude":44.80333,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Shankevani",
+    "gn:country_code":"GE",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612023,
+    "gn:latitude":41.88785,
+    "gn:longitude":44.80333,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Shankevani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shamkevani",
+        "Shankevani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612023
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"18e7d74e864c337e116c8cfaf6bd8bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1310116051,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310116051,
+    "wof:lastmodified":1537623093,
+    "wof:name":"Shankevani",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80333,
+    41.88785,
+    44.80333,
+    41.88785
+],
+  "geometry": {"coordinates":[44.80333,41.88785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310637103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75828,42.79637,42.75828,42.79637",
+    "geom:latitude":42.79637,
+    "geom:longitude":42.75828,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Babili",
+    "gn:country_code":"GE",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9981415,
+    "gn:latitude":42.79637,
+    "gn:longitude":42.75828,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Babili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Babili"
+    ],
+    "name:kat_x_variant":[
+        "\u10d1\u10d0\u10d1\u10d8\u10da\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9981415
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"db1c47b637b0dae3edfc8eeef293c2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1310637103,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1310637103,
+    "wof:lastmodified":1537623360,
+    "wof:name":"Babili",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75828,
+    42.79637,
+    42.75828,
+    42.79637
+],
+  "geometry": {"coordinates":[42.75828,42.79637],"type":"Point"}
+}

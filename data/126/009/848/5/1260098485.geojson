@@ -1,0 +1,79 @@
+{
+  "id": 1260098485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.36618,43.2177,40.36618,43.2177",
+    "geom:latitude":43.2177,
+    "geom:longitude":40.36618,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"At'idzt'a",
+    "gn:country_code":"GE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823860,
+    "gn:latitude":43.2177,
+    "gn:longitude":40.36618,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"At\u2019idzt\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "At'idzt'a"
+    ],
+    "name:kat_x_preferred":[
+        "At\u2019idzt\u2019a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u044b\u0434\u0437\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Atydzta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823860
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"806a6fa170bca7b1dfb1a18e44f7a339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1260098485,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1260098485,
+    "wof:lastmodified":1537623328,
+    "wof:name":"At'idzt'a",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.36618,
+    43.2177,
+    40.36618,
+    43.2177
+],
+  "geometry": {"coordinates":[40.36618,43.2177],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277089345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89695,42.16153,44.89695,42.16153",
+    "geom:latitude":42.16153,
+    "geom:longitude":44.89695,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Jijet'i",
+    "gn:country_code":"GE",
+    "gn:dem":1278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614781,
+    "gn:latitude":42.16153,
+    "gn:longitude":44.89695,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Jijet\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhidzheti",
+        "Jijet\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614781
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5f78a98de666597845152f7785fdb219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1277089345,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1277089345,
+    "wof:lastmodified":1537623252,
+    "wof:name":"Jijet'i",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89695,
+    42.16153,
+    44.89695,
+    42.16153
+],
+  "geometry": {"coordinates":[44.89695,42.16153],"type":"Point"}
+}

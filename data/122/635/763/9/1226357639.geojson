@@ -1,0 +1,76 @@
+{
+  "id": 1226357639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64668,42.08878,43.64668,42.08878",
+    "geom:latitude":42.08878,
+    "geom:longitude":43.64668,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ali",
+    "gn:country_code":"GE",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615790,
+    "gn:latitude":42.08878,
+    "gn:longitude":43.64668,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ali"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615790
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc82e27e375cb2ddeaadefcd1fac878e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1226357639,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226357639,
+    "wof:lastmodified":1537623309,
+    "wof:name":"Ali",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64668,
+    42.08878,
+    43.64668,
+    42.08878
+],
+  "geometry": {"coordinates":[43.64668,42.08878],"type":"Point"}
+}

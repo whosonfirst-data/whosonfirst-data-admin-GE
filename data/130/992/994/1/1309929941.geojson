@@ -1,0 +1,72 @@
+{
+  "id": 1309929941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30415,41.6377,42.30415,41.6377",
+    "geom:latitude":41.6377,
+    "geom:longitude":42.30415,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ok'tomberi",
+    "gn:country_code":"GE",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612617,
+    "gn:latitude":41.6377,
+    "gn:longitude":42.30415,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ok\u2019tomberi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kveda-Alme",
+        "Nizhneye Alme",
+        "Ok\u2019tomberi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612617
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"232889bcaf59854a7fd881664ed857a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1309929941,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1309929941,
+    "wof:lastmodified":1537623127,
+    "wof:name":"Ok'tomberi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30415,
+    41.6377,
+    42.30415,
+    41.6377
+],
+  "geometry": {"coordinates":[42.30415,41.6377],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276453751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6623,42.18297,43.6623,42.18297",
+    "geom:latitude":42.18297,
+    "geom:longitude":43.6623,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Lopani",
+    "gn:country_code":"GE",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613173,
+    "gn:latitude":42.18297,
+    "gn:longitude":43.6623,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lopani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lopani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043f\u0430\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613173
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"57f7b4ab48d9463a0c9fd578795a99f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1276453751,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1276453751,
+    "wof:lastmodified":1537623161,
+    "wof:name":"Lopani",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6623,
+    42.18297000000001,
+    43.6623,
+    42.18297000000001
+],
+  "geometry": {"coordinates":[43.6623,42.18297000000001],"type":"Point"}
+}

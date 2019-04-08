@@ -1,0 +1,79 @@
+{
+  "id": 1276696441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.89958,41.60294,45.89958,41.60294",
+    "geom:latitude":41.60294,
+    "geom:longitude":45.89958,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Zemo Magaro",
+    "gn:country_code":"GE",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610926,
+    "gn:latitude":41.60294,
+    "gn:longitude":45.89958,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zemo Magaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zemo Magaro"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10db\u10dd \u10db\u10d0\u10e6\u10d0\u10e0\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043e \u041c\u0430\u0433\u0430\u0440\u043e"
+    ],
+    "name:und_x_variant":[
+        "Zemo-Magario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610926
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d0683c77b45cc9f3c81d04f7fc2daf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691365,
+            "locality_id":1276696441,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276696441,
+    "wof:lastmodified":1537623028,
+    "wof:name":"Zemo Magaro",
+    "wof:parent_id":1108691365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.89958,
+    41.60294,
+    45.89958,
+    41.60294
+],
+  "geometry": {"coordinates":[45.89958,41.60294],"type":"Point"}
+}

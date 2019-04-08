@@ -1,0 +1,76 @@
+{
+  "id": 1276562629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01944,41.87083,46.01944,41.87083",
+    "geom:latitude":41.87083,
+    "geom:longitude":46.01944,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tkhilists'q'aro",
+    "gn:country_code":"GE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":872284,
+    "gn:latitude":41.87083,
+    "gn:longitude":46.01944,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Tkhilists\u2019q\u2019aro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d7\u10ee\u10d8\u10da\u10d8\u10e1\u10ec\u10e7\u10d0\u10e0\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "Tkhilists\u2019q\u2019aro"
+    ],
+    "name:und_x_variant":[
+        "Tkhilistskaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":872284
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7dc1096ecb30eb03395572fd6eeed7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691321,
+            "locality_id":1276562629,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276562629,
+    "wof:lastmodified":1537623346,
+    "wof:name":"Tkhilists'q'aro",
+    "wof:parent_id":1108691321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01944,
+    41.87083,
+    46.01944,
+    41.87083
+],
+  "geometry": {"coordinates":[46.01944,41.87083],"type":"Point"}
+}

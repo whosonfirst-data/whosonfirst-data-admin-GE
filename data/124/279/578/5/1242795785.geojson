@@ -1,0 +1,67 @@
+{
+  "id": 1242795785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.11778,42.5425,44.11778,42.5425",
+    "geom:latitude":42.5425,
+    "geom:longitude":44.11778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dallag-Roki",
+    "gn:country_code":"GE",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800912,
+    "gn:latitude":42.5425,
+    "gn:longitude":44.11778,
+    "gn:modification_date":"1996-03-06",
+    "gn:name":"Dallag-Roki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800912
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9dd8b929bf6b3240a583361b8d14b388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1242795785,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1242795785,
+    "wof:lastmodified":1536749239,
+    "wof:name":"Dallag-Roki",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.11778,
+    42.5425,
+    44.11778,
+    42.5425
+],
+  "geometry": {"coordinates":[44.11778,42.5425],"type":"Point"}
+}

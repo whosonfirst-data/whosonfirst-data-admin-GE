@@ -1,0 +1,70 @@
+{
+  "id": 1326666911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25459,41.82486,46.25459,41.82486",
+    "geom:latitude":41.82486,
+    "geom:longitude":46.25459,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Kavshiri",
+    "gn:country_code":"GE",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614093,
+    "gn:latitude":41.82486,
+    "gn:longitude":46.25459,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kavshiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d5\u10e8\u10d8\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614093
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0229ded6012b48018da6399371a9c0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1326666911,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1326666911,
+    "wof:lastmodified":1537623213,
+    "wof:name":"Kavshiri",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25459,
+    41.82486,
+    46.25459,
+    41.82486
+],
+  "geometry": {"coordinates":[46.25459,41.82486],"type":"Point"}
+}

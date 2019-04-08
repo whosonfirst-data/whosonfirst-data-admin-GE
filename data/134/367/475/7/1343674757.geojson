@@ -1,0 +1,73 @@
+{
+  "id": 1343674757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.28968,43.08808,41.28968,43.08808",
+    "geom:latitude":43.08808,
+    "geom:longitude":41.28968,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Azanta",
+    "gn:country_code":"GE",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615629,
+    "gn:latitude":43.08808,
+    "gn:longitude":41.28968,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Azanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10d6\u10d0\u10dc\u10d7\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Azanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615629
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"31c14221096d527b16655e29461b5407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1343674757,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343674757,
+    "wof:lastmodified":1537623300,
+    "wof:name":"Azanta",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.28968,
+    43.08808,
+    41.28968,
+    43.08808
+],
+  "geometry": {"coordinates":[41.28968,43.08808],"type":"Point"}
+}

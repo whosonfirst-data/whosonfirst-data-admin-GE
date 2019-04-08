@@ -1,0 +1,61 @@
+{
+  "id": 1209243305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01639,42.34,42.01639,42.34",
+    "geom:latitude":42.34,
+    "geom:longitude":42.01639,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Sardakano",
+    "gn:country_code":"GE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800818,
+    "gn:latitude":42.34,
+    "gn:longitude":42.01639,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Sardakano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800818
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0bba96aa2f9f3678ccf6a452d3e78348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209243305
+        }
+    ],
+    "wof:id":1209243305,
+    "wof:lastmodified":1536293249,
+    "wof:name":"Sardakano",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01639,
+    42.34,
+    42.01639,
+    42.34
+],
+  "geometry": {"coordinates":[42.01639,42.34],"type":"Point"}
+}

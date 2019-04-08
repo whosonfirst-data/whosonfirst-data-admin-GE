@@ -1,0 +1,82 @@
+{
+  "id": 1360121129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.30196,41.78103,43.30196,41.78103",
+    "geom:latitude":41.78103,
+    "geom:longitude":43.30196,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Chobiskhevi",
+    "gn:country_code":"GE",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615122,
+    "gn:latitude":41.78103,
+    "gn:longitude":43.30196,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chobiskhevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chobiskhevi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ed\u10dd\u10d1\u10d8\u10e1\u10ee\u10d4\u10d5\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0431\u0438\u0441\u0445\u0435\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chobinskhevi",
+        "Chobi",
+        "Chobikhevi",
+        "Chobiskhevi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615122
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"92924679ec058a9c59d52fa5d3b80bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1360121129,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1360121129,
+    "wof:lastmodified":1537623274,
+    "wof:name":"Chobiskhevi",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.30196,
+    41.78103,
+    43.30196,
+    41.78103
+],
+  "geometry": {"coordinates":[43.30196,41.78103],"type":"Point"}
+}

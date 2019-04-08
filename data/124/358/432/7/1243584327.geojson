@@ -1,0 +1,76 @@
+{
+  "id": 1243584327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.41038,41.96985,42.41038,41.96985",
+    "geom:latitude":41.96985,
+    "geom:longitude":42.41038,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Shua Surebi",
+    "gn:country_code":"GE",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611921,
+    "gn:latitude":41.96985,
+    "gn:longitude":42.41038,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Shua Surebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shua Surebi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e3\u10d0 \u10e1\u10e3\u10e0\u10d4\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0430-\u0421\u0443\u0440\u0435\u0431\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611921
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"81676fd1857475deb9e5e72d50aeb8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1243584327,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1243584327,
+    "wof:lastmodified":1537623088,
+    "wof:name":"Shua Surebi",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.41038,
+    41.96985,
+    42.41038,
+    41.96985
+],
+  "geometry": {"coordinates":[42.41038,41.96985],"type":"Point"}
+}

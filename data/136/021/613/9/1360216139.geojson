@@ -1,0 +1,78 @@
+{
+  "id": 1360216139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82222,42.235,44.82222,42.235",
+    "geom:latitude":42.235,
+    "geom:longitude":44.82222,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Tsip'rani",
+    "gn:country_code":"GE",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611517,
+    "gn:latitude":42.235,
+    "gn:longitude":44.82222,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Tsip\u2019rani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ec\u10d8\u10e4\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043f\u0440\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tsifrani",
+        "Tsip\u2019rani",
+        "Tsiprani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611517
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0b216dd50d86862bd6d4a08cd28e3af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1360216139,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1360216139,
+    "wof:lastmodified":1537623065,
+    "wof:name":"Tsip'rani",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82222,
+    42.235,
+    44.82222,
+    42.235
+],
+  "geometry": {"coordinates":[44.82222,42.235],"type":"Point"}
+}

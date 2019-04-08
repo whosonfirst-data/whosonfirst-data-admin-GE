@@ -1,0 +1,72 @@
+{
+  "id": 1193034325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12514,42.21181,44.12514,42.21181",
+    "geom:latitude":42.21181,
+    "geom:longitude":44.12514,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo-Korkula",
+    "gn:country_code":"GE",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610940,
+    "gn:latitude":42.21181,
+    "gn:longitude":44.12514,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zemo-Korkula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verkhne-Korkula",
+        "Verkhnyaya Korkula",
+        "Zemo-Korkula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610940
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2274c97453b168bdf9d4131795bafff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1193034325,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1193034325,
+    "wof:lastmodified":1537623029,
+    "wof:name":"Zemo-Korkula",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12514,
+    42.21181,
+    44.12514,
+    42.21181
+],
+  "geometry": {"coordinates":[44.12514,42.21181],"type":"Point"}
+}

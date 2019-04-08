@@ -1,0 +1,76 @@
+{
+  "id": 1293592443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6599,43.15904,40.6599,43.15904",
+    "geom:latitude":43.15904,
+    "geom:longitude":40.6599,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"T'amk'vach-Igvavera",
+    "gn:country_code":"GE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611754,
+    "gn:latitude":43.15904,
+    "gn:longitude":40.6599,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"T\u2019amk\u2019vach-Igvavera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10db\u10d9\u10d5\u10d0\u10e9 \u10d8\u10d2\u10d5\u10d0\u10d5\u10d4\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "T\u2019amk\u2019vach-Igvavera"
+    ],
+    "name:und_x_variant":[
+        "Tamkvach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611754
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"837f814556ba15e989a630e0100a731b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1293592443,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293592443,
+    "wof:lastmodified":1537623079,
+    "wof:name":"T'amk'vach-Igvavera",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6599,
+    43.15904000000001,
+    40.6599,
+    43.15904000000001
+],
+  "geometry": {"coordinates":[40.6599,43.15904000000001],"type":"Point"}
+}

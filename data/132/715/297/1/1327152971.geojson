@@ -1,0 +1,67 @@
+{
+  "id": 1327152971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.821,42.07198,42.821,42.07198",
+    "geom:latitude":42.07198,
+    "geom:longitude":42.821,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"P'ersat'i",
+    "gn:country_code":"GE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612424,
+    "gn:latitude":42.07198,
+    "gn:longitude":42.821,
+    "gn:modification_date":"2009-02-03",
+    "gn:name":"P\u2019ersat\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612424
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc993a90c692cdbe65264eea44b694e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691255,
+            "locality_id":1327152971,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1327152971,
+    "wof:lastmodified":1537081106,
+    "wof:name":"P'ersat'i",
+    "wof:parent_id":1108691255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82100000000001,
+    42.07198,
+    42.82100000000001,
+    42.07198
+],
+  "geometry": {"coordinates":[42.82100000000001,42.07198],"type":"Point"}
+}

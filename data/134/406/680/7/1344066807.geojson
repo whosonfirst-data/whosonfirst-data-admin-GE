@@ -1,0 +1,67 @@
+{
+  "id": 1344066807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68959,41.80389,44.68959,41.80389",
+    "geom:latitude":41.80389,
+    "geom:longitude":44.68959,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Telovani",
+    "gn:country_code":"GE",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611689,
+    "gn:latitude":41.80389,
+    "gn:longitude":44.68959,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Telovani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611689
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1f364b3912fea960c45018c6434ec49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":1344066807,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":1344066807,
+    "wof:lastmodified":1536864998,
+    "wof:name":"Telovani",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68959,
+    41.80389,
+    44.68959,
+    41.80389
+],
+  "geometry": {"coordinates":[44.68959,41.80389],"type":"Point"}
+}

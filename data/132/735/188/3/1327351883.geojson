@@ -1,0 +1,71 @@
+{
+  "id": 1327351883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75238,41.64304,42.75238,41.64304",
+    "geom:latitude":41.64304,
+    "geom:longitude":42.75238,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ghordze",
+    "gn:country_code":"GE",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614463,
+    "gn:latitude":41.64304,
+    "gn:longitude":42.75238,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ghordze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gordze",
+        "Ghordze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614463
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dad9c162d172b8020df9074e20aff987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1327351883,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1327351883,
+    "wof:lastmodified":1537623231,
+    "wof:name":"Ghordze",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75238,
+    41.64304,
+    42.75238,
+    41.64304
+],
+  "geometry": {"coordinates":[42.75238,41.64304],"type":"Point"}
+}

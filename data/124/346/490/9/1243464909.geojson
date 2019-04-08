@@ -1,0 +1,76 @@
+{
+  "id": 1243464909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.97944,42.24958,42.97944,42.24958",
+    "geom:latitude":42.24958,
+    "geom:longitude":42.97944,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Ch'khari",
+    "gn:country_code":"GE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615152,
+    "gn:latitude":42.24958,
+    "gn:longitude":42.97944,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ch\u2019khari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch'khari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0445\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ch\u2019khari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615152
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"af9045264cf163df526554b648d3423a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691375,
+            "locality_id":1243464909,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1243464909,
+    "wof:lastmodified":1537623275,
+    "wof:name":"Ch'khari",
+    "wof:parent_id":1108691375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.97944,
+    42.24958,
+    42.97944,
+    42.24958
+],
+  "geometry": {"coordinates":[42.97944,42.24958],"type":"Point"}
+}

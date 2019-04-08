@@ -1,0 +1,73 @@
+{
+  "id": 1226153217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29472,41.91333,44.29472,41.91333",
+    "geom:latitude":41.91333,
+    "geom:longitude":44.29472,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"T'eliani",
+    "gn:country_code":"GE",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824889,
+    "gn:latitude":41.91333,
+    "gn:longitude":44.29472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u2019eliani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Teliani"
+    ],
+    "name:und_x_variant":[
+        "T\u2019eliani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824889
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"50e0f1ca8f282278315a8a47c3cb8f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1226153217,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226153217,
+    "wof:lastmodified":1537623339,
+    "wof:name":"T'eliani",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29472,
+    41.91333,
+    44.29472,
+    41.91333
+],
+  "geometry": {"coordinates":[44.29472,41.91333],"type":"Point"}
+}

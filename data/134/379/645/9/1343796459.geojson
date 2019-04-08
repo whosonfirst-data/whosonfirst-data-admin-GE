@@ -1,0 +1,76 @@
+{
+  "id": 1343796459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.59883,41.71189,42.59883,41.71189",
+    "geom:latitude":41.71189,
+    "geom:longitude":42.59883,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Mokhe",
+    "gn:country_code":"GE",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612933,
+    "gn:latitude":41.71189,
+    "gn:longitude":42.59883,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Mokhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mokhe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10ee\u10d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0445\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612933
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1ce67137a9a352e138a5b83ae06383f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1343796459,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1343796459,
+    "wof:lastmodified":1537623146,
+    "wof:name":"Mokhe",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.59883,
+    41.71189,
+    42.59883,
+    41.71189
+],
+  "geometry": {"coordinates":[42.59883,41.71189],"type":"Point"}
+}

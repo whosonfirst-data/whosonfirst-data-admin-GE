@@ -1,0 +1,75 @@
+{
+  "id": 1226073703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.74214,41.65036,42.74214,41.65036",
+    "geom:latitude":41.65036,
+    "geom:longitude":42.74214,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Samqure",
+    "gn:country_code":"GE",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612138,
+    "gn:latitude":41.65036,
+    "gn:longitude":42.74214,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Samqure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10e7\u10e0\u10d4"
+    ],
+    "name:und_x_variant":[
+        "Samkuri",
+        "Samkure",
+        "Samqure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612138
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e793aa13aa75fc94522ed093a4e5eab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1226073703,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1226073703,
+    "wof:lastmodified":1537623098,
+    "wof:name":"Samqure",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.74214,
+    41.65036,
+    42.74214,
+    41.65036
+],
+  "geometry": {"coordinates":[42.74214,41.65036],"type":"Point"}
+}

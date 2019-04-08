@@ -1,0 +1,72 @@
+{
+  "id": 1343567243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73636,41.74129,41.73636,41.74129",
+    "geom:latitude":41.74129,
+    "geom:longitude":41.73636,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kveda Ulianovk'a",
+    "gn:country_code":"GE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613519,
+    "gn:latitude":41.74129,
+    "gn:longitude":41.73636,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kveda Ulianovk\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kveda Ulianovk\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10e3\u10da\u10d8\u10d0\u10dc\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "Kveda-Ul\u2019yanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613519
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6462b51d4d4d78af75613112a54d6753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343567243,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343567243,
+    "wof:lastmodified":1537623183,
+    "wof:name":"Kveda Ulianovk'a",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73636,
+    41.74129,
+    41.73636,
+    41.74129
+],
+  "geometry": {"coordinates":[41.73636,41.74129],"type":"Point"}
+}

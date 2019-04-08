@@ -1,0 +1,71 @@
+{
+  "id": 1360221539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.55036,42.41403,42.55036,42.41403",
+    "geom:latitude":42.41403,
+    "geom:longitude":42.55036,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Gvishtibi",
+    "gn:country_code":"GE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614306,
+    "gn:latitude":42.41403,
+    "gn:longitude":42.55036,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Gvishtibi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gvashtibi",
+        "Gvishtibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614306
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8fcb0c806463b3c40a9c6d45cd8dc255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691313,
+            "locality_id":1360221539,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1360221539,
+    "wof:lastmodified":1537623223,
+    "wof:name":"Gvishtibi",
+    "wof:parent_id":1108691313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.55036,
+    42.41403,
+    42.55036,
+    42.41403
+],
+  "geometry": {"coordinates":[42.55036,42.41403],"type":"Point"}
+}

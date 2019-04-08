@@ -1,0 +1,67 @@
+{
+  "id": 1209332697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76558,41.47794,44.76558,41.47794",
+    "geom:latitude":41.47794,
+    "geom:longitude":44.76558,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Qizilajalo",
+    "gn:country_code":"GE",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613788,
+    "gn:latitude":41.47794,
+    "gn:longitude":44.76558,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Qizilajalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizil-Adzhilo",
+        "Kizil-Adzhlo",
+        "Qizilajalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613788,
+        "wk:page":"Kizilajlo"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cb4f5a991a39996cece12a5c65ea7da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209332697
+        }
+    ],
+    "wof:id":1209332697,
+    "wof:lastmodified":1537623197,
+    "wof:name":"Qizilajalo",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76558,
+    41.47794,
+    44.76558,
+    41.47794
+],
+  "geometry": {"coordinates":[44.76558,41.47794],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209217793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.55189,42.73708,41.55189,42.73708",
+    "geom:latitude":42.73708,
+    "geom:longitude":41.55189,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Meore-Okhurey",
+    "gn:country_code":"GE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874162,
+    "gn:latitude":42.73708,
+    "gn:longitude":41.55189,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Meore-Okhurey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Meore Okhurei"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10dd\u10e0\u10d4 \u10dd\u10ee\u10e3\u10e0\u10d4\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874162
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"009a2c83ff047ecb9131ea561eb705eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209217793
+        }
+    ],
+    "wof:id":1209217793,
+    "wof:lastmodified":1537623347,
+    "wof:name":"Meore-Okhurey",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.55189,
+    42.73708,
+    41.55189,
+    42.73708
+],
+  "geometry": {"coordinates":[41.55189,42.73708],"type":"Point"}
+}

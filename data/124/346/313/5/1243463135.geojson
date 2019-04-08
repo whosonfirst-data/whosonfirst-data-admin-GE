@@ -1,0 +1,73 @@
+{
+  "id": 1243463135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.99912,43.08896,40.99912,43.08896",
+    "geom:latitude":43.08896,
+    "geom:longitude":40.99912,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Amzara",
+    "gn:country_code":"GE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823914,
+    "gn:latitude":43.08896,
+    "gn:longitude":40.99912,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Amzara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10db\u10d6\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Amzara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823914
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"27fb3ecfc5490bfdb1e0bade7ea51b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1243463135,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1243463135,
+    "wof:lastmodified":1537623331,
+    "wof:name":"Amzara",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.99912,
+    43.08896,
+    40.99912,
+    43.08896
+],
+  "geometry": {"coordinates":[40.99912,43.08896],"type":"Point"}
+}

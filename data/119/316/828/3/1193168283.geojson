@@ -1,0 +1,70 @@
+{
+  "id": 1193168283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13557,41.33911,44.13557,41.33911",
+    "geom:latitude":41.33911,
+    "geom:longitude":44.13557,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Shakhmarlo",
+    "gn:country_code":"GE",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612035,
+    "gn:latitude":41.33911,
+    "gn:longitude":44.13557,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Shakhmarlo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10ee\u10db\u10d0\u10e0\u10da\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612035
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0aaa1f2a21caf63d9aac4d88466574dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1193168283,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1193168283,
+    "wof:lastmodified":1537623093,
+    "wof:name":"Shakhmarlo",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13557,
+    41.33911,
+    44.13557,
+    41.33911
+],
+  "geometry": {"coordinates":[44.13557,41.33911],"type":"Point"}
+}

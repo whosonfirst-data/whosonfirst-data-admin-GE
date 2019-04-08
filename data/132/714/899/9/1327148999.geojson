@@ -1,0 +1,67 @@
+{
+  "id": 1327148999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.54486,41.77903,44.54486,41.77903",
+    "geom:latitude":41.77903,
+    "geom:longitude":44.54486,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lelobi",
+    "gn:country_code":"GE",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613240,
+    "gn:latitude":41.77903,
+    "gn:longitude":44.54486,
+    "gn:modification_date":"2002-05-03",
+    "gn:name":"Lelobi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613240
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"63b1bf842ca75c5e699aa276e1c53236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1327148999,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1327148999,
+    "wof:lastmodified":1537086740,
+    "wof:name":"Lelobi",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.54486,
+    41.77903,
+    44.54486,
+    41.77903
+],
+  "geometry": {"coordinates":[44.54486,41.77903],"type":"Point"}
+}

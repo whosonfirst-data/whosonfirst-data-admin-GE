@@ -1,0 +1,76 @@
+{
+  "id": 1327449811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29613,41.25282,44.29613,41.25282",
+    "geom:latitude":41.25282,
+    "geom:longitude":44.29613,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gora",
+    "gn:country_code":"GE",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614470,
+    "gn:latitude":41.25282,
+    "gn:longitude":44.29613,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Gora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Dzharaar",
+        "Dzharaiori",
+        "Dzharayer",
+        "Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614470
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cd07b3813c009f30adbbf95e594dc3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1327449811,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1327449811,
+    "wof:lastmodified":1537623231,
+    "wof:name":"Gora",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29613,
+    41.25282,
+    44.29613,
+    41.25282
+],
+  "geometry": {"coordinates":[44.29613,41.25282],"type":"Point"}
+}

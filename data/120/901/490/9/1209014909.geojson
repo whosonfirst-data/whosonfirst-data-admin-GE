@@ -1,0 +1,61 @@
+{
+  "id": 1209014909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66868,42.13864,43.66868,42.13864",
+    "geom:latitude":42.13864,
+    "geom:longitude":43.66868,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ch'orch'ana",
+    "gn:country_code":"GE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615101,
+    "gn:latitude":42.13864,
+    "gn:longitude":43.66868,
+    "gn:modification_date":"2009-02-03",
+    "gn:name":"Ch\u2019orch\u2019ana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615101
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1837e1b84e2db26a30cd4c824f014961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209014909
+        }
+    ],
+    "wof:id":1209014909,
+    "wof:lastmodified":1536300326,
+    "wof:name":"Ch'orch'ana",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66868,
+    42.13864,
+    43.66868,
+    42.13864
+],
+  "geometry": {"coordinates":[43.66868,42.13864],"type":"Point"}
+}

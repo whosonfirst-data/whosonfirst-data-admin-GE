@@ -1,0 +1,79 @@
+{
+  "id": 1226778467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18382,41.98165,42.18382,41.98165",
+    "geom:latitude":41.98165,
+    "geom:longitude":42.18382,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Kvenobani",
+    "gn:country_code":"GE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613393,
+    "gn:latitude":41.98165,
+    "gn:longitude":42.18382,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kvenobani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'venobani"
+    ],
+    "name:kat_x_preferred":[
+        "Kvenobani"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10dc\u10dd\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0435\u043d\u043e\u0431\u0430\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613393
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6cf1eff80df92c785fd7412c23fcbd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1226778467,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1226778467,
+    "wof:lastmodified":1537623172,
+    "wof:name":"Kvenobani",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18382,
+    41.98165,
+    42.18382,
+    41.98165
+],
+  "geometry": {"coordinates":[42.18382,41.98165],"type":"Point"}
+}

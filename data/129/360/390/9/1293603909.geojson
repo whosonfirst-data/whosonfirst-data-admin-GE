@@ -1,0 +1,73 @@
+{
+  "id": 1293603909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.97139,42.69778,41.97139,42.69778",
+    "geom:latitude":42.69778,
+    "geom:longitude":41.97139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Muzhava",
+    "gn:country_code":"GE",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874242,
+    "gn:latitude":42.69778,
+    "gn:longitude":41.97139,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Muzhava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muzhava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0436\u0430\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874242
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1c577effff3ec67859acb62135e61848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691387,
+            "locality_id":1293603909,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1293603909,
+    "wof:lastmodified":1537623348,
+    "wof:name":"Muzhava",
+    "wof:parent_id":1108691387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.97139,
+    42.69778,
+    41.97139,
+    42.69778
+],
+  "geometry": {"coordinates":[41.97139,42.69778],"type":"Point"}
+}

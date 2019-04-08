@@ -1,0 +1,67 @@
+{
+  "id": 1344067081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66667,42.3,44.66667,42.3",
+    "geom:latitude":42.3,
+    "geom:longitude":44.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khamusha",
+    "gn:country_code":"GE",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614013,
+    "gn:latitude":42.3,
+    "gn:longitude":44.66667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Khamusha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614013
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ddc449e2afb7a97e20612ff218297c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1344067081,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1344067081,
+    "wof:lastmodified":1536864596,
+    "wof:name":"Khamusha",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66667,
+    42.3,
+    44.66667,
+    42.3
+],
+  "geometry": {"coordinates":[44.66667,42.3],"type":"Point"}
+}

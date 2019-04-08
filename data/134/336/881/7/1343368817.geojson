@@ -1,0 +1,79 @@
+{
+  "id": 1343368817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60097,41.84569,44.60097,41.84569",
+    "geom:latitude":41.84569,
+    "geom:longitude":44.60097,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Dzegvi",
+    "gn:country_code":"GE",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614823,
+    "gn:latitude":41.84569,
+    "gn:longitude":44.60097,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dzegvi",
+    "gn:population":2911,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzegvi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0435\u0433\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzgevi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614823
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"46e7d688c17bd70cdf115161e7f20311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1343368817,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343368817,
+    "wof:lastmodified":1537623255,
+    "wof:name":"Dzegvi",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:population":2911,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60097,
+    41.84569000000001,
+    44.60097,
+    41.84569000000001
+],
+  "geometry": {"coordinates":[44.60097,41.84569000000001],"type":"Point"}
+}

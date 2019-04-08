@@ -1,0 +1,73 @@
+{
+  "id": 1310315123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16556,42.54778,44.16556,42.54778",
+    "geom:latitude":42.54778,
+    "geom:longitude":44.16556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zgubiri",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610862,
+    "gn:latitude":42.54778,
+    "gn:longitude":44.16556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zgubiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sgubiri",
+        "Zgubir",
+        "Zgubiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610862
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5d89fdb9723adbba6ce3a130bb1f8c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1310315123,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310315123,
+    "wof:lastmodified":1537623023,
+    "wof:name":"Zgubiri",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16556,
+    42.54778,
+    44.16556,
+    42.54778
+],
+  "geometry": {"coordinates":[44.16556,42.54778],"type":"Point"}
+}

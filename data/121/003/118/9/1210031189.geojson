@@ -1,0 +1,76 @@
+{
+  "id": 1210031189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16144,41.38442,44.16144,41.38442",
+    "geom:latitude":41.38442,
+    "geom:longitude":44.16144,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dagarakhlo",
+    "gn:country_code":"GE",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615053,
+    "gn:latitude":41.38442,
+    "gn:longitude":44.16144,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Dagarakhlo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Dagarakhlo"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d0\u10d2\u10d0\u10e0\u10d0\u10ee\u10da\u10dd"
+    ],
+    "name:und_x_variant":[
+        "Dagarukhlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615053
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"08228fe694fce68c762babd8dacf49be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1210031189,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1210031189,
+    "wof:lastmodified":1537623270,
+    "wof:name":"Dagarakhlo",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16144,
+    41.38442,
+    44.16144,
+    41.38442
+],
+  "geometry": {"coordinates":[44.16144,41.38442],"type":"Point"}
+}

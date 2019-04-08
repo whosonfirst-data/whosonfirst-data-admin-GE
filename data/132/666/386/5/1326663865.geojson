@@ -1,0 +1,84 @@
+{
+  "id": 1326663865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.42632,42.22727,42.42632,42.22727",
+    "geom:latitude":42.22727,
+    "geom:longitude":42.42632,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Didi Jikhaishi",
+    "gn:country_code":"GE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614957,
+    "gn:latitude":42.22727,
+    "gn:longitude":42.42632,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Didi Jikhaishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Didi Jikhaishi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10ef\u10d8\u10ee\u10d0\u10d8\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0434\u0438-\u0414\u0436\u0438\u0445\u0430\u0438\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhikhaishi",
+        "Didi-Dzhikhaishchi",
+        "Didi-Dzhikhaishi",
+        "Didi-Dzhikhayshchi",
+        "Bol\u2019shiye Dzhikhaishchi",
+        "Didi Jikhaishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614957
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"64ac11c10628cf33119e9214c036b650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691357,
+            "locality_id":1326663865,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1326663865,
+    "wof:lastmodified":1537623264,
+    "wof:name":"Didi Jikhaishi",
+    "wof:parent_id":1108691357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.42632,
+    42.22727,
+    42.42632,
+    42.22727
+],
+  "geometry": {"coordinates":[42.42632,42.22727],"type":"Point"}
+}

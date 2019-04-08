@@ -1,0 +1,67 @@
+{
+  "id": 1309920339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87194,42.07639,44.87194,42.07639",
+    "geom:latitude":42.07639,
+    "geom:longitude":44.87194,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Iremiant-Kar",
+    "gn:country_code":"GE",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800362,
+    "gn:latitude":42.07639,
+    "gn:longitude":44.87194,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Iremiant-Kar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800362
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8c19a588f05da45199fd70281ac65b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1309920339,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1309920339,
+    "wof:lastmodified":1536766290,
+    "wof:name":"Iremiant-Kar",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87194,
+    42.07639,
+    44.87194,
+    42.07639
+],
+  "geometry": {"coordinates":[44.87194,42.07639],"type":"Point"}
+}

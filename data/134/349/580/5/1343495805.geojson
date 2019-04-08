@@ -1,0 +1,74 @@
+{
+  "id": 1343495805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27006,41.59351,44.27006,41.59351",
+    "geom:latitude":41.59351,
+    "geom:longitude":44.27006,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Patara-Kldeisi",
+    "gn:country_code":"GE",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612467,
+    "gn:latitude":41.59351,
+    "gn:longitude":44.27006,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Patara-Kldeisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e2\u10d0\u10e0\u10d0 \u10d9\u10da\u10d3\u10d4\u10d8\u10e1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Malyye Kldeisi",
+        "Patara-Kldeisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612467
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"424675d8221730fc967eba83151fa66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1343495805,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1343495805,
+    "wof:lastmodified":1537623117,
+    "wof:name":"Patara-Kldeisi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27006,
+    41.59351,
+    44.27006,
+    41.59351
+],
+  "geometry": {"coordinates":[44.27006,41.59351],"type":"Point"}
+}

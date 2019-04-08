@@ -1,0 +1,73 @@
+{
+  "id": 1243293369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06571,42.78619,43.06571,42.78619",
+    "geom:latitude":42.78619,
+    "geom:longitude":43.06571,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Shk'edi",
+    "gn:country_code":"GE",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611975,
+    "gn:latitude":42.78619,
+    "gn:longitude":43.06571,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Shk\u2019edi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Shk\u2019edi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e8\u10d9\u10d4\u10d3\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611975
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f2e531ab9097527099f0a6c2ca72e478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1243293369,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1243293369,
+    "wof:lastmodified":1537623090,
+    "wof:name":"Shk'edi",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06571,
+    42.78619000000001,
+    43.06571,
+    42.78619000000001
+],
+  "geometry": {"coordinates":[43.06571,42.78619000000001],"type":"Point"}
+}

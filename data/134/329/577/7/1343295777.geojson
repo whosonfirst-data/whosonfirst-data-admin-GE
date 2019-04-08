@@ -1,0 +1,77 @@
+{
+  "id": 1343295777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01625,42.24584,42.01625,42.24584",
+    "geom:latitude":42.24584,
+    "geom:longitude":42.01625,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"T'q'iri",
+    "gn:country_code":"GE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611625,
+    "gn:latitude":42.24584,
+    "gn:longitude":42.01625,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"T\u2019q\u2019iri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "T\u2019q\u2019iri"
+    ],
+    "name:kat_x_variant":[
+        "\u10e2\u10e7\u10d8\u10e0\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tkioni",
+        "Tkiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611625
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b6a3c3f73ab06bf25300ed42859d66f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":1343295777,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1343295777,
+    "wof:lastmodified":1537623073,
+    "wof:name":"T'q'iri",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01625,
+    42.24584,
+    42.01625,
+    42.24584
+],
+  "geometry": {"coordinates":[42.01625,42.24584],"type":"Point"}
+}

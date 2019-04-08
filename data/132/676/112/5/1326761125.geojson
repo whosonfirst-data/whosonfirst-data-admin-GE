@@ -1,0 +1,73 @@
+{
+  "id": 1326761125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18209,43.06035,42.18209,43.06035",
+    "geom:latitude":43.06035,
+    "geom:longitude":42.18209,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Sgurishi",
+    "gn:country_code":"GE",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612038,
+    "gn:latitude":43.06035,
+    "gn:longitude":42.18209,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sgurishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d2\u10e3\u10e0\u10d8\u10e8\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Sgurishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612038
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9fef2722c3a2230b1216ea5bd5a08a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1326761125,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1326761125,
+    "wof:lastmodified":1537623093,
+    "wof:name":"Sgurishi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18209,
+    43.06035,
+    42.18209,
+    43.06035
+],
+  "geometry": {"coordinates":[42.18209,43.06035],"type":"Point"}
+}

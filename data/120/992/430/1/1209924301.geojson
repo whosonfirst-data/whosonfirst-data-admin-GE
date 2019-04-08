@@ -1,0 +1,70 @@
+{
+  "id": 1209924301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39915,41.36265,44.39915,41.36265",
+    "geom:latitude":41.36265,
+    "geom:longitude":44.39915,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Balichi",
+    "gn:country_code":"GE",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615571,
+    "gn:latitude":41.36265,
+    "gn:longitude":44.39915,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Balichi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10ed\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615571
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"716c395abc35ddb9426711c3ec2f4a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1209924301,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1209924301,
+    "wof:lastmodified":1537623296,
+    "wof:name":"Balichi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39915,
+    41.36265,
+    44.39915,
+    41.36265
+],
+  "geometry": {"coordinates":[44.39915,41.36265],"type":"Point"}
+}

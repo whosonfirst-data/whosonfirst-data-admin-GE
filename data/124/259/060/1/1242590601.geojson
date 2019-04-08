@@ -1,0 +1,78 @@
+{
+  "id": 1242590601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.21957,42.98714,41.21957,42.98714",
+    "geom:latitude":42.98714,
+    "geom:longitude":41.21957,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ghurzuli",
+    "gn:country_code":"GE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614538,
+    "gn:latitude":42.98714,
+    "gn:longitude":41.21957,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ghurzuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ghurzuli"
+    ],
+    "name:kat_x_variant":[
+        "\u10e6\u10e3\u10e0\u10d6\u10e3\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Gerdzauli",
+        "Gurzauli",
+        "Gurzuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614538
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9d455a5a4f274e0ce0a799952c28cabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1242590601,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1242590601,
+    "wof:lastmodified":1537623235,
+    "wof:name":"Ghurzuli",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.21957,
+    42.98714,
+    41.21957,
+    42.98714
+],
+  "geometry": {"coordinates":[41.21957,42.98714],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193030587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.16418,42.14899,44.16418,42.14899",
+    "geom:latitude":42.14899,
+    "geom:longitude":44.16418,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Goyata",
+    "gn:country_code":"GE",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":872076,
+    "gn:latitude":42.14899,
+    "gn:longitude":44.16418,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Goyata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":872076
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"82f4a4932a6ed3a63690c0c2efc74b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1193030587,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1193030587,
+    "wof:lastmodified":1536364526,
+    "wof:name":"Goyata",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.16418,
+    42.14899000000001,
+    44.16418,
+    42.14899000000001
+],
+  "geometry": {"coordinates":[44.16418,42.14899000000001],"type":"Point"}
+}

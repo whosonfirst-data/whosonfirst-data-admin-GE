@@ -1,0 +1,73 @@
+{
+  "id": 1293324043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.1682,42.6048,42.1682,42.6048",
+    "geom:latitude":42.6048,
+    "geom:longitude":42.1682,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Legakhare",
+    "gn:country_code":"GE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613263,
+    "gn:latitude":42.6048,
+    "gn:longitude":42.1682,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Legakhare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Legakhare"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d4\u10d2\u10d0\u10ee\u10d0\u10e0\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613263
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9a1580640bfca057599d6a12bfc015aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691265,
+            "locality_id":1293324043,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1293324043,
+    "wof:lastmodified":1537623166,
+    "wof:name":"Legakhare",
+    "wof:parent_id":1108691265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.1682,
+    42.6048,
+    42.1682,
+    42.6048
+],
+  "geometry": {"coordinates":[42.1682,42.6048],"type":"Point"}
+}

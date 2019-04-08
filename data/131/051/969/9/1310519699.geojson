@@ -1,0 +1,67 @@
+{
+  "id": 1310519699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58778,42.15972,44.58778,42.15972",
+    "geom:latitude":42.15972,
+    "geom:longitude":44.58778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Upureti",
+    "gn:country_code":"GE",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611281,
+    "gn:latitude":42.15972,
+    "gn:longitude":44.58778,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Upureti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611281
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ecfec304a5fc9b75a3538f38a4300f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1310519699,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310519699,
+    "wof:lastmodified":1536896249,
+    "wof:name":"Upureti",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58778,
+    42.15972,
+    44.58778,
+    42.15972
+],
+  "geometry": {"coordinates":[44.58778,42.15972],"type":"Point"}
+}

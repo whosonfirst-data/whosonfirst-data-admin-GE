@@ -1,0 +1,76 @@
+{
+  "id": 1243208653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.20874,41.96639,42.20874,41.96639",
+    "geom:latitude":41.96639,
+    "geom:longitude":42.20874,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Mets'ieti",
+    "gn:country_code":"GE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612981,
+    "gn:latitude":41.96639,
+    "gn:longitude":42.20874,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Mets\u2019ieti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Mets\u2019ieti"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10ec\u10d8\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Metsiyeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612981
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"99a76ebb90cccd5874da4c93304f35ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1243208653,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1243208653,
+    "wof:lastmodified":1537623149,
+    "wof:name":"Mets'ieti",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.20874,
+    41.96639,
+    42.20874,
+    41.96639
+],
+  "geometry": {"coordinates":[42.20874,41.96639],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310223299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91629,41.70811,44.91629,41.70811",
+    "geom:latitude":41.70811,
+    "geom:longitude":44.91629,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Varketili",
+    "gn:country_code":"GE",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865869,
+    "gn:latitude":41.70811,
+    "gn:longitude":44.91629,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Varketili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sovkhoz Varketili",
+        "Varketili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865869
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc241ec0fe468eab37ad95ab246fe1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":1310223299,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":1310223299,
+    "wof:lastmodified":1537623345,
+    "wof:name":"Varketili",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91629,
+    41.70811,
+    44.91629,
+    41.70811
+],
+  "geometry": {"coordinates":[44.91629,41.70811],"type":"Point"}
+}

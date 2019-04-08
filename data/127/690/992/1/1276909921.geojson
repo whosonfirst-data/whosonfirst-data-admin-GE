@@ -1,0 +1,80 @@
+{
+  "id": 1276909921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48952,41.58726,43.48952,41.58726",
+    "geom:latitude":41.58726,
+    "geom:longitude":43.48952,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Ghado",
+    "gn:country_code":"GE",
+    "gn:dem":1808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614635,
+    "gn:latitude":41.58726,
+    "gn:longitude":43.48952,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ghado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ghado"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e6\u10d0\u10d3\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gado",
+        "Ghado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614635
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"48db576f42c0e6ea2f91038de04e073c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691243,
+            "locality_id":1276909921,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1276909921,
+    "wof:lastmodified":1537623242,
+    "wof:name":"Ghado",
+    "wof:parent_id":1108691243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48952,
+    41.58726,
+    43.48952,
+    41.58726
+],
+  "geometry": {"coordinates":[43.48952,41.58726],"type":"Point"}
+}

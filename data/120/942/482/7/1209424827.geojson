@@ -1,0 +1,71 @@
+{
+  "id": 1209424827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42434,41.45384,44.42434,41.45384",
+    "geom:latitude":41.45384,
+    "geom:longitude":44.42434,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzveli K'veshi",
+    "gn:country_code":"GE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614706,
+    "gn:latitude":41.45384,
+    "gn:longitude":44.42434,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzveli K\u2019veshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzveli K'veshi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0432\u0435\u043b\u0438-\u041a\u0432\u0435\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kveshi-Dzveli",
+        "Dzveli K\u2019veshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614706
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dab511c04eb87a0067ad0cacb1ecd474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209424827
+        }
+    ],
+    "wof:id":1209424827,
+    "wof:lastmodified":1537623247,
+    "wof:name":"Dzveli K'veshi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42434,
+    41.45384,
+    44.42434,
+    41.45384
+],
+  "geometry": {"coordinates":[44.42434,41.45384],"type":"Point"}
+}

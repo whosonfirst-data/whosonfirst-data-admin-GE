@@ -1,0 +1,74 @@
+{
+  "id": 1327441315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.30414,43.01418,41.30414,43.01418",
+    "geom:latitude":43.01418,
+    "geom:longitude":41.30414,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tsiplovani",
+    "gn:country_code":"GE",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611465,
+    "gn:latitude":43.01418,
+    "gn:longitude":41.30414,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tsiplovani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "P\u2019atara Krayevichi"
+    ],
+    "name:und_x_variant":[
+        "Krayevich",
+        "Tsiplovani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611465
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ce329c203e3fc3ba0ddba7b947481430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1327441315,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1327441315,
+    "wof:lastmodified":1537623063,
+    "wof:name":"Tsiplovani",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.30414,
+    43.01418,
+    41.30414,
+    43.01418
+],
+  "geometry": {"coordinates":[41.30414,43.01418],"type":"Point"}
+}

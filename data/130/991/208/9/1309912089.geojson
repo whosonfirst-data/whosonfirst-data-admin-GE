@@ -1,0 +1,79 @@
+{
+  "id": 1309912089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31095,41.66685,42.31095,41.66685",
+    "geom:latitude":41.66685,
+    "geom:longitude":42.31095,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dzirk'vadzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614725,
+    "gn:latitude":41.66685,
+    "gn:longitude":42.31095,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Dzirk\u2019vadzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Dzirk\u2019vadzeebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10eb\u10d8\u10e0\u10d9\u10d5\u10d0\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0438\u0440\u043a\u0432\u0430\u0434\u0437\u0435\u0435\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzirkvadzeyebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614725
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"59efe1e705b48402784db1a9a47c4710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1309912089,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1309912089,
+    "wof:lastmodified":1537623249,
+    "wof:name":"Dzirk'vadzeebi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31095,
+    41.66685,
+    42.31095,
+    41.66685
+],
+  "geometry": {"coordinates":[42.31095,41.66685],"type":"Point"}
+}

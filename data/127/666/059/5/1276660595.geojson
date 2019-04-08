@@ -1,0 +1,77 @@
+{
+  "id": 1276660595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.64376,42.86875,41.64376,42.86875",
+    "geom:latitude":42.86875,
+    "geom:longitude":41.64376,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adzhampazra",
+    "gn:country_code":"GE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615715,
+    "gn:latitude":42.86875,
+    "gn:longitude":41.64376,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Adzhampazra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ajampazra"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ef\u10d0\u10db\u10e4\u10d0\u10d6\u10e0\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Arasadzykh-Dzhampazar",
+        "Adzhampazra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615715
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d5f9f3355b029e3d81b8e5cac3ff3aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1276660595,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276660595,
+    "wof:lastmodified":1537623305,
+    "wof:name":"Adzhampazra",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.64376,
+    42.86875,
+    41.64376,
+    42.86875
+],
+  "geometry": {"coordinates":[41.64376,42.86875],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293390349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75597,41.7372,41.75597,41.7372",
+    "geom:latitude":41.7372,
+    "geom:longitude":41.75597,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sachino",
+    "gn:country_code":"GE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611020,
+    "gn:latitude":41.7372,
+    "gn:longitude":41.75597,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sachino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zeda Ulianovka"
+    ],
+    "name:kat_x_variant":[
+        "Sachino",
+        "\u10e1\u10d0\u10e9\u10d8\u10dc\u10dd"
+    ],
+    "name:rus_x_preferred":[
+        "Zeda-Ul\u2019yanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611020
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ace3b3879173c5c28f947e6a7515c905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1293390349,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1293390349,
+    "wof:lastmodified":1537623037,
+    "wof:name":"Sachino",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75597,
+    41.7372,
+    41.75597,
+    41.7372
+],
+  "geometry": {"coordinates":[41.75597,41.7372],"type":"Point"}
+}

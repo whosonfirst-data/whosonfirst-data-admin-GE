@@ -1,0 +1,67 @@
+{
+  "id": 1344071477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06237,41.45154,45.06237,41.45154",
+    "geom:latitude":41.45154,
+    "geom:longitude":45.06237,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvemo-Kapanakhchi",
+    "gn:country_code":"GE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613469,
+    "gn:latitude":41.45154,
+    "gn:longitude":45.06237,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kvemo-Kapanakhchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613469
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"81444baf8f691ac75143cc4f8b333049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691281,
+            "locality_id":1344071477,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1344071477,
+    "wof:lastmodified":1536858294,
+    "wof:name":"Kvemo-Kapanakhchi",
+    "wof:parent_id":1108691281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06237,
+    41.45154,
+    45.06237,
+    41.45154
+],
+  "geometry": {"coordinates":[45.06237,41.45154],"type":"Point"}
+}

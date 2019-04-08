@@ -1,0 +1,70 @@
+{
+  "id": 1243394777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0731,42.19874,44.0731,42.19874",
+    "geom:latitude":42.19874,
+    "geom:longitude":44.0731,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Karbi",
+    "gn:country_code":"GE",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614134,
+    "gn:latitude":42.19874,
+    "gn:longitude":44.0731,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Karbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614134
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"06f4e3917b2346bc7d5f9ab002648821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1243394777,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1243394777,
+    "wof:lastmodified":1537623215,
+    "wof:name":"Karbi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0731,
+    42.19874,
+    44.0731,
+    42.19874
+],
+  "geometry": {"coordinates":[44.0731,42.19874],"type":"Point"}
+}

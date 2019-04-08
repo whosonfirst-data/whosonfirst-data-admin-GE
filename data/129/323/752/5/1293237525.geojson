@@ -1,0 +1,70 @@
+{
+  "id": 1293237525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.6091,43.04882,42.6091,43.04882",
+    "geom:latitude":43.04882,
+    "geom:longitude":42.6091,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Ushkhvanari",
+    "gn:country_code":"GE",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611257,
+    "gn:latitude":43.04882,
+    "gn:longitude":42.6091,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ushkhvanari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e3\u10e8\u10ee\u10d5\u10d0\u10dc\u10d0\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611257
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3cc1df2d066deffd26c93026057f4048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1293237525,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1293237525,
+    "wof:lastmodified":1537623051,
+    "wof:name":"Ushkhvanari",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.6091,
+    43.04882,
+    42.6091,
+    43.04882
+],
+  "geometry": {"coordinates":[42.6091,43.04882],"type":"Point"}
+}

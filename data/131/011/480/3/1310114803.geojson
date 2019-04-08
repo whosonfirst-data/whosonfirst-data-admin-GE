@@ -1,0 +1,73 @@
+{
+  "id": 1310114803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.13384,43.03483,41.13384,43.03483",
+    "geom:latitude":43.03483,
+    "geom:longitude":41.13384,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akap'a",
+    "gn:country_code":"GE",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615928,
+    "gn:latitude":43.03483,
+    "gn:longitude":41.13384,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Akap\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Akap\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10d9\u10d0\u10e4\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615928
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"895068a66faea7825f1a3de75a149939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1310114803,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1310114803,
+    "wof:lastmodified":1537623317,
+    "wof:name":"Akap'a",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.13384,
+    43.03483,
+    41.13384,
+    43.03483
+],
+  "geometry": {"coordinates":[41.13384,43.03483],"type":"Point"}
+}

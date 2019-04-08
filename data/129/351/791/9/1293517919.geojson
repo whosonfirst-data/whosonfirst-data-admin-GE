@@ -1,0 +1,73 @@
+{
+  "id": 1293517919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11904,41.98282,42.11904,41.98282",
+    "geom:latitude":41.98282,
+    "geom:longitude":42.11904,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zhanaura",
+    "gn:country_code":"GE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9507011,
+    "gn:latitude":41.98282,
+    "gn:longitude":42.11904,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Zhanaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zhanaura"
+    ],
+    "name:und_x_variant":[
+        "\u10df\u10d0\u10dc\u10d0\u10e3\u10e0\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9507011
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bff55be2d61ff41e513e5bd9518b5e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1293517919,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1293517919,
+    "wof:lastmodified":1537623359,
+    "wof:name":"Zhanaura",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11904000000001,
+    41.98282,
+    42.11904000000001,
+    41.98282
+],
+  "geometry": {"coordinates":[42.11904000000001,41.98282],"type":"Point"}
+}

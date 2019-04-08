@@ -1,0 +1,67 @@
+{
+  "id": 1276566659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3,42.21667,45.3,42.21667",
+    "geom:latitude":42.21667,
+    "geom:longitude":45.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzibakhevi",
+    "gn:country_code":"GE",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614733,
+    "gn:latitude":42.21667,
+    "gn:longitude":45.3,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Dzibakhevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614733
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"895d7e42f4662bd007cd72c3a216ebe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1276566659,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276566659,
+    "wof:lastmodified":1536963408,
+    "wof:name":"Dzibakhevi",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3,
+    42.21667,
+    45.3,
+    42.21667
+],
+  "geometry": {"coordinates":[45.3,42.21667],"type":"Point"}
+}

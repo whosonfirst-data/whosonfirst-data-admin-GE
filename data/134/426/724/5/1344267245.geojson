@@ -1,0 +1,70 @@
+{
+  "id": 1344267245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.03264,41.95,45.03264,41.95",
+    "geom:latitude":41.95,
+    "geom:longitude":45.03264,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Betsentsurebi",
+    "gn:country_code":"GE",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615471,
+    "gn:latitude":41.95,
+    "gn:longitude":45.03264,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Betsentsurebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10ec\u10d4\u10dc\u10ec\u10e3\u10e0\u10d4\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615471
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f859fcdce48a3d1b31e094bf6b71b59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1344267245,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1344267245,
+    "wof:lastmodified":1537623291,
+    "wof:name":"Betsentsurebi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.03264,
+    41.95,
+    45.03264,
+    41.95
+],
+  "geometry": {"coordinates":[45.03264,41.95],"type":"Point"}
+}

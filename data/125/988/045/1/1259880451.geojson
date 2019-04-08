@@ -1,0 +1,67 @@
+{
+  "id": 1259880451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.7732,41.80741,41.7732,41.80741",
+    "geom:latitude":41.80741,
+    "geom:longitude":41.7732,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kinkisha",
+    "gn:country_code":"GE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613832,
+    "gn:latitude":41.80741,
+    "gn:longitude":41.7732,
+    "gn:modification_date":"2014-11-18",
+    "gn:name":"Kinkisha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kindryschi",
+        "Kintrist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613832
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"259dae6b4e11a11de1963a0cd0143838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259880451,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259880451,
+    "wof:lastmodified":1537623200,
+    "wof:name":"Kinkisha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.7732,
+    41.80741,
+    41.7732,
+    41.80741
+],
+  "geometry": {"coordinates":[41.7732,41.80741],"type":"Point"}
+}

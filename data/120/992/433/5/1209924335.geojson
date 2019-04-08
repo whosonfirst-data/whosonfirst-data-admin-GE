@@ -1,0 +1,70 @@
+{
+  "id": 1209924335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7131,41.68266,45.7131,41.68266",
+    "geom:latitude":41.68266,
+    "geom:longitude":45.7131,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Darcheti",
+    "gn:country_code":"GE",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615025,
+    "gn:latitude":41.68266,
+    "gn:longitude":45.7131,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Darcheti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0\u10e9\u10d4\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615025
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"85497d0ff68a02313a4dfed90839e1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1209924335,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1209924335,
+    "wof:lastmodified":1537623268,
+    "wof:name":"Darcheti",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7131,
+    41.68266,
+    45.7131,
+    41.68266
+],
+  "geometry": {"coordinates":[45.7131,41.68266],"type":"Point"}
+}

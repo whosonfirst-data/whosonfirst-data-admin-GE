@@ -1,0 +1,76 @@
+{
+  "id": 1310439745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48333,42.24264,43.48333,42.24264",
+    "geom:latitude":42.24264,
+    "geom:longitude":43.48333,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Korbouli",
+    "gn:country_code":"GE",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613707,
+    "gn:latitude":42.24264,
+    "gn:longitude":43.48333,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Korbouli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korbouli"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d1\u10dd\u10e3\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0431\u043e\u0443\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613707
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fba5d484a0b5fecf81177eb265fd62f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1310439745,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1310439745,
+    "wof:lastmodified":1537623193,
+    "wof:name":"Korbouli",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48333,
+    42.24264,
+    43.48333,
+    42.24264
+],
+  "geometry": {"coordinates":[43.48333,42.24264],"type":"Point"}
+}

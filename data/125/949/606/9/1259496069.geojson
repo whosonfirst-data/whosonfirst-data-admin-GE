@@ -1,0 +1,70 @@
+{
+  "id": 1259496069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.60796,42.48401,41.60796,42.48401",
+    "geom:latitude":42.48401,
+    "geom:longitude":41.60796,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kvishona",
+    "gn:country_code":"GE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874314,
+    "gn:latitude":42.48401,
+    "gn:longitude":41.60796,
+    "gn:modification_date":"2013-12-14",
+    "gn:name":"Kvishona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d8\u10e8\u10dd\u10dc\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874314
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0f29bb8e1436008cf321d8f824dc502a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1259496069,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259496069,
+    "wof:lastmodified":1537623349,
+    "wof:name":"Kvishona",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.60796,
+    42.48401,
+    41.60796,
+    42.48401
+],
+  "geometry": {"coordinates":[41.60796,42.48401],"type":"Point"}
+}

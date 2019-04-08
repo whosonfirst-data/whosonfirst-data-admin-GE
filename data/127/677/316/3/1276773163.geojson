@@ -1,0 +1,67 @@
+{
+  "id": 1276773163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28417,41.32861,44.28417,41.32861",
+    "geom:latitude":41.32861,
+    "geom:longitude":44.28417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tnusi",
+    "gn:country_code":"GE",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800148,
+    "gn:latitude":41.32861,
+    "gn:longitude":44.28417,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Tnusi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800148
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dc1555543d6d8932cfb59d4252ed6f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1276773163,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1276773163,
+    "wof:lastmodified":1536686397,
+    "wof:name":"Tnusi",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28417,
+    41.32861,
+    44.28417,
+    41.32861
+],
+  "geometry": {"coordinates":[44.28417,41.32861],"type":"Point"}
+}

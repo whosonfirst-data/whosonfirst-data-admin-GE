@@ -1,0 +1,71 @@
+{
+  "id": 1259885829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31667,41.65,42.31667,41.65",
+    "geom:latitude":41.65,
+    "geom:longitude":42.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Diakonidzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614977,
+    "gn:latitude":41.65,
+    "gn:longitude":42.31667,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Diakonidzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diakonidzeyebi",
+        "Diakonidzeebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614977
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"02db0a72a2d462af229b1ee2df291eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1259885829,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1259885829,
+    "wof:lastmodified":1537623265,
+    "wof:name":"Diakonidzeebi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31667,
+    41.65,
+    42.31667,
+    41.65
+],
+  "geometry": {"coordinates":[42.31667,41.65],"type":"Point"}
+}

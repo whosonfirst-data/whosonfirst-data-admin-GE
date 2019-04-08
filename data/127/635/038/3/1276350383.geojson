@@ -1,0 +1,71 @@
+{
+  "id": 1276350383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0,42.03333,45.0,42.03333",
+    "geom:latitude":42.03333,
+    "geom:longitude":45.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chiotantkari",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615176,
+    "gn:latitude":42.03333,
+    "gn:longitude":45.0,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Chiotantkari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiotaant-Kari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615176
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"742dccae05bd57ca29059cd59c61b44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1276350383,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276350383,
+    "wof:lastmodified":1537623277,
+    "wof:name":"Chiotantkari",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0,
+    42.03333,
+    45.0,
+    42.03333
+],
+  "geometry": {"coordinates":[45.0,42.03333],"type":"Point"}
+}

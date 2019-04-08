@@ -1,0 +1,118 @@
+{
+  "id": 421172897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.70006,41.65887,44.70006,41.65887",
+    "geom:latitude":41.65887,
+    "geom:longitude":44.70006,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u057b\u0578\u0580"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0434\u0436\u043e\u0440\u044b"
+    ],
+    "name:ceb_x_preferred":[
+        "Kojori"
+    ],
+    "name:dut_x_preferred":[
+        "Kodzjori"
+    ],
+    "name:eng_x_preferred":[
+        "Kojori"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10ef\u10dd\u10e0\u10d8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d2'\u05d5\u05e8\u05d9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10ef\u10dd\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Kodzjori"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0434\u0436\u043e\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kojori"
+    ],
+    "name:unk_x_variant":[
+        "Kodzhory"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":613742,
+    "qs:gn_pop":678,
+    "qs:name":"Kojori",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Gardabanis Raioni",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":483958,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":28752630,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":195,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613742,
+        "gp:id":28752630,
+        "qs:id":483958,
+        "wd:id":"Q13637001",
+        "wk:page":"Kojori"
+    },
+    "wof:country":"GE",
+    "wof:created":1459008958,
+    "wof:geomhash":"47f9744dbbedb6d084c33d1b07fa1ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":421172897,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":421172897,
+    "wof:lastmodified":1527716309,
+    "wof:name":"Kojori",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:population":678,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.70006,
+    41.65887,
+    44.70006,
+    41.65887
+],
+  "geometry": {"coordinates":[44.70006,41.65887],"type":"Point"}
+}

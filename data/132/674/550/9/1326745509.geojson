@@ -1,0 +1,74 @@
+{
+  "id": 1326745509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26163,42.01523,44.26163,42.01523",
+    "geom:latitude":42.01523,
+    "geom:longitude":44.26163,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Nasp'eri",
+    "gn:country_code":"GE",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612734,
+    "gn:latitude":42.01523,
+    "gn:longitude":44.26163,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Nasp\u2019eri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Natsret\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "Nasp\u2019eri",
+        "\u10dc\u10d0\u10e1\u10de\u10d4\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612734
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"65eecdb0441494e273cce657fae6baea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1326745509,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1326745509,
+    "wof:lastmodified":1537623135,
+    "wof:name":"Nasp'eri",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26163,
+    42.01523,
+    44.26163,
+    42.01523
+],
+  "geometry": {"coordinates":[44.26163,42.01523],"type":"Point"}
+}

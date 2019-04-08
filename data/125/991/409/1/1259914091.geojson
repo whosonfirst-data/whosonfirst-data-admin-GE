@@ -1,0 +1,77 @@
+{
+  "id": 1259914091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.194,42.43582,42.194,42.43582",
+    "geom:latitude":42.43582,
+    "geom:longitude":42.194,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Legogie Nasaju",
+    "gn:country_code":"GE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613261,
+    "gn:latitude":42.43582,
+    "gn:longitude":42.194,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Legogie Nasaju",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Legogie Nasaju"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d4\u10d2\u10dd\u10d2\u10d8\u10d4 \u10dc\u10d0\u10e1\u10d0\u10ef\u10e3"
+    ],
+    "name:und_x_variant":[
+        "Nasadzhou",
+        "Legogiye-Nasadzhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613261
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e73b7f35f57c9e49736635dc7042d71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":1259914091,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1259914091,
+    "wof:lastmodified":1537623166,
+    "wof:name":"Legogie Nasaju",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.194,
+    42.43582,
+    42.194,
+    42.43582
+],
+  "geometry": {"coordinates":[42.194,42.43582],"type":"Point"}
+}

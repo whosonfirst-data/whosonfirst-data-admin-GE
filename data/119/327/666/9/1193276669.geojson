@@ -1,0 +1,79 @@
+{
+  "id": 1193276669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.34655,41.58469,42.34655,41.58469",
+    "geom:latitude":41.58469,
+    "geom:longitude":42.34655,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ts'ablana",
+    "gn:country_code":"GE",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611575,
+    "gn:latitude":41.58469,
+    "gn:longitude":42.34655,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ts\u2019ablana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsablana"
+    ],
+    "name:kat_x_preferred":[
+        "Ts\u2019ablana"
+    ],
+    "name:kat_x_variant":[
+        "\u10ec\u10d0\u10d1\u10da\u10d0\u10dc\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0431\u043b\u0438\u0430\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611575
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"187f1e89ec2ca86551fed2e55478f611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1193276669,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1193276669,
+    "wof:lastmodified":1537623069,
+    "wof:name":"Ts'ablana",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.34655,
+    41.58469,
+    42.34655,
+    41.58469
+],
+  "geometry": {"coordinates":[42.34655,41.58469],"type":"Point"}
+}

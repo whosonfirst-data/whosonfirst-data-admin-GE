@@ -1,0 +1,67 @@
+{
+  "id": 1343868373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67528,41.86667,44.67528,41.86667",
+    "geom:latitude":41.86667,
+    "geom:longitude":44.67528,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Tserovani",
+    "gn:country_code":"GE",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611522,
+    "gn:latitude":41.86667,
+    "gn:longitude":44.67528,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tserovani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611522
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"49043dd67ac48b98982e8b3fb57ecdd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1343868373,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343868373,
+    "wof:lastmodified":1536655117,
+    "wof:name":"Tserovani",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67528,
+    41.86667,
+    44.67528,
+    41.86667
+],
+  "geometry": {"coordinates":[44.67528,41.86667],"type":"Point"}
+}

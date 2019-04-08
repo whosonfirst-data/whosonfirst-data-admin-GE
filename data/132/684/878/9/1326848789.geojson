@@ -1,0 +1,73 @@
+{
+  "id": 1326848789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65688,42.41636,44.65688,42.41636",
+    "geom:latitude":42.41636,
+    "geom:longitude":44.65688,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ch'iriki",
+    "gn:country_code":"GE",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615172,
+    "gn:latitude":42.41636,
+    "gn:longitude":44.65688,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ch\u2019iriki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019iriki"
+    ],
+    "name:und_x_variant":[
+        "Zemo Chiriki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615172
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1f5a036b5838778daa64d4cb7dd88364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1326848789,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1326848789,
+    "wof:lastmodified":1537623277,
+    "wof:name":"Ch'iriki",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65688,
+    42.41636,
+    44.65688,
+    42.41636
+],
+  "geometry": {"coordinates":[44.65688,42.41636],"type":"Point"}
+}

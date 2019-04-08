@@ -1,0 +1,82 @@
+{
+  "id": 1293603865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96013,41.55104,45.96013,41.55104",
+    "geom:latitude":41.55104,
+    "geom:longitude":45.96013,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Arboshiki",
+    "gn:country_code":"GE",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615707,
+    "gn:latitude":41.55104,
+    "gn:longitude":45.96013,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Arboshiki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arboshiki"
+    ],
+    "name:kat_x_preferred":[
+        "Arboshiki"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e0\u10d1\u10dd\u10e8\u10d8\u10d9\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0431\u043e\u0448\u0438\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Arbashiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615707
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bb21c85cfac3fae5bc42df3c50f30dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691269,
+            "locality_id":1293603865,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1293603865,
+    "wof:lastmodified":1537623304,
+    "wof:name":"Arboshiki",
+    "wof:parent_id":1108691269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96013,
+    41.55104,
+    45.96013,
+    41.55104
+],
+  "geometry": {"coordinates":[45.96013,41.55104],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276451557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6642,42.60049,41.6642,42.60049",
+    "geom:latitude":42.60049,
+    "geom:longitude":41.6642,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khumushk'uri",
+    "gn:country_code":"GE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823945,
+    "gn:latitude":42.60049,
+    "gn:longitude":41.6642,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khumushk\u2019uri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Khumushk\u2019uri"
+    ],
+    "name:kat_x_variant":[
+        "\u10ee\u10e3\u10db\u10e3\u10e8\u10d9\u10e3\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823945
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fa9177dfe71e85ff4376c1ce3f87d94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1276451557,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276451557,
+    "wof:lastmodified":1537623332,
+    "wof:name":"Khumushk'uri",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.6642,
+    42.60049,
+    41.6642,
+    42.60049
+],
+  "geometry": {"coordinates":[41.6642,42.60049],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243103873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.79643,41.68565,42.79643,41.68565",
+    "geom:latitude":41.68565,
+    "geom:longitude":42.79643,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Zemo Ent'eli",
+    "gn:country_code":"GE",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610965,
+    "gn:latitude":41.68565,
+    "gn:longitude":42.79643,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zemo Ent\u2019eli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10db\u10dd \u10d4\u10dc\u10d7\u10d4\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Zemo Ent\u2019eli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610965
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8dd6b7efdf92428071cd6254f7fb8e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1243103873,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1243103873,
+    "wof:lastmodified":1537623032,
+    "wof:name":"Zemo Ent'eli",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.79643,
+    41.68565,
+    42.79643,
+    41.68565
+],
+  "geometry": {"coordinates":[42.79643,41.68565],"type":"Point"}
+}

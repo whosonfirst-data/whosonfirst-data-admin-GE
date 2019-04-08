@@ -1,0 +1,67 @@
+{
+  "id": 1343868059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.13333,41.43333,43.13333,41.43333",
+    "geom:latitude":41.43333,
+    "geom:longitude":43.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vani",
+    "gn:country_code":"GE",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611223,
+    "gn:latitude":41.43333,
+    "gn:longitude":43.13333,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Vani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611223
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d6c17b54173d1c975c17e8e0b8eb9201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691251,
+            "locality_id":1343868059,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1343868059,
+    "wof:lastmodified":1536655591,
+    "wof:name":"Vani",
+    "wof:parent_id":1108691251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.13333,
+    41.43333,
+    43.13333,
+    41.43333
+],
+  "geometry": {"coordinates":[43.13333,41.43333],"type":"Point"}
+}

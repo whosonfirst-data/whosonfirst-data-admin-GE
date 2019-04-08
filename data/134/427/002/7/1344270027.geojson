@@ -1,0 +1,74 @@
+{
+  "id": 1344270027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.56636,42.48031,41.56636,42.48031",
+    "geom:latitude":42.48031,
+    "geom:longitude":41.56636,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dikhagudzba",
+    "gn:country_code":"GE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614906,
+    "gn:latitude":42.48031,
+    "gn:longitude":41.56636,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dikhagudzba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10ee\u10d0\u10d2\u10e3\u10eb\u10d1\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Dikhagudzuba",
+        "Dikhagudzba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614906
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"43fe479ce954854dd6a0ff9c03f0e8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1344270027,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1344270027,
+    "wof:lastmodified":1537623260,
+    "wof:name":"Dikhagudzba",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.56636,
+    42.48031,
+    41.56636,
+    42.48031
+],
+  "geometry": {"coordinates":[41.56636,42.48031],"type":"Point"}
+}

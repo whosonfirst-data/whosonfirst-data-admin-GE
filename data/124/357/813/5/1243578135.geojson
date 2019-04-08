@@ -1,0 +1,79 @@
+{
+  "id": 1243578135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.38468,41.69875,42.38468,41.69875",
+    "geom:latitude":41.69875,
+    "geom:longitude":42.38468,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vanadzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611227,
+    "gn:latitude":41.69875,
+    "gn:longitude":42.38468,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Vanadzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Vanadzeebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10dc\u10d0\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0430\u0434\u0437\u0435\u0435\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vanadzeyebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611227
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"93ac2eb59f27aeb16e565a2163341418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1243578135,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1243578135,
+    "wof:lastmodified":1537623049,
+    "wof:name":"Vanadzeebi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.38468,
+    41.69875,
+    42.38468,
+    41.69875
+],
+  "geometry": {"coordinates":[42.38468,41.69875],"type":"Point"}
+}

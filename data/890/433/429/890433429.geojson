@@ -1,0 +1,85 @@
+{
+  "id": 890433429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.15163,41.65395,42.15163,41.65395",
+    "geom:latitude":41.65395,
+    "geom:longitude":42.15163,
+    "gn:country":"GE",
+    "gn:fcode":"PPL",
+    "gn:pop":3640,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Akhaldaba"
+    ],
+    "name:eng_x_preferred":[
+        "Akhaldaba"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10da\u10d3\u10d0\u10d1\u10d0"
+    ],
+    "name:kat_x_preferred":[
+        "Akhaldaba"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ee\u10d0\u10da\u10d3\u10d0\u10d1\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0434\u0430\u0431\u0430"
+    ],
+    "qs:name":"Akhaldaba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615921,
+        "gp:id":1962934,
+        "qs:id":126138,
+        "wd:id":"Q16365335"
+    },
+    "wof:country":"GE",
+    "wof:created":1469051980,
+    "wof:geomhash":"68cd7acc15e5a563d948651201db1521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691363,
+            "locality_id":890433429,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":890433429,
+    "wof:lastmodified":1514443573,
+    "wof:name":"Akhaldaba",
+    "wof:parent_id":1108691363,
+    "wof:placetype":"locality",
+    "wof:population":3640,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.15163,
+    41.65395,
+    42.15163,
+    41.65395
+],
+  "geometry": {"coordinates":[42.15163,41.65395],"type":"Point"}
+}

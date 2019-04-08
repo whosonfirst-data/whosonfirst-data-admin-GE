@@ -1,0 +1,67 @@
+{
+  "id": 1226452549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73639,42.34333,41.73639,42.34333",
+    "geom:latitude":42.34333,
+    "geom:longitude":41.73639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tkhnoishi",
+    "gn:country_code":"GE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":798778,
+    "gn:latitude":42.34333,
+    "gn:longitude":41.73639,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Tkhnoishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":798778
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"248102a6b600ef9afba079bb5e056dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1226452549,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226452549,
+    "wof:lastmodified":1536634260,
+    "wof:name":"Tkhnoishi",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73639,
+    42.34333,
+    41.73639,
+    42.34333
+],
+  "geometry": {"coordinates":[41.73639,42.34333],"type":"Point"}
+}

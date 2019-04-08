@@ -1,0 +1,72 @@
+{
+  "id": 1343872979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.21203,42.86286,41.21203,42.86286",
+    "geom:latitude":42.86286,
+    "geom:longitude":41.21203,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dopoukyt",
+    "gn:country_code":"GE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614870,
+    "gn:latitude":42.86286,
+    "gn:longitude":41.21203,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dopoukyt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dopuakiti",
+        "Dopuakyti",
+        "Dopoukyt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614870
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3c27d1f5cc64a7814a173fc1f357747c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1343872979,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343872979,
+    "wof:lastmodified":1537623258,
+    "wof:name":"Dopoukyt",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.21203,
+    42.86286,
+    41.21203,
+    42.86286
+],
+  "geometry": {"coordinates":[41.21203,42.86286],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226157883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12852,41.43427,44.12852,41.43427",
+    "geom:latitude":41.43427,
+    "geom:longitude":44.12852,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'vemo Qarabulakhi",
+    "gn:country_code":"GE",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613468,
+    "gn:latitude":41.43427,
+    "gn:longitude":44.12852,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u2019vemo Qarabulakhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'vemo Qarabulakhi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10d9\u10d0\u10e0\u10d0\u10d1\u10e3\u10da\u10d0\u10ee\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043e-\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u0445\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0432\u0435\u043c\u043e \u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kvemo-Karabulakhi",
+        "K\u2019vemo Qarabulakhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613468
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e2d655e8d11c9c87e692d8b539541f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1226157883,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1226157883,
+    "wof:lastmodified":1537623178,
+    "wof:name":"K'vemo Qarabulakhi",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12852,
+    41.43427,
+    44.12852,
+    41.43427
+],
+  "geometry": {"coordinates":[44.12852,41.43427],"type":"Point"}
+}

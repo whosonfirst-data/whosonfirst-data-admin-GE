@@ -1,0 +1,79 @@
+{
+  "id": 1343461757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.59444,42.89139,41.59444,42.89139",
+    "geom:latitude":42.89139,
+    "geom:longitude":41.59444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gup'agu",
+    "gn:country_code":"GE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614361,
+    "gn:latitude":42.89139,
+    "gn:longitude":41.59444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gup\u2019agu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gup'agu"
+    ],
+    "name:kat_x_preferred":[
+        "Gup\u2019agu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043f-\u0410\u0433\u0443"
+    ],
+    "name:und_x_variant":[
+        "Achandara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614361
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8910cf65a066eb1c0280abe5660c65cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1343461757,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343461757,
+    "wof:lastmodified":1537623226,
+    "wof:name":"Gup'agu",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.59444000000001,
+    42.89139,
+    41.59444000000001,
+    42.89139
+],
+  "geometry": {"coordinates":[41.59444000000001,42.89139],"type":"Point"}
+}

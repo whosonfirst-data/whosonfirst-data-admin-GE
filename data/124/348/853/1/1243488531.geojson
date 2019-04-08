@@ -1,0 +1,80 @@
+{
+  "id": 1243488531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94586,41.67677,42.94586,41.67677",
+    "geom:latitude":41.67677,
+    "geom:longitude":42.94586,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Tsqrut'i",
+    "gn:country_code":"GE",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611381,
+    "gn:latitude":41.67677,
+    "gn:longitude":42.94586,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tsqrut\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsqrut'i"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10e7\u10e0\u10e3\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u043a\u0440\u0443\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tskruti",
+        "Tsqrut\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611381
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"69356bd79d3c728d66e6ac4e4451d5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691245,
+            "locality_id":1243488531,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1243488531,
+    "wof:lastmodified":1537623058,
+    "wof:name":"Tsqrut'i",
+    "wof:parent_id":1108691245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94586,
+    41.67677,
+    42.94586,
+    41.67677
+],
+  "geometry": {"coordinates":[42.94586,41.67677],"type":"Point"}
+}

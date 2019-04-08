@@ -1,0 +1,77 @@
+{
+  "id": 1310039965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76054,42.72609,42.76054,42.72609",
+    "geom:latitude":42.72609,
+    "geom:longitude":42.76054,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Tsip'lakakia",
+    "gn:country_code":"GE",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611469,
+    "gn:latitude":42.72609,
+    "gn:longitude":42.76054,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tsip\u2019lakakia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsip'lakakia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043f\u043b\u0430\u043a\u0430\u043a\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tsiplakekia",
+        "Tsip\u2019lakakia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611469
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c28188659ecce52a075f59e5d4f21b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1310039965,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1310039965,
+    "wof:lastmodified":1537623063,
+    "wof:name":"Tsip'lakakia",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76054,
+    42.72609,
+    42.76054,
+    42.72609
+],
+  "geometry": {"coordinates":[42.76054,42.72609],"type":"Point"}
+}

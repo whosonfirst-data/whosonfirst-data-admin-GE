@@ -1,0 +1,70 @@
+{
+  "id": 1327449909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.21861,41.82181,46.21861,41.82181",
+    "geom:latitude":41.82181,
+    "geom:longitude":46.21861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ganatleba",
+    "gn:country_code":"GE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614592,
+    "gn:latitude":41.82181,
+    "gn:longitude":46.21861,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ganatleba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10dc\u10d0\u10d7\u10da\u10d4\u10d1\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614592
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"05cbce0113d99fa3a9965438271ac897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1327449909,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1327449909,
+    "wof:lastmodified":1537623239,
+    "wof:name":"Ganatleba",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.21861,
+    41.82181,
+    46.21861,
+    41.82181
+],
+  "geometry": {"coordinates":[46.21861,41.82181],"type":"Point"}
+}

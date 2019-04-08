@@ -1,0 +1,73 @@
+{
+  "id": 1276156379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92944,41.82278,41.92944,41.82278",
+    "geom:latitude":41.82278,
+    "geom:longitude":41.92944,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ach'kvistavi",
+    "gn:country_code":"GE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615978,
+    "gn:latitude":41.82278,
+    "gn:longitude":41.92944,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ach\u2019kvistavi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ach\u2019kvistavi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ed\u10e5\u10d5\u10d8\u10e1\u10d7\u10d0\u10d5\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615978
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7622162c10ef23602a93f613ccc2b8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1276156379,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1276156379,
+    "wof:lastmodified":1537623320,
+    "wof:name":"Ach'kvistavi",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92944,
+    41.82278,
+    41.92944,
+    41.82278
+],
+  "geometry": {"coordinates":[41.92944,41.82278],"type":"Point"}
+}

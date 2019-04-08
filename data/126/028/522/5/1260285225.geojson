@@ -1,0 +1,73 @@
+{
+  "id": 1260285225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92611,41.85833,41.92611,41.85833",
+    "geom:latitude":41.85833,
+    "geom:longitude":41.92611,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sk'ura",
+    "gn:country_code":"GE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611862,
+    "gn:latitude":41.85833,
+    "gn:longitude":41.92611,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Sk\u2019ura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Sk\u2019ura"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d9\u10e3\u10e0\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611862
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8457684ffd8895e454e44a1be37e984c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1260285225,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1260285225,
+    "wof:lastmodified":1537623084,
+    "wof:name":"Sk'ura",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92611,
+    41.85833,
+    41.92611,
+    41.85833
+],
+  "geometry": {"coordinates":[41.92611,41.85833],"type":"Point"}
+}

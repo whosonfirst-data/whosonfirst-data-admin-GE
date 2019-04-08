@@ -1,0 +1,71 @@
+{
+  "id": 1243469199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.86126,42.24986,43.86126,42.24986",
+    "geom:latitude":42.24986,
+    "geom:longitude":43.86126,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvemo-Ambreti",
+    "gn:country_code":"GE",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613501,
+    "gn:latitude":42.24986,
+    "gn:longitude":43.86126,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kvemo-Ambreti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhniye Ambreti",
+        "Kvemo-Ambreti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613501
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dd9dbe0eeebbdc1779d574c77e242b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1243469199,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1243469199,
+    "wof:lastmodified":1537623181,
+    "wof:name":"Kvemo-Ambreti",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.86126,
+    42.24986,
+    43.86126,
+    42.24986
+],
+  "geometry": {"coordinates":[43.86126,42.24986],"type":"Point"}
+}

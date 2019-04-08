@@ -1,0 +1,71 @@
+{
+  "id": 1259501641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.74214,41.96437,44.74214,41.96437",
+    "geom:latitude":41.96437,
+    "geom:longitude":44.74214,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Agdgomelaantkari",
+    "gn:country_code":"GE",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865227,
+    "gn:latitude":41.96437,
+    "gn:longitude":44.74214,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Agdgomelaantkari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adgulyand-Kari",
+        "Agdgomelaantkari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865227
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"15dab8fd262fda3ad8418a124a991f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1259501641,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1259501641,
+    "wof:lastmodified":1537623341,
+    "wof:name":"Agdgomelaantkari",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.74214,
+    41.96437,
+    44.74214,
+    41.96437
+],
+  "geometry": {"coordinates":[44.74214,41.96437],"type":"Point"}
+}

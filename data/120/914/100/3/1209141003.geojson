@@ -1,0 +1,65 @@
+{
+  "id": 1209141003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56463,42.54557,43.56463,42.54557",
+    "geom:latitude":42.54557,
+    "geom:longitude":43.56463,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Skhanari",
+    "gn:country_code":"GE",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611877,
+    "gn:latitude":42.54557,
+    "gn:longitude":43.56463,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Skhanari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skhiyeri",
+        "Skhanari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611877
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ae0a13d8cea03d7744676632094b7dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209141003
+        }
+    ],
+    "wof:id":1209141003,
+    "wof:lastmodified":1537623085,
+    "wof:name":"Skhanari",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56463,
+    42.54557,
+    43.56463,
+    42.54557
+],
+  "geometry": {"coordinates":[43.56463,42.54557],"type":"Point"}
+}

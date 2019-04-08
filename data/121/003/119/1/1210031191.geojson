@@ -1,0 +1,72 @@
+{
+  "id": 1210031191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.25,42.18333,43.25,42.18333",
+    "geom:latitude":42.18333,
+    "geom:longitude":43.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Patara-Chkhirauli",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612493,
+    "gn:latitude":42.18333,
+    "gn:longitude":43.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Patara-Chkhirauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chkhirouli Malyye",
+        "Patara-Chkhirauli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612493
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"df3a8eea50b1328d0bc5de34feb3cbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1210031191,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1210031191,
+    "wof:lastmodified":1537623119,
+    "wof:name":"Patara-Chkhirauli",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.25,
+    42.18333,
+    43.25,
+    42.18333
+],
+  "geometry": {"coordinates":[43.25,42.18333],"type":"Point"}
+}

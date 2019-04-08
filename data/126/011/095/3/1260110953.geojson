@@ -1,0 +1,76 @@
+{
+  "id": 1260110953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81781,42.60023,42.81781,42.60023",
+    "geom:latitude":42.60023,
+    "geom:longitude":42.81781,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Khoji",
+    "gn:country_code":"GE",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613910,
+    "gn:latitude":42.60023,
+    "gn:longitude":42.81781,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Khoji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10ef\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Khoji"
+    ],
+    "name:und_x_variant":[
+        "Khodzhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613910
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b4a8599fc30eeb19f97a7baa1cc35608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691385,
+            "locality_id":1260110953,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1260110953,
+    "wof:lastmodified":1537623204,
+    "wof:name":"Khoji",
+    "wof:parent_id":1108691385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81781,
+    42.60023,
+    42.81781,
+    42.60023
+],
+  "geometry": {"coordinates":[42.81781,42.60023],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226750731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.09222,43.49611,40.09222,43.49611",
+    "geom:latitude":43.49611,
+    "geom:longitude":40.09222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tsodnisk'ari",
+    "gn:country_code":"GE",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874642,
+    "gn:latitude":43.49611,
+    "gn:longitude":40.09222,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"Tsodnisk\u2019ari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ea\u10dd\u10d3\u10dc\u10d8\u10e1\u10d9\u10d0\u10e0\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Tsodnisk\u2019ari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874642
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"799046935626d550419c8a72b835651f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1226750731,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1226750731,
+    "wof:lastmodified":1537623350,
+    "wof:name":"Tsodnisk'ari",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.09222000000001,
+    43.49611,
+    40.09222000000001,
+    43.49611
+],
+  "geometry": {"coordinates":[40.09222000000001,43.49611],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226252821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81451,42.17768,43.81451,42.17768",
+    "geom:latitude":42.17768,
+    "geom:longitude":43.81451,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Skhliti",
+    "gn:country_code":"GE",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611872,
+    "gn:latitude":42.17768,
+    "gn:longitude":43.81451,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skhliti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skhlit",
+        "Skhliti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611872
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"574afc5f1089814f78f25078335d3cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1226252821,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226252821,
+    "wof:lastmodified":1537623085,
+    "wof:name":"Skhliti",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81451,
+    42.17768,
+    43.81451,
+    42.17768
+],
+  "geometry": {"coordinates":[43.81451,42.17768],"type":"Point"}
+}

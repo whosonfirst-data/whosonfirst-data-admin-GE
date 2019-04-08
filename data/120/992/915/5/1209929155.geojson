@@ -1,0 +1,82 @@
+{
+  "id": 1209929155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71931,43.18872,40.71931,43.18872",
+    "geom:latitude":43.18872,
+    "geom:longitude":40.71931,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ach'andara",
+    "gn:country_code":"GE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615990,
+    "gn:latitude":43.18872,
+    "gn:longitude":40.71931,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ach\u2019andara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Achandara"
+    ],
+    "name:kat_x_preferred":[
+        "Ach\u2019andara"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ed\u10d0\u10dc\u10d3\u10d0\u10e0\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0447\u0430\u043d\u0434\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Atchandara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615990
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2e8ca7f8e4e56e696833b98d38375cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1209929155,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1209929155,
+    "wof:lastmodified":1537623321,
+    "wof:name":"Ach'andara",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71931,
+    43.18872,
+    40.71931,
+    43.18872
+],
+  "geometry": {"coordinates":[40.71931,43.18872],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343377193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.74986,42.19444,43.74986,42.19444",
+    "geom:latitude":42.19444,
+    "geom:longitude":43.74986,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shindara",
+    "gn:country_code":"GE",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611987,
+    "gn:latitude":42.19444,
+    "gn:longitude":43.74986,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shindara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611987,
+        "wk:page":"Shindara"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1378cc5583cb0f1300154a9821d48d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1343377193,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1343377193,
+    "wof:lastmodified":1537562994,
+    "wof:name":"Shindara",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.74986,
+    42.19444,
+    43.74986,
+    42.19444
+],
+  "geometry": {"coordinates":[43.74986,42.19444],"type":"Point"}
+}

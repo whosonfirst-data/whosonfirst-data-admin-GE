@@ -1,0 +1,67 @@
+{
+  "id": 1243082365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5699,42.06629,43.5699,42.06629",
+    "geom:latitude":42.06629,
+    "geom:longitude":43.5699,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsedani",
+    "gn:country_code":"GE",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611531,
+    "gn:latitude":42.06629,
+    "gn:longitude":43.5699,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Tsedani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611531
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2b0b9adefe3c1f5c75fc098e437bf63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1243082365,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1243082365,
+    "wof:lastmodified":1536832245,
+    "wof:name":"Tsedani",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5699,
+    42.06629,
+    43.5699,
+    42.06629
+],
+  "geometry": {"coordinates":[43.5699,42.06629],"type":"Point"}
+}

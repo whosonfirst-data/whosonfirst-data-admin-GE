@@ -1,0 +1,76 @@
+{
+  "id": 1310323187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.54712,41.58629,45.54712,41.58629",
+    "geom:latitude":41.58629,
+    "geom:longitude":45.54712,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lambalo",
+    "gn:country_code":"GE",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613316,
+    "gn:latitude":41.58629,
+    "gn:longitude":45.54712,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lambalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lambalo"
+    ],
+    "name:kat_x_preferred":[
+        "Lambalo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0430\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613316
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7c66f303700d5c5eef4751d0e164e6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1310323187,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310323187,
+    "wof:lastmodified":1537623169,
+    "wof:name":"Lambalo",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.54712,
+    41.58629000000001,
+    45.54712,
+    41.58629000000001
+],
+  "geometry": {"coordinates":[45.54712,41.58629000000001],"type":"Point"}
+}

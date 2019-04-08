@@ -1,0 +1,72 @@
+{
+  "id": 1309813601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29428,41.4622,44.29428,41.4622",
+    "geom:latitude":41.4622,
+    "geom:longitude":44.29428,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsqnarabano",
+    "gn:country_code":"GE",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611384,
+    "gn:latitude":41.4622,
+    "gn:longitude":44.29428,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsqnarabano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsknarabano",
+        "Tsknari-Abano",
+        "Tsqnarabano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611384
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ff626f66400735692cf41b21e26017e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1309813601,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1309813601,
+    "wof:lastmodified":1537623058,
+    "wof:name":"Tsqnarabano",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29428,
+    41.4622,
+    44.29428,
+    41.4622
+],
+  "geometry": {"coordinates":[44.29428,41.4622],"type":"Point"}
+}

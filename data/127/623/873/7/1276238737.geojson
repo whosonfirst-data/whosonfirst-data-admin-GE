@@ -1,0 +1,67 @@
+{
+  "id": 1276238737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.80154,42.00972,44.80154,42.00972",
+    "geom:latitude":42.00972,
+    "geom:longitude":44.80154,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Lap'anaant'kari",
+    "gn:country_code":"GE",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613307,
+    "gn:latitude":42.00972,
+    "gn:longitude":44.80154,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Lap\u2019anaant\u2019kari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613307
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6ca8a9bd51efbcefccb35f9f42c9f3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1276238737,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276238737,
+    "wof:lastmodified":1536905545,
+    "wof:name":"Lap'anaant'kari",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.80154,
+    42.00972,
+    44.80154,
+    42.00972
+],
+  "geometry": {"coordinates":[44.80154,42.00972],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260182377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.67489,41.64525,41.67489,41.64525",
+    "geom:latitude":41.64525,
+    "geom:longitude":41.67489,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Salibauri",
+    "gn:country_code":"GE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612152,
+    "gn:latitude":41.64525,
+    "gn:longitude":41.67489,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Salibauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Salibauri"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10da\u10d8\u10d1\u10d0\u10e3\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u0431\u0430\u0443\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612152
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4552fd4bf0bcdf7c0875bbdc8e91eea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691257,
+            "locality_id":1260182377,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1260182377,
+    "wof:lastmodified":1537623099,
+    "wof:name":"Salibauri",
+    "wof:parent_id":1108691257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.67489000000001,
+    41.64525,
+    41.67489000000001,
+    41.64525
+],
+  "geometry": {"coordinates":[41.67489000000001,41.64525],"type":"Point"}
+}

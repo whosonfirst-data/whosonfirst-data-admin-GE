@@ -1,0 +1,79 @@
+{
+  "id": 1310716455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.20014,41.33095,44.20014,41.33095",
+    "geom:latitude":41.33095,
+    "geom:longitude":44.20014,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dmanisi",
+    "gn:country_code":"GE",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614891,
+    "gn:latitude":41.33095,
+    "gn:longitude":44.20014,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Dmanisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dmanisi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043c\u0430\u043d\u0438\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bashkichet",
+        "Bashkicheti",
+        "Bashkichety",
+        "Dmanisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614891
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"71c7cdb13f1503fdc05a43a81638c654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1310716455,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310716455,
+    "wof:lastmodified":1537623259,
+    "wof:name":"Dmanisi",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.20014000000001,
+    41.33095,
+    44.20014000000001,
+    41.33095
+],
+  "geometry": {"coordinates":[44.20014000000001,41.33095],"type":"Point"}
+}

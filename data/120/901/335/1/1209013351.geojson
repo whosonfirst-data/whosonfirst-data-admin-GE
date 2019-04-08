@@ -1,0 +1,71 @@
+{
+  "id": 1209013351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6979,42.78651,41.6979,42.78651",
+    "geom:latitude":42.78651,
+    "geom:longitude":41.6979,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Meore K'op'it'i",
+    "gn:country_code":"GE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613711,
+    "gn:latitude":42.78651,
+    "gn:longitude":41.6979,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Meore K\u2019op\u2019it\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Meore K\u2019op\u2019it\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10dd\u10e0\u10d4 \u10d9\u10dd\u10de\u10d8\u10e2\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Kopiti",
+        "Vtoroy Kopyt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613711
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e5a67ade3f4a4d61216488e4748058ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209013351
+        }
+    ],
+    "wof:id":1209013351,
+    "wof:lastmodified":1537623194,
+    "wof:name":"Meore K'op'it'i",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.6979,
+    42.78651,
+    41.6979,
+    42.78651
+],
+  "geometry": {"coordinates":[41.6979,42.78651],"type":"Point"}
+}

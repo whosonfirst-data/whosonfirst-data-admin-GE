@@ -1,0 +1,67 @@
+{
+  "id": 1344271931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37611,42.06222,44.37611,42.06222",
+    "geom:latitude":42.06222,
+    "geom:longitude":44.37611,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mskhlebi",
+    "gn:country_code":"GE",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612905,
+    "gn:latitude":42.06222,
+    "gn:longitude":44.37611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mskhlebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612905
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bff3678b49fcaa2bc1e75054c12e9229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1344271931,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1344271931,
+    "wof:lastmodified":1537064626,
+    "wof:name":"Mskhlebi",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37611,
+    42.06222,
+    44.37611,
+    42.06222
+],
+  "geometry": {"coordinates":[44.37611,42.06222],"type":"Point"}
+}

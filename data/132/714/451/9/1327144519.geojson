@@ -1,0 +1,72 @@
+{
+  "id": 1327144519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.23806,42.04944,43.23806,42.04944",
+    "geom:latitude":42.04944,
+    "geom:longitude":43.23806,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhaparauli",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614799,
+    "gn:latitude":42.04944,
+    "gn:longitude":43.23806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzhaparauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhapareuli",
+        "Dzhaparauli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614799
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"28abc4627f6ba43688a54792d3cce87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1327144519,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1327144519,
+    "wof:lastmodified":1537623253,
+    "wof:name":"Dzhaparauli",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.23806,
+    42.04944,
+    43.23806,
+    42.04944
+],
+  "geometry": {"coordinates":[43.23806,42.04944],"type":"Point"}
+}

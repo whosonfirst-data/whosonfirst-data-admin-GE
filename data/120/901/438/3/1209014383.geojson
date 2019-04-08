@@ -1,0 +1,73 @@
+{
+  "id": 1209014383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.47249,43.03584,41.47249,43.03584",
+    "geom:latitude":43.03584,
+    "geom:longitude":41.47249,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lata",
+    "gn:country_code":"GE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613285,
+    "gn:latitude":43.03584,
+    "gn:longitude":41.47249,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Lata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lat'a"
+    ],
+    "name:kat_x_preferred":[
+        "Lata"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d0\u10d7\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613285
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"723f1740163a6560fe2cacd759815977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209014383
+        }
+    ],
+    "wof:id":1209014383,
+    "wof:lastmodified":1537623167,
+    "wof:name":"Lata",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.47249,
+    43.03584,
+    41.47249,
+    43.03584
+],
+  "geometry": {"coordinates":[41.47249,43.03584],"type":"Point"}
+}

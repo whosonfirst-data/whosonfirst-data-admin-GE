@@ -1,0 +1,73 @@
+{
+  "id": 1343894863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.23181,41.84361,46.23181,41.84361",
+    "geom:latitude":41.84361,
+    "geom:longitude":46.23181,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Zemo Khiza",
+    "gn:country_code":"GE",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610948,
+    "gn:latitude":41.84361,
+    "gn:longitude":46.23181,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Zemo Khiza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zemo Khiza"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10db\u10dd \u10ee\u10d8\u10d6\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610948
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7ce0a5d1102d9bf6a3865682771dbe50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1343894863,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1343894863,
+    "wof:lastmodified":1537623030,
+    "wof:name":"Zemo Khiza",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.23181,
+    41.84361,
+    46.23181,
+    41.84361
+],
+  "geometry": {"coordinates":[46.23181,41.84361],"type":"Point"}
+}

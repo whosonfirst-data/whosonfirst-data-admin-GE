@@ -1,0 +1,72 @@
+{
+  "id": 1242985209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3797,41.42756,44.3797,41.42756",
+    "geom:latitude":41.42756,
+    "geom:longitude":44.3797,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gulaveri",
+    "gn:country_code":"GE",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614393,
+    "gn:latitude":41.42756,
+    "gn:longitude":44.3797,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gulaveri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhniye Gulaveri",
+        "Kvemo-Gulaveri",
+        "Gulaveri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614393
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5a5cfa38d25ed5312127213f9f1c254c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1242985209,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1242985209,
+    "wof:lastmodified":1537623228,
+    "wof:name":"Gulaveri",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3797,
+    41.42756,
+    44.3797,
+    41.42756
+],
+  "geometry": {"coordinates":[44.3797,41.42756],"type":"Point"}
+}

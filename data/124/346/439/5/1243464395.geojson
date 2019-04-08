@@ -1,0 +1,74 @@
+{
+  "id": 1243464395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.42366,41.4263,44.42366,41.4263",
+    "geom:latitude":41.4263,
+    "geom:longitude":44.42366,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kianeti",
+    "gn:country_code":"GE",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613848,
+    "gn:latitude":41.4263,
+    "gn:longitude":44.42366,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kianeti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10d0\u10dc\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Kioneti",
+        "Kianeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613848
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"199c92df7a8310e2c9c3c8038b5d4a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1243464395,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1243464395,
+    "wof:lastmodified":1537623201,
+    "wof:name":"Kianeti",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.42366,
+    41.4263,
+    44.42366,
+    41.4263
+],
+  "geometry": {"coordinates":[44.42366,41.4263],"type":"Point"}
+}

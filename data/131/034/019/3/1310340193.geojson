@@ -1,0 +1,77 @@
+{
+  "id": 1310340193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.68351,41.76185,43.68351,41.76185",
+    "geom:latitude":41.76185,
+    "geom:longitude":43.68351,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Ghint'uri",
+    "gn:country_code":"GE",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614526,
+    "gn:latitude":41.76185,
+    "gn:longitude":43.68351,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ghint\u2019uri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ghint\u2019uri"
+    ],
+    "name:kat_x_variant":[
+        "\u10e6\u10d8\u10dc\u10e2\u10e3\u10e0\u10d8",
+        "Ginturi"
+    ],
+    "name:und_x_variant":[
+        "Ginturi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614526
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc385aa0e809e7b41d54f94937bc3f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1310340193,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1310340193,
+    "wof:lastmodified":1537623234,
+    "wof:name":"Ghint'uri",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.68351,
+    41.76185,
+    43.68351,
+    41.76185
+],
+  "geometry": {"coordinates":[43.68351,41.76185],"type":"Point"}
+}

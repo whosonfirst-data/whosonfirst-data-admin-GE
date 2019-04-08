@@ -1,0 +1,61 @@
+{
+  "id": 1209329373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49186,41.68601,44.49186,41.68601",
+    "geom:latitude":41.68601,
+    "geom:longitude":44.49186,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Golovani",
+    "gn:country_code":"GE",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614491,
+    "gn:latitude":41.68601,
+    "gn:longitude":44.49186,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Golovani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614491
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2086a213f6f6cff17444cfcb19d0dcac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209329373
+        }
+    ],
+    "wof:id":1209329373,
+    "wof:lastmodified":1536290422,
+    "wof:name":"Golovani",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49186,
+    41.68601,
+    44.49186,
+    41.68601
+],
+  "geometry": {"coordinates":[44.49186,41.68601],"type":"Point"}
+}

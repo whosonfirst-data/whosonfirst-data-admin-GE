@@ -1,0 +1,73 @@
+{
+  "id": 1343968465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35958,42.16347,44.35958,42.16347",
+    "geom:latitude":42.16347,
+    "geom:longitude":44.35958,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Shua Zakhori",
+    "gn:country_code":"GE",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611917,
+    "gn:latitude":42.16347,
+    "gn:longitude":44.35958,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Shua Zakhori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Shua Zakhori"
+    ],
+    "name:und_x_variant":[
+        "Astaukag-Zakor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611917
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"429128cce1b51deacd484df18de87e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1343968465,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343968465,
+    "wof:lastmodified":1537623087,
+    "wof:name":"Shua Zakhori",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35958,
+    42.16347,
+    44.35958,
+    42.16347
+],
+  "geometry": {"coordinates":[44.35958,42.16347],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1344070103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61472,43.14738,40.61472,43.14738",
+    "geom:latitude":43.14738,
+    "geom:longitude":40.61472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Likhni",
+    "gn:country_code":"GE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613159,
+    "gn:latitude":43.14738,
+    "gn:longitude":40.61472,
+    "gn:modification_date":"2015-07-22",
+    "gn:name":"Likhni",
+    "gn:population":524,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Likhni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10ee\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Likhni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044b\u0445\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Loukhoumi",
+        "Lykhni",
+        "Lykhny",
+        "Luikhni",
+        "Lukhny"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613159,
+        "wk:page":"Lykhny"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8080b7ee6e4a32b356e17993a28dd68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1344070103,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1344070103,
+    "wof:lastmodified":1537623160,
+    "wof:name":"Likhni",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:population":524,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61472,
+    43.14738,
+    40.61472,
+    43.14738
+],
+  "geometry": {"coordinates":[40.61472,43.14738],"type":"Point"}
+}

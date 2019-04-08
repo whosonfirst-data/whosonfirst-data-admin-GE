@@ -1,0 +1,85 @@
+{
+  "id": 421183769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82772,43.04605,42.82772,43.04605",
+    "geom:latitude":43.04605,
+    "geom:longitude":42.82772,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:kat_x_preferred":[
+        "Ch\u2019olashi"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10dd\u10da\u10d0\u10e8\u10d8"
+    ],
+    "name:unk_x_variant":[
+        "Choloshi"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":615112,
+    "qs:gn_pop":0,
+    "qs:name":"Cholashi",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Mestiis Raioni",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":983998,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1962897,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615112,
+        "gp:id":1962897,
+        "qs:id":983998
+    },
+    "wof:country":"GE",
+    "wof:created":1459009382,
+    "wof:geomhash":"816de29c81a00aca5b6539a7522b8217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":421183769,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":421183769,
+    "wof:lastmodified":1501214946,
+    "wof:name":"Cholashi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82772,
+    43.04605,
+    42.82772,
+    43.04605
+],
+  "geometry": {"coordinates":[42.82772,43.04605],"type":"Point"}
+}

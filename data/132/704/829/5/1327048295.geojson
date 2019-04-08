@@ -1,0 +1,70 @@
+{
+  "id": 1327048295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5679,42.60213,44.5679,42.60213",
+    "geom:latitude":42.60213,
+    "geom:longitude":44.5679,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Gorists'ikhe",
+    "gn:country_code":"GE",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614452,
+    "gn:latitude":42.60213,
+    "gn:longitude":44.5679,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Gorists\u2019ikhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Gorists\u2019ikhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614452
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c023eb2cce6b822d8f40f23001452c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691299,
+            "locality_id":1327048295,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1327048295,
+    "wof:lastmodified":1537623230,
+    "wof:name":"Gorists'ikhe",
+    "wof:parent_id":1108691299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5679,
+    42.60213,
+    44.5679,
+    42.60213
+],
+  "geometry": {"coordinates":[44.5679,42.60213],"type":"Point"}
+}

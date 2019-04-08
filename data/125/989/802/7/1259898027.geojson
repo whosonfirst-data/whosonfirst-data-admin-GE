@@ -1,0 +1,71 @@
+{
+  "id": 1259898027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.31141,41.90062,44.31141,41.90062",
+    "geom:latitude":41.90062,
+    "geom:longitude":44.31141,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo Khandaki",
+    "gn:country_code":"GE",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610952,
+    "gn:latitude":41.90062,
+    "gn:longitude":44.31141,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zemo Khandaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khandaki",
+        "Zemo Khandaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610952
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fc1e4def3a1cb0fb1813fe074f0b8c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1259898027,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1259898027,
+    "wof:lastmodified":1537623030,
+    "wof:name":"Zemo Khandaki",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.31141,
+    41.90062,
+    44.31141,
+    41.90062
+],
+  "geometry": {"coordinates":[44.31141,41.90062],"type":"Point"}
+}

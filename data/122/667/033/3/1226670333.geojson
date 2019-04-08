@@ -1,0 +1,71 @@
+{
+  "id": 1226670333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98917,41.90389,41.98917,41.90389",
+    "geom:latitude":41.90389,
+    "geom:longitude":41.98917,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ekadia",
+    "gn:country_code":"GE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614693,
+    "gn:latitude":41.90389,
+    "gn:longitude":41.98917,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ekadia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekadiya",
+        "Ekadia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614693
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bd46e2a21ce2d816e33db04ce4890048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1226670333,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1226670333,
+    "wof:lastmodified":1537623246,
+    "wof:name":"Ekadia",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98917,
+    41.90389,
+    41.98917,
+    41.90389
+],
+  "geometry": {"coordinates":[41.98917,41.90389],"type":"Point"}
+}

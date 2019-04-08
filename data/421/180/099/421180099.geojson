@@ -1,0 +1,95 @@
+{
+  "id": 421180099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.82382,42.03761,43.82382,42.03761",
+    "geom:latitude":42.03761,
+    "geom:longitude":43.82382,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Agara"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0563\u0561\u0580\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10d0\u10e0\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0430\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Agara"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":615943,
+    "qs:gn_pop":5811,
+    "qs:name":"Agara",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"K\u00b4arelis Raioni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1091714,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1966770,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615943,
+        "gp:id":1966770,
+        "qs:id":1091714
+    },
+    "wof:country":"GE",
+    "wof:created":1459009244,
+    "wof:geomhash":"3d4b29b754b8c6661a89cd4a7b09cd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":421180099,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":421180099,
+    "wof:lastmodified":1527716236,
+    "wof:name":"Agara",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:population":5811,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.82382,
+    42.03761,
+    43.82382,
+    42.03761
+],
+  "geometry": {"coordinates":[43.82382,42.03761],"type":"Point"}
+}

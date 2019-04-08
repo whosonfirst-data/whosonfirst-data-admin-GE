@@ -1,0 +1,67 @@
+{
+  "id": 1276557737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.00026,41.87861,45.00026,41.87861",
+    "geom:latitude":41.87861,
+    "geom:longitude":45.00026,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kevliani",
+    "gn:country_code":"GE",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614037,
+    "gn:latitude":41.87861,
+    "gn:longitude":45.00026,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kevliani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614037
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9f518545f500e0c1d05ea3c83ddc36c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1276557737,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276557737,
+    "wof:lastmodified":1536974781,
+    "wof:name":"Kevliani",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.00026,
+    41.87861,
+    45.00026,
+    41.87861
+],
+  "geometry": {"coordinates":[45.00026,41.87861],"type":"Point"}
+}

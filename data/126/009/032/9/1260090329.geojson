@@ -1,0 +1,67 @@
+{
+  "id": 1260090329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.17042,42.11178,44.17042,42.11178",
+    "geom:latitude":42.11178,
+    "geom:longitude":44.17042,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akhrisi",
+    "gn:country_code":"GE",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615841,
+    "gn:latitude":42.11178,
+    "gn:longitude":44.17042,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Akhrisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615841
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0ce8d6ed23f0cc0e65291c515d8ff822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1260090329,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1260090329,
+    "wof:lastmodified":1536977485,
+    "wof:name":"Akhrisi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.17042,
+    42.11178,
+    44.17042,
+    42.11178
+],
+  "geometry": {"coordinates":[44.17042,42.11178],"type":"Point"}
+}

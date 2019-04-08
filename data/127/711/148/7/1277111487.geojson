@@ -1,0 +1,76 @@
+{
+  "id": 1277111487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.94264,42.24555,41.94264,42.24555",
+    "geom:latitude":42.24555,
+    "geom:longitude":41.94264,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Durghena",
+    "gn:country_code":"GE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614846,
+    "gn:latitude":42.24555,
+    "gn:longitude":41.94264,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Durghena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Durghena"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10e3\u10e0\u10e6\u10d4\u10dc\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Durgena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614846
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2f42e6514a85fb3ccf69be0bd983a176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1277111487,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1277111487,
+    "wof:lastmodified":1537623256,
+    "wof:name":"Durghena",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.94264,
+    42.24555,
+    41.94264,
+    42.24555
+],
+  "geometry": {"coordinates":[41.94264,42.24555],"type":"Point"}
+}

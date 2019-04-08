@@ -1,0 +1,73 @@
+{
+  "id": 1292906649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.015,43.06222,41.015,43.06222",
+    "geom:latitude":43.06222,
+    "geom:longitude":41.015,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gorana",
+    "gn:country_code":"GE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824151,
+    "gn:latitude":43.06222,
+    "gn:longitude":41.015,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gorana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10d0\u10dc\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Gorana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824151
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0df647b0bcaea6f5b4f357b46644c6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1292906649,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1292906649,
+    "wof:lastmodified":1537623335,
+    "wof:name":"Gorana",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.015,
+    43.06222,
+    41.015,
+    43.06222
+],
+  "geometry": {"coordinates":[41.015,43.06222],"type":"Point"}
+}

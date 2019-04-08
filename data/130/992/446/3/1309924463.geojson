@@ -1,0 +1,77 @@
+{
+  "id": 1309924463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08271,42.02976,43.08271,42.02976",
+    "geom:latitude":42.02976,
+    "geom:longitude":43.08271,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Vardzia",
+    "gn:country_code":"GE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611203,
+    "gn:latitude":42.02976,
+    "gn:longitude":43.08271,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vardzia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vardzia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0434\u0437\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vardziya",
+        "Vardzia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611203
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e5f4d95fb1bf9f37417e726cb87a199e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1309924463,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1309924463,
+    "wof:lastmodified":1537623048,
+    "wof:name":"Vardzia",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08271,
+    42.02976,
+    43.08271,
+    42.02976
+],
+  "geometry": {"coordinates":[43.08271,42.02976],"type":"Point"}
+}

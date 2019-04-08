@@ -1,0 +1,72 @@
+{
+  "id": 1276243117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.79359,41.74625,45.79359,41.74625",
+    "geom:latitude":41.74625,
+    "geom:longitude":45.79359,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kurort Akhtala",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615835,
+    "gn:latitude":41.74625,
+    "gn:longitude":45.79359,
+    "gn:modification_date":"2017-08-27",
+    "gn:name":"Kurort Akhtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhtala",
+        "Kurort Akhtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615835
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"23a2bd074a5b0b0e5d600c84cec75427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1276243117,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276243117,
+    "wof:lastmodified":1537623312,
+    "wof:name":"Kurort Akhtala",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.79359,
+    41.74625,
+    45.79359,
+    41.74625
+],
+  "geometry": {"coordinates":[45.79359,41.74625],"type":"Point"}
+}

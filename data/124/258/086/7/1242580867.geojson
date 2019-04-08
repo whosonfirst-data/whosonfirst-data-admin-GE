@@ -1,0 +1,83 @@
+{
+  "id": 1242580867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.14361,42.844,41.14361,42.844",
+    "geom:latitude":42.844,
+    "geom:longitude":41.14361,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Varch'a",
+    "gn:country_code":"GE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611212,
+    "gn:latitude":42.844,
+    "gn:longitude":41.14361,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Varch\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Varcha"
+    ],
+    "name:kat_x_preferred":[
+        "Varch\u2019a"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10e0\u10ed\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Uarche",
+        "Varche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611212
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9711548384a3c068d6c3cc416dc93086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1242580867,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1242580867,
+    "wof:lastmodified":1537623049,
+    "wof:name":"Varch'a",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.14361,
+    42.844,
+    41.14361,
+    42.844
+],
+  "geometry": {"coordinates":[41.14361,42.844],"type":"Point"}
+}

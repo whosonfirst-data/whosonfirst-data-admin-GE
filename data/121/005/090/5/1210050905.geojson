@@ -1,0 +1,74 @@
+{
+  "id": 1210050905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38163,41.49767,44.38163,41.49767",
+    "geom:latitude":41.49767,
+    "geom:longitude":44.38163,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Shikhilo",
+    "gn:country_code":"GE",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611989,
+    "gn:latitude":41.49767,
+    "gn:longitude":44.38163,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Shikhilo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10ee\u10d8\u10da\u10dd"
+    ],
+    "name:und_x_variant":[
+        "Shikhelo",
+        "Shikhilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611989
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"762fad57382f33fe00a5c12f72997adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1210050905,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1210050905,
+    "wof:lastmodified":1537623091,
+    "wof:name":"Shikhilo",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38163,
+    41.49767,
+    44.38163,
+    41.49767
+],
+  "geometry": {"coordinates":[44.38163,41.49767],"type":"Point"}
+}

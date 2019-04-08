@@ -1,0 +1,67 @@
+{
+  "id": 1259894443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0,41.58226,43.0,41.58226",
+    "geom:latitude":41.58226,
+    "geom:longitude":43.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anda",
+    "gn:country_code":"GE",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615753,
+    "gn:latitude":41.58226,
+    "gn:longitude":43.0,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Anda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615753
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f733e4f4278eb6cb23d5a87606c98603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691245,
+            "locality_id":1259894443,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1259894443,
+    "wof:lastmodified":1536763591,
+    "wof:name":"Anda",
+    "wof:parent_id":1108691245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0,
+    41.58226,
+    43.0,
+    41.58226
+],
+  "geometry": {"coordinates":[43.0,41.58226],"type":"Point"}
+}

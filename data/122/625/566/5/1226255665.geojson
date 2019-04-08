@@ -1,0 +1,83 @@
+{
+  "id": 1226255665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.5779,42.80322,41.5779,42.80322",
+    "geom:latitude":42.80322,
+    "geom:longitude":41.5779,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pokveshi",
+    "gn:country_code":"GE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612371,
+    "gn:latitude":42.80322,
+    "gn:longitude":41.5779,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Pokveshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "P'ok'veshi"
+    ],
+    "name:kat_x_preferred":[
+        "Pokveshi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e4\u10dd\u10e5\u10d5\u10d4\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043a\u0432\u0435\u0448"
+    ],
+    "name:und_x_variant":[
+        "Aguaa",
+        "Pokvesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612371
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1410b4c59b9eef0692dec11c0055f098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1226255665,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1226255665,
+    "wof:lastmodified":1537623111,
+    "wof:name":"Pokveshi",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.5779,
+    42.80322,
+    41.5779,
+    42.80322
+],
+  "geometry": {"coordinates":[41.5779,42.80322],"type":"Point"}
+}

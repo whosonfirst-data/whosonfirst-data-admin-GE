@@ -1,0 +1,78 @@
+{
+  "id": 1259793511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04097,43.05388,41.04097,43.05388",
+    "geom:latitude":43.05388,
+    "geom:longitude":41.04097,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zemo Iashtkhva",
+    "gn:country_code":"GE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610883,
+    "gn:latitude":43.05388,
+    "gn:longitude":41.04097,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Zemo Iashtkhva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10db\u10dd \u10d8\u10d0\u10e8\u10d7\u10ee\u10d5\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Zemo Iashtkhva"
+    ],
+    "name:und_x_variant":[
+        "Verkhnyaya Yashtkhua",
+        "Zemo-Yashtukh",
+        "Verkhnyaya-Yashtkhva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610883
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6cac53b2526184d3de5e38cacd939af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1259793511,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259793511,
+    "wof:lastmodified":1537623024,
+    "wof:name":"Zemo Iashtkhva",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04097,
+    43.05388,
+    41.04097,
+    43.05388
+],
+  "geometry": {"coordinates":[41.04097,43.05388],"type":"Point"}
+}

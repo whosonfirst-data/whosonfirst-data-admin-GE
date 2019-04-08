@@ -1,0 +1,73 @@
+{
+  "id": 1243292719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.29145,42.00202,42.29145,42.00202",
+    "geom:latitude":42.00202,
+    "geom:longitude":42.29145,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Buk'istsikhe",
+    "gn:country_code":"GE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615362,
+    "gn:latitude":42.00202,
+    "gn:longitude":42.29145,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Buk\u2019istsikhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Buk\u2019istsikhe"
+    ],
+    "name:kat_x_variant":[
+        "\u10d1\u10e3\u10d9\u10d8\u10e1\u10ea\u10d8\u10ee\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615362
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ea515cc4820bba8f0605ded6d2964f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1243292719,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1243292719,
+    "wof:lastmodified":1537623287,
+    "wof:name":"Buk'istsikhe",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.29145,
+    42.00202,
+    42.29145,
+    42.00202
+],
+  "geometry": {"coordinates":[42.29145,42.00202],"type":"Point"}
+}

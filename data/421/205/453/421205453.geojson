@@ -1,0 +1,124 @@
+{
+  "id": 421205453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08662,42.0898,43.08662,42.0898",
+    "geom:latitude":42.0898,
+    "geom:longitude":43.08662,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0547\u0578\u0580\u0561\u057a\u0561\u0576"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u043e\u0440\u0430\u043f\u0430\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Xoropan"
+    ],
+    "name:ceb_x_preferred":[
+        "Shorapani"
+    ],
+    "name:dut_x_preferred":[
+        "Sjorapani"
+    ],
+    "name:eng_x_preferred":[
+        "Shorapani"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10dd\u10e0\u10d0\u10de\u10d0\u10dc\u10d8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e8\u05e4\u05e0\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0578\u0580\u0561\u057a\u0561\u0576"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10dd\u10e0\u10d0\u10de\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Sjorapani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440\u0430\u043f\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Shorapani"
+    ],
+    "name:unk_x_variant":[
+        "Sharadan\u2019"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":611964,
+    "qs:gn_pop":1699,
+    "qs:name":"Shorapani",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Zestap\u00b4onis Raioni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":263219,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":1965724,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611964,
+        "gp:id":1965724,
+        "qs:id":263219,
+        "wd:id":"Q1944249",
+        "wk:page":"Shorapani"
+    },
+    "wof:country":"GE",
+    "wof:created":1459010225,
+    "wof:geomhash":"a4cf1004d622a1f65d47355a13ebece4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691399,
+            "locality_id":421205453,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":421205453,
+    "wof:lastmodified":1527716217,
+    "wof:name":"Shorapani",
+    "wof:parent_id":1108691399,
+    "wof:placetype":"locality",
+    "wof:population":1699,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08662,
+    42.0898,
+    43.08662,
+    42.0898
+],
+  "geometry": {"coordinates":[43.08662,42.0898],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1343994583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.63269,43.0127,42.63269,43.0127",
+    "geom:latitude":43.0127,
+    "geom:longitude":42.63269,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Ienashi",
+    "gn:country_code":"GE",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614218,
+    "gn:latitude":43.0127,
+    "gn:longitude":42.63269,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ienashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ienishi"
+    ],
+    "name:kat_x_preferred":[
+        "Ienishi"
+    ],
+    "name:kat_x_variant":[
+        "Ienashi",
+        "\u10d8\u10d4\u10dc\u10d0\u10e8\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0435\u043d\u0430\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yenashi",
+        "Iyenashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614218
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3a78611401e4ef6aa992f8a9b7170f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1343994583,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1343994583,
+    "wof:lastmodified":1537623219,
+    "wof:name":"Ienashi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.63269,
+    43.0127,
+    42.63269,
+    43.0127
+],
+  "geometry": {"coordinates":[42.63269,43.0127],"type":"Point"}
+}

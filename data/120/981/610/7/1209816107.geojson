@@ -1,0 +1,78 @@
+{
+  "id": 1209816107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.35321,41.66536,42.35321,41.66536",
+    "geom:latitude":41.66536,
+    "geom:longitude":42.35321,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Didach'ara",
+    "gn:country_code":"GE",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614975,
+    "gn:latitude":41.66536,
+    "gn:longitude":42.35321,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Didach\u2019ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Didach\u2019ara"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d8\u10d3\u10d0\u10ed\u10d0\u10e0\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Didadzhara",
+        "Didi-Agara",
+        "Didachara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614975
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6d01b03bea4647f75a23b54d27b8217c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1209816107,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1209816107,
+    "wof:lastmodified":1537623265,
+    "wof:name":"Didach'ara",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35321,
+    41.66536,
+    42.35321,
+    41.66536
+],
+  "geometry": {"coordinates":[42.35321,41.66536],"type":"Point"}
+}

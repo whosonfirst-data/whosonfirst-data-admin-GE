@@ -1,0 +1,71 @@
+{
+  "id": 1326548125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72022,41.23135,44.72022,41.23135",
+    "geom:latitude":41.23135,
+    "geom:longitude":44.72022,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gulbagi",
+    "gn:country_code":"GE",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614392,
+    "gn:latitude":41.23135,
+    "gn:longitude":44.72022,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gulbagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyul-Dag",
+        "Gulbagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614392
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"23e3df253eb500ca6081ce898a1a7972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1326548125,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1326548125,
+    "wof:lastmodified":1537623228,
+    "wof:name":"Gulbagi",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72022,
+    41.23135,
+    44.72022,
+    41.23135
+],
+  "geometry": {"coordinates":[44.72022,41.23135],"type":"Point"}
+}

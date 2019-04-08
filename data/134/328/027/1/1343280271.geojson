@@ -1,0 +1,67 @@
+{
+  "id": 1343280271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0875,42.45778,45.0875,42.45778",
+    "geom:latitude":42.45778,
+    "geom:longitude":45.0875,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Burilo",
+    "gn:country_code":"GE",
+    "gn:dem":2041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615346,
+    "gn:latitude":42.45778,
+    "gn:longitude":45.0875,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Burilo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615346
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"56e2981dc1511cd08d9505c1b646cf43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1343280271,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1343280271,
+    "wof:lastmodified":1537005579,
+    "wof:name":"Burilo",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0875,
+    42.45778,
+    45.0875,
+    42.45778
+],
+  "geometry": {"coordinates":[45.0875,42.45778],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360099799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28588,41.86652,44.28588,41.86652",
+    "geom:latitude":41.86652,
+    "geom:longitude":44.28588,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chkopiani",
+    "gn:country_code":"GE",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615130,
+    "gn:latitude":41.86652,
+    "gn:longitude":44.28588,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Chkopiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ed\u10e7\u10dd\u10de\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615130
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3c2ec77c211c63c7f8b57c50b113df54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1360099799,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1360099799,
+    "wof:lastmodified":1537623274,
+    "wof:name":"Chkopiani",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28588,
+    41.86652,
+    44.28588,
+    41.86652
+],
+  "geometry": {"coordinates":[44.28588,41.86652],"type":"Point"}
+}

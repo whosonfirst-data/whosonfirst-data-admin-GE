@@ -1,0 +1,73 @@
+{
+  "id": 1310611083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52194,42.5575,44.52194,42.5575",
+    "geom:latitude":42.5575,
+    "geom:longitude":44.52194,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ukhat'i",
+    "gn:country_code":"GE",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611296,
+    "gn:latitude":42.5575,
+    "gn:longitude":44.52194,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ukhat\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ukhat\u2019i"
+    ],
+    "name:und_x_variant":[
+        "Nizhniye Ukhati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611296
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"912f06f2d004f6e0d6951afe535bc89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691299,
+            "locality_id":1310611083,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310611083,
+    "wof:lastmodified":1537623053,
+    "wof:name":"Ukhat'i",
+    "wof:parent_id":1108691299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52194,
+    42.5575,
+    44.52194,
+    42.5575
+],
+  "geometry": {"coordinates":[44.52194,42.5575],"type":"Point"}
+}

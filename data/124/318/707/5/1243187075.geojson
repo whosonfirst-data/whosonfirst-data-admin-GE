@@ -1,0 +1,70 @@
+{
+  "id": 1243187075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.47062,42.35607,44.47062,42.35607",
+    "geom:latitude":42.35607,
+    "geom:longitude":44.47062,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Tsip't'auri",
+    "gn:country_code":"GE",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861351,
+    "gn:latitude":42.35607,
+    "gn:longitude":44.47062,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Tsip\u2019t\u2019auri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Tsip\u2019t\u2019auri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861351
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d2ed7732aa92e477a561f94bfc3c6669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1243187075,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243187075,
+    "wof:lastmodified":1537623340,
+    "wof:name":"Tsip't'auri",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.47062,
+    42.35607,
+    44.47062,
+    42.35607
+],
+  "geometry": {"coordinates":[44.47062,42.35607],"type":"Point"}
+}

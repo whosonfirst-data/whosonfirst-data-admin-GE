@@ -1,0 +1,75 @@
+{
+  "id": 1226278361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46139,42.275,42.46139,42.275",
+    "geom:latitude":42.275,
+    "geom:longitude":42.46139,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Didi Gubi",
+    "gn:country_code":"GE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614949,
+    "gn:latitude":42.275,
+    "gn:longitude":42.46139,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Didi Gubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10d2\u10e3\u10d1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Gubi",
+        "Bol\u2019shiye Gubi",
+        "Didi Gubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614949
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a36445fec42a36da806ecfff079d9002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691313,
+            "locality_id":1226278361,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1226278361,
+    "wof:lastmodified":1537623263,
+    "wof:name":"Didi Gubi",
+    "wof:parent_id":1108691313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46139,
+    42.275,
+    42.46139,
+    42.275
+],
+  "geometry": {"coordinates":[42.46139,42.275],"type":"Point"}
+}

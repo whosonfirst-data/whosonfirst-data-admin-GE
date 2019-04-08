@@ -1,0 +1,83 @@
+{
+  "id": 1360303747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.97972,41.4925,45.97972,41.4925",
+    "geom:latitude":41.4925,
+    "geom:longitude":45.97972,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gamarjveba",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614609,
+    "gn:latitude":41.4925,
+    "gn:longitude":45.97972,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Gamarjveba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gamarjveba"
+    ],
+    "name:kat_x_preferred":[
+        "Gamarjveba"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d0\u10db\u10d0\u10e0\u10ef\u10d5\u10d4\u10d1\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043c\u0430\u0440\u0434\u0436\u0432\u0435\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gamardzhveba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614609
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0c1051e2451b9b1d2f5d8e9f145ea8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691269,
+            "locality_id":1360303747,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1360303747,
+    "wof:lastmodified":1537623241,
+    "wof:name":"Gamarjveba",
+    "wof:parent_id":1108691269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.97972,
+    41.4925,
+    45.97972,
+    41.4925
+],
+  "geometry": {"coordinates":[45.97972,41.4925],"type":"Point"}
+}

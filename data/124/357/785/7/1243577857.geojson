@@ -1,0 +1,77 @@
+{
+  "id": 1243577857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.16233,41.6775,42.16233,41.6775",
+    "geom:latitude":41.6775,
+    "geom:longitude":42.16233,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Varjanauli",
+    "gn:country_code":"GE",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611204,
+    "gn:latitude":41.6775,
+    "gn:longitude":42.16233,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Varjanauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Varjanauli"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10e0\u10ef\u10d0\u10dc\u10d0\u10e3\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Vardzhanauli",
+        "Varjanauli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611204
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f42f04ad58db4857ad4c497bd37515ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691363,
+            "locality_id":1243577857,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1243577857,
+    "wof:lastmodified":1537623048,
+    "wof:name":"Varjanauli",
+    "wof:parent_id":1108691363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.16233,
+    41.6775,
+    42.16233,
+    41.6775
+],
+  "geometry": {"coordinates":[42.16233,41.6775],"type":"Point"}
+}

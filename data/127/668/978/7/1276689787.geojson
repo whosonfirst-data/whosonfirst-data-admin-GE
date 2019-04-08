@@ -1,0 +1,70 @@
+{
+  "id": 1276689787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95863,41.68494,42.95863,41.68494",
+    "geom:latitude":41.68494,
+    "geom:longitude":42.95863,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Mikeltsminda",
+    "gn:country_code":"GE",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612967,
+    "gn:latitude":41.68494,
+    "gn:longitude":42.95863,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Mikeltsminda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e5\u10d4\u10da\u10ec\u10db\u10d8\u10dc\u10d3\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612967
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f6c9075b1f40dbfaaadfa08abcb96315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691245,
+            "locality_id":1276689787,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1276689787,
+    "wof:lastmodified":1537623148,
+    "wof:name":"Mikeltsminda",
+    "wof:parent_id":1108691245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95863,
+    41.68494000000001,
+    42.95863,
+    41.68494000000001
+],
+  "geometry": {"coordinates":[42.95863,41.68494000000001],"type":"Point"}
+}

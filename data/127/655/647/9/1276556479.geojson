@@ -1,0 +1,73 @@
+{
+  "id": 1276556479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05795,43.11292,41.05795,43.11292",
+    "geom:latitude":43.11292,
+    "geom:longitude":41.05795,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"St'arushk'ino",
+    "gn:country_code":"GE",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865416,
+    "gn:latitude":43.11292,
+    "gn:longitude":41.05795,
+    "gn:modification_date":"2014-02-11",
+    "gn:name":"St\u2019arushk\u2019ino",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10d0\u10e0\u10e3\u10e8\u10d9\u10d8\u10dc\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "St\u2019arushk\u2019ino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865416
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"93069a3a9d8bdb7d7abe044ee9676af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1276556479,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276556479,
+    "wof:lastmodified":1537623342,
+    "wof:name":"St'arushk'ino",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05795,
+    43.11292,
+    41.05795,
+    43.11292
+],
+  "geometry": {"coordinates":[41.05795,43.11292],"type":"Point"}
+}

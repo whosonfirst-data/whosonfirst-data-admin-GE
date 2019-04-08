@@ -1,0 +1,75 @@
+{
+  "id": 1327444189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.51444,42.7575,41.51444,42.7575",
+    "geom:latitude":42.7575,
+    "geom:longitude":41.51444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beslakhuba",
+    "gn:country_code":"GE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612662,
+    "gn:latitude":42.7575,
+    "gn:longitude":41.51444,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Beslakhuba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e1\u10da\u10d0\u10ee\u10e3\u10d1\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Novaya Beslakhuba",
+        "Beslakhuba",
+        "Beslachuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612662
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"96d39a157145baa1330284d22b7c7b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1327444189,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1327444189,
+    "wof:lastmodified":1537623130,
+    "wof:name":"Beslakhuba",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.51444,
+    42.7575,
+    41.51444,
+    42.7575
+],
+  "geometry": {"coordinates":[41.51444,42.7575],"type":"Point"}
+}

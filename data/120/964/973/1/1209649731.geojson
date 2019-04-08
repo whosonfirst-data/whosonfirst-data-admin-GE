@@ -1,0 +1,67 @@
+{
+  "id": 1209649731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.19917,42.20667,42.19917,42.20667",
+    "geom:latitude":42.20667,
+    "geom:longitude":42.19917,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Norio",
+    "gn:country_code":"GE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612665,
+    "gn:latitude":42.20667,
+    "gn:longitude":42.19917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Norio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Norio"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10dd\u10e0\u10d8\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612665
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"be801b1430fe65bb4aaee77acab06d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209649731
+        }
+    ],
+    "wof:id":1209649731,
+    "wof:lastmodified":1537623130,
+    "wof:name":"Norio",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.19917,
+    42.20667,
+    42.19917,
+    42.20667
+],
+  "geometry": {"coordinates":[42.19917,42.20667],"type":"Point"}
+}

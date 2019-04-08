@@ -1,0 +1,67 @@
+{
+  "id": 1293404667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.41111,42.39222,43.41111,42.39222",
+    "geom:latitude":42.39222,
+    "geom:longitude":43.41111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvereti",
+    "gn:country_code":"GE",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613392,
+    "gn:latitude":42.39222,
+    "gn:longitude":43.41111,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Kvereti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613392
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"171abc8600e83df417ed49dd8415e588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1293404667,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1293404667,
+    "wof:lastmodified":1536906576,
+    "wof:name":"Kvereti",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.41111,
+    42.39222,
+    43.41111,
+    42.39222
+],
+  "geometry": {"coordinates":[43.41111,42.39222],"type":"Point"}
+}

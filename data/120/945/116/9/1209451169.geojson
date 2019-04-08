@@ -1,0 +1,65 @@
+{
+  "id": 1209451169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.07509,42.55751,43.07509,42.55751",
+    "geom:latitude":42.55751,
+    "geom:longitude":43.07509,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Didi-Chordzho",
+    "gn:country_code":"GE",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614962,
+    "gn:latitude":42.55751,
+    "gn:longitude":43.07509,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Didi-Chordzho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chordzho",
+        "Didi-Chordzho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614962
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"29b79fcb8eadac689cdd1a65a7297212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209451169
+        }
+    ],
+    "wof:id":1209451169,
+    "wof:lastmodified":1537623264,
+    "wof:name":"Didi-Chordzho",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.07509,
+    42.55751,
+    43.07509,
+    42.55751
+],
+  "geometry": {"coordinates":[43.07509,42.55751],"type":"Point"}
+}

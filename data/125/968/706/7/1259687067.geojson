@@ -1,0 +1,76 @@
+{
+  "id": 1259687067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.30066,43.06905,41.30066,43.06905",
+    "geom:latitude":43.06905,
+    "geom:longitude":41.30066,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Q'ada",
+    "gn:country_code":"GE",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614204,
+    "gn:latitude":43.06905,
+    "gn:longitude":41.30066,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Q\u2019ada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d3\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Q\u2019ada"
+    ],
+    "name:und_x_variant":[
+        "Kada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614204
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a24c9ecd61bd121d535dff936e79d9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1259687067,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1259687067,
+    "wof:lastmodified":1537623218,
+    "wof:name":"Q'ada",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.30066,
+    43.06905,
+    41.30066,
+    43.06905
+],
+  "geometry": {"coordinates":[41.30066,43.06905],"type":"Point"}
+}

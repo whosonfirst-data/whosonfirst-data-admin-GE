@@ -1,0 +1,73 @@
+{
+  "id": 1276365983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81234,42.85035,42.81234,42.85035",
+    "geom:latitude":42.85035,
+    "geom:longitude":42.81234,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Durashi",
+    "gn:country_code":"GE",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7530566,
+    "gn:latitude":42.85035,
+    "gn:longitude":42.81234,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Durashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Durashi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10e3\u10e0\u10d0\u10e8\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7530566
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dfdd79c19fc0b1a1550cfe00d3092b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1276365983,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1276365983,
+    "wof:lastmodified":1537623353,
+    "wof:name":"Durashi",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81234,
+    42.85035,
+    42.81234,
+    42.85035
+],
+  "geometry": {"coordinates":[42.81234,42.85035],"type":"Point"}
+}

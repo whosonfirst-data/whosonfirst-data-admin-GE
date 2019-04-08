@@ -1,0 +1,79 @@
+{
+  "id": 1226061065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.48821,42.01161,44.48821,42.01161",
+    "geom:latitude":42.01161,
+    "geom:longitude":44.48821,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lamisqana",
+    "gn:country_code":"GE",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613314,
+    "gn:latitude":42.01161,
+    "gn:longitude":44.48821,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lamisqana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lamisqana"
+    ],
+    "name:kat_x_preferred":[
+        "Lamisqana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0438\u0441\u043a\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lamiskana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613314
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ae65f873500d4168ff57c680b9e47621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1226061065,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226061065,
+    "wof:lastmodified":1537623169,
+    "wof:name":"Lamisqana",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.48821,
+    42.01161,
+    44.48821,
+    42.01161
+],
+  "geometry": {"coordinates":[44.48821,42.01161],"type":"Point"}
+}

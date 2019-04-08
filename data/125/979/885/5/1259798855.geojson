@@ -1,0 +1,71 @@
+{
+  "id": 1259798855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.90563,42.00278,44.90563,42.00278",
+    "geom:latitude":42.00278,
+    "geom:longitude":44.90563,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Simoniant'khevi",
+    "gn:country_code":"GE",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611894,
+    "gn:latitude":42.00278,
+    "gn:longitude":44.90563,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Simoniant\u2019khevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svimoniantkhevi",
+        "Simoniant\u2019khevi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611894
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4444378b4b90320c995d7e9657636ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1259798855,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1259798855,
+    "wof:lastmodified":1537623086,
+    "wof:name":"Simoniant'khevi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.90563,
+    42.00278,
+    44.90563,
+    42.00278
+],
+  "geometry": {"coordinates":[44.90563,42.00278],"type":"Point"}
+}

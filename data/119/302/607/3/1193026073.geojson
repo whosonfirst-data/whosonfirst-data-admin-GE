@@ -1,0 +1,70 @@
+{
+  "id": 1193026073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.58554,41.7555,45.58554,41.7555",
+    "geom:latitude":41.7555,
+    "geom:longitude":45.58554,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cheremi",
+    "gn:country_code":"GE",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615224,
+    "gn:latitude":41.7555,
+    "gn:longitude":45.58554,
+    "gn:modification_date":"2017-08-27",
+    "gn:name":"Cheremi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ed\u10d4\u10e0\u10d4\u10db\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615224
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"677941ec5cf60e95bc05211c1b755ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1193026073,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1193026073,
+    "wof:lastmodified":1537623279,
+    "wof:name":"Cheremi",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.58554,
+    41.7555,
+    45.58554,
+    41.7555
+],
+  "geometry": {"coordinates":[45.58554,41.7555],"type":"Point"}
+}

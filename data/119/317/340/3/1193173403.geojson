@@ -1,0 +1,76 @@
+{
+  "id": 1193173403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.89385,42.29048,41.89385,42.29048",
+    "geom:latitude":42.29048,
+    "geom:longitude":41.89385,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Meore Guripuli",
+    "gn:country_code":"GE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613013,
+    "gn:latitude":42.29048,
+    "gn:longitude":41.89385,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Meore Guripuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Meore Guripuli"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10dd\u10e0\u10d4 \u10d2\u10e3\u10e0\u10d8\u10e4\u10e3\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Guripuli Meore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613013
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"35d111d78b444152965a0d0a46664e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1193173403,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1193173403,
+    "wof:lastmodified":1537623151,
+    "wof:name":"Meore Guripuli",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.89385,
+    42.29048,
+    41.89385,
+    42.29048
+],
+  "geometry": {"coordinates":[41.89385,42.29048],"type":"Point"}
+}

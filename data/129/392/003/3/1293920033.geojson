@@ -1,0 +1,70 @@
+{
+  "id": 1293920033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.67048,41.69304,42.67048,41.69304",
+    "geom:latitude":41.69304,
+    "geom:longitude":42.67048,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Plate",
+    "gn:country_code":"GE",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612376,
+    "gn:latitude":41.69304,
+    "gn:longitude":42.67048,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Plate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e4\u10da\u10d0\u10e2\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612376
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b71497c9743e473a34783483748e95b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1293920033,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1293920033,
+    "wof:lastmodified":1537623112,
+    "wof:name":"Plate",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.67048,
+    41.69304,
+    42.67048,
+    41.69304
+],
+  "geometry": {"coordinates":[42.67048,41.69304],"type":"Point"}
+}

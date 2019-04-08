@@ -1,0 +1,67 @@
+{
+  "id": 1310423711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.26667,41.85,46.26667,41.85",
+    "geom:latitude":41.85,
+    "geom:longitude":46.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Vashlovani",
+    "gn:country_code":"GE",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":584739,
+    "gn:latitude":41.85,
+    "gn:longitude":46.26667,
+    "gn:modification_date":"1994-06-20",
+    "gn:name":"Vashlovani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":584739
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4f4ab0f82961a176f384e7e3109bb332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1310423711,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310423711,
+    "wof:lastmodified":1537033529,
+    "wof:name":"Vashlovani",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.26667,
+    41.85,
+    46.26667,
+    41.85
+],
+  "geometry": {"coordinates":[46.26667,41.85],"type":"Point"}
+}

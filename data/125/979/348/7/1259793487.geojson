@@ -1,0 +1,70 @@
+{
+  "id": 1259793487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.68238,42.39501,44.68238,42.39501",
+    "geom:latitude":42.39501,
+    "geom:longitude":44.68238,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Khevsha",
+    "gn:country_code":"GE",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800720,
+    "gn:latitude":42.39501,
+    "gn:longitude":44.68238,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Khevsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Khevsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800720
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2279a622b3d66c98fb11e093a8c4c068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1259793487,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1259793487,
+    "wof:lastmodified":1537623326,
+    "wof:name":"Khevsha",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.68238,
+    42.39501,
+    44.68238,
+    42.39501
+],
+  "geometry": {"coordinates":[44.68238,42.39501],"type":"Point"}
+}

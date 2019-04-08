@@ -1,0 +1,70 @@
+{
+  "id": 1260114585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49927,41.58248,44.49927,41.58248",
+    "geom:latitude":41.58248,
+    "geom:longitude":44.49927,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Khopisi",
+    "gn:country_code":"GE",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613899,
+    "gn:latitude":41.58248,
+    "gn:longitude":44.49927,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khopisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10de\u10d8\u10e1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613899
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"608b974780fb2a3325bc511191279ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1260114585,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1260114585,
+    "wof:lastmodified":1537623203,
+    "wof:name":"Khopisi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49927,
+    41.58248,
+    44.49927,
+    41.58248
+],
+  "geometry": {"coordinates":[44.49927,41.58248],"type":"Point"}
+}

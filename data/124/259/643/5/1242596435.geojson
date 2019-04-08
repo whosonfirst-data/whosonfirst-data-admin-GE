@@ -1,0 +1,73 @@
+{
+  "id": 1242596435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22417,42.155,43.22417,42.155",
+    "geom:latitude":42.155,
+    "geom:longitude":43.22417,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Shua Gezruli",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611941,
+    "gn:latitude":42.155,
+    "gn:longitude":43.22417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shua Gezruli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gezruli Sredniye",
+        "Sredniye Gezruli",
+        "Shua Gezruli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611941
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c3731ed08d8a78b9c71c059ca442adae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691263,
+            "locality_id":1242596435,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1242596435,
+    "wof:lastmodified":1537623089,
+    "wof:name":"Shua Gezruli",
+    "wof:parent_id":1108691263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22417,
+    42.155,
+    43.22417,
+    42.155
+],
+  "geometry": {"coordinates":[43.22417,42.155],"type":"Point"}
+}

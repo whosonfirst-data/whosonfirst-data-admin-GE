@@ -1,0 +1,73 @@
+{
+  "id": 1243068247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72425,41.70299,41.72425,41.70299",
+    "geom:latitude":41.70299,
+    "geom:longitude":41.72425,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sakhalvasho",
+    "gn:country_code":"GE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824409,
+    "gn:latitude":41.70299,
+    "gn:longitude":41.72425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sakhalvasho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Sakhalvasho"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10ee\u10d0\u10da\u10d5\u10d0\u10e8\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824409
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ede69b3f9b08be22e201972676512153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1243068247,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1243068247,
+    "wof:lastmodified":1537623337,
+    "wof:name":"Sakhalvasho",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72425,
+    41.70299,
+    41.72425,
+    41.70299
+],
+  "geometry": {"coordinates":[41.72425,41.70299],"type":"Point"}
+}

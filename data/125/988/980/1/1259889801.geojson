@@ -1,0 +1,77 @@
+{
+  "id": 1259889801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.35167,41.73722,45.35167,41.73722",
+    "geom:latitude":41.73722,
+    "geom:longitude":45.35167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Giorgitsminda",
+    "gn:country_code":"GE",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614523,
+    "gn:latitude":41.73722,
+    "gn:longitude":45.35167,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Giorgitsminda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Giorgitsminda"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d8\u10dd\u10e0\u10d2\u10d8\u10ec\u10db\u10d8\u10dc\u10d3\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Giorgitsmenda",
+        "Georgitsminda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614523
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"035bd543df1df70a202fd9eea0343e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1259889801,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1259889801,
+    "wof:lastmodified":1537623234,
+    "wof:name":"Giorgitsminda",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.35167,
+    41.73722,
+    45.35167,
+    41.73722
+],
+  "geometry": {"coordinates":[45.35167,41.73722],"type":"Point"}
+}

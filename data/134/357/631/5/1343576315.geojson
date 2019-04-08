@@ -1,0 +1,73 @@
+{
+  "id": 1343576315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.8746,42.11378,43.8746,42.11378",
+    "geom:latitude":42.11378,
+    "geom:longitude":43.8746,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Dirbi",
+    "gn:country_code":"GE",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614896,
+    "gn:latitude":42.11378,
+    "gn:longitude":43.8746,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dirbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dirbi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0440\u0431\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614896
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"00ef437addb9cb6f7e0015271dfcb334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1343576315,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1343576315,
+    "wof:lastmodified":1537623259,
+    "wof:name":"Dirbi",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.8746,
+    42.11378,
+    43.8746,
+    42.11378
+],
+  "geometry": {"coordinates":[43.8746,42.11378],"type":"Point"}
+}

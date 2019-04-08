@@ -1,0 +1,81 @@
+{
+  "id": 1343296059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89381,41.57826,43.89381,41.57826",
+    "geom:latitude":41.57826,
+    "geom:longitude":43.89381,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Nardevani",
+    "gn:country_code":"GE",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612751,
+    "gn:latitude":41.57826,
+    "gn:longitude":43.89381,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Nardevani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nardevani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10d3\u10d4\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0434\u0435\u0432\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Nardevan",
+        "Nadrevani",
+        "Nardevani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612751
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3a9e3717808cd14734b1230b48b5a22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691389,
+            "locality_id":1343296059,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1343296059,
+    "wof:lastmodified":1537623135,
+    "wof:name":"Nardevani",
+    "wof:parent_id":1108691389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89381,
+    41.57826,
+    43.89381,
+    41.57826
+],
+  "geometry": {"coordinates":[43.89381,41.57826],"type":"Point"}
+}

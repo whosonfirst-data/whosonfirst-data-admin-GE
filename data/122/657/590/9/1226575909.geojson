@@ -1,0 +1,70 @@
+{
+  "id": 1226575909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.8375,41.76583,41.8375,41.76583",
+    "geom:latitude":41.76583,
+    "geom:longitude":41.8375,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"K'virik'e",
+    "gn:country_code":"GE",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613371,
+    "gn:latitude":41.76583,
+    "gn:longitude":41.8375,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"K\u2019virik\u2019e",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019virik\u2019e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613371
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d2f3c5e02f7070e19f505b0f2963f9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1226575909,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1226575909,
+    "wof:lastmodified":1537623171,
+    "wof:name":"K'virik'e",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.8375,
+    41.76583,
+    41.8375,
+    41.76583
+],
+  "geometry": {"coordinates":[41.8375,41.76583],"type":"Point"}
+}

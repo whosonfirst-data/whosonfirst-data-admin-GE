@@ -1,0 +1,72 @@
+{
+  "id": 1293408341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.19806,42.55444,44.19806,42.55444",
+    "geom:latitude":42.55444,
+    "geom:longitude":44.19806,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvemo-Chelyat",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613484,
+    "gn:latitude":42.55444,
+    "gn:longitude":44.19806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kvemo-Chelyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhnyaya Cheliata",
+        "Kvemo-Chelyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613484
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"06edb699b5b772c56abe3bc77f9f509c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1293408341,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1293408341,
+    "wof:lastmodified":1537623179,
+    "wof:name":"Kvemo-Chelyat",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.19806,
+    42.55444,
+    44.19806,
+    42.55444
+],
+  "geometry": {"coordinates":[44.19806,42.55444],"type":"Point"}
+}

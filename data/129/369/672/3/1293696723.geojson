@@ -1,0 +1,77 @@
+{
+  "id": 1293696723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21956,41.9034,43.21956,41.9034",
+    "geom:latitude":41.9034,
+    "geom:longitude":43.21956,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Didi Sakhvlari",
+    "gn:country_code":"GE",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612188,
+    "gn:latitude":41.9034,
+    "gn:longitude":43.21956,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Didi Sakhvlari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Didi Sakhvlari"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10e1\u10d0\u10ee\u10d5\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Patara-Sakhvlari",
+        "Sakhulari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612188
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"77bbf8503736b37f38f635a6804f4228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1293696723,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1293696723,
+    "wof:lastmodified":1537623101,
+    "wof:name":"Didi Sakhvlari",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21956,
+    41.9034,
+    43.21956,
+    41.9034
+],
+  "geometry": {"coordinates":[43.21956,41.9034],"type":"Point"}
+}

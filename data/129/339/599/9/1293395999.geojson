@@ -1,0 +1,79 @@
+{
+  "id": 1293395999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65139,41.63333,41.65139,41.63333",
+    "geom:latitude":41.63333,
+    "geom:longitude":41.65139,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Peria",
+    "gn:country_code":"GE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614645,
+    "gn:latitude":41.63333,
+    "gn:longitude":41.65139,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Peria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Peria"
+    ],
+    "name:kat_x_variant":[
+        "\u10e4\u10d4\u10e0\u10d8\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Feria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614645
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f78486ad6a5243f7a3f2b662decdac4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691257,
+            "locality_id":1293395999,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1293395999,
+    "wof:lastmodified":1537623243,
+    "wof:name":"Peria",
+    "wof:parent_id":1108691257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65139,
+    41.63333,
+    41.65139,
+    41.63333
+],
+  "geometry": {"coordinates":[41.65139,41.63333],"type":"Point"}
+}

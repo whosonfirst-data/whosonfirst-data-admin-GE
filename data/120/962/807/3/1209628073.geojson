@@ -1,0 +1,70 @@
+{
+  "id": 1209628073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.76206,42.61118,41.76206,42.61118",
+    "geom:latitude":42.61118,
+    "geom:longitude":41.76206,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Makhunjia",
+    "gn:country_code":"GE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824175,
+    "gn:latitude":42.61118,
+    "gn:longitude":41.76206,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Makhunjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Makhunjia"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10ee\u10e3\u10dc\u10ef\u10d8\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Makhundzhia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824175
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dc3aadbc06abc2caafceed8c653889b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209628073
+        }
+    ],
+    "wof:id":1209628073,
+    "wof:lastmodified":1537623336,
+    "wof:name":"Makhunjia",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.76206,
+    42.61118,
+    41.76206,
+    42.61118
+],
+  "geometry": {"coordinates":[41.76206,42.61118],"type":"Point"}
+}

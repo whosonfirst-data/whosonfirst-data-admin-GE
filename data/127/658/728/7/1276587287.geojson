@@ -1,0 +1,70 @@
+{
+  "id": 1276587287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.13504,42.64458,42.13504,42.64458",
+    "geom:latitude":42.64458,
+    "geom:longitude":42.13504,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Lekharchile",
+    "gn:country_code":"GE",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824187,
+    "gn:latitude":42.64458,
+    "gn:longitude":42.13504,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Lekharchile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10ee\u10d0\u10e0\u10e9\u10d8\u10da\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824187
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"731987ad734b92a11491e26ed4a3d704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691387,
+            "locality_id":1276587287,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1276587287,
+    "wof:lastmodified":1537623336,
+    "wof:name":"Lekharchile",
+    "wof:parent_id":1108691387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.13504,
+    42.64458,
+    42.13504,
+    42.64458
+],
+  "geometry": {"coordinates":[42.13504,42.64458],"type":"Point"}
+}

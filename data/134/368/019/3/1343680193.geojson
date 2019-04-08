@@ -1,0 +1,71 @@
+{
+  "id": 1343680193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38532,41.45071,44.38532,41.45071",
+    "geom:latitude":41.45071,
+    "geom:longitude":44.38532,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karadashi",
+    "gn:country_code":"GE",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614149,
+    "gn:latitude":41.45071,
+    "gn:longitude":44.38532,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karadashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karadash",
+        "Karadashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614149
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4fe66cef7a6252492e3dc50421e19455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1343680193,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1343680193,
+    "wof:lastmodified":1537623216,
+    "wof:name":"Karadashi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38532,
+    41.45071,
+    44.38532,
+    41.45071
+],
+  "geometry": {"coordinates":[44.38532,41.45071],"type":"Point"}
+}

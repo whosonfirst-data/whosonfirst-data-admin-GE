@@ -1,0 +1,85 @@
+{
+  "id": 1310218199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.81575,42.57824,41.81575,42.57824",
+    "geom:latitude":42.57824,
+    "geom:longitude":41.81575,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ch'uburkhinji",
+    "gn:country_code":"GE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615088,
+    "gn:latitude":42.57824,
+    "gn:longitude":41.81575,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ch\u2019uburkhinji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chuburkhinji"
+    ],
+    "name:kat_x_preferred":[
+        "Ch\u2019uburkhinji"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10e3\u10d1\u10e3\u10e0\u10ee\u10d8\u10dc\u10ef\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0431\u0443\u0440\u0445\u0438\u043d\u0434\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tchuburkhinji",
+        "Chuburkhindzhi",
+        "Chuburis-Khindzhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615088,
+        "wk:page":"Chuburkhindji"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"978eb01f1ab278c1955ecd494d584b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1310218199,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1310218199,
+    "wof:lastmodified":1537623272,
+    "wof:name":"Ch'uburkhinji",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.81575,
+    42.57824,
+    41.81575,
+    42.57824
+],
+  "geometry": {"coordinates":[41.81575,42.57824],"type":"Point"}
+}

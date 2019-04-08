@@ -1,0 +1,97 @@
+{
+  "id": 890431111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76178,41.35272,44.76178,41.35272",
+    "geom:latitude":41.35272,
+    "geom:longitude":44.76178,
+    "gn:country":"GE",
+    "gn:fcode":"PPL",
+    "gn:pop":5238,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0547\u0561\u0570\u0578\u0582\u0574\u0575\u0561\u0576"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0433\u0445\u0432\u0430\u0440\u0435\u0432\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Shaumiani"
+    ],
+    "name:eng_x_preferred":[
+        "Naghvarevi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d0\u10e3\u10db\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30a6\u30df\u30a2\u30cb"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0627\u0647\u0648\u0645\u06cc\u0627\u0646\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0443\u043c\u044f\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Naghvarevi"
+    ],
+    "name:unk_x_variant":[
+        "Shulaveri"
+    ],
+    "qs:name":"Naghvarevi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612012,
+        "gp:id":1965682,
+        "qs:id":126084,
+        "wd:id":"Q3653114"
+    },
+    "wof:country":"GE",
+    "wof:created":1469051878,
+    "wof:geomhash":"fbbaad55cfa8694b3fd8e09c74f1215f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":890431111,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":890431111,
+    "wof:lastmodified":1514443608,
+    "wof:name":"Naghvarevi",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:population":5238,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76178,
+    41.35272,
+    44.76178,
+    41.35272
+],
+  "geometry": {"coordinates":[44.76178,41.35272],"type":"Point"}
+}

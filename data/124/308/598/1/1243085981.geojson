@@ -1,0 +1,79 @@
+{
+  "id": 1243085981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.98597,41.81458,45.98597,41.81458",
+    "geom:latitude":41.81458,
+    "geom:longitude":45.98597,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Leliani",
+    "gn:country_code":"GE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613241,
+    "gn:latitude":41.81458,
+    "gn:longitude":45.98597,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Leliani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Leliani"
+    ],
+    "name:kat_x_preferred":[
+        "Leliani"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d4\u10da\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043b\u0438\u0430\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613241
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3126e882a28dd868e031e4cdf6c16d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1243085981,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1243085981,
+    "wof:lastmodified":1537623164,
+    "wof:name":"Leliani",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.98597,
+    41.81458,
+    45.98597,
+    41.81458
+],
+  "geometry": {"coordinates":[45.98597,41.81458],"type":"Point"}
+}

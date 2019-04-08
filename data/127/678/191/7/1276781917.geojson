@@ -1,0 +1,67 @@
+{
+  "id": 1276781917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.89793,41.95667,44.89793,41.95667",
+    "geom:latitude":41.95667,
+    "geom:longitude":44.89793,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Balebiskhevi",
+    "gn:country_code":"GE",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615574,
+    "gn:latitude":41.95667,
+    "gn:longitude":44.89793,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Balebiskhevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615574
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e2e795d85d2d6b3b92239e42e55c1d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1276781917,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276781917,
+    "wof:lastmodified":1536674825,
+    "wof:name":"Balebiskhevi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.89793,
+    41.95667,
+    44.89793,
+    41.95667
+],
+  "geometry": {"coordinates":[44.89793,41.95667],"type":"Point"}
+}

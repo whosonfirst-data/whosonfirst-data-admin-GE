@@ -1,0 +1,67 @@
+{
+  "id": 1343373515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70976,42.15026,43.70976,42.15026",
+    "geom:latitude":42.15026,
+    "geom:longitude":43.70976,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsnelisi",
+    "gn:country_code":"GE",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611375,
+    "gn:latitude":42.15026,
+    "gn:longitude":43.70976,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Tsnelisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611375
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"66d6c70aa2e34a7bbc33bf21a675df79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1343373515,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1343373515,
+    "wof:lastmodified":1536870485,
+    "wof:name":"Tsnelisi",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70976,
+    42.15026,
+    43.70976,
+    42.15026
+],
+  "geometry": {"coordinates":[43.70976,42.15026],"type":"Point"}
+}

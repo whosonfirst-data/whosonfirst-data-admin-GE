@@ -1,0 +1,77 @@
+{
+  "id": 1310023793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53402,41.40075,44.53402,41.40075",
+    "geom:latitude":41.40075,
+    "geom:longitude":44.53402,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"K'vemo Bolnisi",
+    "gn:country_code":"GE",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613488,
+    "gn:latitude":41.40075,
+    "gn:longitude":44.53402,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u2019vemo Bolnisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'vemo Bolnisi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0435\u043c\u043e-\u0411\u043e\u043b\u043d\u0438\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bolnis-Kapanakhchi",
+        "K\u2019vemo Bolnisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613488
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f1cd92a8a56de04bbd8dc8ddde4d1604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1310023793,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310023793,
+    "wof:lastmodified":1537623180,
+    "wof:name":"K'vemo Bolnisi",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53402,
+    41.40075,
+    44.53402,
+    41.40075
+],
+  "geometry": {"coordinates":[44.53402,41.40075],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193030569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.7525,42.70528,41.7525,42.70528",
+    "geom:latitude":42.70528,
+    "geom:longitude":41.7525,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Samelano",
+    "gn:country_code":"GE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874236,
+    "gn:latitude":42.70528,
+    "gn:longitude":41.7525,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Samelano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874236
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2632b0fbfead7d4e6a1df5022dc36d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1193030569,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1193030569,
+    "wof:lastmodified":1536364538,
+    "wof:name":"Samelano",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.7525,
+    42.70528,
+    41.7525,
+    42.70528
+],
+  "geometry": {"coordinates":[41.7525,42.70528],"type":"Point"}
+}

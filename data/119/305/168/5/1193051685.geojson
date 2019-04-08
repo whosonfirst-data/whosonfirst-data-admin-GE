@@ -1,0 +1,78 @@
+{
+  "id": 1193051685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21771,41.30788,44.21771,41.30788",
+    "geom:latitude":41.30788,
+    "geom:longitude":44.21771,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Vake",
+    "gn:country_code":"GE",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611243,
+    "gn:latitude":41.30788,
+    "gn:longitude":44.21771,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Vake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d9\u10d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Karaklisi",
+        "Karaklis",
+        "Vake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611243
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"12bfc91156c71de8f5172d8a8ffb63b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1193051685,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1193051685,
+    "wof:lastmodified":1537623050,
+    "wof:name":"Vake",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21771,
+    41.30788,
+    44.21771,
+    41.30788
+],
+  "geometry": {"coordinates":[44.21771,41.30788],"type":"Point"}
+}

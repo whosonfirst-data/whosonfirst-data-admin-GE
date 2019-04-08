@@ -1,0 +1,82 @@
+{
+  "id": 1327368695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72791,42.37032,41.72791,42.37032",
+    "geom:latitude":42.37032,
+    "geom:longitude":41.72791,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Mogiri",
+    "gn:country_code":"GE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612937,
+    "gn:latitude":42.37032,
+    "gn:longitude":41.72791,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mogiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mogiri"
+    ],
+    "name:kat_x_preferred":[
+        "Mogiri"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10dd\u10d2\u10d8\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Magiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612937
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e4e2fdf8ebaf79cf968331f5a0e09089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691401,
+            "locality_id":1327368695,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1327368695,
+    "wof:lastmodified":1537623147,
+    "wof:name":"Mogiri",
+    "wof:parent_id":1108691401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72791,
+    42.37032,
+    41.72791,
+    42.37032
+],
+  "geometry": {"coordinates":[41.72791,42.37032],"type":"Point"}
+}

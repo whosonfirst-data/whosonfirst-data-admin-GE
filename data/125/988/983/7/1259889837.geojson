@@ -1,0 +1,82 @@
+{
+  "id": 1259889837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.89639,41.66542,45.89639,41.66542",
+    "geom:latitude":41.66542,
+    "geom:longitude":45.89639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Anaga",
+    "gn:country_code":"GE",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615762,
+    "gn:latitude":41.66542,
+    "gn:longitude":45.89639,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Anaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anaga"
+    ],
+    "name:kat_x_preferred":[
+        "Anaga"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10dc\u10d0\u10d2\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0430\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Agana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615762
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"19fb3fef2e15492150709c7c7ae1146b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691365,
+            "locality_id":1259889837,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1259889837,
+    "wof:lastmodified":1537623307,
+    "wof:name":"Anaga",
+    "wof:parent_id":1108691365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.89639,
+    41.66542000000001,
+    45.89639,
+    41.66542000000001
+],
+  "geometry": {"coordinates":[45.89639,41.66542000000001],"type":"Point"}
+}

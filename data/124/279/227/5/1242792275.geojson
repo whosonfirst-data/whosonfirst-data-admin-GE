@@ -1,0 +1,72 @@
+{
+  "id": 1242792275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7625,42.20417,44.7625,42.20417",
+    "geom:latitude":42.20417,
+    "geom:longitude":44.7625,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Sondisvela",
+    "gn:country_code":"GE",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611841,
+    "gn:latitude":42.20417,
+    "gn:longitude":44.7625,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Sondisvela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sondiyevela",
+        "Sondis-Veli",
+        "Sondisvela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611841
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eb268524b286f6e91d17de0d206a1125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1242792275,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1242792275,
+    "wof:lastmodified":1537623083,
+    "wof:name":"Sondisvela",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7625,
+    42.20417,
+    44.7625,
+    42.20417
+],
+  "geometry": {"coordinates":[44.7625,42.20417],"type":"Point"}
+}

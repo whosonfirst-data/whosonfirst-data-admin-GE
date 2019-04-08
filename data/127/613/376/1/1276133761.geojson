@@ -1,0 +1,77 @@
+{
+  "id": 1276133761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60805,41.96235,44.60805,41.96235",
+    "geom:latitude":41.96235,
+    "geom:longitude":44.60805,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Dzalisi",
+    "gn:country_code":"GE",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614833,
+    "gn:latitude":41.96235,
+    "gn:longitude":44.60805,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dzalisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzalisi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10eb\u10d0\u10da\u10d8\u10e1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0430\u043b\u0438\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614833,
+        "wk:page":"Dzalisi"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dc3a78b1546b7a6aabfc37674c30bf1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1276133761,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276133761,
+    "wof:lastmodified":1537623256,
+    "wof:name":"Dzalisi",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60805,
+    41.96235,
+    44.60805,
+    41.96235
+],
+  "geometry": {"coordinates":[44.60805,41.96235],"type":"Point"}
+}

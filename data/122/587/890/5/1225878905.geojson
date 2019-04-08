@@ -1,0 +1,76 @@
+{
+  "id": 1225878905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.13053,42.56467,42.13053,42.56467",
+    "geom:latitude":42.56467,
+    "geom:longitude":42.13053,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"K'urcha",
+    "gn:country_code":"GE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800799,
+    "gn:latitude":42.56467,
+    "gn:longitude":42.13053,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"K\u2019urcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "K\u2019urcha"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e3\u10e0\u10e9\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Skurche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800799
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a03925416065501efc5993f1f9cad1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691265,
+            "locality_id":1225878905,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1225878905,
+    "wof:lastmodified":1537623326,
+    "wof:name":"K'urcha",
+    "wof:parent_id":1108691265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.13053,
+    42.56467,
+    42.13053,
+    42.56467
+],
+  "geometry": {"coordinates":[42.13053,42.56467],"type":"Point"}
+}

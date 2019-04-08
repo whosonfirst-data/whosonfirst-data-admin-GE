@@ -1,0 +1,71 @@
+{
+  "id": 1243274243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.86515,42.05752,44.86515,42.05752",
+    "geom:latitude":42.05752,
+    "geom:longitude":44.86515,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Pichviani",
+    "gn:country_code":"GE",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612413,
+    "gn:latitude":42.05752,
+    "gn:longitude":44.86515,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Pichviani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pichviaki",
+        "Pichviani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612413
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3abb4ea84a310b89b21800920a4a77da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1243274243,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243274243,
+    "wof:lastmodified":1537623114,
+    "wof:name":"Pichviani",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.86515,
+    42.05752,
+    44.86515,
+    42.05752
+],
+  "geometry": {"coordinates":[44.86515,42.05752],"type":"Point"}
+}

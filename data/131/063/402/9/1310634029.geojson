@@ -1,0 +1,79 @@
+{
+  "id": 1310634029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.05972,41.63667,42.05972,41.63667",
+    "geom:latitude":41.63667,
+    "geom:longitude":42.05972,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tskhmorisi",
+    "gn:country_code":"GE",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611399,
+    "gn:latitude":41.63667,
+    "gn:longitude":42.05972,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tskhmorisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ts'khmorisi"
+    ],
+    "name:kat_x_preferred":[
+        "Tskhmorisi"
+    ],
+    "name:kat_x_variant":[
+        "\u10ea\u10ee\u10db\u10dd\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0445\u043c\u043e\u0440\u0438\u0441\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611399
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cba6b541ac3fa373bb85e06a578669fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1310634029,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1310634029,
+    "wof:lastmodified":1537623059,
+    "wof:name":"Tskhmorisi",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.05972,
+    41.63667,
+    42.05972,
+    41.63667
+],
+  "geometry": {"coordinates":[42.05972,41.63667],"type":"Point"}
+}

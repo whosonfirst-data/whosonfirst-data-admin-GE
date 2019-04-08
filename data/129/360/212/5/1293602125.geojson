@@ -1,0 +1,77 @@
+{
+  "id": 1293602125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.64327,42.64305,41.64327,42.64305",
+    "geom:latitude":42.64305,
+    "geom:longitude":41.64327,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Meore Shesheleti",
+    "gn:country_code":"GE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613004,
+    "gn:latitude":42.64305,
+    "gn:longitude":41.64327,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Meore Shesheleti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Meore Shesheleti"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10dd\u10e0\u10d4 \u10e8\u10d4\u10e8\u10d4\u10da\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Sheshleti",
+        "Shesheleti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613004
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a8de416bc07c2c43b66970d7d6c1dc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1293602125,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293602125,
+    "wof:lastmodified":1537623151,
+    "wof:name":"Meore Shesheleti",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.64327,
+    42.64305,
+    41.64327,
+    42.64305
+],
+  "geometry": {"coordinates":[41.64327,42.64305],"type":"Point"}
+}

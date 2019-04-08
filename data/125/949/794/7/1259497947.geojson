@@ -1,0 +1,67 @@
+{
+  "id": 1259497947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.40861,42.03028,44.40861,42.03028",
+    "geom:latitude":42.03028,
+    "geom:longitude":44.40861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pantiani",
+    "gn:country_code":"GE",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612517,
+    "gn:latitude":42.03028,
+    "gn:longitude":44.40861,
+    "gn:modification_date":"2004-05-27",
+    "gn:name":"Pantiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612517
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7feef7f68528621a6c1d61587a334591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1259497947,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1259497947,
+    "wof:lastmodified":1536836923,
+    "wof:name":"Pantiani",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.40861,
+    42.03028,
+    44.40861,
+    42.03028
+],
+  "geometry": {"coordinates":[44.40861,42.03028],"type":"Point"}
+}

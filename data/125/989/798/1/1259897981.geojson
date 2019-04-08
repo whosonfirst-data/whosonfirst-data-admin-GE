@@ -1,0 +1,73 @@
+{
+  "id": 1259897981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82397,41.4391,44.82397,41.4391",
+    "geom:latitude":41.4391,
+    "geom:longitude":44.82397,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tseret'eli",
+    "gn:country_code":"GE",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":825023,
+    "gn:latitude":41.4391,
+    "gn:longitude":44.82397,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Tseret\u2019eli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10e0\u10d4\u10d7\u10d4\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tseret\u2019eli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":825023
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"204f2ee9db4848f3ca07596409b80ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1259897981,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1259897981,
+    "wof:lastmodified":1537623339,
+    "wof:name":"Tseret'eli",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82397,
+    41.4391,
+    44.82397,
+    41.4391
+],
+  "geometry": {"coordinates":[44.82397,41.4391],"type":"Point"}
+}

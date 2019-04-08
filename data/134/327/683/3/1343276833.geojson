@@ -1,0 +1,71 @@
+{
+  "id": 1343276833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.46958,42.03972,44.46958,42.03972",
+    "geom:latitude":42.03972,
+    "geom:longitude":44.46958,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tvaurebi",
+    "gn:country_code":"GE",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611328,
+    "gn:latitude":42.03972,
+    "gn:longitude":44.46958,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tvaurebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tvaureti",
+        "Tvaurebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611328
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1639903e3cac028995d7d84e98c0043b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1343276833,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1343276833,
+    "wof:lastmodified":1537623055,
+    "wof:name":"Tvaurebi",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.46958,
+    42.03972,
+    44.46958,
+    42.03972
+],
+  "geometry": {"coordinates":[44.46958,42.03972],"type":"Point"}
+}

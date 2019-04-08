@@ -1,0 +1,70 @@
+{
+  "id": 1360120971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.76754,41.66464,44.76754,41.66464",
+    "geom:latitude":41.66464,
+    "geom:longitude":44.76754,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Shindisi",
+    "gn:country_code":"GE",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611986,
+    "gn:latitude":41.66464,
+    "gn:longitude":44.76754,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Shindisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10dc\u10d3\u10d8\u10e1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805945,
+        1108691371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611986
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"abf6aa091924697fc9463d624d0d8257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691371,
+            "locality_id":1360120971,
+            "region_id":1108805945
+        }
+    ],
+    "wof:id":1360120971,
+    "wof:lastmodified":1537623091,
+    "wof:name":"Shindisi",
+    "wof:parent_id":1108691371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76754,
+    41.66464000000001,
+    44.76754,
+    41.66464000000001
+],
+  "geometry": {"coordinates":[44.76754,41.66464000000001],"type":"Point"}
+}

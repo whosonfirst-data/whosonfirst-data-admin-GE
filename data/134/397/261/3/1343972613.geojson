@@ -1,0 +1,67 @@
+{
+  "id": 1343972613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42413,41.96915,45.42413,41.96915",
+    "geom:latitude":41.96915,
+    "geom:longitude":45.42413,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akhateli",
+    "gn:country_code":"GE",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615849,
+    "gn:latitude":41.96915,
+    "gn:longitude":45.42413,
+    "gn:modification_date":"2002-02-11",
+    "gn:name":"Akhateli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615849
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"239f65b38301ceddbdc43f055971a3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":1343972613,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1343972613,
+    "wof:lastmodified":1537001648,
+    "wof:name":"Akhateli",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42413,
+    41.96915,
+    45.42413,
+    41.96915
+],
+  "geometry": {"coordinates":[45.42413,41.96915],"type":"Point"}
+}

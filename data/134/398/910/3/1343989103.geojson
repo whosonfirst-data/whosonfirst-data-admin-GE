@@ -1,0 +1,81 @@
+{
+  "id": 1343989103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.84583,42.85542,42.84583,42.85542",
+    "geom:latitude":42.85542,
+    "geom:longitude":42.84583,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Mutsdi",
+    "gn:country_code":"GE",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612843,
+    "gn:latitude":42.85542,
+    "gn:longitude":42.84583,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Mutsdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mundi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10ea\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0446\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mulsdi",
+        "Mutsdi",
+        "Mundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612843
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3e3257f6664a8ada44f0fbfb33a37b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691329,
+            "locality_id":1343989103,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1343989103,
+    "wof:lastmodified":1537623142,
+    "wof:name":"Mutsdi",
+    "wof:parent_id":1108691329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.84583,
+    42.85542,
+    42.84583,
+    42.85542
+],
+  "geometry": {"coordinates":[42.84583,42.85542],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209120947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.04556,41.60472,44.04556,41.60472",
+    "geom:latitude":41.60472,
+    "geom:longitude":44.04556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sanamer",
+    "gn:country_code":"GE",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800060,
+    "gn:latitude":41.60472,
+    "gn:longitude":44.04556,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Sanamer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800060
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4ea2f8889f3472768d50353cd0e126d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209120947
+        }
+    ],
+    "wof:id":1209120947,
+    "wof:lastmodified":1536297100,
+    "wof:name":"Sanamer",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.04556,
+    41.60472,
+    44.04556,
+    41.60472
+],
+  "geometry": {"coordinates":[44.04556,41.60472],"type":"Point"}
+}

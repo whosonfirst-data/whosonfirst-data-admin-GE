@@ -1,0 +1,73 @@
+{
+  "id": 1293201159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.01677,41.56489,42.01677,41.56489",
+    "geom:latitude":41.56489,
+    "geom:longitude":42.01677,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ch'alati",
+    "gn:country_code":"GE",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866878,
+    "gn:latitude":41.56489,
+    "gn:longitude":42.01677,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ch\u2019alati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019alati"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d0\u10da\u10d0\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866878
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b3d55f46a5f32d3dc681f1da30656564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1293201159,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1293201159,
+    "wof:lastmodified":1537623356,
+    "wof:name":"Ch'alati",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.01677,
+    41.56489000000001,
+    42.01677,
+    41.56489000000001
+],
+  "geometry": {"coordinates":[42.01677,41.56489000000001],"type":"Point"}
+}

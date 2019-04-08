@@ -1,0 +1,70 @@
+{
+  "id": 1209546659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.97282,42.53527,41.97282,42.53527",
+    "geom:latitude":42.53527,
+    "geom:longitude":41.97282,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Grigolishi",
+    "gn:country_code":"GE",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614431,
+    "gn:latitude":42.53527,
+    "gn:longitude":41.97282,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Grigolishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Grigolishi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10e0\u10d8\u10d2\u10dd\u10da\u10d8\u10e8\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Gligolishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614431
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"754e673bfe2d2db961fa8933360360b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209546659
+        }
+    ],
+    "wof:id":1209546659,
+    "wof:lastmodified":1537623229,
+    "wof:name":"Grigolishi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.97282,
+    42.53527,
+    41.97282,
+    42.53527
+],
+  "geometry": {"coordinates":[41.97282,42.53527],"type":"Point"}
+}

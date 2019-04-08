@@ -1,0 +1,74 @@
+{
+  "id": 1209725787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.54963,41.99619,43.54963,41.99619",
+    "geom:latitude":41.99619,
+    "geom:longitude":43.54963,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Didi-Bekami",
+    "gn:country_code":"GE",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615501,
+    "gn:latitude":41.99619,
+    "gn:longitude":43.54963,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Didi-Bekami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10d1\u10d4\u10d9\u10d0\u10db\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Bekami",
+        "Didi-Bekami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615501
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"37d53259f90ca87bcba8d1b64f45ce31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691305,
+            "locality_id":1209725787,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1209725787,
+    "wof:lastmodified":1537623293,
+    "wof:name":"Didi-Bekami",
+    "wof:parent_id":1108691305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.54963,
+    41.99619000000001,
+    43.54963,
+    41.99619000000001
+],
+  "geometry": {"coordinates":[43.54963,41.99619000000001],"type":"Point"}
+}

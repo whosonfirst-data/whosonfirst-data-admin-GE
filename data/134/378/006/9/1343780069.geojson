@@ -1,0 +1,73 @@
+{
+  "id": 1343780069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81361,42.3075,42.81361,42.3075",
+    "geom:latitude":42.3075,
+    "geom:longitude":42.81361,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kursebi",
+    "gn:country_code":"GE",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800960,
+    "gn:latitude":42.3075,
+    "gn:longitude":42.81361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kursebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kursebi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0441\u0435\u0431\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800960
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"aec8cbada4383f8285a42ab939db89fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691383,
+            "locality_id":1343780069,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1343780069,
+    "wof:lastmodified":1537623327,
+    "wof:name":"Kursebi",
+    "wof:parent_id":1108691383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81361,
+    42.3075,
+    42.81361,
+    42.3075
+],
+  "geometry": {"coordinates":[42.81361,42.3075],"type":"Point"}
+}

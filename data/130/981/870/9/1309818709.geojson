@@ -1,0 +1,77 @@
+{
+  "id": 1309818709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.01789,42.14071,45.01789,42.14071",
+    "geom:latitude":42.14071,
+    "geom:longitude":45.01789,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ch'abano",
+    "gn:country_code":"GE",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615317,
+    "gn:latitude":42.14071,
+    "gn:longitude":45.01789,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ch\u2019abano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ch'abano"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0431\u0430\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chobano",
+        "Ch\u2019abano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615317
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b6e44b98453151d53686998690c49eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1309818709,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1309818709,
+    "wof:lastmodified":1537623284,
+    "wof:name":"Ch'abano",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.01789,
+    42.14071,
+    45.01789,
+    42.14071
+],
+  "geometry": {"coordinates":[45.01789,42.14071],"type":"Point"}
+}

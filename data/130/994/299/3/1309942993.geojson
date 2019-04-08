@@ -1,0 +1,70 @@
+{
+  "id": 1309942993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.86877,42.58928,42.86877,42.58928",
+    "geom:latitude":42.58928,
+    "geom:longitude":42.86877,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Surmushi",
+    "gn:country_code":"GE",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611805,
+    "gn:latitude":42.58928,
+    "gn:longitude":42.86877,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Surmushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10e0\u10db\u10e3\u10e8\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611805
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"674f8be80273c73632aca2d7410b01cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691385,
+            "locality_id":1309942993,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1309942993,
+    "wof:lastmodified":1537623082,
+    "wof:name":"Surmushi",
+    "wof:parent_id":1108691385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.86877,
+    42.58928,
+    42.86877,
+    42.58928
+],
+  "geometry": {"coordinates":[42.86877,42.58928],"type":"Point"}
+}

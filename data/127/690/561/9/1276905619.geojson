@@ -1,0 +1,70 @@
+{
+  "id": 1276905619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29889,41.98103,45.29889,41.98103",
+    "geom:latitude":41.98103,
+    "geom:longitude":45.29889,
+    "gn:admin1_code":"67",
+    "gn:asciiname":"Akhshnisvelebi",
+    "gn:country_code":"GE",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615838,
+    "gn:latitude":41.98103,
+    "gn:longitude":45.29889,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Akhshnisvelebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10e8\u10dc\u10d8\u10e1\u10d5\u10d4\u10da\u10d4\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615838
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"389971447e64a5c2cf7c30bc2dedd50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1276905619,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1276905619,
+    "wof:lastmodified":1537623312,
+    "wof:name":"Akhshnisvelebi",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29889,
+    41.98103,
+    45.29889,
+    41.98103
+],
+  "geometry": {"coordinates":[45.29889,41.98103],"type":"Point"}
+}

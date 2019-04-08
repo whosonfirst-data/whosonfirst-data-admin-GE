@@ -1,0 +1,74 @@
+{
+  "id": 1243009793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.08264,41.93147,45.08264,41.93147",
+    "geom:latitude":41.93147,
+    "geom:longitude":45.08264,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Qudro",
+    "gn:country_code":"GE",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613646,
+    "gn:latitude":41.93147,
+    "gn:longitude":45.08264,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Qudro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10d3\u10e0\u10dd"
+    ],
+    "name:und_x_variant":[
+        "Kudro",
+        "Qudro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613646
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d51a924042a4a191e4221a4918b96969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1243009793,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243009793,
+    "wof:lastmodified":1537623191,
+    "wof:name":"Qudro",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.08264000000001,
+    41.93147,
+    45.08264000000001,
+    41.93147
+],
+  "geometry": {"coordinates":[45.08264000000001,41.93147],"type":"Point"}
+}

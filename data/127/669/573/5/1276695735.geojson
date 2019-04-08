@@ -1,0 +1,70 @@
+{
+  "id": 1276695735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.92601,42.04252,42.92601,42.04252",
+    "geom:latitude":42.04252,
+    "geom:longitude":42.92601,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Zeda Zegani",
+    "gn:country_code":"GE",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611016,
+    "gn:latitude":42.04252,
+    "gn:longitude":42.92601,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zeda Zegani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10d3\u10d0 \u10d6\u10d4\u10d2\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611016
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6e5db6bac02a4c43d7e2b9c1fc98e5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691255,
+            "locality_id":1276695735,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1276695735,
+    "wof:lastmodified":1537623036,
+    "wof:name":"Zeda Zegani",
+    "wof:parent_id":1108691255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.92601,
+    42.04252,
+    42.92601,
+    42.04252
+],
+  "geometry": {"coordinates":[42.92601,42.04252],"type":"Point"}
+}

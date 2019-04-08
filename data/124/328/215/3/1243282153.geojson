@@ -1,0 +1,70 @@
+{
+  "id": 1243282153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.52744,42.32752,44.52744,42.32752",
+    "geom:latitude":42.32752,
+    "geom:longitude":44.52744,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ch'itiani",
+    "gn:country_code":"GE",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615161,
+    "gn:latitude":42.32752,
+    "gn:longitude":44.52744,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ch\u2019itiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019itiani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615161
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"65ac047e3596b240915c2f2dbc2e3824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1243282153,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243282153,
+    "wof:lastmodified":1537623276,
+    "wof:name":"Ch'itiani",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.52744000000001,
+    42.32752,
+    44.52744000000001,
+    42.32752
+],
+  "geometry": {"coordinates":[44.52744000000001,42.32752],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343377057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.06861,41.575,45.06861,41.575",
+    "geom:latitude":41.575,
+    "geom:longitude":45.06861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akhali Samgori",
+    "gn:country_code":"GE",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615898,
+    "gn:latitude":41.575,
+    "gn:longitude":45.06861,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Akhali Samgori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Axali-Samqori"
+    ],
+    "name:eng_x_preferred":[
+        "Akhali Samgori"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0438-\u0421\u0430\u043c\u0433\u043e\u0440\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615898
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"472eb15bc15e80a98550ea2083ec504f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691281,
+            "locality_id":1343377057,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1343377057,
+    "wof:lastmodified":1537623315,
+    "wof:name":"Akhali Samgori",
+    "wof:parent_id":1108691281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.06861,
+    41.575,
+    45.06861,
+    41.575
+],
+  "geometry": {"coordinates":[45.06861,41.575],"type":"Point"}
+}

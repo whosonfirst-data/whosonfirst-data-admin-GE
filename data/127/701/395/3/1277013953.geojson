@@ -1,0 +1,68 @@
+{
+  "id": 1277013953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64205,42.51278,43.64205,42.51278",
+    "geom:latitude":42.51278,
+    "geom:longitude":43.64205,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Sheubani",
+    "gn:country_code":"GE",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611994,
+    "gn:latitude":42.51278,
+    "gn:longitude":43.64205,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Sheubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611994,
+        "wk:page":"Sheubani"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"39161ac365d0ac02b06ee16363b18774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691345,
+            "locality_id":1277013953,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1277013953,
+    "wof:lastmodified":1537562994,
+    "wof:name":"Sheubani",
+    "wof:parent_id":1108691345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64205,
+    42.51278,
+    43.64205,
+    42.51278
+],
+  "geometry": {"coordinates":[43.64205,42.51278],"type":"Point"}
+}

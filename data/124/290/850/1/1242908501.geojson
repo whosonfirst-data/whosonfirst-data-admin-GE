@@ -1,0 +1,73 @@
+{
+  "id": 1242908501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81901,43.00993,42.81901,43.00993",
+    "geom:latitude":43.00993,
+    "geom:longitude":42.81901,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Nak'ipari",
+    "gn:country_code":"GE",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612780,
+    "gn:latitude":43.00993,
+    "gn:longitude":42.81901,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Nak\u2019ipari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Nak\u2019ipari"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d0\u10d9\u10d8\u10e4\u10d0\u10e0\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612780
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"687a9e30c1609a130e9c94377b891ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1242908501,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1242908501,
+    "wof:lastmodified":1537623137,
+    "wof:name":"Nak'ipari",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81901,
+    43.00993,
+    42.81901,
+    43.00993
+],
+  "geometry": {"coordinates":[42.81901,43.00993],"type":"Point"}
+}

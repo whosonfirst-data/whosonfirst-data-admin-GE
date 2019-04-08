@@ -1,0 +1,73 @@
+{
+  "id": 1293015947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40649,42.31878,43.40649,42.31878",
+    "geom:latitude":42.31878,
+    "geom:longitude":43.40649,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Sairkhe",
+    "gn:country_code":"GE",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800337,
+    "gn:latitude":42.31878,
+    "gn:longitude":43.40649,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sairkhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sairkhe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0438\u0440\u0445\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800337
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b3ffccc2189a1d90a8cf826a9555512b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691353,
+            "locality_id":1293015947,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1293015947,
+    "wof:lastmodified":1537623325,
+    "wof:name":"Sairkhe",
+    "wof:parent_id":1108691353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40649000000001,
+    42.31878,
+    43.40649000000001,
+    42.31878
+],
+  "geometry": {"coordinates":[43.40649000000001,42.31878],"type":"Point"}
+}

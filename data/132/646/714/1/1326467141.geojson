@@ -1,0 +1,82 @@
+{
+  "id": 1326467141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.88315,41.94226,41.88315,41.94226",
+    "geom:latitude":41.94226,
+    "geom:longitude":41.88315,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Meria",
+    "gn:country_code":"GE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612995,
+    "gn:latitude":41.94226,
+    "gn:longitude":41.88315,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Meria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meria"
+    ],
+    "name:kat_x_preferred":[
+        "Meria"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10e0\u10d8\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Maria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612995
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"91b7cd889b1bd58ef08be288df5b257f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1326467141,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1326467141,
+    "wof:lastmodified":1537623150,
+    "wof:name":"Meria",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.88315,
+    41.94226,
+    41.88315,
+    41.94226
+],
+  "geometry": {"coordinates":[41.88315,41.94226],"type":"Point"}
+}

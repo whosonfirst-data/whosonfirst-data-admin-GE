@@ -1,0 +1,71 @@
+{
+  "id": 1209136579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.75152,41.96886,43.75152,41.96886",
+    "geom:latitude":41.96886,
+    "geom:longitude":43.75152,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Didi-Keleti",
+    "gn:country_code":"GE",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614944,
+    "gn:latitude":41.96886,
+    "gn:longitude":43.75152,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Didi-Keleti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Didi Q\u2019eleti"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10e7\u10d4\u10da\u10d4\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Keleti",
+        "Didi-Keleti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614944
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"35cf38e71b05ce7a55ca815ae2bd4f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209136579
+        }
+    ],
+    "wof:id":1209136579,
+    "wof:lastmodified":1537623262,
+    "wof:name":"Didi-Keleti",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.75152,
+    41.96886,
+    43.75152,
+    41.96886
+],
+  "geometry": {"coordinates":[43.75152,41.96886],"type":"Point"}
+}

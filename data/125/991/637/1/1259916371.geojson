@@ -1,0 +1,73 @@
+{
+  "id": 1259916371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04366,41.70827,43.04366,41.70827",
+    "geom:latitude":41.70827,
+    "geom:longitude":43.04366,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Shurdo",
+    "gn:country_code":"GE",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611908,
+    "gn:latitude":41.70827,
+    "gn:longitude":43.04366,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shurdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Shurdo"
+    ],
+    "name:kat_x_variant":[
+        "\u10e8\u10e3\u10e0\u10d3\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611908
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ae1ac8243600281d2490dd954de8abf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691245,
+            "locality_id":1259916371,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1259916371,
+    "wof:lastmodified":1537623087,
+    "wof:name":"Shurdo",
+    "wof:parent_id":1108691245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04366,
+    41.70827,
+    43.04366,
+    41.70827
+],
+  "geometry": {"coordinates":[43.04366,41.70827],"type":"Point"}
+}

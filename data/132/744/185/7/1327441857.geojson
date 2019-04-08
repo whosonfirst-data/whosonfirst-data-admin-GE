@@ -1,0 +1,73 @@
+{
+  "id": 1327441857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12619,42.01412,44.12619,42.01412",
+    "geom:latitude":42.01412,
+    "geom:longitude":44.12619,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Berbuki",
+    "gn:country_code":"GE",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615489,
+    "gn:latitude":42.01412,
+    "gn:longitude":44.12619,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Berbuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Berbuki"
+    ],
+    "name:und_x_variant":[
+        "Bebuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615489
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8d398b42706fcf7a6a8ce2e545e35a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1327441857,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1327441857,
+    "wof:lastmodified":1537623292,
+    "wof:name":"Berbuki",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12619,
+    42.01412,
+    44.12619,
+    42.01412
+],
+  "geometry": {"coordinates":[44.12619,42.01412],"type":"Point"}
+}

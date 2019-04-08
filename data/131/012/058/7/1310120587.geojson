@@ -1,0 +1,72 @@
+{
+  "id": 1310120587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.89903,42.26041,43.89903,42.26041",
+    "geom:latitude":42.26041,
+    "geom:longitude":43.89903,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvemo-Dodoti",
+    "gn:country_code":"GE",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613480,
+    "gn:latitude":42.26041,
+    "gn:longitude":43.89903,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kvemo-Dodoti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dallag-Dodot",
+        "Nizhniye Dodoti",
+        "Kvemo-Dodoti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613480
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dcce60464e6d35c6bfaa12c47af1abd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1310120587,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310120587,
+    "wof:lastmodified":1537623179,
+    "wof:name":"Kvemo-Dodoti",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.89903,
+    42.26041,
+    43.89903,
+    42.26041
+],
+  "geometry": {"coordinates":[43.89903,42.26041],"type":"Point"}
+}

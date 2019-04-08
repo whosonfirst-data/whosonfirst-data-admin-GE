@@ -1,0 +1,70 @@
+{
+  "id": 1209114887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.68532,43.19806,40.68532,43.19806",
+    "geom:latitude":43.19806,
+    "geom:longitude":40.68532,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzibziri",
+    "gn:country_code":"GE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823878,
+    "gn:latitude":43.19806,
+    "gn:longitude":40.68532,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dzibziri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10eb\u10d8\u10d1\u10d6\u10d8\u10e0\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Dzibziri"
+    ],
+    "name:und_x_variant":[
+        "Dzybzyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823878
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b972aabba162e363e85ec55d6a554e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209114887
+        }
+    ],
+    "wof:id":1209114887,
+    "wof:lastmodified":1537623329,
+    "wof:name":"Dzibziri",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.68532,
+    43.19806,
+    40.68532,
+    43.19806
+],
+  "geometry": {"coordinates":[40.68532,43.19806],"type":"Point"}
+}

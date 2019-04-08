@@ -1,0 +1,76 @@
+{
+  "id": 1276556649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.27673,43.05188,41.27673,43.05188",
+    "geom:latitude":43.05188,
+    "geom:longitude":41.27673,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ach'andara",
+    "gn:country_code":"GE",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615991,
+    "gn:latitude":43.05188,
+    "gn:longitude":41.27673,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Ach\u2019andara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10ed\u10d0\u10dc\u10d3\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Ach\u2019andara"
+    ],
+    "name:und_x_variant":[
+        "Kavakluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615991
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"991968db40e3fdab5e32998b4941560d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1276556649,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276556649,
+    "wof:lastmodified":1537623321,
+    "wof:name":"Ach'andara",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.27673,
+    43.05188,
+    41.27673,
+    43.05188
+],
+  "geometry": {"coordinates":[41.27673,43.05188],"type":"Point"}
+}

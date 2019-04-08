@@ -1,0 +1,73 @@
+{
+  "id": 1242790471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.10957,43.51729,40.10957,43.51729",
+    "geom:latitude":43.51729,
+    "geom:longitude":40.10957,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chanchkeri",
+    "gn:country_code":"GE",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7053268,
+    "gn:latitude":43.51729,
+    "gn:longitude":40.10957,
+    "gn:modification_date":"2014-02-12",
+    "gn:name":"Chanchkeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10e9\u10e5\u10d4\u10e0\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Chanchkeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7053268
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8a73c3c4b453c424a796c791004921da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1242790471,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1242790471,
+    "wof:lastmodified":1537623352,
+    "wof:name":"Chanchkeri",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.10957,
+    43.51729,
+    40.10957,
+    43.51729
+],
+  "geometry": {"coordinates":[40.10957,43.51729],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226366729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31667,41.66667,42.31667,41.66667",
+    "geom:latitude":41.66667,
+    "geom:longitude":42.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Okruashvilebi",
+    "gn:country_code":"GE",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612619,
+    "gn:latitude":41.66667,
+    "gn:longitude":42.31667,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Okruashvilebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Okruashvilebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10dd\u10e5\u10e0\u10e3\u10d0\u10e8\u10d5\u10d8\u10da\u10d4\u10d1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612619
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1dfa001d352f6a0664ee4a9210f48324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1226366729,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1226366729,
+    "wof:lastmodified":1537623127,
+    "wof:name":"Okruashvilebi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31667,
+    41.66667,
+    42.31667,
+    41.66667
+],
+  "geometry": {"coordinates":[42.31667,41.66667],"type":"Point"}
+}

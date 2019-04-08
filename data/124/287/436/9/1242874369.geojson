@@ -1,0 +1,79 @@
+{
+  "id": 1242874369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.61278,41.60339,41.61278,41.60339",
+    "geom:latitude":41.60339,
+    "geom:longitude":41.61278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mejinists'q'ali",
+    "gn:country_code":"GE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824709,
+    "gn:latitude":41.60339,
+    "gn:longitude":41.61278,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Mejinists\u2019q\u2019ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Mejinists\u2019q\u2019ali"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10ef\u10d8\u10dc\u10d8\u10e1\u10ec\u10e7\u10d0\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0436\u0438\u043d\u0438\u0441\u0446\u043a\u0430\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Medzhinistskali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824709
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"72b15c49656f064ba561e4d371a95112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1242874369,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1242874369,
+    "wof:lastmodified":1537623338,
+    "wof:name":"Mejinists'q'ali",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.61278,
+    41.60339000000001,
+    41.61278,
+    41.60339000000001
+],
+  "geometry": {"coordinates":[41.61278,41.60339000000001],"type":"Point"}
+}

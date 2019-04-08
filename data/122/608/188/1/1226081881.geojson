@@ -1,0 +1,70 @@
+{
+  "id": 1226081881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.35193,41.34403,44.35193,41.34403",
+    "geom:latitude":41.34403,
+    "geom:longitude":44.35193,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Vardisubani",
+    "gn:country_code":"GE",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611208,
+    "gn:latitude":41.34403,
+    "gn:longitude":44.35193,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Vardisubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e0\u10d3\u10d8\u10e1\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611208
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dc26d8d47335f5d6ba33e739f8ca2bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1226081881,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1226081881,
+    "wof:lastmodified":1537623048,
+    "wof:name":"Vardisubani",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.35193,
+    41.34403,
+    44.35193,
+    41.34403
+],
+  "geometry": {"coordinates":[44.35193,41.34403],"type":"Point"}
+}

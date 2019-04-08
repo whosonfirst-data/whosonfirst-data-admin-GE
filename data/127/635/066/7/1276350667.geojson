@@ -1,0 +1,67 @@
+{
+  "id": 1276350667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2107,42.07169,43.2107,42.07169",
+    "geom:latitude":42.07169,
+    "geom:longitude":43.2107,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khoriti",
+    "gn:country_code":"GE",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613892,
+    "gn:latitude":42.07169,
+    "gn:longitude":43.2107,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Khoriti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613892
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"434f86d64db95c6ad045016cdcef5db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1276350667,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1276350667,
+    "wof:lastmodified":1536755265,
+    "wof:name":"Khoriti",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2107,
+    42.07169,
+    43.2107,
+    42.07169
+],
+  "geometry": {"coordinates":[43.2107,42.07169],"type":"Point"}
+}

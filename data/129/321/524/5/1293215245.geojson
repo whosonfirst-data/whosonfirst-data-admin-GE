@@ -1,0 +1,67 @@
+{
+  "id": 1293215245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.02374,42.27833,44.02374,42.27833",
+    "geom:latitude":42.27833,
+    "geom:longitude":44.02374,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sarabu",
+    "gn:country_code":"GE",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800552,
+    "gn:latitude":42.27833,
+    "gn:longitude":44.02374,
+    "gn:modification_date":"1996-03-06",
+    "gn:name":"Sarabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800552
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bfa94d4bed432468435dd06356dfce26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1293215245,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1293215245,
+    "wof:lastmodified":1536682369,
+    "wof:name":"Sarabu",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.02374,
+    42.27833,
+    44.02374,
+    42.27833
+],
+  "geometry": {"coordinates":[44.02374,42.27833],"type":"Point"}
+}

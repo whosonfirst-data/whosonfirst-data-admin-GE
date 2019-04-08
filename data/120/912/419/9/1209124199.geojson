@@ -1,0 +1,61 @@
+{
+  "id": 1209124199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45639,42.13528,43.45639,42.13528",
+    "geom:latitude":42.13528,
+    "geom:longitude":43.45639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mokhveuli",
+    "gn:country_code":"GE",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800382,
+    "gn:latitude":42.13528,
+    "gn:longitude":43.45639,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Mokhveuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800382
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3f8bf1e396f0908424a3d2e57ba400af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209124199
+        }
+    ],
+    "wof:id":1209124199,
+    "wof:lastmodified":1536297006,
+    "wof:name":"Mokhveuli",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45639,
+    42.13528,
+    43.45639,
+    42.13528
+],
+  "geometry": {"coordinates":[43.45639,42.13528],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293213233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.52056,42.74611,41.52056,42.74611",
+    "geom:latitude":42.74611,
+    "geom:longitude":41.52056,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abzhaaptra",
+    "gn:country_code":"GE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615995,
+    "gn:latitude":42.74611,
+    "gn:longitude":41.52056,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Abzhaaptra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10df\u10d0\u10d0\u10e4\u10d7\u10e0\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Abzhabtra",
+        "Abzhaaptra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615995
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1f4fd59945595b729d0313ba355b0144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1293213233,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293213233,
+    "wof:lastmodified":1537623321,
+    "wof:name":"Abzhaaptra",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.52056,
+    42.74611,
+    41.52056,
+    42.74611
+],
+  "geometry": {"coordinates":[41.52056,42.74611],"type":"Point"}
+}

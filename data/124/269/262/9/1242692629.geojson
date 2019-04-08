@@ -1,0 +1,67 @@
+{
+  "id": 1242692629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.57511,42.608,44.57511,42.608",
+    "geom:latitude":42.608,
+    "geom:longitude":44.57511,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Tkarsheti",
+    "gn:country_code":"GE",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611650,
+    "gn:latitude":42.608,
+    "gn:longitude":44.57511,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tkarsheti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611650
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"802591aa3c349a50ee2bc6af9577743a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691299,
+            "locality_id":1242692629,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1242692629,
+    "wof:lastmodified":1536897935,
+    "wof:name":"Tkarsheti",
+    "wof:parent_id":1108691299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.57511,
+    42.608,
+    44.57511,
+    42.608
+],
+  "geometry": {"coordinates":[44.57511,42.608],"type":"Point"}
+}

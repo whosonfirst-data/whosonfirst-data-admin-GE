@@ -1,0 +1,76 @@
+{
+  "id": 1276660343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79704,43.10301,40.79704,43.10301",
+    "geom:latitude":43.10301,
+    "geom:longitude":40.79704,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chabanlugi",
+    "gn:country_code":"GE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615124,
+    "gn:latitude":43.10301,
+    "gn:longitude":40.79704,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Chabanlugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10d1\u10d0\u10dc\u10da\u10e3\u10d2\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Chabanlugi"
+    ],
+    "name:und_x_variant":[
+        "Chobanluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615124
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c904896f1eac13f4690c2a9e7ab7d9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1276660343,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276660343,
+    "wof:lastmodified":1537623274,
+    "wof:name":"Chabanlugi",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79704,
+    43.10301,
+    40.79704,
+    43.10301
+],
+  "geometry": {"coordinates":[40.79704,43.10301],"type":"Point"}
+}

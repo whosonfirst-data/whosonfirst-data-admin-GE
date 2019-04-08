@@ -1,0 +1,64 @@
+{
+  "id": 1209621323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.08333,41.95,42.08333,41.95",
+    "geom:latitude":41.95,
+    "geom:longitude":42.08333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shua-Bakhvi",
+    "gn:country_code":"GE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611946,
+    "gn:latitude":41.95,
+    "gn:longitude":42.08333,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Shua-Bakhvi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Shua-Bakhvi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611946
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8c264d424a9239278137ee08e67ed8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209621323
+        }
+    ],
+    "wof:id":1209621323,
+    "wof:lastmodified":1537623089,
+    "wof:name":"Shua-Bakhvi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.08333,
+    41.95,
+    42.08333,
+    41.95
+],
+  "geometry": {"coordinates":[42.08333,41.95],"type":"Point"}
+}

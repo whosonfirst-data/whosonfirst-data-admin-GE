@@ -1,0 +1,67 @@
+{
+  "id": 1226762295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9225,42.58,41.9225,42.58",
+    "geom:latitude":42.58,
+    "geom:longitude":41.9225,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lechitine",
+    "gn:country_code":"GE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":798786,
+    "gn:latitude":42.58,
+    "gn:longitude":41.9225,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Lechitine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":798786
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"608dc845aa72242de445b88795273927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691401,
+            "locality_id":1226762295,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226762295,
+    "wof:lastmodified":1536691810,
+    "wof:name":"Lechitine",
+    "wof:parent_id":1108691401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9225,
+    42.58,
+    41.9225,
+    42.58
+],
+  "geometry": {"coordinates":[41.9225,42.58],"type":"Point"}
+}

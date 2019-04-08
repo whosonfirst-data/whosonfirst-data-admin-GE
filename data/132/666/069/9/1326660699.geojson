@@ -1,0 +1,80 @@
+{
+  "id": 1326660699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.80204,41.96049,43.80204,41.96049",
+    "geom:latitude":41.96049,
+    "geom:longitude":43.80204,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Zghuderi",
+    "gn:country_code":"GE",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610861,
+    "gn:latitude":41.96049,
+    "gn:longitude":43.80204,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zghuderi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zghuderi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e6\u10e3\u10d3\u10d4\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0433\u0443\u0434\u0435\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zguderi",
+        "Zghuderi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610861
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fb8b21be3836bef8a4dc14ab1c07e52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1326660699,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1326660699,
+    "wof:lastmodified":1537623023,
+    "wof:name":"Zghuderi",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.80204000000001,
+    41.96049,
+    43.80204000000001,
+    41.96049
+],
+  "geometry": {"coordinates":[43.80204000000001,41.96049],"type":"Point"}
+}

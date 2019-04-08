@@ -1,0 +1,72 @@
+{
+  "id": 1209733685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.60632,42.85724,41.60632,42.85724",
+    "geom:latitude":42.85724,
+    "geom:longitude":41.60632,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Padgu",
+    "gn:country_code":"GE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614359,
+    "gn:latitude":42.85724,
+    "gn:longitude":41.60632,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Padgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gup-Padlu",
+        "Padlu",
+        "Padgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614359
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e6c1e78caf093bac8c20903e91da851c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1209733685,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1209733685,
+    "wof:lastmodified":1537623226,
+    "wof:name":"Padgu",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.60632,
+    42.85724,
+    41.60632,
+    42.85724
+],
+  "geometry": {"coordinates":[41.60632,42.85724],"type":"Point"}
+}

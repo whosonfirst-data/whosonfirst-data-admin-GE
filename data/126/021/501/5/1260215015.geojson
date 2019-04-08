@@ -1,0 +1,79 @@
+{
+  "id": 1260215015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.742,41.61865,44.742,41.61865",
+    "geom:latitude":41.61865,
+    "geom:longitude":44.742,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Vashlovani",
+    "gn:country_code":"GE",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611187,
+    "gn:latitude":41.61865,
+    "gn:longitude":44.742,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Vashlovani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Vashlovani"
+    ],
+    "name:kat_x_variant":[
+        "\u10d5\u10d0\u10e8\u10da\u10dd\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0448\u043b\u043e\u0432\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vashlavani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611187
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc8eb34b91173dce2da88c65bc92463f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691281,
+            "locality_id":1260215015,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1260215015,
+    "wof:lastmodified":1537623047,
+    "wof:name":"Vashlovani",
+    "wof:parent_id":1108691281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.742,
+    41.61865,
+    44.742,
+    41.61865
+],
+  "geometry": {"coordinates":[44.742,41.61865],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310615943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58955,42.60709,44.58955,42.60709",
+    "geom:latitude":42.60709,
+    "geom:longitude":44.58955,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Garbani",
+    "gn:country_code":"GE",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614577,
+    "gn:latitude":42.60709,
+    "gn:longitude":44.58955,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Garbani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Garbani"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d0\u10e0\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614577
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"3c19caa2f041dca310d25df27446ddb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691299,
+            "locality_id":1310615943,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310615943,
+    "wof:lastmodified":1537623238,
+    "wof:name":"Garbani",
+    "wof:parent_id":1108691299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58955,
+    42.60709,
+    44.58955,
+    42.60709
+],
+  "geometry": {"coordinates":[44.58955,42.60709],"type":"Point"}
+}

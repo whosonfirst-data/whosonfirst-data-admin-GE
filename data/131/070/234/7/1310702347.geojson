@@ -1,0 +1,76 @@
+{
+  "id": 1310702347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.3603,41.69514,42.3603,41.69514",
+    "geom:latitude":41.69514,
+    "geom:longitude":42.3603,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"T'unadzeebi",
+    "gn:country_code":"GE",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611341,
+    "gn:latitude":41.69514,
+    "gn:longitude":42.3603,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"T\u2019unadzeebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "T\u2019unadzeebi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e2\u10e3\u10dc\u10d0\u10eb\u10d4\u10d4\u10d1\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tunadzeyebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611341
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"138c85909498c2156c722fbe53de0c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691315,
+            "locality_id":1310702347,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1310702347,
+    "wof:lastmodified":1537623056,
+    "wof:name":"T'unadzeebi",
+    "wof:parent_id":1108691315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.3603,
+    41.69514,
+    42.3603,
+    41.69514
+],
+  "geometry": {"coordinates":[42.3603,41.69514],"type":"Point"}
+}

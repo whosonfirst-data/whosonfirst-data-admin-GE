@@ -1,0 +1,72 @@
+{
+  "id": 1276676485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.98125,42.0925,44.98125,42.0925",
+    "geom:latitude":42.0925,
+    "geom:longitude":44.98125,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Tegeraanebi",
+    "gn:country_code":"GE",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611705,
+    "gn:latitude":42.0925,
+    "gn:longitude":44.98125,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Tegeraanebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teyeranebi",
+        "Tegeranebi",
+        "Tegeraanebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611705
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f290b36762c2690aee228510a1c5b8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1276676485,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1276676485,
+    "wof:lastmodified":1537623077,
+    "wof:name":"Tegeraanebi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.98125,
+    42.0925,
+    44.98125,
+    42.0925
+],
+  "geometry": {"coordinates":[44.98125,42.0925],"type":"Point"}
+}

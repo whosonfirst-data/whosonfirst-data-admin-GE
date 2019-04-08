@@ -1,0 +1,77 @@
+{
+  "id": 1360019335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.8329,41.75183,42.8329,41.75183",
+    "geom:latitude":41.75183,
+    "geom:longitude":42.8329,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Abast'umani",
+    "gn:country_code":"GE",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":616019,
+    "gn:latitude":41.75183,
+    "gn:longitude":42.8329,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Abast\u2019umani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abastouman",
+        "Abastuman Akhaltsykhskogo",
+        "Abbastuman",
+        "Abastuman",
+        "Abbass-Touman",
+        "Abbas-Touman",
+        "Akhaltsykhskogo",
+        "Abast\u2019umani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616019
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"14d752833b56bb03db350fe352817870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1360019335,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1360019335,
+    "wof:lastmodified":1537623323,
+    "wof:name":"Abast'umani",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.8329,
+    41.75183,
+    42.8329,
+    41.75183
+],
+  "geometry": {"coordinates":[42.8329,41.75183],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226074205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48762,41.92945,43.48762,41.92945",
+    "geom:latitude":41.92945,
+    "geom:longitude":43.48762,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Akhaldaba",
+    "gn:country_code":"GE",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615919,
+    "gn:latitude":41.92945,
+    "gn:longitude":43.48762,
+    "gn:modification_date":"2016-03-26",
+    "gn:name":"Akhaldaba",
+    "gn:population":2400,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akhaldaba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10da\u10d3\u10d0\u10d1\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0434\u0430\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615919
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d1516dfb044234b8244d1b10d1a90f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1226074205,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1226074205,
+    "wof:lastmodified":1537623317,
+    "wof:name":"Akhaldaba",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:population":2400,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48762,
+    41.92945,
+    43.48762,
+    41.92945
+],
+  "geometry": {"coordinates":[43.48762,41.92945],"type":"Point"}
+}

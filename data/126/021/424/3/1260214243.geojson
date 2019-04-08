@@ -1,0 +1,73 @@
+{
+  "id": 1260214243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.28554,41.97537,42.28554,41.97537",
+    "geom:latitude":41.97537,
+    "geom:longitude":42.28554,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zemo Onch'ik'eti",
+    "gn:country_code":"GE",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610911,
+    "gn:latitude":41.97537,
+    "gn:longitude":42.28554,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Zemo Onch\u2019ik\u2019eti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zemo Onch\u2019ik\u2019eti"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10db\u10dd \u10dd\u10dc\u10ed\u10d8\u10d9\u10d4\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610911
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b427c476be4b890bd35eb02a3d432fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1260214243,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1260214243,
+    "wof:lastmodified":1537623027,
+    "wof:name":"Zemo Onch'ik'eti",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.28554000000001,
+    41.97537,
+    42.28554000000001,
+    41.97537
+],
+  "geometry": {"coordinates":[42.28554000000001,41.97537],"type":"Point"}
+}

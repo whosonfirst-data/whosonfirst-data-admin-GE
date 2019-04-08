@@ -1,0 +1,67 @@
+{
+  "id": 1344075005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3355,41.97334,45.3355,41.97334",
+    "geom:latitude":41.97334,
+    "geom:longitude":45.3355,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chabinaani",
+    "gn:country_code":"GE",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615313,
+    "gn:latitude":41.97334,
+    "gn:longitude":45.3355,
+    "gn:modification_date":"2002-02-11",
+    "gn:name":"Chabinaani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615313
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b277f2b06b8cc8f89f627ead51012a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1344075005,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1344075005,
+    "wof:lastmodified":1536853480,
+    "wof:name":"Chabinaani",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3355,
+    41.97334,
+    45.3355,
+    41.97334
+],
+  "geometry": {"coordinates":[45.3355,41.97334],"type":"Point"}
+}

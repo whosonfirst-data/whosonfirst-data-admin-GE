@@ -1,0 +1,67 @@
+{
+  "id": 1343271945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.57404,42.86982,41.57404,42.86982",
+    "geom:latitude":42.86982,
+    "geom:longitude":41.57404,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abaazhvakhu",
+    "gn:country_code":"GE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865489,
+    "gn:latitude":42.86982,
+    "gn:longitude":41.57404,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Abaazhvakhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865489
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"19ffc4e6e62f075fccd832d2876a3796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1343271945,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343271945,
+    "wof:lastmodified":1537017517,
+    "wof:name":"Abaazhvakhu",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.57404,
+    42.86982,
+    41.57404,
+    42.86982
+],
+  "geometry": {"coordinates":[41.57404,42.86982],"type":"Point"}
+}

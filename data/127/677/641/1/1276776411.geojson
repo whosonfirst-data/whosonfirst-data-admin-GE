@@ -1,0 +1,73 @@
+{
+  "id": 1276776411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.21218,43.01801,41.21218,43.01801",
+    "geom:latitude":43.01801,
+    "geom:longitude":41.21218,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Agishi",
+    "gn:country_code":"GE",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865431,
+    "gn:latitude":43.01801,
+    "gn:longitude":41.21218,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Agishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10d8\u10e8\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Agishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865431
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cf649b6e6f9217ebc2a1f50e8f5a5c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1276776411,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1276776411,
+    "wof:lastmodified":1537623343,
+    "wof:name":"Agishi",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.21218,
+    43.01801,
+    41.21218,
+    43.01801
+],
+  "geometry": {"coordinates":[41.21218,43.01801],"type":"Point"}
+}

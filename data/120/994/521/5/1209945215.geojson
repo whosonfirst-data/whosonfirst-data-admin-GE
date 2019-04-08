@@ -1,0 +1,77 @@
+{
+  "id": 1209945215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.82667,41.34011,44.82667,41.34011",
+    "geom:latitude":41.34011,
+    "geom:longitude":44.82667,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Kvemo-Sarali",
+    "gn:country_code":"GE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613415,
+    "gn:latitude":41.34011,
+    "gn:longitude":44.82667,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Kvemo-Sarali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d0\u10e0\u10d0\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Ashaga-Saral\u2019",
+        "Saral\u2019",
+        "Ashaga-Sarali",
+        "Kvemo-Sarali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613415,
+        "wk:page":"Kvemo_Sarali"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b035a5d973affd8994ee8c316340251c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1209945215,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1209945215,
+    "wof:lastmodified":1537623174,
+    "wof:name":"Kvemo-Sarali",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.82667,
+    41.34011,
+    44.82667,
+    41.34011
+],
+  "geometry": {"coordinates":[44.82667,41.34011],"type":"Point"}
+}

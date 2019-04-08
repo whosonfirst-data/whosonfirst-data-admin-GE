@@ -1,0 +1,83 @@
+{
+  "id": 1259519461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.91067,42.53738,42.91067,42.53738",
+    "geom:latitude":42.53738,
+    "geom:longitude":42.91067,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Kveda Ghvardia",
+    "gn:country_code":"GE",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613550,
+    "gn:latitude":42.53738,
+    "gn:longitude":42.91067,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kveda Ghvardia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'veda Ghvardia"
+    ],
+    "name:kat_x_preferred":[
+        "Kveda Ghvardia"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10e6\u10d5\u10d0\u10e0\u10d3\u10d8\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0434\u0430-\u0413\u0432\u0430\u0440\u0434\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kveda-Gvardia",
+        "Kvegvardia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613550
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c5ae44b1f62c172246877a1cb12fbe6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691249,
+            "locality_id":1259519461,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1259519461,
+    "wof:lastmodified":1537623185,
+    "wof:name":"Kveda Ghvardia",
+    "wof:parent_id":1108691249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.91067,
+    42.53738,
+    42.91067,
+    42.53738
+],
+  "geometry": {"coordinates":[42.91067,42.53738],"type":"Point"}
+}

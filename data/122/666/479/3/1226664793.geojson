@@ -1,0 +1,67 @@
+{
+  "id": 1226664793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10274,42.02088,43.10274,42.02088",
+    "geom:latitude":42.02088,
+    "geom:longitude":43.10274,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Khidari",
+    "gn:country_code":"GE",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613944,
+    "gn:latitude":42.02088,
+    "gn:longitude":43.10274,
+    "gn:modification_date":"2001-09-10",
+    "gn:name":"Khidari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613944
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a9d84f6e72fcdbe49b4614a19fe70aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691303,
+            "locality_id":1226664793,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1226664793,
+    "wof:lastmodified":1536831066,
+    "wof:name":"Khidari",
+    "wof:parent_id":1108691303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10274,
+    42.02088,
+    43.10274,
+    42.02088
+],
+  "geometry": {"coordinates":[43.10274,42.02088],"type":"Point"}
+}

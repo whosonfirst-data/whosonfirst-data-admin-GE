@@ -1,0 +1,71 @@
+{
+  "id": 1292921645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77317,42.16918,43.77317,42.16918",
+    "geom:latitude":42.16918,
+    "geom:longitude":43.77317,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvemo-Okona",
+    "gn:country_code":"GE",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613427,
+    "gn:latitude":42.16918,
+    "gn:longitude":43.77317,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kvemo-Okona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okona Nizhnyaya",
+        "Kvemo-Okona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613427
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2045d7bccfa73cbf75f176cf6dca0ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1292921645,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1292921645,
+    "wof:lastmodified":1537623175,
+    "wof:name":"Kvemo-Okona",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77317,
+    42.16918,
+    43.77317,
+    42.16918
+],
+  "geometry": {"coordinates":[43.77317,42.16918],"type":"Point"}
+}

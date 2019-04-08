@@ -1,0 +1,67 @@
+{
+  "id": 1344193459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.45,43.05,42.45,43.05",
+    "geom:latitude":43.05,
+    "geom:longitude":42.45,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Shkedi",
+    "gn:country_code":"GE",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611974,
+    "gn:latitude":43.05,
+    "gn:longitude":42.45,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Shkedi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611974
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a13f79109d2581e8d75f05b6a269123d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1344193459,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1344193459,
+    "wof:lastmodified":1536683615,
+    "wof:name":"Shkedi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.45,
+    43.05,
+    42.45,
+    43.05
+],
+  "geometry": {"coordinates":[42.45,43.05],"type":"Point"}
+}

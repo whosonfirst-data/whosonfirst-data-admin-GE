@@ -1,0 +1,76 @@
+{
+  "id": 1293518171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02623,41.67907,43.02623,41.67907",
+    "geom:latitude":41.67907,
+    "geom:longitude":43.02623,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Klde",
+    "gn:country_code":"GE",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613782,
+    "gn:latitude":41.67907,
+    "gn:longitude":43.02623,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Klde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Klde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10da\u10d3\u10d4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0434\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613782
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"02486a908729cfe19293f7e1c66a9c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691245,
+            "locality_id":1293518171,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1293518171,
+    "wof:lastmodified":1537623197,
+    "wof:name":"Klde",
+    "wof:parent_id":1108691245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02623,
+    41.67907,
+    43.02623,
+    41.67907
+],
+  "geometry": {"coordinates":[43.02623,41.67907],"type":"Point"}
+}

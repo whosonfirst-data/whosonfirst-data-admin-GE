@@ -1,0 +1,67 @@
+{
+  "id": 1327348293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.99854,41.48936,45.99854,41.48936",
+    "geom:latitude":41.48936,
+    "geom:longitude":45.99854,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gamardzhveba",
+    "gn:country_code":"GE",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":866038,
+    "gn:latitude":41.48936,
+    "gn:longitude":45.99854,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gamardzhveba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":866038
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"79d081c793341b2330b72d71247ed020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691269,
+            "locality_id":1327348293,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1327348293,
+    "wof:lastmodified":1536802204,
+    "wof:name":"Gamardzhveba",
+    "wof:parent_id":1108691269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.99854000000001,
+    41.48936,
+    45.99854000000001,
+    41.48936
+],
+  "geometry": {"coordinates":[45.99854000000001,41.48936],"type":"Point"}
+}

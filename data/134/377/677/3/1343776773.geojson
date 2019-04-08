@@ -1,0 +1,71 @@
+{
+  "id": 1343776773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.60167,41.87963,45.60167,41.87963",
+    "geom:latitude":41.87963,
+    "geom:longitude":45.60167,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Busheti",
+    "gn:country_code":"GE",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615338,
+    "gn:latitude":41.87963,
+    "gn:longitude":45.60167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Busheti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bushati",
+        "Busheti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615338
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2d96c59cbf6c8ae2b9821e03393c9c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691373,
+            "locality_id":1343776773,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1343776773,
+    "wof:lastmodified":1537623285,
+    "wof:name":"Busheti",
+    "wof:parent_id":1108691373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.60167,
+    41.87963,
+    45.60167,
+    41.87963
+],
+  "geometry": {"coordinates":[45.60167,41.87963],"type":"Point"}
+}

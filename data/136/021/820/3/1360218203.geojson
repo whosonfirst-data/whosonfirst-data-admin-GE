@@ -1,0 +1,73 @@
+{
+  "id": 1360218203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00881,42.08856,43.00881,42.08856",
+    "geom:latitude":42.08856,
+    "geom:longitude":43.00881,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"K'veda Kvalit'i",
+    "gn:country_code":"GE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613544,
+    "gn:latitude":42.08856,
+    "gn:longitude":43.00881,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u2019veda Kvalit\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10d9\u10d5\u10d0\u10da\u10d8\u10d7\u10d8"
+    ],
+    "name:und_x_variant":[
+        "K\u2019veda Kvalit\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613544
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b983709e05b4677b9ba3ae7786f716ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691399,
+            "locality_id":1360218203,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1360218203,
+    "wof:lastmodified":1537623185,
+    "wof:name":"K'veda Kvalit'i",
+    "wof:parent_id":1108691399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00881,
+    42.08856,
+    43.00881,
+    42.08856
+],
+  "geometry": {"coordinates":[43.00881,42.08856],"type":"Point"}
+}

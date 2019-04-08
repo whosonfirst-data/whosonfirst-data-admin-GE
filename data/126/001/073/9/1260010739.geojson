@@ -1,0 +1,79 @@
+{
+  "id": 1260010739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.44993,41.894,42.44993,41.894",
+    "geom:latitude":41.894,
+    "geom:longitude":42.44993,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Zot'i",
+    "gn:country_code":"GE",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610832,
+    "gn:latitude":41.894,
+    "gn:longitude":42.44993,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Zot\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zoti"
+    ],
+    "name:kat_x_preferred":[
+        "Zot\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10dd\u10e2\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0442\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610832
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b9472b4bdfa91e45872e82d282d010b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1260010739,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1260010739,
+    "wof:lastmodified":1537623021,
+    "wof:name":"Zot'i",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.44993,
+    41.894,
+    42.44993,
+    41.894
+],
+  "geometry": {"coordinates":[42.44993,41.894],"type":"Point"}
+}

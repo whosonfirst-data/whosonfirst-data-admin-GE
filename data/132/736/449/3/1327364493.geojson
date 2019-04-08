@@ -1,0 +1,77 @@
+{
+  "id": 1327364493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6509,41.33908,44.6509,41.33908",
+    "geom:latitude":41.33908,
+    "geom:longitude":44.6509,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Q'udro",
+    "gn:country_code":"GE",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613622,
+    "gn:latitude":41.33908,
+    "gn:longitude":44.6509,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Q\u2019udro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kudro"
+    ],
+    "name:kat_x_variant":[
+        "\u10e7\u10e3\u10d3\u10e0\u10dd",
+        "Q\u2019udro"
+    ],
+    "name:und_x_variant":[
+        "Kurdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613622
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"18c2346acd385d611c93f453dc505aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691259,
+            "locality_id":1327364493,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1327364493,
+    "wof:lastmodified":1537623190,
+    "wof:name":"Q'udro",
+    "wof:parent_id":1108691259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6509,
+    41.33908,
+    44.6509,
+    41.33908
+],
+  "geometry": {"coordinates":[44.6509,41.33908],"type":"Point"}
+}

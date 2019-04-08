@@ -1,0 +1,76 @@
+{
+  "id": 1226452499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54811,43.20437,40.54811,43.20437",
+    "geom:latitude":43.20437,
+    "geom:longitude":40.54811,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jirkhva",
+    "gn:country_code":"GE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614768,
+    "gn:latitude":43.20437,
+    "gn:longitude":40.54811,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Jirkhva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Jirkhva"
+    ],
+    "name:und_x_variant":[
+        "Dzhirkhveto",
+        "Khudaara",
+        "Dzirkha",
+        "Dzhirkhva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614768
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"73183287b778c4d1309ff3368fe5efe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1226452499,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1226452499,
+    "wof:lastmodified":1537623251,
+    "wof:name":"Jirkhva",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54811,
+    43.20437,
+    40.54811,
+    43.20437
+],
+  "geometry": {"coordinates":[40.54811,43.20437],"type":"Point"}
+}

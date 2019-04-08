@@ -1,0 +1,76 @@
+{
+  "id": 1310240921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.81774,41.90511,44.81774,41.90511",
+    "geom:latitude":41.90511,
+    "geom:longitude":44.81774,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Navdaraantk'ari",
+    "gn:country_code":"GE",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612728,
+    "gn:latitude":41.90511,
+    "gn:longitude":44.81774,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Navdaraantk\u2019ari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Navdaraantk\u2019ari"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d0\u10d5\u10d3\u10d0\u10e0\u10d0\u10d0\u10dc\u10d7\u10d9\u10d0\u10e0\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Nadaraantkari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612728
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8a3a793b792205322426cd1cb3b4f6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1310240921,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1310240921,
+    "wof:lastmodified":1537623134,
+    "wof:name":"Navdaraantk'ari",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.81774,
+    41.90511,
+    44.81774,
+    41.90511
+],
+  "geometry": {"coordinates":[44.81774,41.90511],"type":"Point"}
+}

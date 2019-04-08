@@ -1,0 +1,67 @@
+{
+  "id": 1293019077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.81334,42.23611,43.81334,42.23611",
+    "geom:latitude":42.23611,
+    "geom:longitude":43.81334,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malda",
+    "gn:country_code":"GE",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613116,
+    "gn:latitude":42.23611,
+    "gn:longitude":43.81334,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Malda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613116
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c56d5f82c75e024f3ef1c7a3e35878c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1293019077,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1293019077,
+    "wof:lastmodified":1536965142,
+    "wof:name":"Malda",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.81334,
+    42.23611,
+    43.81334,
+    42.23611
+],
+  "geometry": {"coordinates":[43.81334,42.23611],"type":"Point"}
+}

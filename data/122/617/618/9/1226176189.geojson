@@ -1,0 +1,75 @@
+{
+  "id": 1226176189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.37094,41.98576,42.37094,41.98576",
+    "geom:latitude":41.98576,
+    "geom:longitude":42.37094,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Gaghma Dobiro",
+    "gn:country_code":"GE",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545055,
+    "gn:latitude":41.98576,
+    "gn:longitude":42.37094,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Gaghma Dobiro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Gaghma Dobiri"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d0\u10e6\u10db\u10d0 \u10d3\u10dd\u10d1\u10d8\u10e0\u10d8",
+        "Gaghma Dobiro",
+        "\u10d2\u10d0\u10e6\u10db\u10d0 \u10d3\u10dd\u10d1\u10d8\u10e0\u10dd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545055
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d33e54f256e3b7fe070a9c67f756b975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1226176189,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1226176189,
+    "wof:lastmodified":1537623355,
+    "wof:name":"Gaghma Dobiro",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.37094,
+    41.98576,
+    42.37094,
+    41.98576
+],
+  "geometry": {"coordinates":[42.37094,41.98576],"type":"Point"}
+}

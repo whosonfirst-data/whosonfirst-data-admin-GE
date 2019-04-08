@@ -1,0 +1,67 @@
+{
+  "id": 1226656009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.00863,42.41751,44.00863,42.41751",
+    "geom:latitude":42.41751,
+    "geom:longitude":44.00863,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sazeleti",
+    "gn:country_code":"GE",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612056,
+    "gn:latitude":42.41751,
+    "gn:longitude":44.00863,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sazeleti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612056
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"33843ef7e527ea28b17ffe59ed01ec4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1226656009,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226656009,
+    "wof:lastmodified":1536843490,
+    "wof:name":"Sazeleti",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.00863,
+    42.41751,
+    44.00863,
+    42.41751
+],
+  "geometry": {"coordinates":[44.00863,42.41751],"type":"Point"}
+}

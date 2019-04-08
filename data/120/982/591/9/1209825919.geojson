@@ -1,0 +1,83 @@
+{
+  "id": 1209825919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80694,42.04364,41.80694,42.04364",
+    "geom:latitude":42.04364,
+    "geom:longitude":41.80694,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sup'sa",
+    "gn:country_code":"GE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611811,
+    "gn:latitude":42.04364,
+    "gn:longitude":41.80694,
+    "gn:modification_date":"2017-12-25",
+    "gn:name":"Sup\u2019sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Supsa"
+    ],
+    "name:kat_x_preferred":[
+        "Sup\u2019sa"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10e3\u10e4\u10e1\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043f\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sufsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611811,
+        "wk:page":"Supsa"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eb2843d32c1d44911cd766c0fcb3742f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691327,
+            "locality_id":1209825919,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1209825919,
+    "wof:lastmodified":1537623082,
+    "wof:name":"Sup'sa",
+    "wof:parent_id":1108691327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80694,
+    42.04364,
+    41.80694,
+    42.04364
+],
+  "geometry": {"coordinates":[41.80694,42.04364],"type":"Point"}
+}

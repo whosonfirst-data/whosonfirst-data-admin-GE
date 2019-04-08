@@ -1,0 +1,61 @@
+{
+  "id": 1209332623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.11667,41.71667,43.11667,41.71667",
+    "geom:latitude":41.71667,
+    "geom:longitude":43.11667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tsokhtevi",
+    "gn:country_code":"GE",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611366,
+    "gn:latitude":41.71667,
+    "gn:longitude":43.11667,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Tsokhtevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611366
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"abd54c66049b212bb13fef0358fe34ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209332623
+        }
+    ],
+    "wof:id":1209332623,
+    "wof:lastmodified":1536290326,
+    "wof:name":"Tsokhtevi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.11667,
+    41.71667,
+    43.11667,
+    41.71667
+],
+  "geometry": {"coordinates":[43.11667,41.71667],"type":"Point"}
+}

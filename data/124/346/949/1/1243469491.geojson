@@ -1,0 +1,76 @@
+{
+  "id": 1243469491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.761,42.04637,44.761,42.04637",
+    "geom:latitude":42.04637,
+    "geom:longitude":44.761,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Bulach'auri",
+    "gn:country_code":"GE",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615358,
+    "gn:latitude":42.04637,
+    "gn:longitude":44.761,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bulach\u2019auri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bulach'auri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u0447\u0430\u0443\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bulach\u2019auri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615358
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4a0565beb3ab4846d07f0ed3be547dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1243469491,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1243469491,
+    "wof:lastmodified":1537623286,
+    "wof:name":"Bulach'auri",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.761,
+    42.04637,
+    44.761,
+    42.04637
+],
+  "geometry": {"coordinates":[44.761,42.04637],"type":"Point"}
+}

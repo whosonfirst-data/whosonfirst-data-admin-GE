@@ -1,0 +1,67 @@
+{
+  "id": 1327249471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.27444,42.60833,42.27444,42.60833",
+    "geom:latitude":42.60833,
+    "geom:longitude":42.27444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Leberis",
+    "gn:country_code":"GE",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":800874,
+    "gn:latitude":42.60833,
+    "gn:longitude":42.27444,
+    "gn:modification_date":"1996-02-01",
+    "gn:name":"Leberis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":800874
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8862d8f2f39bab73cea7430b13bc962b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691265,
+            "locality_id":1327249471,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1327249471,
+    "wof:lastmodified":1536945330,
+    "wof:name":"Leberis",
+    "wof:parent_id":1108691265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.27444000000001,
+    42.60833,
+    42.27444000000001,
+    42.60833
+],
+  "geometry": {"coordinates":[42.27444000000001,42.60833],"type":"Point"}
+}

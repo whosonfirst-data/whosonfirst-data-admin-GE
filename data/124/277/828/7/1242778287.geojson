@@ -1,0 +1,77 @@
+{
+  "id": 1242778287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.74631,41.64605,41.74631,41.64605",
+    "geom:latitude":41.64605,
+    "geom:longitude":41.74631,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Q'orolistavi",
+    "gn:country_code":"GE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613696,
+    "gn:latitude":41.64605,
+    "gn:longitude":41.74631,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Q\u2019orolistavi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Q\u2019orolistavi"
+    ],
+    "name:kat_x_variant":[
+        "\u10e7\u10dd\u10e0\u10dd\u10da\u10d8\u10e1\u10d7\u10d0\u10d5\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Koronis-Tavi",
+        "Korolistavi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613696
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9b107d0ffeaa686e61ef19352e3183c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691309,
+            "locality_id":1242778287,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1242778287,
+    "wof:lastmodified":1537623193,
+    "wof:name":"Q'orolistavi",
+    "wof:parent_id":1108691309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.74631,
+    41.64605,
+    41.74631,
+    41.64605
+],
+  "geometry": {"coordinates":[41.74631,41.64605],"type":"Point"}
+}

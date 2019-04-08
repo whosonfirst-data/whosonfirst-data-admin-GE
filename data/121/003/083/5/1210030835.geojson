@@ -1,0 +1,67 @@
+{
+  "id": 1210030835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.7575,42.20459,43.7575,42.20459",
+    "geom:latitude":42.20459,
+    "geom:longitude":43.7575,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alibari",
+    "gn:country_code":"GE",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615789,
+    "gn:latitude":42.20459,
+    "gn:longitude":43.7575,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Alibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615789
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a6c568272a6604520834c07de5730dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1210030835,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1210030835,
+    "wof:lastmodified":1536388643,
+    "wof:name":"Alibari",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.7575,
+    42.20459,
+    43.7575,
+    42.20459
+],
+  "geometry": {"coordinates":[43.7575,42.20459],"type":"Point"}
+}

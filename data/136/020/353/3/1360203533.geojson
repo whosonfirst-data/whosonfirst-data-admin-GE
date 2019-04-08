@@ -1,0 +1,73 @@
+{
+  "id": 1360203533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.27814,42.11933,45.27814,42.11933",
+    "geom:latitude":42.11933,
+    "geom:longitude":45.27814,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tsinubani",
+    "gn:country_code":"GE",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611477,
+    "gn:latitude":42.11933,
+    "gn:longitude":45.27814,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsinubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nizhniye Tsinubani",
+        "Tsinaubani",
+        "Nizhniye Tsinaubani",
+        "Tsinubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611477
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bdb51f0ee9847bb9c657c8acf83e6531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1360203533,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1360203533,
+    "wof:lastmodified":1537623063,
+    "wof:name":"Tsinubani",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.27814,
+    42.11933,
+    45.27814,
+    42.11933
+],
+  "geometry": {"coordinates":[45.27814,42.11933],"type":"Point"}
+}

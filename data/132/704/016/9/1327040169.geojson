@@ -1,0 +1,67 @@
+{
+  "id": 1327040169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65,42.76667,41.65,42.76667",
+    "geom:latitude":42.76667,
+    "geom:longitude":41.65,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mishveli",
+    "gn:country_code":"GE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612948,
+    "gn:latitude":42.76667,
+    "gn:longitude":41.65,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Mishveli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612948
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"aaeb9b296970c3738e6a6d56428b27f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691341,
+            "locality_id":1327040169,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1327040169,
+    "wof:lastmodified":1536748961,
+    "wof:name":"Mishveli",
+    "wof:parent_id":1108691341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65,
+    42.76667,
+    41.65,
+    42.76667
+],
+  "geometry": {"coordinates":[41.65,42.76667],"type":"Point"}
+}

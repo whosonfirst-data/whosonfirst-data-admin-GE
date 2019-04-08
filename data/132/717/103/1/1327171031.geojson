@@ -1,0 +1,67 @@
+{
+  "id": 1327171031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71545,42.64354,42.71545,42.64354",
+    "geom:latitude":42.64354,
+    "geom:longitude":42.71545,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zeda-Lukhvano",
+    "gn:country_code":"GE",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611038,
+    "gn:latitude":42.64354,
+    "gn:longitude":42.71545,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Zeda-Lukhvano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611038
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c079eeaff5e13d1fcf8d7657c0b6a297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691385,
+            "locality_id":1327171031,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1327171031,
+    "wof:lastmodified":1537055704,
+    "wof:name":"Zeda-Lukhvano",
+    "wof:parent_id":1108691385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71545,
+    42.64354,
+    42.71545,
+    42.64354
+],
+  "geometry": {"coordinates":[42.71545,42.64354],"type":"Point"}
+}

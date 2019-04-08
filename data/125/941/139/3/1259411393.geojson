@@ -1,0 +1,79 @@
+{
+  "id": 1259411393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.87898,42.04435,41.87898,42.04435",
+    "geom:latitude":42.04435,
+    "geom:longitude":41.87898,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Jikhanjiri",
+    "gn:country_code":"GE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874361,
+    "gn:latitude":42.04435,
+    "gn:longitude":41.87898,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Jikhanjiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Jikhanjiri"
+    ],
+    "name:kat_x_variant":[
+        "\u10ef\u10d8\u10ee\u10d0\u10dc\u10ef\u10d8\u10e0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u0445\u0430\u043d\u0434\u0436\u0438\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhikhandzhiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874361
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9c3b6034c4b2d40f40fe6177e5bb21a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691327,
+            "locality_id":1259411393,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1259411393,
+    "wof:lastmodified":1537623349,
+    "wof:name":"Jikhanjiri",
+    "wof:parent_id":1108691327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.87898,
+    42.04435,
+    41.87898,
+    42.04435
+],
+  "geometry": {"coordinates":[41.87898,42.04435],"type":"Point"}
+}

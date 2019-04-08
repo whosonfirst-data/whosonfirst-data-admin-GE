@@ -1,0 +1,74 @@
+{
+  "id": 1209013419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51295,43.15338,40.51295,43.15338",
+    "geom:latitude":43.15338,
+    "geom:longitude":40.51295,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mugudzirkhva",
+    "gn:country_code":"GE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612882,
+    "gn:latitude":43.15338,
+    "gn:longitude":40.51295,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mugudzirkhva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10d2\u10e3\u10eb\u10d8\u10e0\u10ee\u10d5\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Mugudzirkhva"
+    ],
+    "name:und_x_variant":[
+        "Mugudzyrkhva",
+        "Myuzurkhya",
+        "Mugudzirkhua",
+        "Mguzurkhva",
+        "Muguzyrkhva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612882
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"05ddde9653f46f73b10654da822f5b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209013419
+        }
+    ],
+    "wof:id":1209013419,
+    "wof:lastmodified":1537623144,
+    "wof:name":"Mugudzirkhva",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51295,
+    43.15338,
+    40.51295,
+    43.15338
+],
+  "geometry": {"coordinates":[40.51295,43.15338],"type":"Point"}
+}

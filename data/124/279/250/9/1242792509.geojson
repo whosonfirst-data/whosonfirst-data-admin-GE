@@ -1,0 +1,70 @@
+{
+  "id": 1242792509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65976,42.38503,44.65976,42.38503",
+    "geom:latitude":42.38503,
+    "geom:longitude":44.65976,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Ch'adists'ikhe",
+    "gn:country_code":"GE",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615305,
+    "gn:latitude":42.38503,
+    "gn:longitude":44.65976,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ch\u2019adists\u2019ikhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019adists\u2019ikhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615305
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8b97459f6c65f2cc44c2bf9ecbbe9d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1242792509,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1242792509,
+    "wof:lastmodified":1537623284,
+    "wof:name":"Ch'adists'ikhe",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65976,
+    42.38503,
+    44.65976,
+    42.38503
+],
+  "geometry": {"coordinates":[44.65976,42.38503],"type":"Point"}
+}

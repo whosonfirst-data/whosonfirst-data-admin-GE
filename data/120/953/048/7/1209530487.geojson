@@ -1,0 +1,73 @@
+{
+  "id": 1209530487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.97694,41.90472,45.97694,41.90472",
+    "geom:latitude":41.90472,
+    "geom:longitude":45.97694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akhalsop'eli",
+    "gn:country_code":"GE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615875,
+    "gn:latitude":41.90472,
+    "gn:longitude":45.97694,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Akhalsop\u2019eli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akhalsop'eli"
+    ],
+    "name:kat_x_preferred":[
+        "Akhalsop\u2019eli"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10ee\u10d0\u10da\u10e1\u10dd\u10e4\u10d4\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0441\u043e\u043f\u0435\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615875
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4443b0dd0bc5799e5047b5ff09784e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209530487
+        }
+    ],
+    "wof:id":1209530487,
+    "wof:lastmodified":1537623314,
+    "wof:name":"Akhalsop'eli",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.97694,
+    41.90472000000001,
+    45.97694,
+    41.90472000000001
+],
+  "geometry": {"coordinates":[45.97694,41.90472000000001],"type":"Point"}
+}

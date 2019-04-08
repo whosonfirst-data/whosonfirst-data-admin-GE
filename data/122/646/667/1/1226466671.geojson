@@ -1,0 +1,79 @@
+{
+  "id": 1226466671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.75517,41.76659,41.75517,41.76659",
+    "geom:latitude":41.76659,
+    "geom:longitude":41.75517,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tsikhisdziri",
+    "gn:country_code":"GE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611512,
+    "gn:latitude":41.76659,
+    "gn:longitude":41.75517,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Tsikhisdziri",
+    "gn:population":1500,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Tsikhisdziri"
+    ],
+    "name:kat_x_variant":[
+        "\u10ea\u10d8\u10ee\u10d8\u10e1\u10eb\u10d8\u10e0\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tskhirish"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611512
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4423ba93c5b44753ac773b99586b54c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1226466671,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1226466671,
+    "wof:lastmodified":1537623065,
+    "wof:name":"Tsikhisdziri",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.75517,
+    41.76659,
+    41.75517,
+    41.76659
+],
+  "geometry": {"coordinates":[41.75517,41.76659],"type":"Point"}
+}

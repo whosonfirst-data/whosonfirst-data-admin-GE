@@ -1,0 +1,67 @@
+{
+  "id": 1293307583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73333,41.65,42.73333,41.65",
+    "geom:latitude":41.65,
+    "geom:longitude":42.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amkheri",
+    "gn:country_code":"GE",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615771,
+    "gn:latitude":41.65,
+    "gn:longitude":42.73333,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Amkheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615771
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"149bad2e31d5ae57370256a064a5a463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691239,
+            "locality_id":1293307583,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1293307583,
+    "wof:lastmodified":1537044474,
+    "wof:name":"Amkheri",
+    "wof:parent_id":1108691239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73333,
+    41.65,
+    42.73333,
+    41.65
+],
+  "geometry": {"coordinates":[42.73333,41.65],"type":"Point"}
+}

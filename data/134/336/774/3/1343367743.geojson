@@ -1,0 +1,76 @@
+{
+  "id": 1343367743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79435,42.55283,41.79435,42.55283",
+    "geom:latitude":42.55283,
+    "geom:longitude":41.79435,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tagiloni",
+    "gn:country_code":"GE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611777,
+    "gn:latitude":42.55283,
+    "gn:longitude":41.79435,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Tagiloni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Tagiloni"
+    ],
+    "name:kat_x_variant":[
+        "\u10d7\u10d0\u10d2\u10d8\u10da\u10dd\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tageloni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611777
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7cb9a9f80baa29070c725d72d332ffbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1343367743,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1343367743,
+    "wof:lastmodified":1537623080,
+    "wof:name":"Tagiloni",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79435,
+    42.55283,
+    41.79435,
+    42.55283
+],
+  "geometry": {"coordinates":[41.79435,42.55283],"type":"Point"}
+}

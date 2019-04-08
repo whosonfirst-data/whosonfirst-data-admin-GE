@@ -1,0 +1,73 @@
+{
+  "id": 1343988449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33804,42.06463,42.33804,42.06463",
+    "geom:latitude":42.06463,
+    "geom:longitude":42.33804,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kvemo Abasha",
+    "gn:country_code":"GE",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613510,
+    "gn:latitude":42.06463,
+    "gn:longitude":42.33804,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kvemo Abasha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Kvemo Abasha"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10db\u10dd \u10d0\u10d1\u10d0\u10e8\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613510
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"0db9c9a8d6f4c1407afaf879c1a0271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691357,
+            "locality_id":1343988449,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1343988449,
+    "wof:lastmodified":1537623182,
+    "wof:name":"Kvemo Abasha",
+    "wof:parent_id":1108691357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33804,
+    42.06463,
+    42.33804,
+    42.06463
+],
+  "geometry": {"coordinates":[42.33804,42.06463],"type":"Point"}
+}

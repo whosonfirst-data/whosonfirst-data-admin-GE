@@ -1,0 +1,74 @@
+{
+  "id": 1226549845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.49444,41.71806,44.49444,41.71806",
+    "geom:latitude":41.71806,
+    "geom:longitude":44.49444,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shamta",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612024,
+    "gn:latitude":41.71806,
+    "gn:longitude":44.49444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shamta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shavimta",
+        "Shavimta Pervaya",
+        "Shevimta",
+        "Shamta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612024
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"26fc247f1a30b246d9ae8ba5ab9c873b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1226549845,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1226549845,
+    "wof:lastmodified":1537623093,
+    "wof:name":"Shamta",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.49444,
+    41.71806,
+    44.49444,
+    41.71806
+],
+  "geometry": {"coordinates":[44.49444,41.71806],"type":"Point"}
+}

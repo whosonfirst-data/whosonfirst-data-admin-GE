@@ -1,0 +1,67 @@
+{
+  "id": 1293893483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73556,42.27528,41.73556,42.27528",
+    "geom:latitude":42.27528,
+    "geom:longitude":41.73556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gamogma-Kariata",
+    "gn:country_code":"GE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874094,
+    "gn:latitude":42.27528,
+    "gn:longitude":41.73556,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Gamogma-Kariata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874094
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9d66d6f7ae99d1b63d0fb49ee4b64978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1293893483,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1293893483,
+    "wof:lastmodified":1536699148,
+    "wof:name":"Gamogma-Kariata",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73556,
+    42.27528,
+    41.73556,
+    42.27528
+],
+  "geometry": {"coordinates":[41.73556,42.27528],"type":"Point"}
+}

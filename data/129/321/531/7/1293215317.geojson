@@ -1,0 +1,67 @@
+{
+  "id": 1293215317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98583,42.32472,41.98583,42.32472",
+    "geom:latitude":42.32472,
+    "geom:longitude":41.98583,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Skuria",
+    "gn:country_code":"GE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874098,
+    "gn:latitude":42.32472,
+    "gn:longitude":41.98583,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Skuria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874098
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e05ef81fa1bac4cbc30fc8ca9eb9d787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691359,
+            "locality_id":1293215317,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1293215317,
+    "wof:lastmodified":1536682267,
+    "wof:name":"Skuria",
+    "wof:parent_id":1108691359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98583,
+    42.32472,
+    41.98583,
+    42.32472
+],
+  "geometry": {"coordinates":[41.98583,42.32472],"type":"Point"}
+}

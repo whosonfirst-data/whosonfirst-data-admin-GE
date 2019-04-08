@@ -1,0 +1,77 @@
+{
+  "id": 1344171795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.11306,43.4079,40.11306,43.4079",
+    "geom:latitude":43.4079,
+    "geom:longitude":40.11306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khashupse",
+    "gn:country_code":"GE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613989,
+    "gn:latitude":43.4079,
+    "gn:longitude":40.11306,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Khashupse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Khashupse"
+    ],
+    "name:kat_x_variant":[
+        "\u10ee\u10d0\u10e8\u10e3\u10e4\u10e1\u10d4"
+    ],
+    "name:und_x_variant":[
+        "Khashupsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613989,
+        "wk:page":"Khashupse"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a656847ddf2bc2c4d8ac64e6f5ce08b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1344171795,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1344171795,
+    "wof:lastmodified":1537623207,
+    "wof:name":"Khashupse",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.11306,
+    43.4079,
+    40.11306,
+    43.4079
+],
+  "geometry": {"coordinates":[40.11306,43.4079],"type":"Point"}
+}

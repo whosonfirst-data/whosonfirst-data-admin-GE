@@ -1,0 +1,70 @@
+{
+  "id": 1326761113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73956,43.05387,42.73956,43.05387",
+    "geom:latitude":43.05387,
+    "geom:longitude":42.73956,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Lagami",
+    "gn:country_code":"GE",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613345,
+    "gn:latitude":43.05387,
+    "gn:longitude":42.73956,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Lagami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e6\u10d0\u10db\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613345
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"02fbb2b890cf9c3a26f71121cc2549ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1326761113,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1326761113,
+    "wof:lastmodified":1537623170,
+    "wof:name":"Lagami",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73956,
+    43.05387,
+    42.73956,
+    43.05387
+],
+  "geometry": {"coordinates":[42.73956,43.05387],"type":"Point"}
+}

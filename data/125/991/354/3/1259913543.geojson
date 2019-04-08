@@ -1,0 +1,76 @@
+{
+  "id": 1259913543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66738,41.78155,43.66738,41.78155",
+    "geom:latitude":41.78155,
+    "geom:longitude":43.66738,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Ghvtismshobeli",
+    "gn:country_code":"GE",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613851,
+    "gn:latitude":41.78155,
+    "gn:longitude":43.66738,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ghvtismshobeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ghvtismshobeli"
+    ],
+    "name:kat_x_variant":[
+        "\u10e6\u10d5\u10d7\u10d8\u10e1\u10db\u10e8\u10dd\u10d1\u10d4\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Khvitismshobeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613851
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"52cc1eba3f7d0efad7098c9197c734ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1259913543,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1259913543,
+    "wof:lastmodified":1537623201,
+    "wof:name":"Ghvtismshobeli",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66738,
+    41.78155,
+    43.66738,
+    41.78155
+],
+  "geometry": {"coordinates":[43.66738,41.78155],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293408071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.91667,42.11667,44.91667,42.11667",
+    "geom:latitude":42.11667,
+    "geom:longitude":44.91667,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Kakhoianebi",
+    "gn:country_code":"GE",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614189,
+    "gn:latitude":42.11667,
+    "gn:longitude":44.91667,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kakhoianebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614189
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc15cfebc0504d56f0bc14188b3ee28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691381,
+            "locality_id":1293408071,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1293408071,
+    "wof:lastmodified":1536901618,
+    "wof:name":"Kakhoianebi",
+    "wof:parent_id":1108691381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.91667,
+    42.11667,
+    44.91667,
+    42.11667
+],
+  "geometry": {"coordinates":[44.91667,42.11667],"type":"Point"}
+}

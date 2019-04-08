@@ -1,0 +1,67 @@
+{
+  "id": 1209725643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.03695,42.26986,44.03695,42.26986",
+    "geom:latitude":42.26986,
+    "geom:longitude":44.03695,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo-Sarabuki",
+    "gn:country_code":"GE",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610901,
+    "gn:latitude":42.26986,
+    "gn:longitude":44.03695,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Zemo-Sarabuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610901
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fc9c193d465911895e6dc653851d2f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1209725643,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1209725643,
+    "wof:lastmodified":1536384044,
+    "wof:name":"Zemo-Sarabuki",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.03695,
+    42.26986,
+    44.03695,
+    42.26986
+],
+  "geometry": {"coordinates":[44.03695,42.26986],"type":"Point"}
+}

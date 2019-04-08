@@ -1,0 +1,72 @@
+{
+  "id": 1209530699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48293,41.29204,43.48293,41.29204",
+    "geom:latitude":41.29204,
+    "geom:longitude":43.48293,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Didi Gondrio",
+    "gn:country_code":"GE",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614953,
+    "gn:latitude":41.29204,
+    "gn:longitude":43.48293,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Didi Gondrio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Didi K\u2019onduri"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d8\u10d3\u10d8 \u10d9\u10dd\u10dc\u10d3\u10e3\u10e0\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Kondura",
+        "Bol\u2019shaya Kondura",
+        "Didi Gondrio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614953
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"d6eb0dd9ea232d91807927871a44c429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209530699
+        }
+    ],
+    "wof:id":1209530699,
+    "wof:lastmodified":1537623263,
+    "wof:name":"Didi Gondrio",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48293,
+    41.29204,
+    43.48293,
+    41.29204
+],
+  "geometry": {"coordinates":[43.48293,41.29204],"type":"Point"}
+}

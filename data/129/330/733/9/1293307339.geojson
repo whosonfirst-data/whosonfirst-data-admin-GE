@@ -1,0 +1,67 @@
+{
+  "id": 1293307339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.65958,42.22111,44.65958,42.22111",
+    "geom:latitude":42.22111,
+    "geom:longitude":44.65958,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Dgnali",
+    "gn:country_code":"GE",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614983,
+    "gn:latitude":42.22111,
+    "gn:longitude":44.65958,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Dgnali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614983
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9ad3ac261cf4ef461bfdbfb4ba55f9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1293307339,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1293307339,
+    "wof:lastmodified":1537044802,
+    "wof:name":"Dgnali",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.65958,
+    42.22111,
+    44.65958,
+    42.22111
+],
+  "geometry": {"coordinates":[44.65958,42.22111],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1277075379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.82361,41.75556,41.82361,41.75556",
+    "geom:latitude":41.75556,
+    "geom:longitude":41.82361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kveda Dagva",
+    "gn:country_code":"GE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613556,
+    "gn:latitude":41.75556,
+    "gn:longitude":41.82361,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kveda Dagva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "K'veda Dagva"
+    ],
+    "name:kat_x_preferred":[
+        "Kveda Dagva"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10d3\u10d0\u10d2\u10d5\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0434\u0430-\u0414\u0430\u0433\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613556
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fd87139543d7d193636d2014d1913b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1277075379,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1277075379,
+    "wof:lastmodified":1537623186,
+    "wof:name":"Kveda Dagva",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.82361,
+    41.75556,
+    41.82361,
+    41.75556
+],
+  "geometry": {"coordinates":[41.82361,41.75556],"type":"Point"}
+}

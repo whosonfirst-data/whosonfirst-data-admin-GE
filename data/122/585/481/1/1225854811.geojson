@@ -1,0 +1,71 @@
+{
+  "id": 1225854811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.95386,41.8825,44.95386,41.8825",
+    "geom:latitude":41.8825,
+    "geom:longitude":44.95386,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tezami",
+    "gn:country_code":"GE",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611673,
+    "gn:latitude":41.8825,
+    "gn:longitude":44.95386,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tezami",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tetdzami",
+        "Tezami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611673
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7061e70b3700e0fcf56f4759faf05e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691337,
+            "locality_id":1225854811,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1225854811,
+    "wof:lastmodified":1537623076,
+    "wof:name":"Tezami",
+    "wof:parent_id":1108691337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.95386,
+    41.8825,
+    44.95386,
+    41.8825
+],
+  "geometry": {"coordinates":[44.95386,41.8825],"type":"Point"}
+}

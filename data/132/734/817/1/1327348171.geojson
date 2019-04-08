@@ -1,0 +1,67 @@
+{
+  "id": 1327348171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.72086,42.0413,44.72086,42.0413",
+    "geom:latitude":42.0413,
+    "geom:longitude":44.72086,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Nagliantkari",
+    "gn:country_code":"GE",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612806,
+    "gn:latitude":42.0413,
+    "gn:longitude":44.72086,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nagliantkari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612806
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ed6efcb54fd7579b0abcfd3badef9add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1327348171,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1327348171,
+    "wof:lastmodified":1536802370,
+    "wof:name":"Nagliantkari",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.72086,
+    42.0413,
+    44.72086,
+    42.0413
+],
+  "geometry": {"coordinates":[44.72086,42.0413],"type":"Point"}
+}

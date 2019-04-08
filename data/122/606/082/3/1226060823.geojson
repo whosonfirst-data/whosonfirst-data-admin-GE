@@ -1,0 +1,71 @@
+{
+  "id": 1226060823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.12295,42.48213,44.12295,42.48213",
+    "geom:latitude":42.48213,
+    "geom:longitude":44.12295,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tlia",
+    "gn:country_code":"GE",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611619,
+    "gn:latitude":42.48213,
+    "gn:longitude":44.12295,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tlia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tli",
+        "Tlia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611619
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2b3f04f656ec8eb06bab7d00a6669603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1226060823,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1226060823,
+    "wof:lastmodified":1537623072,
+    "wof:name":"Tlia",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.12295,
+    42.48213,
+    44.12295,
+    42.48213
+],
+  "geometry": {"coordinates":[44.12295,42.48213],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309942981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.92022,41.6875,43.92022,41.6875",
+    "geom:latitude":41.6875,
+    "geom:longitude":43.92022,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Tarsoni",
+    "gn:country_code":"GE",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611740,
+    "gn:latitude":41.6875,
+    "gn:longitude":43.92022,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tarsoni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10e1\u10dd\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Tarson",
+        "Tarsoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611740
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4889c58ae1a93fc56d3634e59a8fb6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691389,
+            "locality_id":1309942981,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1309942981,
+    "wof:lastmodified":1537623078,
+    "wof:name":"Tarsoni",
+    "wof:parent_id":1108691389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.92022,
+    41.6875,
+    43.92022,
+    41.6875
+],
+  "geometry": {"coordinates":[43.92022,41.6875],"type":"Point"}
+}

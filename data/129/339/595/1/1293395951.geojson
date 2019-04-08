@@ -1,0 +1,79 @@
+{
+  "id": 1293395951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.76361,41.70278,41.76361,41.70278",
+    "geom:latitude":41.70278,
+    "geom:longitude":41.76361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chaisubani",
+    "gn:country_code":"GE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":875064,
+    "gn:latitude":41.70278,
+    "gn:longitude":41.76361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chaisubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chaisubani"
+    ],
+    "name:kat_x_preferred":[
+        "Chaisubani"
+    ],
+    "name:kat_x_variant":[
+        "\u10e9\u10d0\u10d8\u10e1\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u0441\u0443\u0431\u0430\u043d\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":875064
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"deef73e8fea5e04062c5911789b6d42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1293395951,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1293395951,
+    "wof:lastmodified":1537623352,
+    "wof:name":"Chaisubani",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.76361,
+    41.70278,
+    41.76361,
+    41.70278
+],
+  "geometry": {"coordinates":[41.76361,41.70278],"type":"Point"}
+}

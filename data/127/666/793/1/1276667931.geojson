@@ -1,0 +1,72 @@
+{
+  "id": 1276667931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.27408,41.49733,44.27408,41.49733",
+    "geom:latitude":41.49733,
+    "geom:longitude":44.27408,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zemo-Akhkalapa",
+    "gn:country_code":"GE",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610992,
+    "gn:latitude":41.49733,
+    "gn:longitude":44.27408,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zemo-Akhkalapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verkhnyaya Akhkalapa",
+        "Zemo-Akhkalafa",
+        "Zemo-Akhkalapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610992
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"6dd619a8f599f9f874832351fa5d130c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1276667931,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1276667931,
+    "wof:lastmodified":1537623034,
+    "wof:name":"Zemo-Akhkalapa",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.27408,
+    41.49733,
+    44.27408,
+    41.49733
+],
+  "geometry": {"coordinates":[44.27408,41.49733],"type":"Point"}
+}

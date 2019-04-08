@@ -1,0 +1,121 @@
+{
+  "id": 421175735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.95417,41.90694,41.95417,41.90694",
+    "geom:latitude":41.90694,
+    "geom:longitude":41.95417,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u0546\u0561\u0580\u0578\u0582\u057b\u0561"
+    ],
+    "name:ceb_x_preferred":[
+        "Naruja"
+    ],
+    "name:dut_x_preferred":[
+        "Naruja"
+    ],
+    "name:eng_x_preferred":[
+        "Naruja"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10e3\u10ef\u10d0"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0580\u0578\u0582\u057b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Naruja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10e3\u10ef\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Naruja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0443\u0434\u0436\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Naruja"
+    ],
+    "name:unk_x_variant":[
+        "Sovkhoz Narudzhskiy"
+    ],
+    "name:vie_x_preferred":[
+        "Naruja"
+    ],
+    "qs:gn_country":"GE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":824385,
+    "qs:gn_pop":3065,
+    "qs:name":"Naruja",
+    "qs:name_adm0":"Georgia",
+    "qs:name_adm1":"Ozurget\u00b4is Raioni",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1029179,
+    "qs:woe_adm0":23424823,
+    "qs:woe_id":22722356,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824385,
+        "gp:id":22722356,
+        "qs:id":1029179,
+        "wd:id":"Q1898132",
+        "wk:page":"Naruja"
+    },
+    "wof:country":"GE",
+    "wof:created":1459009077,
+    "wof:geomhash":"2696f9b8656bca7dc3f6bedf6eef760a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":421175735,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":421175735,
+    "wof:lastmodified":1527716342,
+    "wof:name":"Naruja",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:population":3065,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.95417,
+    41.90694,
+    41.95417,
+    41.90694
+],
+  "geometry": {"coordinates":[41.95417,41.90694],"type":"Point"}
+}

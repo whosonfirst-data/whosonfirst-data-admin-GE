@@ -1,0 +1,73 @@
+{
+  "id": 1293814203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64516,41.7818,43.64516,41.7818",
+    "geom:latitude":41.7818,
+    "geom:longitude":43.64516,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Gverdisubani",
+    "gn:country_code":"GE",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614323,
+    "gn:latitude":41.7818,
+    "gn:longitude":43.64516,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gverdisubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Gverdisubani"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d5\u10d4\u10e0\u10d3\u10d8\u10e1\u10e3\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614323
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1b5a1878693da54905bc0cc84f3c3560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1293814203,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1293814203,
+    "wof:lastmodified":1537623224,
+    "wof:name":"Gverdisubani",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64516,
+    41.7818,
+    43.64516,
+    41.7818
+],
+  "geometry": {"coordinates":[43.64516,41.7818],"type":"Point"}
+}

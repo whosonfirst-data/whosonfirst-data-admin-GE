@@ -1,0 +1,73 @@
+{
+  "id": 1276473647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.38891,43.05389,42.38891,43.05389",
+    "geom:latitude":43.05389,
+    "geom:longitude":42.38891,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Hmashi-Totaleshi",
+    "gn:country_code":"GE",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7530568,
+    "gn:latitude":43.05389,
+    "gn:longitude":42.38891,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hmashi-Totaleshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Hmashi-Totaleshi"
+    ],
+    "name:kat_x_variant":[
+        "\u10f0\u10db\u10d0\u10e8\u10d8\u2013\u10d7\u10dd\u10d7\u10d0\u10da\u10d4\u10e8\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7530568
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"db531ad874ce968ade718fe75911bacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1276473647,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1276473647,
+    "wof:lastmodified":1537623353,
+    "wof:name":"Hmashi-Totaleshi",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.38891,
+    43.05389,
+    42.38891,
+    43.05389
+],
+  "geometry": {"coordinates":[42.38891,43.05389],"type":"Point"}
+}

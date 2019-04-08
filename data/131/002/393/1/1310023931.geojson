@@ -1,0 +1,67 @@
+{
+  "id": 1310023931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.39488,41.32583,44.39488,41.32583",
+    "geom:latitude":41.32583,
+    "geom:longitude":44.39488,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ukangora",
+    "gn:country_code":"GE",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611300,
+    "gn:latitude":41.32583,
+    "gn:longitude":44.39488,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Ukangora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611300
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a0f23ea3612e4abc4ac463eb9f8ee1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691273,
+            "locality_id":1310023931,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310023931,
+    "wof:lastmodified":1536614379,
+    "wof:name":"Ukangora",
+    "wof:parent_id":1108691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.39488,
+    41.32583,
+    44.39488,
+    41.32583
+],
+  "geometry": {"coordinates":[44.39488,41.32583],"type":"Point"}
+}

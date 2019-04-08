@@ -1,0 +1,70 @@
+{
+  "id": 1360003999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.42216,41.72818,45.42216,41.72818",
+    "geom:latitude":41.72818,
+    "geom:longitude":45.42216,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"T'okhliauri",
+    "gn:country_code":"GE",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611609,
+    "gn:latitude":41.72818,
+    "gn:longitude":45.42216,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"T\u2019okhliauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "T\u2019okhliauri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611609
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"532890c984f67cdb45e831633422e9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691355,
+            "locality_id":1360003999,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1360003999,
+    "wof:lastmodified":1537623071,
+    "wof:name":"T'okhliauri",
+    "wof:parent_id":1108691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.42216,
+    41.72818,
+    45.42216,
+    41.72818
+],
+  "geometry": {"coordinates":[45.42216,41.72818],"type":"Point"}
+}

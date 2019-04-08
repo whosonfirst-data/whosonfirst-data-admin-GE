@@ -1,0 +1,76 @@
+{
+  "id": 1259916953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.94843,42.3615,41.94843,42.3615",
+    "geom:latitude":42.3615,
+    "geom:longitude":41.94843,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Bia Sashonio",
+    "gn:country_code":"GE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615463,
+    "gn:latitude":42.3615,
+    "gn:longitude":41.94843,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Bia Sashonio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Bia Sashonio"
+    ],
+    "name:kat_x_variant":[
+        "\u10d1\u10d8\u10d0 \u10e1\u10d0\u10e8\u10dd\u10dc\u10d8\u10dd"
+    ],
+    "name:und_x_variant":[
+        "Sashonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615463
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"4b42fc0e12cd9901d6b6ac5266bb6919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1259916953,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1259916953,
+    "wof:lastmodified":1537623291,
+    "wof:name":"Bia Sashonio",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.94843,
+    42.3615,
+    41.94843,
+    42.3615
+],
+  "geometry": {"coordinates":[41.94843,42.3615],"type":"Point"}
+}

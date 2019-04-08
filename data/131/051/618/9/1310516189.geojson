@@ -1,0 +1,73 @@
+{
+  "id": 1310516189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.72845,41.6771,45.72845,41.6771",
+    "geom:latitude":41.6771,
+    "geom:longitude":45.72845,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Arashenda",
+    "gn:country_code":"GE",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615713,
+    "gn:latitude":41.6771,
+    "gn:longitude":45.72845,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Arashenda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Arashenda"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e0\u10d0\u10e8\u10d4\u10dc\u10d3\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615713
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b75c177a270e79e899bd23a472013a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691291,
+            "locality_id":1310516189,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310516189,
+    "wof:lastmodified":1537623305,
+    "wof:name":"Arashenda",
+    "wof:parent_id":1108691291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.72845,
+    41.6771,
+    45.72845,
+    41.6771
+],
+  "geometry": {"coordinates":[45.72845,41.6771],"type":"Point"}
+}

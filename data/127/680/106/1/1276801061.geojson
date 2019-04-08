@@ -1,0 +1,70 @@
+{
+  "id": 1276801061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2098,42.45719,43.2098,42.45719",
+    "geom:latitude":42.45719,
+    "geom:longitude":43.2098,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Betlevi",
+    "gn:country_code":"GE",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615472,
+    "gn:latitude":42.45719,
+    "gn:longitude":43.2098,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Betlevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d7\u10da\u10d4\u10d5\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615472
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8f3f862be141e2897ecaec15487eaad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691249,
+            "locality_id":1276801061,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1276801061,
+    "wof:lastmodified":1537623291,
+    "wof:name":"Betlevi",
+    "wof:parent_id":1108691249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2098,
+    42.45719,
+    43.2098,
+    42.45719
+],
+  "geometry": {"coordinates":[43.2098,42.45719],"type":"Point"}
+}

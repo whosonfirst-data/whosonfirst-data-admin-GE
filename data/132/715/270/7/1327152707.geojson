@@ -1,0 +1,67 @@
+{
+  "id": 1327152707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84658,42.18936,43.84658,42.18936",
+    "geom:latitude":42.18936,
+    "geom:longitude":43.84658,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Prinevi",
+    "gn:country_code":"GE",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612359,
+    "gn:latitude":42.18936,
+    "gn:longitude":43.84658,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Prinevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612359
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"c42f081be427f2bdcece492de3417fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1327152707,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1327152707,
+    "wof:lastmodified":1537081478,
+    "wof:name":"Prinevi",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84658,
+    42.18936,
+    43.84658,
+    42.18936
+],
+  "geometry": {"coordinates":[43.84658,42.18936],"type":"Point"}
+}

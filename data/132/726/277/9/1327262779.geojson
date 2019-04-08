@@ -1,0 +1,73 @@
+{
+  "id": 1327262779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49768,41.37462,43.49768,41.37462",
+    "geom:latitude":41.37462,
+    "geom:longitude":43.49768,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Mart'uni",
+    "gn:country_code":"GE",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613066,
+    "gn:latitude":41.37462,
+    "gn:longitude":43.49768,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mart\u2019uni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Mart\u2019uni"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10e0\u10d7\u10e3\u10dc\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613066
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9204374d24956158ee90102de18d6a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691243,
+            "locality_id":1327262779,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1327262779,
+    "wof:lastmodified":1537623155,
+    "wof:name":"Mart'uni",
+    "wof:parent_id":1108691243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49768,
+    41.37462,
+    43.49768,
+    41.37462
+],
+  "geometry": {"coordinates":[43.49768,41.37462],"type":"Point"}
+}

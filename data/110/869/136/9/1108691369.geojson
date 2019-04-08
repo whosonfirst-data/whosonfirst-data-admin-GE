@@ -1,0 +1,72 @@
+{
+  "id": 1108691369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002419,
+    "geom:area_square_m":21870806.650328,
+    "geom:bbox":"40.9599075317,42.9782714844,41.044178009,43.0252494812",
+    "geom:latitude":43.002293,
+    "geom:longitude":41.004359,
+    "iso:country":"GE",
+    "lbl:latitude":43.005044,
+    "lbl:longitude":41.005161,
+    "meso:admin_1":"Abkhazeti Autonomous Republic",
+    "meso:dissme":"SOKHUMI CITYABKHAZETI AUTONOMOUS REPUBLIC",
+    "meso:gadm_admin":"Sokhumi",
+    "meso:gadm_hasc2":"GE.AB.SU",
+    "meso:gaul_admin":"Soukhumi",
+    "meso:mps_x":41.005161,
+    "meso:mps_y":43.005044,
+    "meso:name_en":"Sokhumi City",
+    "meso:source":"ISCGM",
+    "mps:latitude":43.005044,
+    "mps:longitude":41.005161,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Soukhumi",
+        "Sokhumi"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"GE.AB.SU"
+    },
+    "wof:country":"GE",
+    "wof:created":1474307937,
+    "wof:geomhash":"39ea7e4800c5700754e9fd85234a9764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691369,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1108691369,
+    "wof:lastmodified":1536615236,
+    "wof:name":"Sokhumi City",
+    "wof:parent_id":1108805957,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:shortcode":"SU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95990753173828,
+    42.978271484375,
+    41.0441780090332,
+    43.02524948120117
+],
+  "geometry": {"coordinates":[[[41.03981399536133,42.99251937866211],[41.03115463256836,42.99100112915039],[41.02438354492188,42.99091720581055],[41.01596069335938,42.98915100097656],[41.00572204589844,42.98950958251953],[41.00092315673828,42.98886108398438],[40.99483871459961,42.98729705810547],[40.98236846923828,42.97998809814453],[40.9751091003418,42.978271484375],[40.97016525268555,42.97929000854492],[40.95990753173828,42.98451232910156],[40.96110153198242,42.9927864074707],[40.9649658203125,42.99662780761719],[40.97882080078125,43.01017761230469],[40.98505401611328,43.01644134521484],[40.99193954467773,43.01473236083984],[41.00846481323242,43.02213287353516],[41.00839614868164,43.02524948120117],[41.01706695556641,43.02467727661133],[41.02029800415039,43.0219612121582],[41.03299331665039,43.02493667602539],[41.03963851928711,43.02078247070312],[41.04363250732422,43.0123405456543],[41.0441780090332,43.00592803955078],[41.03981399536133,42.99251937866211]]],"type":"Polygon"}
+}

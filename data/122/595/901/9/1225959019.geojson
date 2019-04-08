@@ -1,0 +1,76 @@
+{
+  "id": 1225959019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07083,42.50722,44.07083,42.50722",
+    "geom:latitude":42.50722,
+    "geom:longitude":44.07083,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bagiata",
+    "gn:country_code":"GE",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615606,
+    "gn:latitude":42.50722,
+    "gn:longitude":44.07083,
+    "gn:modification_date":"2016-03-06",
+    "gn:name":"Bagiata",
+    "gn:population":41,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bagiata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0438\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615606
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a4d2f28e96c446b55c029b654721624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1225959019,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1225959019,
+    "wof:lastmodified":1537623298,
+    "wof:name":"Bagiata",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:population":41,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07083,
+    42.50722,
+    44.07083,
+    42.50722
+],
+  "geometry": {"coordinates":[44.07083,42.50722],"type":"Point"}
+}

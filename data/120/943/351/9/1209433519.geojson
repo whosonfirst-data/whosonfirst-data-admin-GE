@@ -1,0 +1,68 @@
+{
+  "id": 1209433519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9526,42.54567,44.9526,42.54567",
+    "geom:latitude":42.54567,
+    "geom:longitude":44.9526,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Aqneli",
+    "gn:country_code":"GE",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615825,
+    "gn:latitude":42.54567,
+    "gn:longitude":44.9526,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Aqneli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10e7\u10dc\u10d4\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Akneli",
+        "Aqneli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615825
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"bcbba596b480b4dbaabc67c3f99eb054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209433519
+        }
+    ],
+    "wof:id":1209433519,
+    "wof:lastmodified":1537623311,
+    "wof:name":"Aqneli",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9526,
+    42.54567,
+    44.9526,
+    42.54567
+],
+  "geometry": {"coordinates":[44.9526,42.54567],"type":"Point"}
+}

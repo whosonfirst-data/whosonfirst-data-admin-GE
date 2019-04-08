@@ -1,0 +1,79 @@
+{
+  "id": 1327170405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13674,41.95795,44.13674,41.95795",
+    "geom:latitude":41.95795,
+    "geom:longitude":44.13674,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Khidist'avi",
+    "gn:country_code":"GE",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613938,
+    "gn:latitude":41.95795,
+    "gn:longitude":44.13674,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Khidist\u2019avi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khidist'avi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10e1\u10d8\u10d7\u10d0\u10d5\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0434\u0438\u0441\u0442\u0430\u0432\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khidist\u2019avi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613938
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"7ba5a9fe147e3fbbd9a39ae29915b31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1327170405,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1327170405,
+    "wof:lastmodified":1537623205,
+    "wof:name":"Khidist'avi",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13674,
+    41.95795,
+    44.13674,
+    41.95795
+],
+  "geometry": {"coordinates":[44.13674,41.95795],"type":"Point"}
+}

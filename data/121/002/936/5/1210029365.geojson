@@ -1,0 +1,73 @@
+{
+  "id": 1210029365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.24806,43.09194,41.24806,43.09194",
+    "geom:latitude":43.09194,
+    "geom:longitude":41.24806,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arasara",
+    "gn:country_code":"GE",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":865426,
+    "gn:latitude":43.09194,
+    "gn:longitude":41.24806,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Arasara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10e1\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Arasara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":865426
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"2ef96a863593803e322d4d450e9b488e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691287,
+            "locality_id":1210029365,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1210029365,
+    "wof:lastmodified":1537623343,
+    "wof:name":"Arasara",
+    "wof:parent_id":1108691287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.24806,
+    43.09194,
+    41.24806,
+    43.09194
+],
+  "geometry": {"coordinates":[41.24806,43.09194],"type":"Point"}
+}

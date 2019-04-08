@@ -1,0 +1,73 @@
+{
+  "id": 1260195735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49618,42.64242,41.49618,42.64242",
+    "geom:latitude":42.64242,
+    "geom:longitude":41.49618,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nagvalou",
+    "gn:country_code":"GE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823937,
+    "gn:latitude":42.64242,
+    "gn:longitude":41.49618,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nagvalou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Naghvalou"
+    ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d0\u10e6\u10d5\u10d0\u10da\u10dd\u10e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823937
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f569e7cf3af1f51de37666e198a1293f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691279,
+            "locality_id":1260195735,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1260195735,
+    "wof:lastmodified":1537623331,
+    "wof:name":"Nagvalou",
+    "wof:parent_id":1108691279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49618,
+    42.64242,
+    41.49618,
+    42.64242
+],
+  "geometry": {"coordinates":[41.49618,42.64242],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209224587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.795,42.49639,43.795,42.49639",
+    "geom:latitude":42.49639,
+    "geom:longitude":43.795,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sintbadan",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611891,
+    "gn:latitude":42.49639,
+    "gn:longitude":43.795,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sintbadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sintbadon",
+        "Sintbadan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611891
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b9fd41275bdd016859d8d77cf07246c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209224587
+        }
+    ],
+    "wof:id":1209224587,
+    "wof:lastmodified":1537623086,
+    "wof:name":"Sintbadan",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.795,
+    42.49639000000001,
+    43.795,
+    42.49639000000001
+],
+  "geometry": {"coordinates":[43.795,42.49639000000001],"type":"Point"}
+}

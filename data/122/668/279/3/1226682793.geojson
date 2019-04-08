@@ -1,0 +1,75 @@
+{
+  "id": 1226682793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.96547,41.35381,44.96547,41.35381",
+    "geom:latitude":41.35381,
+    "geom:longitude":44.96547,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"T'ek'ali",
+    "gn:country_code":"GE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611767,
+    "gn:latitude":41.35381,
+    "gn:longitude":44.96547,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"T\u2019ek\u2019ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10e5\u10d0\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Takyalo",
+        "T\u2019ek\u2019ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611767,
+        "wk:page":"Tekali"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"25cbfd69a37aab114d7fe7634a2cca25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691331,
+            "locality_id":1226682793,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1226682793,
+    "wof:lastmodified":1537623080,
+    "wof:name":"T'ek'ali",
+    "wof:parent_id":1108691331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.96547,
+    41.35381,
+    44.96547,
+    41.35381
+],
+  "geometry": {"coordinates":[44.96547,41.35381],"type":"Point"}
+}

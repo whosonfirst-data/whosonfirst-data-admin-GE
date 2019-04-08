@@ -1,0 +1,67 @@
+{
+  "id": 1226554683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.66667,42.4,44.66667,42.4",
+    "geom:latitude":42.4,
+    "geom:longitude":44.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kvemo-Amirni",
+    "gn:country_code":"GE",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613500,
+    "gn:latitude":42.4,
+    "gn:longitude":44.66667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Kvemo-Amirni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613500
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"084a637be2a47562574de7d687f5b52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691275,
+            "locality_id":1226554683,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1226554683,
+    "wof:lastmodified":1536984288,
+    "wof:name":"Kvemo-Amirni",
+    "wof:parent_id":1108691275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.66667,
+    42.4,
+    44.66667,
+    42.4
+],
+  "geometry": {"coordinates":[44.66667,42.4],"type":"Point"}
+}

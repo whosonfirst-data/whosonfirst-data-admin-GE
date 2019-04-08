@@ -1,0 +1,70 @@
+{
+  "id": 1327466969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.99806,41.92889,41.99806,41.92889",
+    "geom:latitude":41.92889,
+    "geom:longitude":41.99806,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Makharadze",
+    "gn:country_code":"GE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613131,
+    "gn:latitude":41.92889,
+    "gn:longitude":41.99806,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Makharadze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Makharadze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613131
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ceecb758f3b70ee4a8ca77e185f83262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691347,
+            "locality_id":1327466969,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1327466969,
+    "wof:lastmodified":1537623158,
+    "wof:name":"Makharadze",
+    "wof:parent_id":1108691347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.99806,
+    41.92889,
+    41.99806,
+    41.92889
+],
+  "geometry": {"coordinates":[41.99806,41.92889],"type":"Point"}
+}

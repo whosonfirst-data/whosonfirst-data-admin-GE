@@ -1,0 +1,67 @@
+{
+  "id": 1309942225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08674,42.51162,43.08674,42.51162",
+    "geom:latitude":42.51162,
+    "geom:longitude":43.08674,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Znakva",
+    "gn:country_code":"GE",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610839,
+    "gn:latitude":42.51162,
+    "gn:longitude":43.08674,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Znakva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610839
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cf91ed6c99e0c08cec02c23274209df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691249,
+            "locality_id":1309942225,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":1309942225,
+    "wof:lastmodified":1536734637,
+    "wof:name":"Znakva",
+    "wof:parent_id":1108691249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08674,
+    42.51162,
+    43.08674,
+    42.51162
+],
+  "geometry": {"coordinates":[43.08674,42.51162],"type":"Point"}
+}

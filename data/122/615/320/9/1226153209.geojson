@@ -1,0 +1,67 @@
+{
+  "id": 1226153209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.21667,41.45,43.21667,41.45",
+    "geom:latitude":41.45,
+    "geom:longitude":43.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shalosheti",
+    "gn:country_code":"GE",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612028,
+    "gn:latitude":41.45,
+    "gn:longitude":43.21667,
+    "gn:modification_date":"1998-04-02",
+    "gn:name":"Shalosheti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612028
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"94d771ec9d7fbf2037fa1675525ff2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691251,
+            "locality_id":1226153209,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1226153209,
+    "wof:lastmodified":1537064010,
+    "wof:name":"Shalosheti",
+    "wof:parent_id":1108691251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.21667,
+    41.45,
+    43.21667,
+    41.45
+],
+  "geometry": {"coordinates":[43.21667,41.45],"type":"Point"}
+}

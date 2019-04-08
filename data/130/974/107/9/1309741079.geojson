@@ -1,0 +1,73 @@
+{
+  "id": 1309741079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04444,42.19111,43.04444,42.19111",
+    "geom:latitude":42.19111,
+    "geom:longitude":43.04444,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Zovret'i",
+    "gn:country_code":"GE",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610830,
+    "gn:latitude":42.19111,
+    "gn:longitude":43.04444,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zovret\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zovret\u2019i"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10dd\u10d5\u10e0\u10d4\u10d7\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610830
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1550df70a36105fc31d8e18d5f38ab3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691399,
+            "locality_id":1309741079,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1309741079,
+    "wof:lastmodified":1537623021,
+    "wof:name":"Zovret'i",
+    "wof:parent_id":1108691399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04444,
+    42.19111,
+    43.04444,
+    42.19111
+],
+  "geometry": {"coordinates":[43.04444,42.19111],"type":"Point"}
+}

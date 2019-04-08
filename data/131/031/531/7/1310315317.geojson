@@ -1,0 +1,67 @@
+{
+  "id": 1310315317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.99778,41.56056,45.99778,41.56056",
+    "geom:latitude":41.56056,
+    "geom:longitude":45.99778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Prasiani",
+    "gn:country_code":"GE",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612363,
+    "gn:latitude":41.56056,
+    "gn:longitude":45.99778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Prasiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612363
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e58e2afca84cdc06a95534a6675185c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691365,
+            "locality_id":1310315317,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310315317,
+    "wof:lastmodified":1536693875,
+    "wof:name":"Prasiani",
+    "wof:parent_id":1108691365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.99778,
+    41.56056,
+    45.99778,
+    41.56056
+],
+  "geometry": {"coordinates":[45.99778,41.56056],"type":"Point"}
+}

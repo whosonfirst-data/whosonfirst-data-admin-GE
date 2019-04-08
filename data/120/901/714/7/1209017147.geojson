@@ -1,0 +1,70 @@
+{
+  "id": 1209017147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96875,43.2038,40.96875,43.2038",
+    "geom:latitude":43.2038,
+    "geom:longitude":40.96875,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adzibzhara",
+    "gn:country_code":"GE",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824150,
+    "gn:latitude":43.2038,
+    "gn:longitude":40.96875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adzibzhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10eb\u10d8\u10d1\u10df\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Adzibzhara"
+    ],
+    "name:und_x_variant":[
+        "Adzybzhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824150
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"92fb8d7ba83b5df18e044209f544e1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209017147
+        }
+    ],
+    "wof:id":1209017147,
+    "wof:lastmodified":1537623335,
+    "wof:name":"Adzibzhara",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96875,
+    43.2038,
+    40.96875,
+    43.2038
+],
+  "geometry": {"coordinates":[40.96875,43.2038],"type":"Point"}
+}

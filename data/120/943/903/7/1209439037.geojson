@@ -1,0 +1,67 @@
+{
+  "id": 1209439037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.02314,41.57229,42.02314,41.57229",
+    "geom:latitude":41.57229,
+    "geom:longitude":42.02314,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Didghele",
+    "gn:country_code":"GE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866872,
+    "gn:latitude":41.57229,
+    "gn:longitude":42.02314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Didghele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Didghele"
+    ],
+    "name:kat_x_variant":[
+        "\u10d3\u10d8\u10d3\u10e6\u10d4\u10da\u10d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866872
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9725c316e26d42f2ffe5681a854aa2d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209439037
+        }
+    ],
+    "wof:id":1209439037,
+    "wof:lastmodified":1537623355,
+    "wof:name":"Didghele",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.02314000000001,
+    41.57229,
+    42.02314000000001,
+    41.57229
+],
+  "geometry": {"coordinates":[42.02314000000001,41.57229],"type":"Point"}
+}

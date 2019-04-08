@@ -1,0 +1,83 @@
+{
+  "id": 1309939861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82505,42.06943,42.82505,42.06943",
+    "geom:latitude":42.06943,
+    "geom:longitude":42.82505,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Bagdat'i",
+    "gn:country_code":"GE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615607,
+    "gn:latitude":42.06943,
+    "gn:longitude":42.82505,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Bagdat\u2019i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bagdat'i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0434\u0430\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mayakovski",
+        "Bagdat",
+        "Mayakovskiy",
+        "Baghdadi",
+        "Mbagdat",
+        "Bagdadi",
+        "Bagdat\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805937,
+        1108691255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615607,
+        "wk:page":"Baghdati"
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"ac08306937f015df3075f76b1a93d083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691255,
+            "locality_id":1309939861,
+            "region_id":1108805937
+        }
+    ],
+    "wof:id":1309939861,
+    "wof:lastmodified":1537623298,
+    "wof:name":"Bagdat'i",
+    "wof:parent_id":1108691255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82505,
+    42.06943,
+    42.82505,
+    42.06943
+],
+  "geometry": {"coordinates":[42.82505,42.06943],"type":"Point"}
+}

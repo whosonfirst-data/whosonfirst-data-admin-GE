@@ -1,0 +1,79 @@
+{
+  "id": 1326464039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9559,42.18504,43.9559,42.18504",
+    "geom:latitude":42.18504,
+    "geom:longitude":43.9559,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Zemo-Khviti",
+    "gn:country_code":"GE",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610943,
+    "gn:latitude":42.18504,
+    "gn:longitude":43.9559,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Zemo-Khviti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10db\u10dd \u10ee\u10d5\u10d8\u10d7\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043c\u043e \u0425\u0432\u0438\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Khviti Verkhniye",
+        "Verkhniye Khviti",
+        "Zemo-Khviti",
+        "Zemo Khviti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610943
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"211d75eec509448301007962476da0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691283,
+            "locality_id":1326464039,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1326464039,
+    "wof:lastmodified":1537623030,
+    "wof:name":"Zemo-Khviti",
+    "wof:parent_id":1108691283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9559,
+    42.18504,
+    43.9559,
+    42.18504
+],
+  "geometry": {"coordinates":[43.9559,42.18504],"type":"Point"}
+}

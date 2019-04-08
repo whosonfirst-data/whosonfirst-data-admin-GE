@@ -1,0 +1,68 @@
+{
+  "id": 1209243619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.45464,42.04719,42.45464,42.04719",
+    "geom:latitude":42.04719,
+    "geom:longitude":42.45464,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Mikeleponi",
+    "gn:country_code":"GE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612971,
+    "gn:latitude":42.04719,
+    "gn:longitude":42.45464,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Mikeleponi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e5\u10d4\u10da\u10d4\u10e4\u10dd\u10dc\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Mikelponi",
+        "Mikeleponi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612971
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"5eb7038482b82cbfab171a259a6fa075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209243619
+        }
+    ],
+    "wof:id":1209243619,
+    "wof:lastmodified":1537623149,
+    "wof:name":"Mikeleponi",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.45464000000001,
+    42.04719,
+    42.45464000000001,
+    42.04719
+],
+  "geometry": {"coordinates":[42.45464000000001,42.04719],"type":"Point"}
+}

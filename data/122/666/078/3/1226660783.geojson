@@ -1,0 +1,67 @@
+{
+  "id": 1226660783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.88611,42.33611,41.88611,42.33611",
+    "geom:latitude":42.33611,
+    "geom:longitude":41.88611,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chikhu",
+    "gn:country_code":"GE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874061,
+    "gn:latitude":42.33611,
+    "gn:longitude":41.88611,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Chikhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874061
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9977bf3ac898065d1819c8920d672587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1226660783,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226660783,
+    "wof:lastmodified":1536836669,
+    "wof:name":"Chikhu",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.88611,
+    42.33611,
+    41.88611,
+    42.33611
+],
+  "geometry": {"coordinates":[41.88611,42.33611],"type":"Point"}
+}

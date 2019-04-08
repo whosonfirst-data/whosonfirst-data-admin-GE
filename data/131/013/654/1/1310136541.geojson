@@ -1,0 +1,70 @@
+{
+  "id": 1310136541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85896,41.98093,43.85896,41.98093",
+    "geom:latitude":41.98093,
+    "geom:longitude":43.85896,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Kldu",
+    "gn:country_code":"GE",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613778,
+    "gn:latitude":41.98093,
+    "gn:longitude":43.85896,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kldu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10da\u10d3\u10e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613778
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"a7b52950407e326b827567a8efdafeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691295,
+            "locality_id":1310136541,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1310136541,
+    "wof:lastmodified":1537623196,
+    "wof:name":"Kldu",
+    "wof:parent_id":1108691295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85896,
+    41.98093,
+    43.85896,
+    41.98093
+],
+  "geometry": {"coordinates":[43.85896,41.98093],"type":"Point"}
+}

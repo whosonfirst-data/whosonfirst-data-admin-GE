@@ -1,0 +1,71 @@
+{
+  "id": 1343868217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.38611,41.85056,44.38611,41.85056",
+    "geom:latitude":41.85056,
+    "geom:longitude":44.38611,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mtiultubani",
+    "gn:country_code":"GE",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612892,
+    "gn:latitude":41.85056,
+    "gn:longitude":44.38611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mtiultubani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mtiyeltubani",
+        "Mtiultubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612892
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cc768c3960d4e8225686cc39d739d8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691297,
+            "locality_id":1343868217,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1343868217,
+    "wof:lastmodified":1537623144,
+    "wof:name":"Mtiultubani",
+    "wof:parent_id":1108691297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.38611,
+    41.85056,
+    44.38611,
+    41.85056
+],
+  "geometry": {"coordinates":[44.38611,41.85056],"type":"Point"}
+}

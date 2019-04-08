@@ -1,0 +1,73 @@
+{
+  "id": 1260183119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.92574,41.60734,41.92574,41.60734",
+    "geom:latitude":41.60734,
+    "geom:longitude":41.92574,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zendidi",
+    "gn:country_code":"GE",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":610877,
+    "gn:latitude":41.60734,
+    "gn:longitude":41.92574,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Zendidi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Zendidi"
+    ],
+    "name:kat_x_variant":[
+        "\u10d6\u10d4\u10dc\u10d3\u10d8\u10d3\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":610877
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"9b354076181c8ed9734c70e4fa3fd143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691301,
+            "locality_id":1260183119,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1260183119,
+    "wof:lastmodified":1537623024,
+    "wof:name":"Zendidi",
+    "wof:parent_id":1108691301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.92574000000001,
+    41.60734,
+    41.92574000000001,
+    41.60734
+],
+  "geometry": {"coordinates":[41.92574000000001,41.60734],"type":"Point"}
+}

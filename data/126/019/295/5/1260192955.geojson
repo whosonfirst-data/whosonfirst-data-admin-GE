@@ -1,0 +1,67 @@
+{
+  "id": 1260192955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.40833,43.10083,42.40833,43.10083",
+    "geom:latitude":43.10083,
+    "geom:longitude":42.40833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nenkvash",
+    "gn:country_code":"GE",
+    "gn:dem":2065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612714,
+    "gn:latitude":43.10083,
+    "gn:longitude":42.40833,
+    "gn:modification_date":"1996-03-04",
+    "gn:name":"Nenkvash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612714
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"978a6c1f6f67dacd32d14adeab634c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1260192955,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1260192955,
+    "wof:lastmodified":1536833851,
+    "wof:name":"Nenkvash",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.40833,
+    43.10083,
+    42.40833,
+    43.10083
+],
+  "geometry": {"coordinates":[42.40833,43.10083],"type":"Point"}
+}

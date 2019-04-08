@@ -1,0 +1,73 @@
+{
+  "id": 1327262781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51105,41.79476,43.51105,41.79476",
+    "geom:latitude":41.79476,
+    "geom:longitude":43.51105,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Mzet'amze",
+    "gn:country_code":"GE",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612836,
+    "gn:latitude":41.79476,
+    "gn:longitude":43.51105,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mzet\u2019amze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10db\u10d6\u10d4\u10d7\u10d0\u10db\u10d6\u10d4"
+    ],
+    "name:und_x_variant":[
+        "Mzet\u2019amze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805953,
+        1108691261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612836
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f0ca01d0587c47aabd6a0d7d6e737d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691261,
+            "locality_id":1327262781,
+            "region_id":1108805953
+        }
+    ],
+    "wof:id":1327262781,
+    "wof:lastmodified":1537623141,
+    "wof:name":"Mzet'amze",
+    "wof:parent_id":1108691261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51105,
+    41.79476,
+    43.51105,
+    41.79476
+],
+  "geometry": {"coordinates":[43.51105,41.79476],"type":"Point"}
+}

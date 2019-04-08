@@ -1,0 +1,80 @@
+{
+  "id": 1344171579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.20222,43.42,40.20222,43.42",
+    "geom:latitude":43.42,
+    "geom:longitude":40.20222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Achmarda",
+    "gn:country_code":"GE",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615977,
+    "gn:latitude":43.42,
+    "gn:longitude":40.20222,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Achmarda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ach'marda"
+    ],
+    "name:kat_x_preferred":[
+        "Achmarda"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e9\u10db\u10d0\u10e0\u10d3\u10d0",
+        "\u10d0\u10e9\u10db\u10d0\u10e0\u10da\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0447\u043c\u0430\u0440\u0434\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615977
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"76a70cd25b023717fb70df03b8ebc005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691277,
+            "locality_id":1344171579,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1344171579,
+    "wof:lastmodified":1537623320,
+    "wof:name":"Achmarda",
+    "wof:parent_id":1108691277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.20222,
+    43.42,
+    40.20222,
+    43.42
+],
+  "geometry": {"coordinates":[40.20222,43.42],"type":"Point"}
+}

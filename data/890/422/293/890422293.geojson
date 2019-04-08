@@ -1,0 +1,74 @@
+{
+  "id": 890422293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.83556,42.61806,42.83556,42.61806",
+    "geom:latitude":42.61806,
+    "geom:longitude":42.83556,
+    "gn:country":"GE",
+    "gn:fcode":"PPL",
+    "gn:pop":95,
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Lajana"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d0\u10ef\u10d0\u10dc\u10d0"
+    ],
+    "name:unk_x_variant":[
+        "Ladzhanurges Tsentral\u2019nyy"
+    ],
+    "qs:name":"Lajanurhesi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805959,
+        1108691385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613347,
+        "qs:id":550328
+    },
+    "wof:country":"GE",
+    "wof:created":1469051435,
+    "wof:geomhash":"ed18f4a6312e5388efa8799be22d3f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691385,
+            "locality_id":890422293,
+            "region_id":1108805959
+        }
+    ],
+    "wof:id":890422293,
+    "wof:lastmodified":1505343468,
+    "wof:name":"Lajanurhesi",
+    "wof:parent_id":1108691385,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.83556,
+    42.61806,
+    42.83556,
+    42.61806
+],
+  "geometry": {"coordinates":[42.83556,42.61806],"type":"Point"}
+}

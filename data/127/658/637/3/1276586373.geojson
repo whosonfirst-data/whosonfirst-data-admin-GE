@@ -1,0 +1,67 @@
+{
+  "id": 1276586373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.36667,42.05,42.36667,42.05",
+    "geom:latitude":42.05,
+    "geom:longitude":42.36667,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kalagoni",
+    "gn:country_code":"GE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614181,
+    "gn:latitude":42.05,
+    "gn:longitude":42.36667,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Kalagoni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614181
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"8813c9c1bbb87765ce824f1ceb144bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1276586373,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1276586373,
+    "wof:lastmodified":1536937966,
+    "wof:name":"Kalagoni",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.36667,
+    42.05,
+    42.36667,
+    42.05
+],
+  "geometry": {"coordinates":[42.36667,42.05],"type":"Point"}
+}

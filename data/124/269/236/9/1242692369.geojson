@@ -1,0 +1,67 @@
+{
+  "id": 1242692369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.95391,42.41302,43.95391,42.41302",
+    "geom:latitude":42.41302,
+    "geom:longitude":43.95391,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khvtse",
+    "gn:country_code":"GE",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613849,
+    "gn:latitude":42.41302,
+    "gn:longitude":43.95391,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Khvtse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805941,
+        1108691293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613849
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"aac68f85ef892da526af87712e7164f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691293,
+            "locality_id":1242692369,
+            "region_id":1108805941
+        }
+    ],
+    "wof:id":1242692369,
+    "wof:lastmodified":1536898334,
+    "wof:name":"Khvtse",
+    "wof:parent_id":1108691293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.95391,
+    42.41302,
+    43.95391,
+    42.41302
+],
+  "geometry": {"coordinates":[43.95391,42.41302],"type":"Point"}
+}

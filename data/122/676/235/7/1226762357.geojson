@@ -1,0 +1,67 @@
+{
+  "id": 1226762357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.93972,42.44972,41.93972,42.44972",
+    "geom:latitude":42.44972,
+    "geom:longitude":41.93972,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Narazeni",
+    "gn:country_code":"GE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":874084,
+    "gn:latitude":42.44972,
+    "gn:longitude":41.93972,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Narazeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":874084
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"fc4d58a75112e436d47829e3b1bdeb9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691401,
+            "locality_id":1226762357,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226762357,
+    "wof:lastmodified":1536691718,
+    "wof:name":"Narazeni",
+    "wof:parent_id":1108691401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.93972,
+    42.44972,
+    41.93972,
+    42.44972
+],
+  "geometry": {"coordinates":[41.93972,42.44972],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226279229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.85222,42.26667,41.85222,42.26667",
+    "geom:latitude":42.26667,
+    "geom:longitude":41.85222,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Gaghma P'irveli Khorga",
+    "gn:country_code":"GE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614627,
+    "gn:latitude":42.26667,
+    "gn:longitude":41.85222,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Gaghma P\u2019irveli Khorga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gaghma Pirveli Khorga"
+    ],
+    "name:kat_x_preferred":[
+        "Gaghma P\u2019irveli Khorga"
+    ],
+    "name:kat_x_variant":[
+        "\u10d2\u10d0\u10e6\u10db\u10d0 \u10de\u10d8\u10e0\u10d5\u10d4\u10da\u10d8 \u10ee\u10dd\u10e0\u10d2\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043c\u043e\u0433\u043c\u0430-\u041f\u0438\u0440\u0432\u0435\u043b\u0438-\u0425\u043e\u0440\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gagma-Khorga",
+        "Gagma Pirveli Khorga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614627
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"e29ff8eaa0ba9b6051d808dd3250f2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691311,
+            "locality_id":1226279229,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1226279229,
+    "wof:lastmodified":1537623242,
+    "wof:name":"Gaghma P'irveli Khorga",
+    "wof:parent_id":1108691311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.85222,
+    42.26667,
+    41.85222,
+    42.26667
+],
+  "geometry": {"coordinates":[41.85222,42.26667],"type":"Point"}
+}

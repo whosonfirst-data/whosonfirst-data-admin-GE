@@ -1,0 +1,84 @@
+{
+  "id": 1327440265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8185,43.08427,40.8185,43.08427",
+    "geom:latitude":43.08427,
+    "geom:longitude":40.8185,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akhali Atoni",
+    "gn:country_code":"GE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612660,
+    "gn:latitude":43.08427,
+    "gn:longitude":40.8185,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Akhali Atoni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10da\u10d8 \u10d0\u10d7\u10dd\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "Akhali Atoni"
+    ],
+    "name:und_x_variant":[
+        "Nowyi Afton",
+        "Akhali-Afoni",
+        "Psyrtskha",
+        "Psirtskha",
+        "New Athen",
+        "Novyy Afon",
+        "Pssyrzcha",
+        "Psereti",
+        "Psirtkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612660
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1acfff60bf6b755c7a857d5dbc58ff27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691285,
+            "locality_id":1327440265,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1327440265,
+    "wof:lastmodified":1537623130,
+    "wof:name":"Akhali Atoni",
+    "wof:parent_id":1108691285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8185,
+    43.08427,
+    40.8185,
+    43.08427
+],
+  "geometry": {"coordinates":[40.8185,43.08427],"type":"Point"}
+}

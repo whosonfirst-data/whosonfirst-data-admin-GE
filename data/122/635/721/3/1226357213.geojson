@@ -1,0 +1,67 @@
+{
+  "id": 1226357213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.52111,42.39083,45.52111,42.39083",
+    "geom:latitude":42.39083,
+    "geom:longitude":45.52111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bukhurta",
+    "gn:country_code":"GE",
+    "gn:dem":2094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":615363,
+    "gn:latitude":42.39083,
+    "gn:longitude":45.52111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bukhurta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615363
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"493c0ae9e12c19ea4be6008e0325f9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1226357213,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1226357213,
+    "wof:lastmodified":1536773542,
+    "wof:name":"Bukhurta",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.52111,
+    42.39083,
+    45.52111,
+    42.39083
+],
+  "geometry": {"coordinates":[45.52111,42.39083],"type":"Point"}
+}

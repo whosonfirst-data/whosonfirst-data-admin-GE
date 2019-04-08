@@ -1,0 +1,78 @@
+{
+  "id": 1360296073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.29389,42.14556,45.29389,42.14556",
+    "geom:latitude":42.14556,
+    "geom:longitude":45.29389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Duisi",
+    "gn:cc2":"GE",
+    "gn:country_code":"GE",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":614853,
+    "gn:latitude":42.14556,
+    "gn:longitude":45.29389,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Duisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Duisi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0438\u0441\u0438"
+    ],
+    "name:und_x_variant":[
+        "Duisopeli",
+        "Duisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":614853
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1f2aff51de13acfc210d8c3626d6b8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691247,
+            "locality_id":1360296073,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1360296073,
+    "wof:lastmodified":1537623257,
+    "wof:name":"Duisi",
+    "wof:parent_id":1108691247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.29389000000001,
+    42.14556,
+    45.29389000000001,
+    42.14556
+],
+  "geometry": {"coordinates":[45.29389000000001,42.14556],"type":"Point"}
+}

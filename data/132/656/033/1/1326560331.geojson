@@ -1,0 +1,77 @@
+{
+  "id": 1326560331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.48558,41.9466,42.48558,41.9466",
+    "geom:latitude":41.9466,
+    "geom:longitude":42.48558,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"T'obakhcha",
+    "gn:country_code":"GE",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611616,
+    "gn:latitude":41.9466,
+    "gn:longitude":42.48558,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"T\u2019obakhcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "T\u2019obakhcha"
+    ],
+    "name:kat_x_variant":[
+        "\u10e2\u10dd\u10d1\u10d0\u10ee\u10e9\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Tobakhcha-Tavsurebi",
+        "Tobakhcho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805955,
+        1108691267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611616
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dd603d215a0d9f7dac036f88afef669f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691267,
+            "locality_id":1326560331,
+            "region_id":1108805955
+        }
+    ],
+    "wof:id":1326560331,
+    "wof:lastmodified":1537623072,
+    "wof:name":"T'obakhcha",
+    "wof:parent_id":1108691267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.48558,
+    41.9466,
+    42.48558,
+    41.9466
+],
+  "geometry": {"coordinates":[42.48558,41.9466],"type":"Point"}
+}

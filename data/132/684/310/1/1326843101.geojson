@@ -1,0 +1,73 @@
+{
+  "id": 1326843101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.9846,43.03782,40.9846,43.03782",
+    "geom:latitude":43.03782,
+    "geom:longitude":40.9846,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Achadara",
+    "gn:country_code":"GE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615993,
+    "gn:latitude":43.03782,
+    "gn:longitude":40.9846,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Achadara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d0\u10e9\u10d0\u10d3\u10d0\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Achadara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615993
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"1d83dad0fbe540d041433beb23845ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1326843101,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1326843101,
+    "wof:lastmodified":1537623321,
+    "wof:name":"Achadara",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.9846,
+    43.03782,
+    40.9846,
+    43.03782
+],
+  "geometry": {"coordinates":[40.9846,43.03782],"type":"Point"}
+}

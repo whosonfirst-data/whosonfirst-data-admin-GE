@@ -1,0 +1,61 @@
+{
+  "id": 1209625351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.72291,42.50389,43.72291,42.50389",
+    "geom:latitude":42.50389,
+    "geom:longitude":43.72291,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shuachala",
+    "gn:country_code":"GE",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611944,
+    "gn:latitude":42.50389,
+    "gn:longitude":43.72291,
+    "gn:modification_date":"1994-03-07",
+    "gn:name":"Shuachala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611944
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"cf8720c28577886fdf75009383610268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209625351
+        }
+    ],
+    "wof:id":1209625351,
+    "wof:lastmodified":1536281373,
+    "wof:name":"Shuachala",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.72291,
+    42.50389000000001,
+    43.72291,
+    42.50389000000001
+],
+  "geometry": {"coordinates":[43.72291,42.50389000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310136443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.53851,41.59099,44.53851,41.59099",
+    "geom:latitude":41.59099,
+    "geom:longitude":44.53851,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Tbisi",
+    "gn:country_code":"GE",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611713,
+    "gn:latitude":41.59099,
+    "gn:longitude":44.53851,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tbisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e2\u10d1\u10d8\u10e1\u10d8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805951,
+        1108691377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611713
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"113e39bd29bbb436213611f794bd9fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691377,
+            "locality_id":1310136443,
+            "region_id":1108805951
+        }
+    ],
+    "wof:id":1310136443,
+    "wof:lastmodified":1537623077,
+    "wof:name":"Tbisi",
+    "wof:parent_id":1108691377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.53851,
+    41.59099000000001,
+    44.53851,
+    41.59099000000001
+],
+  "geometry": {"coordinates":[44.53851,41.59099000000001],"type":"Point"}
+}

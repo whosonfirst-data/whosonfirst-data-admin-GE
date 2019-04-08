@@ -1,0 +1,76 @@
+{
+  "id": 1259720319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.00726,42.91021,43.00726,42.91021",
+    "geom:latitude":42.91021,
+    "geom:longitude":43.00726,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Murq'meli",
+    "gn:country_code":"GE",
+    "gn:dem":2304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612850,
+    "gn:latitude":42.91021,
+    "gn:longitude":43.00726,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Murq\u2019meli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Murq\u2019meli"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10e3\u10e0\u10e7\u10db\u10d4\u10da\u10d8"
+    ],
+    "name:und_x_variant":[
+        "Murkmeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805935,
+        1108691335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612850
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"79057c079f19cf703ff3666dc62cea3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691335,
+            "locality_id":1259720319,
+            "region_id":1108805935
+        }
+    ],
+    "wof:id":1259720319,
+    "wof:lastmodified":1537623142,
+    "wof:name":"Murq'meli",
+    "wof:parent_id":1108691335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.00726,
+    42.91021,
+    43.00726,
+    42.91021
+],
+  "geometry": {"coordinates":[43.00726,42.91021],"type":"Point"}
+}

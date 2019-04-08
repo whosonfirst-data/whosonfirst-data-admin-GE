@@ -1,0 +1,70 @@
+{
+  "id": 1209232691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54816,43.19789,40.54816,43.19789",
+    "geom:latitude":43.19789,
+    "geom:longitude":40.54816,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sinirkhva",
+    "gn:country_code":"GE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":823873,
+    "gn:latitude":43.19789,
+    "gn:longitude":40.54816,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sinirkhva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10d8\u10e0\u10ee\u10d5\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "Sinirkhva"
+    ],
+    "name:und_x_variant":[
+        "Synyrkhva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823873
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"47f97dcde8fed2501a303624b40b4cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209232691
+        }
+    ],
+    "wof:id":1209232691,
+    "wof:lastmodified":1537623329,
+    "wof:name":"Sinirkhva",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54816,
+    43.19789,
+    40.54816,
+    43.19789
+],
+  "geometry": {"coordinates":[40.54816,43.19789],"type":"Point"}
+}

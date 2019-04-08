@@ -1,0 +1,67 @@
+{
+  "id": 1310015777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.07,41.81861,46.07,41.81861",
+    "geom:latitude":41.81861,
+    "geom:longitude":46.07,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Giorgeti",
+    "gn:country_code":"GE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":612574,
+    "gn:latitude":41.81861,
+    "gn:longitude":46.07,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Giorgeti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805939,
+        1108691323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":612574
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"f408e8d38c8996ef5ca933ee489c147b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691323,
+            "locality_id":1310015777,
+            "region_id":1108805939
+        }
+    ],
+    "wof:id":1310015777,
+    "wof:lastmodified":1536626570,
+    "wof:name":"Giorgeti",
+    "wof:parent_id":1108691323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.07,
+    41.81861,
+    46.07,
+    41.81861
+],
+  "geometry": {"coordinates":[46.07,41.81861],"type":"Point"}
+}

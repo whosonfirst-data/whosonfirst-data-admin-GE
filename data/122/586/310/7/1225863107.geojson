@@ -1,0 +1,67 @@
+{
+  "id": 1225863107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.50208,42.19333,44.50208,42.19333",
+    "geom:latitude":42.19333,
+    "geom:longitude":44.50208,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Kvemo Alevi",
+    "gn:country_code":"GE",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613503,
+    "gn:latitude":42.19333,
+    "gn:longitude":44.50208,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kvemo Alevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805943,
+        1108691241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613503
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"b01f79e5e17074969be3cf8a38635549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691241,
+            "locality_id":1225863107,
+            "region_id":1108805943
+        }
+    ],
+    "wof:id":1225863107,
+    "wof:lastmodified":1536987830,
+    "wof:name":"Kvemo Alevi",
+    "wof:parent_id":1108691241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.50208,
+    42.19333,
+    44.50208,
+    42.19333
+],
+  "geometry": {"coordinates":[44.50208,42.19333],"type":"Point"}
+}

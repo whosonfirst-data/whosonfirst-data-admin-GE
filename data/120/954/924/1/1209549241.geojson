@@ -1,0 +1,69 @@
+{
+  "id": 1209549241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93141,41.58968,43.93141,41.58968",
+    "geom:latitude":41.58968,
+    "geom:longitude":43.93141,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Edik'ilisa",
+    "gn:country_code":"GE",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":611115,
+    "gn:latitude":41.58968,
+    "gn:longitude":43.93141,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Edik\u2019ilisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d4\u10d3\u10d8\u10e5\u10d8\u10da\u10d8\u10e1\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Yeddi-Kilisa",
+        "Yedikilisa",
+        "Edik\u2019ilisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":611115
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"eba76053bda4150530605137e249cdd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209549241
+        }
+    ],
+    "wof:id":1209549241,
+    "wof:lastmodified":1537623043,
+    "wof:name":"Edik'ilisa",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93141,
+    41.58968,
+    43.93141,
+    41.58968
+],
+  "geometry": {"coordinates":[43.93141,41.58968],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310502473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.90971,41.85455,41.90971,41.85455",
+    "geom:latitude":41.85455,
+    "geom:longitude":41.90971,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Leghva",
+    "gn:country_code":"GE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":613260,
+    "gn:latitude":41.85455,
+    "gn:longitude":41.90971,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Leghva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Leghva"
+    ],
+    "name:kat_x_variant":[
+        "\u10da\u10d4\u10e6\u10d5\u10d0"
+    ],
+    "name:und_x_variant":[
+        "Legva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805947,
+        1108691317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":613260
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"89c1d6194f01e2c711bc2abe0664b558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691317,
+            "locality_id":1310502473,
+            "region_id":1108805947
+        }
+    ],
+    "wof:id":1310502473,
+    "wof:lastmodified":1537623166,
+    "wof:name":"Leghva",
+    "wof:parent_id":1108691317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.90971,
+    41.85455,
+    41.90971,
+    41.85455
+],
+  "geometry": {"coordinates":[41.90971,41.85455],"type":"Point"}
+}

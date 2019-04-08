@@ -1,0 +1,67 @@
+{
+  "id": 1293019105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91556,43.08194,40.91556,43.08194",
+    "geom:latitude":43.08194,
+    "geom:longitude":40.91556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lakoba",
+    "gn:country_code":"GE",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":799947,
+    "gn:latitude":43.08194,
+    "gn:longitude":40.91556,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Lakoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        1108805957,
+        1108691367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":799947
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"dda72e5669ac433dc9ba74de9f711517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "county_id":1108691367,
+            "locality_id":1293019105,
+            "region_id":1108805957
+        }
+    ],
+    "wof:id":1293019105,
+    "wof:lastmodified":1536965104,
+    "wof:name":"Lakoba",
+    "wof:parent_id":1108691367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91556,
+    43.08194,
+    40.91556,
+    43.08194
+],
+  "geometry": {"coordinates":[40.91556,43.08194],"type":"Point"}
+}

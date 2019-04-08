@@ -1,0 +1,67 @@
+{
+  "id": 1209546399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0588,41.93008,42.0588,41.93008",
+    "geom:latitude":41.93008,
+    "geom:longitude":42.0588,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Ch'ala",
+    "gn:country_code":"GE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":615291,
+    "gn:latitude":41.93008,
+    "gn:longitude":42.0588,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Ch\u2019ala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tbilisi",
+    "iso:country":"GE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "Ch\u2019ala"
+    ],
+    "name:kat_x_variant":[
+        "\u10ed\u10d0\u10da\u10d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":615291
+    },
+    "wof:country":"GE",
+    "wof:geomhash":"22baac6e3e09a519139fb6defdde84b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633163,
+            "locality_id":1209546399
+        }
+    ],
+    "wof:id":1209546399,
+    "wof:lastmodified":1537623283,
+    "wof:name":"Ch'ala",
+    "wof:parent_id":85633163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ge",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0588,
+    41.93008,
+    42.0588,
+    41.93008
+],
+  "geometry": {"coordinates":[42.0588,41.93008],"type":"Point"}
+}
