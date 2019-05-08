@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092635,
-    "geom:area_square_m":857964745.702659,
+    "geom:area_square_m":857964745.702697,
     "geom:bbox":"42.965675354,41.2784118652,43.4421882629,41.6959381104",
     "geom:latitude":41.49439,
     "geom:longitude":43.216695,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Aspindza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.49777,
     "lbl:longitude":43.232906,
     "meso:admin_1":"Samtskhe-javakheti",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108691251,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037619,
     "wof:name":"Aspindza",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

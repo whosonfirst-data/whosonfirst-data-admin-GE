@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091384,
-    "geom:area_square_m":843352960.124978,
+    "geom:area_square_m":843352960.124971,
     "geom:bbox":"45.5205917358,41.5318756104,45.9790992737,41.8986663818",
     "geom:latitude":41.725096,
     "geom:longitude":45.739201,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Gurjaani District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.72361,
     "lbl:longitude":45.758358,
     "meso:admin_1":"Kakheti",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108691291,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037617,
     "wof:name":"Gurjaani",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

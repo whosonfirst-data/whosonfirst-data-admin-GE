@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001906,
-    "geom:area_square_m":17643842.290558,
+    "geom:area_square_m":17643842.290555,
     "geom:bbox":"44.9971084595,41.5069274902,45.0677642822,41.5582885742",
     "geom:latitude":41.530527,
     "geom:longitude":45.032135,
@@ -35,10 +35,11 @@
         "Gardabani Municipality"
     ],
     "name:eng_x_preferred":[
-        "Gardabani Municipality"
+        "Gardabani"
     ],
     "name:eng_x_variant":[
         "Roustavi",
+        "Gardabani",
         "Gardabani"
     ],
     "name:fin_x_preferred":[
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108691351,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555220364,
     "wof:name":"Rustavi City",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

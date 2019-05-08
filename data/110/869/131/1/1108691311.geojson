@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076008,
-    "geom:area_square_m":695397513.211497,
+    "geom:area_square_m":695397513.211448,
     "geom:bbox":"41.611782074,42.0934257507,42.0668373108,42.4648857117",
     "geom:latitude":42.277263,
     "geom:longitude":41.828545,
@@ -32,9 +32,10 @@
         "Chobi"
     ],
     "name:eng_x_preferred":[
-        "Khobi Municipality"
+        "Khobi"
     ],
     "name:eng_x_variant":[
+        "Khobi",
         "Khobi"
     ],
     "name:est_x_preferred":[
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108691311,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555220363,
     "wof:name":"Khobi",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

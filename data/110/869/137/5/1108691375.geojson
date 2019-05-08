@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038429,
-    "geom:area_square_m":351866624.092983,
+    "geom:area_square_m":351866624.092963,
     "geom:bbox":"42.7190933228,42.1487922668,43.1348648071,42.2987709045",
     "geom:latitude":42.227651,
     "geom:longitude":42.928319,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Terjola District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.212305,
     "lbl:longitude":42.945161,
     "meso:admin_1":"Imereti",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108691375,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037603,
     "wof:name":"Terjola",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

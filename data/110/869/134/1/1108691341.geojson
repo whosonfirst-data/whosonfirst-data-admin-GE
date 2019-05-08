@@ -10,6 +10,12 @@
     "geom:latitude":42.909916,
     "geom:longitude":41.606463,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Ochamchire District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.892968,
     "lbl:longitude":41.60651,
     "meso:admin_1":"Abkhazeti Autonomous Republic",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691341,
-    "wof:lastmodified":1536615236,
+    "wof:lastmodified":1553718181,
     "wof:name":"Ochamchire",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

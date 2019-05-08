@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242899,
-    "geom:area_square_m":2223102002.371101,
+    "geom:area_square_m":2223102002.371046,
     "geom:bbox":"45.046131134,41.8736534119,45.7806358337,42.5657691956",
     "geom:latitude":42.253593,
     "geom:longitude":45.373186,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Akhmeta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.063954,
     "lbl:longitude":45.245237,
     "meso:admin_1":"Kakheti",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108691247,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037621,
     "wof:name":"Akhmeta",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

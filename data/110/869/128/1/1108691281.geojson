@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120116,
-    "geom:area_square_m":1110675292.412213,
+    "geom:area_square_m":1110675292.412233,
     "geom:bbox":"44.7019386292,41.330368042,45.3153190613,41.8561897278",
     "geom:latitude":41.599936,
     "geom:longitude":45.060058,
@@ -35,9 +35,10 @@
         "Gardabani Municipality"
     ],
     "name:eng_x_preferred":[
-        "Gardabani Municipality"
+        "Gardabani"
     ],
     "name:eng_x_variant":[
+        "Gardabani",
         "Gardabani"
     ],
     "name:fin_x_preferred":[
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108691281,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555220363,
     "wof:name":"Gardabani",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

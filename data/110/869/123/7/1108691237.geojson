@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027765,
-    "geom:area_square_m":254321890.357618,
+    "geom:area_square_m":254321890.357611,
     "geom:bbox":"42.0504226685,42.1059989929,42.3521881104,42.3052024841",
     "geom:latitude":42.203747,
     "geom:longitude":42.21581,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Abasha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.200429,
     "lbl:longitude":42.218091,
     "meso:admin_1":"Samagrelo-zemo Svaneti",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108691237,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037623,
     "wof:name":"Abasha",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

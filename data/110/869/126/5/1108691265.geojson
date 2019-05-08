@@ -10,6 +10,12 @@
     "geom:latitude":42.623789,
     "geom:longitude":42.232172,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Chkhorotsku District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.699903,
     "lbl:longitude":42.305363,
     "meso:admin_1":"Samagrelo-Zemo Svaneti",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108691265,
-    "wof:lastmodified":1536615234,
+    "wof:lastmodified":1553718180,
     "wof:name":"Chkhorotsku",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

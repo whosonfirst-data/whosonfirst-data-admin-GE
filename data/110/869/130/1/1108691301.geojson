@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04717,
-    "geom:area_square_m":436238027.253599,
+    "geom:area_square_m":436238027.253582,
     "geom:bbox":"41.7548942566,41.4929656982,42.1263580322,41.6989364624",
     "geom:latitude":41.588752,
     "geom:longitude":41.969494,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Keda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.597872,
     "lbl:longitude":42.006636,
     "meso:admin_1":"Ajara Autonomous Republic",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108691301,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037615,
     "wof:name":"Keda",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

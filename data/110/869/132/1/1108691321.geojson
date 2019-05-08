@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102161,
-    "geom:area_square_m":939303923.547997,
+    "geom:area_square_m":939303923.548049,
     "geom:bbox":"45.5576591492,41.79637146,46.1215515137,42.1232833862",
     "geom:latitude":41.963792,
     "geom:longitude":45.857764,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Kvareli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.966074,
     "lbl:longitude":45.834343,
     "meso:admin_1":"Kakheti",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1108691321,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037613,
     "wof:name":"Kvareli",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

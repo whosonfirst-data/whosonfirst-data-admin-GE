@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078976,
-    "geom:area_square_m":727309506.36391,
+    "geom:area_square_m":727309506.363901,
     "geom:bbox":"44.473739624,41.6875152588,45.066444397,41.9944267273",
     "geom:latitude":41.860261,
     "geom:longitude":44.704131,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Mtskheta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.887562,
     "lbl:longitude":44.659196,
     "meso:admin_1":"Mtskheta-Mtianeti",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108691337,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037609,
     "wof:name":"Mtskheta",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

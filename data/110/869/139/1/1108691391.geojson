@@ -10,6 +10,12 @@
     "geom:latitude":42.30308,
     "geom:longitude":42.646823,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Tskaltubo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.361263,
     "lbl:longitude":42.670158,
     "meso:admin_1":"Imereti",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691391,
-    "wof:lastmodified":1536615237,
+    "wof:lastmodified":1553718182,
     "wof:name":"Tskaltubo",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

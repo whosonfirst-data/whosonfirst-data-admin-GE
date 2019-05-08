@@ -10,6 +10,12 @@
     "geom:latitude":42.069159,
     "geom:longitude":43.807119,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Kareli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.06804,
     "lbl:longitude":43.843989,
     "meso:admin_1":"Shida Kartli",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108691295,
-    "wof:lastmodified":1536615235,
+    "wof:lastmodified":1553718180,
     "wof:name":"Kareli",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":41.30492,
     "geom:longitude":46.245767,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Dedoplitskaro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.280993,
     "lbl:longitude":46.402138,
     "meso:admin_1":"Kakheti",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108691269,
-    "wof:lastmodified":1536615234,
+    "wof:lastmodified":1553718180,
     "wof:name":"Dedoplitskaro",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

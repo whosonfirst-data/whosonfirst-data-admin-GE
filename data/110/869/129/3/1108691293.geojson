@@ -10,6 +10,12 @@
     "geom:latitude":42.473248,
     "geom:longitude":44.013563,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Java District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.463208,
     "lbl:longitude":44.019314,
     "meso:admin_1":"Shida Kartli",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108691293,
-    "wof:lastmodified":1536615235,
+    "wof:lastmodified":1553718180,
     "wof:name":"Java",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096938,
-    "geom:area_square_m":893330221.457565,
+    "geom:area_square_m":893330221.457545,
     "geom:bbox":"45.9039268494,41.5894775391,46.4284744263,42.0067558289",
     "geom:latitude":41.817383,
     "geom:longitude":46.167419,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Lagodekhi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.862184,
     "lbl:longitude":46.207016,
     "meso:admin_1":"Kakheti",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108691323,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037612,
     "wof:name":"Lagodekhi",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

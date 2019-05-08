@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047503,
-    "geom:area_square_m":435624390.400355,
+    "geom:area_square_m":435624390.400349,
     "geom:bbox":"42.7601051331,42.0284881592,43.2292289734,42.2293777466",
     "geom:latitude":42.128967,
     "geom:longitude":43.048986,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Zestafoni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.121531,
     "lbl:longitude":43.071959,
     "meso:admin_1":"Imereti",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108691399,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037600,
     "wof:name":"Zestafoni",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080015,
-    "geom:area_square_m":738041010.332929,
+    "geom:area_square_m":738041010.332989,
     "geom:bbox":"41.707736969,41.6072654724,42.2194519043,41.8990859985",
     "geom:latitude":41.759198,
     "geom:longitude":41.925839,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Kobuleti District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.769797,
     "lbl:longitude":41.879322,
     "meso:admin_1":"Ajara Autonomous Republic",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108691317,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037613,
     "wof:name":"Kobuleti",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083872,
-    "geom:area_square_m":774185720.301778,
+    "geom:area_square_m":774185720.301804,
     "geom:bbox":"42.4930763245,41.5784072876,42.9633827209,41.834236145",
     "geom:latitude":41.712061,
     "geom:longitude":42.717851,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Adigeni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.698745,
     "lbl:longitude":42.717837,
     "meso:admin_1":"Samtskhe-javakheti",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108691239,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037623,
     "wof:name":"Adigeni",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

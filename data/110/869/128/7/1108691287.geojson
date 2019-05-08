@@ -10,6 +10,12 @@
     "geom:latitude":43.124179,
     "geom:longitude":41.482345,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Gulripshi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":43.164658,
     "lbl:longitude":41.428901,
     "meso:admin_1":"Abkhazeti Autonomous Republic",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108691287,
-    "wof:lastmodified":1536615235,
+    "wof:lastmodified":1553718180,
     "wof:name":"Gulripshi",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

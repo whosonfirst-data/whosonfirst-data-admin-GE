@@ -10,6 +10,12 @@
     "geom:latitude":42.464155,
     "geom:longitude":41.820088,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Zugdidi"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":42.47686,
     "lbl:longitude":41.864756,
     "meso:admin_1":"Samagrelo-Zemo Svaneti",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108691401,
-    "wof:lastmodified":1536615237,
+    "wof:lastmodified":1555092024,
     "wof:name":"Zugdidi",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

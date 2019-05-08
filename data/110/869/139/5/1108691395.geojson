@@ -10,6 +10,12 @@
     "geom:latitude":42.010694,
     "geom:longitude":42.610405,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Vani District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.023349,
     "lbl:longitude":42.624357,
     "meso:admin_1":"Imereti",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108691395,
-    "wof:lastmodified":1536615237,
+    "wof:lastmodified":1553718182,
     "wof:name":"Vani",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

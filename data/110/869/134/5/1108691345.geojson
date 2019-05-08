@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191746,
-    "geom:area_square_m":1744206959.325647,
+    "geom:area_square_m":1744206959.325463,
     "geom:bbox":"43.2378082275,42.4292449951,43.9505958557,42.8939666748",
     "geom:latitude":42.637721,
     "geom:longitude":43.53995,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Oni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.633612,
     "lbl:longitude":43.534619,
     "meso:admin_1":"Racha-Leckhumi-Kvemo Svaneti",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1108691345,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037608,
     "wof:name":"Oni",
     "wof:parent_id":1108805959,
     "wof:placetype":"county",

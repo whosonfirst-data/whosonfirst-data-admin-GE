@@ -10,6 +10,12 @@
     "geom:latitude":41.77088,
     "geom:longitude":43.488967,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Borjomi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.790331,
     "lbl:longitude":43.482988,
     "meso:admin_1":"Samtskhe-Javakheti",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108691261,
-    "wof:lastmodified":1536615234,
+    "wof:lastmodified":1553718180,
     "wof:name":"Borjomi",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

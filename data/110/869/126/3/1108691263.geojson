@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059195,
-    "geom:area_square_m":541615382.097807,
+    "geom:area_square_m":541615382.097797,
     "geom:bbox":"43.1088981628,42.1208343506,43.4538154602,42.4339370728",
     "geom:latitude":42.272484,
     "geom:longitude":43.26847,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Chiatura District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.30683,
     "lbl:longitude":43.254104,
     "meso:admin_1":"Imereti",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108691263,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037618,
     "wof:name":"Chiatura",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

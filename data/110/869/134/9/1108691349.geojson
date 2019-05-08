@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004275,
-    "geom:area_square_m":39197516.151409,
+    "geom:area_square_m":39197516.151428,
     "geom:bbox":"41.6457176208,42.0633888245,41.7225914001,42.1948509216",
     "geom:latitude":42.145004,
     "geom:longitude":41.679411,
@@ -32,9 +32,10 @@
         "Chobi"
     ],
     "name:eng_x_preferred":[
-        "Khobi Municipality"
+        "Khobi"
     ],
     "name:eng_x_variant":[
+        "Khobi",
         "Khobi"
     ],
     "name:est_x_preferred":[
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108691349,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555220364,
     "wof:name":"Poti City",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

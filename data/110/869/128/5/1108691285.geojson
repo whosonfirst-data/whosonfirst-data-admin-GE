@@ -10,6 +10,12 @@
     "geom:latitude":43.284893,
     "geom:longitude":40.621946,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Gudauta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":43.276616,
     "lbl:longitude":40.567937,
     "meso:admin_1":"Abkhazeti Autonomous Republic",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108691285,
-    "wof:lastmodified":1536615235,
+    "wof:lastmodified":1553718180,
     "wof:name":"Gudauta",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

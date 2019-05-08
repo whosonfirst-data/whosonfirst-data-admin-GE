@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088856,
-    "geom:area_square_m":817453397.310961,
+    "geom:area_square_m":817453397.310988,
     "geom:bbox":"42.1269607544,41.7888336182,42.6688728333,42.0803222656",
     "geom:latitude":41.926036,
     "geom:longitude":42.393751,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Chokhatauri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.936438,
     "lbl:longitude":42.344539,
     "meso:admin_1":"Guria",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108691267,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037618,
     "wof:name":"Chokhatauri",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135887,
-    "geom:area_square_m":1259810648.831524,
+    "geom:area_square_m":1259810648.83155,
     "geom:bbox":"43.1436462402,41.1692352295,43.724357605,41.6872673035",
     "geom:latitude":41.429481,
     "geom:longitude":43.46001,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Akhalkalaki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.475387,
     "lbl:longitude":43.503984,
     "meso:admin_1":"Samtskhe-javakheti",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108691243,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037622,
     "wof:name":"Akhalkalaki",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

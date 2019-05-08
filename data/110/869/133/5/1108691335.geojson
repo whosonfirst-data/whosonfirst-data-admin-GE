@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.338947,
-    "geom:area_square_m":3064422292.634543,
+    "geom:area_square_m":3064422292.634588,
     "geom:bbox":"41.8627548218,42.8055458069,43.1491851807,43.2548713684",
     "geom:latitude":43.015739,
     "geom:longitude":42.470326,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Mestia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":43.022728,
     "lbl:longitude":42.277327,
     "meso:admin_1":"Samagrelo-zemo Svaneti",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1108691335,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037610,
     "wof:name":"Mestia",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

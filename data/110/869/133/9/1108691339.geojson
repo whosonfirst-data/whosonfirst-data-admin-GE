@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146033,
-    "geom:area_square_m":1356711304.599524,
+    "geom:area_square_m":1356711304.599575,
     "geom:bbox":"43.4302444458,41.1056098938,43.9666633606,41.5349655151",
     "geom:latitude":41.293521,
     "geom:longitude":43.7165,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Ninotsminda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.257119,
     "lbl:longitude":43.711417,
     "meso:admin_1":"Samtskhe-Javakheti",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108691339,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037608,
     "wof:name":"Ninotsminda",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

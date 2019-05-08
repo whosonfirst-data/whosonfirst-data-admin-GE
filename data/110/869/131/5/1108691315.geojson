@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07618,
-    "geom:area_square_m":703881638.279945,
+    "geom:area_square_m":703881638.279942,
     "geom:bbox":"42.2528343201,41.4439964294,42.6021232605,41.8409004211",
     "geom:latitude":41.648788,
     "geom:longitude":42.424041,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Khulo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.650997,
     "lbl:longitude":42.397601,
     "meso:admin_1":"Ajara Autonomous Republic",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108691315,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037614,
     "wof:name":"Khulo",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

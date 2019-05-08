@@ -10,6 +10,12 @@
     "geom:latitude":41.966069,
     "geom:longitude":42.87971,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Bagdati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.947541,
     "lbl:longitude":42.896187,
     "meso:admin_1":"Imereti",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108691255,
-    "wof:lastmodified":1536615234,
+    "wof:lastmodified":1553718180,
     "wof:name":"Bagdati",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

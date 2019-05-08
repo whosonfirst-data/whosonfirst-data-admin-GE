@@ -10,6 +10,12 @@
     "geom:latitude":41.882219,
     "geom:longitude":44.36995,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Kaspi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.878244,
     "lbl:longitude":44.365965,
     "meso:admin_1":"Shida Kartli",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108691297,
-    "wof:lastmodified":1536615235,
+    "wof:lastmodified":1553718180,
     "wof:name":"Kaspi",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

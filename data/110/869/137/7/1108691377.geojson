@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130585,
-    "geom:area_square_m":1207536829.020698,
+    "geom:area_square_m":1207536829.020781,
     "geom:bbox":"44.1972084045,41.4250297546,44.8310317993,41.7682800293",
     "geom:latitude":41.596812,
     "geom:longitude":44.474892,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Tetri Tskaro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.610961,
     "lbl:longitude":44.468843,
     "meso:admin_1":"Kvemo Kartli",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108691377,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037602,
     "wof:name":"Tetri Tskaro",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":41.617389,
     "geom:longitude":43.97101,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Tsalka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.617018,
     "lbl:longitude":43.976594,
     "meso:admin_1":"Kvemo Kartli",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1108691389,
-    "wof:lastmodified":1536615237,
+    "wof:lastmodified":1553718182,
     "wof:name":"Tsalka",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102085,
-    "geom:area_square_m":947412923.234516,
+    "geom:area_square_m":947412923.234558,
     "geom:bbox":"44.527973175,41.1867523193,45.093460083,41.5497055054",
     "geom:latitude":41.362115,
     "geom:longitude":44.835599,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Marneuli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.392509,
     "lbl:longitude":44.902103,
     "meso:admin_1":"Kvemo Kartli",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108691331,
-    "wof:lastmodified":1553816454,
+    "wof:lastmodified":1555037611,
     "wof:name":"Marneuli",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",
