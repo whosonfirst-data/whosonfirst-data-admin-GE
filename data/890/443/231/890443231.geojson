@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0644\u0627\u0648\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u056c\u0561\u057e"
-    ],
     "name:aze_x_preferred":[
         "Telavi"
     ],
@@ -39,13 +36,13 @@
     "name:cat_x_preferred":[
         "Telavi"
     ],
+    "name:ces_x_preferred":[
+        "Telavi"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0435\u043b\u0430\u0432\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u62c9\u7dad"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Telavi"
     ],
     "name:dan_x_preferred":[
@@ -57,8 +54,8 @@
     "name:dsb_x_preferred":[
         "Telawi"
     ],
-    "name:dut_x_preferred":[
-        "Telavi"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb\u03b1\u03b2\u03af"
     ],
     "name:eng_x_preferred":[
         "T'elavi"
@@ -69,23 +66,17 @@
     "name:est_x_preferred":[
         "Thelavi"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0627\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Telavi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Telavi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10da\u10d0\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Telawi"
     ],
     "name:glg_x_preferred":[
         "Telavi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bb\u03b1\u03b2\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0ab2\u0abe\u0ab5\u0ac0"
@@ -101,6 +92,9 @@
     ],
     "name:hun_x_preferred":[
         "Telavi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u056c\u0561\u057e"
     ],
     "name:ind_x_preferred":[
         "Telavi"
@@ -132,20 +126,20 @@
     "name:mar_x_preferred":[
         "\u0924\u0947\u0932\u0935\u093f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Telavi"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0644\u0648\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Telavi"
     ],
     "name:nob_x_preferred":[
         "Telawi"
     ],
     "name:oss_x_preferred":[
         "\u0422\u0435\u043b\u0430\u0443"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u0627\u0648\u06cc"
     ],
     "name:pol_x_preferred":[
         "Telawi"
@@ -157,9 +151,6 @@
         "Telavi"
     ],
     "name:ron_x_preferred":[
-        "Telavi"
-    ],
-    "name:rum_x_preferred":[
         "Telavi"
     ],
     "name:rus_x_preferred":[
@@ -207,11 +198,11 @@
     "name:war_x_preferred":[
         "Telavi"
     ],
-    "name:wel_x_preferred":[
-        "Telavi"
-    ],
     "name:xmf_x_preferred":[
         "\u10d7\u10d4\u10da\u10d0\u10d5\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u62c9\u7dad"
     ],
     "qs:name":"T\u2019elavi",
     "qs:photos_9r":0,
@@ -246,7 +237,7 @@
         }
     ],
     "wof:id":890443231,
-    "wof:lastmodified":1527787068,
+    "wof:lastmodified":1561839718,
     "wof:name":"T\u2019elavi",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

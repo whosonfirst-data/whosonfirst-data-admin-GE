@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0569\u0580\u056b \u053e\u0572\u0561\u0580\u0578"
-    ],
     "name:aze_x_preferred":[
         "Tetritskaro"
     ],
@@ -28,17 +25,8 @@
     "name:che_x_preferred":[
         "\u0422\u0435\u0442\u0440\u0438-\u0426\u043a\u0430\u0440\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u7279\u91cc\u8328\u5361\u7f85"
-    ],
-    "name:cze_x_preferred":[
-        "Tetri Ckaro"
-    ],
     "name:deu_x_preferred":[
         "Tetrizqaro"
-    ],
-    "name:dut_x_preferred":[
-        "Tetri Tsqaro"
     ],
     "name:eng_x_preferred":[
         "T'et'ri Tsqaro"
@@ -52,15 +40,6 @@
     "name:fra_x_preferred":[
         "Tetritskaro"
     ],
-    "name:fre_x_preferred":[
-        "Tetritskaro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10d7\u10e0\u10d8 \u10ec\u10e7\u10d0\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Tetrizqaro"
-    ],
     "name:hsb_x_preferred":[
         "Tetri Ckaro"
     ],
@@ -73,6 +52,9 @@
     "name:kat_x_preferred":[
         "\u10d7\u10d4\u10d7\u10e0\u10d8\u10ec\u10e7\u10d0\u10e0\u10dd"
     ],
+    "name:kat_x_variant":[
+        "\u10d7\u10d4\u10d7\u10e0\u10d8 \u10ec\u10e7\u10d0\u10e0\u10dd"
+    ],
     "name:lit_x_preferred":[
         "Tetri Ckaro"
     ],
@@ -84,9 +66,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0422\u0435\u0442\u0440\u0438-\u0426\u043a\u0430\u0440\u043e"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u062a\u0631\u06cc \u062a\u0633\u0642\u0627\u0631\u0648"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0442\u0440\u0438-\u0426\u043a\u0430\u0440\u043e"
@@ -165,7 +144,7 @@
         }
     ],
     "wof:id":421175675,
-    "wof:lastmodified":1527716336,
+    "wof:lastmodified":1561839716,
     "wof:name":"T'et'ri Tsqaro",
     "wof:parent_id":1108691377,
     "wof:placetype":"locality",

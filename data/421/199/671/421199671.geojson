@@ -13,23 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053e\u0572\u0561\u056c\u057f\u0578\u0582\u0562\u0578"
-    ],
     "name:bul_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
+    ],
+    "name:ces_x_preferred":[
+        "Cchaltubo"
     ],
     "name:che_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u8328\u5361\u723e\u5716\u535a"
-    ],
-    "name:cze_x_preferred":[
-        "Cchaltubo"
-    ],
-    "name:dut_x_preferred":[
-        "Tskaltoebo"
+    "name:deu_x_preferred":[
+        "Zqaltubo"
     ],
     "name:eng_x_preferred":[
         "Tsqaltubo"
@@ -37,17 +31,14 @@
     "name:est_x_preferred":[
         "Tskaltubo"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0642\u0627\u0644\u062a\u0648\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tsqaltubo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tskhaltubo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ec\u10e7\u10d0\u10da\u10e2\u10e3\u10d1\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Zqaltubo"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05e7\u05d0\u05dc\u05d8\u05d5\u05d1\u05d5"
@@ -55,11 +46,17 @@
     "name:hsb_x_preferred":[
         "Cchaltubo"
     ],
+    "name:hye_x_preferred":[
+        "\u053e\u0572\u0561\u056c\u057f\u0578\u0582\u0562\u0578"
+    ],
     "name:ita_x_preferred":[
         "Tskhaltubo"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30eb\u30c8\u30a5\u30dc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ec\u10e7\u10d0\u10da\u10e2\u10e3\u10d1\u10dd"
     ],
     "name:kor_x_preferred":[
         "\uce20\ud560\ud22c\ubcf4"
@@ -73,14 +70,14 @@
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0642\u0648\u0644\u062a\u0648\u0628\u0648"
     ],
+    "name:nld_x_preferred":[
+        "Tskaltoebo"
+    ],
     "name:nno_x_preferred":[
         "Tsqaltubo"
     ],
     "name:oss_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0642\u0627\u0644\u062a\u0648\u0628\u0648"
     ],
     "name:pol_x_preferred":[
         "Ckaltubo"
@@ -105,6 +102,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10ec\u10e7\u10d0\u10da\u10e2\u10e3\u10d1\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u8328\u5361\u723e\u5716\u535a"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":421199671,
-    "wof:lastmodified":1514443631,
+    "wof:lastmodified":1561839717,
     "wof:name":"Ts'qaltubo",
     "wof:parent_id":1108691391,
     "wof:placetype":"locality",

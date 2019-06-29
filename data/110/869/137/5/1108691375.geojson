@@ -31,11 +31,8 @@
     "mps:longitude":42.945161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0580\u057b\u0578\u056c\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
-    "name:dut_x_preferred":[
-        "Terjola"
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Terdschola"
     ],
     "name:eng_x_preferred":[
         "Terjola"
@@ -51,20 +48,23 @@
     "name:fin_x_preferred":[
         "Terd\u017eolan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Terdjola"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10e0\u10ef\u10dd\u10da\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizipalit\u00e4t Terdschola"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05ea\u05e8\u05d2'\u05d5\u05dc\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u0580\u057b\u0578\u056c\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Terjola"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10e0\u10ef\u10dd\u10da\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Terjola"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0436\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108691375,
-    "wof:lastmodified":1555037603,
+    "wof:lastmodified":1561839712,
     "wof:name":"Terjola",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

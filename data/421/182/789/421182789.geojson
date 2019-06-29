@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053d\u0578\u0582\u056c\u0578"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043e"
     ],
@@ -25,9 +22,6 @@
     "name:deu_x_preferred":[
         "Chulo"
     ],
-    "name:dut_x_preferred":[
-        "Choelo"
-    ],
     "name:eng_x_preferred":[
         "Khulo"
     ],
@@ -36,15 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Khoulo"
-    ],
-    "name:fre_x_preferred":[
-        "Khoulo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10da\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Chulo"
     ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u0582\u056c\u0578"
@@ -124,7 +109,7 @@
         }
     ],
     "wof:id":421182789,
-    "wof:lastmodified":1527726466,
+    "wof:lastmodified":1561839717,
     "wof:name":"Khulo",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",

@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0580\u056a\u0578\u0574"
-    ],
     "name:aze_x_preferred":[
         "Borjomi"
     ],
@@ -37,20 +34,11 @@
     "name:che_x_preferred":[
         "\u0411\u043e\u0440\u0436\u043e\u043c\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u723e\u82e5\u7c73"
-    ],
-    "name:cze_x_preferred":[
-        "Bord\u017eomi"
-    ],
     "name:dan_x_preferred":[
         "Bordzjomi"
     ],
     "name:deu_x_preferred":[
         "Bordschomi"
-    ],
-    "name:dut_x_preferred":[
-        "Bordzjomi"
     ],
     "name:eng_x_preferred":[
         "Borjomi"
@@ -67,14 +55,8 @@
     "name:fra_x_preferred":[
         "Bordjomi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Borjomi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e0\u10ef\u10dd\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bordschomi"
     ],
     "name:glg_x_preferred":[
         "Borjomi"
@@ -129,9 +111,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0411\u043e\u0440\u0436\u043e\u043c"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u062c\u0648\u0645\u06cc"
     ],
     "name:pol_x_preferred":[
         "Bord\u017comi"
@@ -228,7 +207,7 @@
         }
     ],
     "wof:id":421174973,
-    "wof:lastmodified":1527716231,
+    "wof:lastmodified":1561839716,
     "wof:name":"Borjomi",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

@@ -28,17 +28,8 @@
     "name:deu_x_preferred":[
         "Zandrypsch"
     ],
-    "name:dut_x_preferred":[
-        "Tsandrypsj"
-    ],
     "name:eng_x_preferred":[
         "Gant'iadi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10dc\u10d7\u10d8\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zandrypsch"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10dc\u10d7\u10d8\u10d0\u10d3\u10d8"
@@ -121,7 +112,7 @@
         }
     ],
     "wof:id":421186405,
-    "wof:lastmodified":1527716318,
+    "wof:lastmodified":1561839716,
     "wof:name":"Gantiadi",
     "wof:parent_id":1108691277,
     "wof:placetype":"locality",

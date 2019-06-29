@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u057d\u057f\u056b\u0561"
-    ],
     "name:ceb_x_preferred":[
         "Mest'ia"
     ],
@@ -25,13 +22,7 @@
     "name:che_x_preferred":[
         "\u041c\u0435\u0441\u0442\u0438\u0430"
     ],
-    "name:cze_x_preferred":[
-        "Mestia"
-    ],
     "name:deu_x_preferred":[
-        "Mestia"
-    ],
-    "name:dut_x_preferred":[
         "Mestia"
     ],
     "name:eng_x_preferred":[
@@ -44,15 +35,6 @@
         "Mestia"
     ],
     "name:fra_x_preferred":[
-        "Mestia"
-    ],
-    "name:fre_x_preferred":[
-        "Mestia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10e1\u10e2\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Mestia"
     ],
     "name:heb_x_preferred":[
@@ -153,7 +135,7 @@
         }
     ],
     "wof:id":421199787,
-    "wof:lastmodified":1527716419,
+    "wof:lastmodified":1561839717,
     "wof:name":"Mestia",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

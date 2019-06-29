@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0623\u062c\u0627\u0631\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u057b\u0561\u0580\u056b\u0561"
-    ],
     "name:ava_x_preferred":[
         "\u0410\u0434\u0436\u0430\u0440\u0438\u044f"
     ],
@@ -42,9 +39,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0410\u0434\u0436\u0430\u0440\u0438\u044f"
-    ],
-    "name:baq_x_preferred":[
-        "Adjaria"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0434\u0436\u0430\u0440\u044b\u044f"
@@ -61,23 +55,26 @@
     "name:cat_x_preferred":[
         "Adj\u00e0ria"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u624e\u5c14"
+    "name:ces_x_preferred":[
+        "Ad\u017e\u00e1rie"
     ],
     "name:chv_x_preferred":[
         "\u0410\u0434\u0436\u0430\u0440\u0438"
     ],
-    "name:cze_x_preferred":[
-        "Ad\u017e\u00e1rie"
+    "name:cym_x_preferred":[
+        "Ajaria"
     ],
     "name:dan_x_preferred":[
         "Adjarien"
     ],
+    "name:deu_x_preferred":[
+        "Adscharien"
+    ],
     "name:diq_x_preferred":[
         "Acar\u0131stan"
     ],
-    "name:dut_x_preferred":[
-        "Adzjari\u00eb"
+    "name:ell_x_preferred":[
+        "\u0391\u03b6\u03b1\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ajaria"
@@ -88,26 +85,23 @@
     "name:est_x_preferred":[
         "Ad\u017eaaria"
     ],
+    "name:eus_x_preferred":[
+        "Adjaria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Ad\u017earia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Adjarie"
     ],
     "name:gag_x_preferred":[
         "Acara"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ed\u10d0\u10e0\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Adscharien"
-    ],
     "name:glg_x_preferred":[
         "Adjara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b6\u03b1\u03c1\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9c\u0abe\u0ab0\u0abe \u0a93\u0a9f\u0acb\u0aa8\u0acb\u0aae\u0ab8 \u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
@@ -124,6 +118,9 @@
     "name:hun_x_preferred":[
         "Adzsaria"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u057b\u0561\u0580\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Ajaria"
     ],
@@ -138,6 +135,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0ca1\u0ccd\u0c9c\u0cb0\u0cbe \u0cb8\u0ccd\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4 \u0c97\u0ca3\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ed\u10d0\u10e0\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
     ],
     "name:kbd_x_preferred":[
         "\u0410\u0434\u0436\u0430\u0440\u0438\u044d"
@@ -160,17 +160,20 @@
     "name:lit_x_preferred":[
         "Ad\u017earija"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u045f\u0430\u0440\u0438\u0458\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d1c\u0d3e\u0d31"
     ],
     "name:mar_x_preferred":[
         "\u0906\u091d\u093e\u0930\u093e \u0911\u091f\u094b\u0928\u0949\u092e\u0938 \u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u045f\u0430\u0440\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Ajaria"
+    ],
+    "name:nld_x_preferred":[
+        "Adzjari\u00eb"
     ],
     "name:nno_x_preferred":[
         "Adsjaria"
@@ -187,9 +190,6 @@
     "name:pam_x_preferred":[
         "Adjara"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u0688\u062c\u0627\u0631\u0627"
     ],
@@ -199,7 +199,7 @@
     "name:por_x_preferred":[
         "Adjara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Adjaria"
     ],
     "name:rus_x_preferred":[
@@ -214,7 +214,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0daf\u0dca\u0da2\u0dbb\u0dcf \u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd2\u0db1 \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ad\u017earsko"
     ],
     "name:slv_x_preferred":[
@@ -262,14 +262,14 @@
     "name:war_x_preferred":[
         "Adjara"
     ],
-    "name:wel_x_preferred":[
-        "Ajaria"
-    ],
     "name:xmf_x_preferred":[
         "\u10d0\u10ed\u10d0\u10e0\u10d0\u10e8 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
     ],
     "name:yor_x_preferred":[
         "Adjara"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u624e\u5c14"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"GEO",
@@ -377,7 +377,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1553559961,
+    "wof:lastmodified":1561839710,
     "wof:name":"Ajara Autonomous Republic",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

@@ -13,26 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u056c\u0561\u0577\u056b"
-    ],
     "name:ceb_x_preferred":[
         "K'ulashi"
-    ],
-    "name:dut_x_preferred":[
-        "Koelasji"
     ],
     "name:eng_x_preferred":[
         "Kulashi"
     ],
     "name:fra_x_preferred":[
         "Kulashi"
-    ],
-    "name:fre_x_preferred":[
-        "Kulashi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10da\u10d0\u10e8\u10d8"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05dc\u05d0\u05e9\u05d9"
@@ -106,7 +94,7 @@
         }
     ],
     "wof:id":421180495,
-    "wof:lastmodified":1527716241,
+    "wof:lastmodified":1561839716,
     "wof:name":"Kulashi",
     "wof:parent_id":1108691357,
     "wof:placetype":"locality",

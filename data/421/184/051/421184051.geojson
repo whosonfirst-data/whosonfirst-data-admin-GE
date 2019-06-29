@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0622\u062e\u0627\u0644\u0643\u0627\u0644\u0627\u0643\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056d\u0561\u056c\u0584\u0561\u056c\u0561\u0584"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0456"
     ],
@@ -34,20 +31,11 @@
     "name:che_x_preferred":[
         "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u54c8\u723e\u5361\u62c9\u57fa"
-    ],
-    "name:cze_x_preferred":[
-        "Achalkalaki"
-    ],
     "name:deu_x_preferred":[
         "Achalkalaki"
     ],
     "name:diq_x_preferred":[
         "Ah\u0131lkelek"
-    ],
-    "name:dut_x_preferred":[
-        "Achalkalaki"
     ],
     "name:eng_x_preferred":[
         "Akhalk'alak'i"
@@ -66,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Akhalkalaki"
-    ],
-    "name:fre_x_preferred":[
-        "Akhalkalaki"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ee\u10d0\u10da\u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Achalkalaki"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d7\u05dc\u05db\u05dc\u05db\u05d9"
@@ -109,16 +88,13 @@
     "name:oss_x_preferred":[
         "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u062e\u0627\u0644\u06a9\u0627\u0644\u0627\u06a9\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Achalkalaki"
     ],
     "name:ron_x_preferred":[
         "Ahalkalaki"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Akhalkalaki"
     ],
     "name:rus_x_preferred":[
@@ -205,7 +181,7 @@
         }
     ],
     "wof:id":421184051,
-    "wof:lastmodified":1527716454,
+    "wof:lastmodified":1561839717,
     "wof:name":"Akhalk'alak'i",
     "wof:parent_id":1108691243,
     "wof:placetype":"locality",

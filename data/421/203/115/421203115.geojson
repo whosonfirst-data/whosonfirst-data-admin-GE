@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0553\u0578\u0569\u056b"
-    ],
     "name:aze_x_preferred":[
         "Poti"
     ],
@@ -50,12 +47,6 @@
     "name:che_x_preferred":[
         "\u041f\u043e\u0442\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u5b63"
-    ],
-    "name:cze_x_preferred":[
-        "Poti"
-    ],
     "name:dan_x_preferred":[
         "Poti"
     ],
@@ -63,9 +54,6 @@
         "Poti"
     ],
     "name:dsb_x_preferred":[
-        "Poti"
-    ],
-    "name:dut_x_preferred":[
         "Poti"
     ],
     "name:ell_x_preferred":[
@@ -88,18 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "Poti"
-    ],
-    "name:fre_x_preferred":[
-        "Poti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10dd\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Poti"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a9f\u0ac0"
@@ -152,7 +128,7 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Poti"
     ],
     "name:mzn_x_preferred":[
@@ -173,9 +149,6 @@
     "name:oss_x_preferred":[
         "\u041f\u043e\u0442\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u062a\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Poti"
     ],
@@ -183,9 +156,6 @@
         "Poti"
     ],
     "name:ron_x_preferred":[
-        "Poti"
-    ],
-    "name:rum_x_preferred":[
         "Poti"
     ],
     "name:rus_x_preferred":[
@@ -385,7 +355,7 @@
         }
     ],
     "wof:id":421203115,
-    "wof:lastmodified":1527716201,
+    "wof:lastmodified":1561839715,
     "wof:name":"P'ot'i",
     "wof:parent_id":1108691349,
     "wof:placetype":"locality",

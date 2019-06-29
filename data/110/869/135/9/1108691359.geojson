@@ -31,11 +31,8 @@
     "mps:longitude":42.087257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0576\u0561\u056f\u056b\u056b \u0574\u0578\u0582\u0576\u056b\u0581\u056b\u057a\u0561\u056c\u056b\u057f\u0565\u057f"
-    ],
-    "name:dut_x_preferred":[
-        "Senaki"
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Senaki"
     ],
     "name:eng_x_preferred":[
         "Senaki"
@@ -51,20 +48,23 @@
     "name:fin_x_preferred":[
         "Senakin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Senaki"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10dc\u10d0\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizipalit\u00e4t Senaki"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05e1\u05e0\u05e7\u05d9"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576\u0561\u056f\u056b\u056b \u0574\u0578\u0582\u0576\u056b\u0581\u056b\u057a\u0561\u056c\u056b\u057f\u0565\u057f"
+    ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Senaki"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10dc\u10d0\u10d9\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Senaki"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d\u0430\u043a\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108691359,
-    "wof:lastmodified":1555037605,
+    "wof:lastmodified":1561839710,
     "wof:name":"Senaki",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

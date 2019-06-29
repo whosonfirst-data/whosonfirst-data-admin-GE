@@ -95,9 +95,6 @@
     "name:che_x_preferred":[
         "\u0422\u0438\u043f\u043b\u0438\u0437"
     ],
-    "name:chi_x_preferred":[
-        "\u7b2c\u6bd4\u5229\u65af"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
     ],
@@ -157,9 +154,6 @@
     ],
     "name:fry_x_preferred":[
         "Tbilisi"
-    ],
-    "name:ger_x_preferred":[
-        "Tiflis"
     ],
     "name:gla_x_preferred":[
         "Tbilisi"
@@ -527,7 +521,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1541176281,
+    "wof:lastmodified":1561839704,
     "wof:name":"Tbilisi",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

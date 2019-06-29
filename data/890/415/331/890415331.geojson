@@ -15,9 +15,6 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053e\u0561\u056c\u056f\u0561"
-    ],
     "name:azb_x_preferred":[
         "\u062a\u0633\u0627\u0644\u06a9\u0627"
     ],
@@ -30,17 +27,8 @@
     "name:che_x_preferred":[
         "\u0426\u0430\u043b\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5bdf\u723e\u5361"
-    ],
-    "name:cze_x_preferred":[
-        "Calka"
-    ],
     "name:deu_x_preferred":[
         "Zalka"
-    ],
-    "name:dut_x_preferred":[
-        "Tsalka"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03ac\u03bb\u03ba\u03b1"
@@ -54,17 +42,8 @@
     "name:fas_x_preferred":[
         "\u062a\u0633\u0627\u0644\u06a9\u0627"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsalka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ec\u10d0\u10da\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Zalka"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ac\u03bb\u03ba\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d0\u05dc\u05e7\u05d4"
@@ -90,14 +69,14 @@
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0627\u0644\u06a9\u0627"
     ],
+    "name:nld_x_preferred":[
+        "Tsalka"
+    ],
     "name:nob_x_preferred":[
         "Tsalka"
     ],
     "name:oss_x_preferred":[
         "\u0426\u0430\u043b\u043a\u00e6"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0627\u0644\u06a9\u0627"
     ],
     "name:pol_x_preferred":[
         "Calka"
@@ -105,7 +84,7 @@
     "name:ron_x_preferred":[
         "\u021aalka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Tsalka"
     ],
     "name:rus_x_preferred":[
@@ -170,7 +149,7 @@
         }
     ],
     "wof:id":890415331,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561839717,
     "wof:name":"Tsalka",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

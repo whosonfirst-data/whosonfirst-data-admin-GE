@@ -25,14 +25,14 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:arm_x_preferred":[
-        "\u054b\u056b\u0563\u0580\u0561\u0577\u0565\u0576"
-    ],
     "name:eng_x_preferred":[
         "Dzhigrasheni"
     ],
     "name:eng_x_variant":[
         "Jigrasheni"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u056b\u0563\u0580\u0561\u0577\u0565\u0576"
     ],
     "name:kat_x_preferred":[
         "\u10ef\u10d8\u10d2\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":1209244045,
-    "wof:lastmodified":1537623252,
+    "wof:lastmodified":1561839708,
     "wof:name":"Jigrasheni",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

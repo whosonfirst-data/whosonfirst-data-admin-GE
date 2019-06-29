@@ -31,17 +31,17 @@
     "mps:longitude":42.094474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0555\u0566\u0578\u0582\u0580\u0563\u0565\u0569\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:aze_x_preferred":[
         "Ozurgeti b\u0259l\u0259diyy\u0259si"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0437\u0443\u0440\u0433\u0435\u0446\u043a\u0456 \u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Ozoergeti"
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Osurgeti"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039f\u03b6\u03bf\u03c5\u03c1\u03b3\u03ba\u03ad\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ozurgeti"
@@ -56,23 +56,23 @@
     "name:fin_x_preferred":[
         "Ozurgetin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ozourgu\u00e9ti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d6\u10e3\u10e0\u10d2\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizipalit\u00e4t Osurgeti"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039f\u03b6\u03bf\u03c5\u03c1\u03b3\u03ba\u03ad\u03c4\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05d0\u05d5\u05d6\u05d5\u05e8\u05d2\u05ea\u05d9"
     ],
+    "name:hye_x_preferred":[
+        "\u0555\u0566\u0578\u0582\u0580\u0563\u0565\u0569\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Ozurgeti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d6\u10e3\u10e0\u10d2\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ozoergeti"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0437\u0443\u0440\u0433\u0435\u0442\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1108691347,
-    "wof:lastmodified":1555037607,
+    "wof:lastmodified":1561839711,
     "wof:name":"Ozurgeti",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

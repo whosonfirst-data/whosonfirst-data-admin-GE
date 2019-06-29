@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0580\u057f\u057e\u056b\u056c"
-    ],
     "name:aze_x_preferred":[
         "Martvili"
     ],
@@ -28,14 +25,8 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0432\u0438\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u7279\u7dad\u5229"
-    ],
     "name:deu_x_preferred":[
         "Martwili"
-    ],
-    "name:dut_x_preferred":[
-        "Martvili"
     ],
     "name:eng_x_preferred":[
         "Martvili"
@@ -48,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Martvili"
-    ],
-    "name:fre_x_preferred":[
-        "Martvili"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10e2\u10d5\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Martwili"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d8\u05d5\u05d5\u05d9\u05dc\u05d9"
@@ -87,9 +69,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0432\u0438\u043b\u0438"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u062a\u0648\u06cc\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Martwili"
@@ -168,7 +147,7 @@
         }
     ],
     "wof:id":421205449,
-    "wof:lastmodified":1527716215,
+    "wof:lastmodified":1561839715,
     "wof:name":"Martvili",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

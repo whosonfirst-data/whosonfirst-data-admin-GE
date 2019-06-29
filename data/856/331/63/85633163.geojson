@@ -161,9 +161,6 @@
     "name:cym_x_preferred":[
         "Georgia"
     ],
-    "name:cze_x_preferred":[
-        "Gruzie"
-    ],
     "name:dan_x_preferred":[
         "Georgien",
         "Georgia (flertydig)"
@@ -1040,7 +1037,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1547768539,
+    "wof:lastmodified":1561839703,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

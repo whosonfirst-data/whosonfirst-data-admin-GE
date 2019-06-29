@@ -31,12 +31,6 @@
     "mps:longitude":43.503984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056d\u0561\u056c\u0584\u0561\u056c\u0561\u0584\u056b \u0574\u0578\u0582\u0576\u056b\u0581\u056b\u057a\u0561\u056c\u056b\u057f\u0565\u057f"
-    ],
-    "name:dut_x_preferred":[
-        "Achalkalaki"
-    ],
     "name:eng_x_preferred":[
         "Akhalkalaki"
     ],
@@ -47,20 +41,26 @@
     "name:fin_x_preferred":[
         "Akhalkalakin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Akhalkalaki"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ee\u10d0\u10da\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05d0\u05d7\u05dc\u05db\u05dc\u05db\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056d\u0561\u056c\u0584\u0561\u056c\u0561\u0584\u056b \u0574\u0578\u0582\u0576\u056b\u0581\u056b\u057a\u0561\u056c\u056b\u057f\u0565\u057f"
     ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Akhalkalaki"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30cf\u30eb\u30ab\u30e9\u30ad\u57fa\u790e\u81ea\u6cbb\u4f53"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10da\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Achalkalaki"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1108691243,
-    "wof:lastmodified":1555037622,
+    "wof:lastmodified":1561839712,
     "wof:name":"Akhalkalaki",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",
