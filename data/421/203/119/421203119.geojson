@@ -13,29 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0555\u0574\u0561\u056c\u0578"
-    ],
     "name:ces_x_preferred":[
         "Omalo"
     ],
     "name:che_x_preferred":[
         "\u041e\u043c\u0430\u043b\u043e"
     ],
-    "name:cze_x_preferred":[
-        "Omalo"
-    ],
-    "name:dut_x_preferred":[
-        "Omalo"
-    ],
     "name:eng_x_preferred":[
         "Omalo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Omalo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10db\u10d0\u10da\u10dd"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05de\u05dc\u05d5"
@@ -108,7 +96,7 @@
         }
     ],
     "wof:id":421203119,
-    "wof:lastmodified":1527716195,
+    "wof:lastmodified":1561839715,
     "wof:name":"Omalo",
     "wof:parent_id":1108691247,
     "wof:placetype":"locality",

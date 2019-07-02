@@ -31,9 +31,6 @@
     "name:afr_x_preferred":[
         "Tbilisi"
     ],
-    "name:alb_x_preferred":[
-        "Tbilisi"
-    ],
     "name:amh_x_preferred":[
         "\u1275\u1265\u120a\u1232"
     ],
@@ -48,9 +45,6 @@
     ],
     "name:arg_x_preferred":[
         "Tbilisi"
-    ],
-    "name:arm_x_preferred":[
-        "\u0539\u0562\u056b\u056c\u056b\u057d\u056b"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0628\u0644\u064a\u0633\u0649"
@@ -69,9 +63,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
-    ],
-    "name:baq_x_preferred":[
-        "Tbilisi"
     ],
     "name:bcl_x_preferred":[
         "Tbilisi"
@@ -109,16 +100,13 @@
     "name:che_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u7b2c\u6bd4\u5229\u65af"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u062a\u0628\u0644\u06cc\u0633"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tbilisi"
     ],
     "name:dan_x_preferred":[
@@ -129,9 +117,6 @@
     ],
     "name:diq_x_preferred":[
         "T\u0131flis"
-    ],
-    "name:dut_x_preferred":[
-        "Tbilisi"
     ],
     "name:dzo_x_preferred":[
         "\u0f4a\u0f72\u0f0b\u0f56\u0f72\u0f0b\u0f63\u0f72\u0f0b\u0f66\u0f72"
@@ -148,6 +133,9 @@
     "name:est_x_preferred":[
         "Thbilisi"
     ],
+    "name:eus_x_preferred":[
+        "Tbilisi"
+    ],
     "name:fao_x_preferred":[
         "Tbilisi"
     ],
@@ -160,9 +148,6 @@
     "name:fra_x_preferred":[
         "Tbilissi"
     ],
-    "name:fre_x_preferred":[
-        "Tbilissi"
-    ],
     "name:frp_x_preferred":[
         "Tbilisi"
     ],
@@ -171,12 +156,6 @@
     ],
     "name:gag_x_preferred":[
         "Tbilisi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tiflis"
     ],
     "name:gla_x_preferred":[
         "Tbilisi"
@@ -192,9 +171,6 @@
     ],
     "name:glv_x_preferred":[
         "Tbilisi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03c6\u03bb\u03af\u03b4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abf\u0aac\u0abf\u0ab2\u0abf\u0ab8\u0abf"
@@ -228,9 +204,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u0562\u056b\u056c\u056b\u057d\u056b"
-    ],
-    "name:ice_x_preferred":[
-        "T\u00edblisi"
     ],
     "name:ido_x_preferred":[
         "Tbilisi"
@@ -322,20 +295,11 @@
     "name:ltz_x_preferred":[
         "Tiflis"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d4d\u0d31\u0d4d\u0d2c\u0d3f\u0d32\u0d3f\u0d38\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "Tbilisi"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u094d\u092c\u093f\u0932\u093f\u0938\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Tbilisi"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
@@ -349,8 +313,14 @@
     "name:mon_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441"
     ],
+    "name:mri_x_preferred":[
+        "Tbilisi"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Tbilisi"
     ],
     "name:myv_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438 \u043e\u0448"
@@ -403,9 +373,6 @@
     "name:pap_x_preferred":[
         "Tbilisi"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0641\u0644\u06cc\u0633"
-    ],
     "name:pms_x_preferred":[
         "Tbilisi"
     ],
@@ -425,9 +392,6 @@
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
     ],
     "name:ron_x_variant":[
-        "Tbilisi"
-    ],
-    "name:rum_x_preferred":[
         "Tbilisi"
     ],
     "name:rus_x_preferred":[
@@ -451,9 +415,6 @@
     "name:slk_x_preferred":[
         "Tbilisi"
     ],
-    "name:slo_x_preferred":[
-        "Tbilisi"
-    ],
     "name:slv_x_preferred":[
         "Tbilisi"
     ],
@@ -468,6 +429,9 @@
     ],
     "name:spa_x_preferred":[
         "Tiflis"
+    ],
+    "name:sqi_x_preferred":[
+        "Tbilisi"
     ],
     "name:srd_x_preferred":[
         "Tbilisi"
@@ -504,9 +468,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e1a\u0e34\u0e25\u0e34\u0e0b\u0e34"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0fb2\u0f7a\u0f0b\u0f56\u0fb7\u0f72\u0f0b\u0f63\u0f72\u0f0b\u0f66\u0f72\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Tbilisi"
@@ -545,9 +506,6 @@
         "Thbilisi"
     ],
     "name:war_x_preferred":[
-        "Tbilisi"
-    ],
-    "name:wel_x_preferred":[
         "Tbilisi"
     ],
     "name:wol_x_preferred":[
@@ -709,7 +667,7 @@
         }
     ],
     "wof:id":890443227,
-    "wof:lastmodified":1552519485,
+    "wof:lastmodified":1561839718,
     "wof:name":"Tbilisi",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",

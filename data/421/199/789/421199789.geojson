@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056f\u0578\u0582\u0580\u056b\u0561\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u0438\u0430\u043d\u0438"
     ],
@@ -25,17 +22,8 @@
     "name:ces_x_preferred":[
         "Bakuriani"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5eab\u5229\u5b89\u5c3c"
-    ],
-    "name:cze_x_preferred":[
-        "Bakuriani"
-    ],
     "name:deu_x_preferred":[
         "Bakuriani"
-    ],
-    "name:dut_x_preferred":[
-        "Bakoerjani"
     ],
     "name:eng_x_preferred":[
         "Bakuriani"
@@ -43,14 +31,8 @@
     "name:est_x_preferred":[
         "Bakuriani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bakouriani"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d9\u10e3\u10e0\u10d8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bakuriani"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e7\u05d5\u05e8\u05d9\u05d0\u05e0\u05d9"
@@ -93,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Bakuiani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5eab\u5229\u5b89\u5c3c"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":421199789,
-    "wof:lastmodified":1527716419,
+    "wof:lastmodified":1561839717,
     "wof:name":"Bakuriani",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

@@ -19,14 +19,11 @@
     "name:ces_x_preferred":[
         "Achalgori"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Leningor"
     ],
     "name:deu_x_preferred":[
         "Achalgori"
-    ],
-    "name:dut_x_preferred":[
-        "Akhalgori"
     ],
     "name:eng_x_preferred":[
         "Leningori"
@@ -36,15 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Akhalgori"
-    ],
-    "name:fre_x_preferred":[
-        "Akhalgori"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ee\u10d0\u10da\u10d2\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Achalgori"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d7\u05dc\u05d2\u05d5\u05e8\u05d9"
@@ -67,11 +55,11 @@
     "name:lit_x_preferred":[
         "Achalgoris"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0445\u0430\u043b\u0433\u043e\u0440\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0433\u043e\u0440\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Akhalgori"
     ],
     "name:oss_x_preferred":[
         "\u041b\u0435\u043d\u0438\u043d\u0433\u043e\u0440"
@@ -142,7 +130,7 @@
         }
     ],
     "wof:id":421175677,
-    "wof:lastmodified":1527716344,
+    "wof:lastmodified":1561839716,
     "wof:name":"Akhalgori",
     "wof:parent_id":1108691241,
     "wof:placetype":"locality",

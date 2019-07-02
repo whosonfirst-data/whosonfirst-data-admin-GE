@@ -22,17 +22,14 @@
     "name:che_x_preferred":[
         "\u0416\u0438\u043d\u0432\u0430\u043b\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Zhinvali"
-    ],
     "name:eng_x_preferred":[
         "Zhinvali"
     ],
-    "name:geo_x_preferred":[
-        "\u10df\u10d8\u10dc\u10d5\u10d0\u10da\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10df\u10d8\u10dc\u10d5\u10d0\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Zhinvali"
     ],
     "name:oss_x_preferred":[
         "\u0416\u0438\u043d\u0432\u0430\u043b\u0438"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421202003,
-    "wof:lastmodified":1527716211,
+    "wof:lastmodified":1561839715,
     "wof:name":"Zhinvali",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

@@ -25,29 +25,20 @@
     "name:deu_x_preferred":[
         "Kwaissa"
     ],
-    "name:dut_x_preferred":[
-        "Kvaisa"
-    ],
     "name:eng_x_preferred":[
         "Kvaisi"
     ],
     "name:fra_x_preferred":[
         "Kvaisi"
     ],
-    "name:fre_x_preferred":[
-        "Kvaisi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d5\u10d0\u10d8\u10e1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kwaissa"
-    ],
     "name:jpn_x_preferred":[
         "\u30af\u30f4\u30a1\u30a4\u30b5"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d5\u10d0\u10d8\u10e1\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Kvaisa"
     ],
     "name:oss_x_preferred":[
         "\u041a\u044a\u0443\u0430\u0439\u0441\u0430"
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":421180493,
-    "wof:lastmodified":1527716240,
+    "wof:lastmodified":1561839716,
     "wof:name":"Kvaisi",
     "wof:parent_id":1108691345,
     "wof:placetype":"locality",

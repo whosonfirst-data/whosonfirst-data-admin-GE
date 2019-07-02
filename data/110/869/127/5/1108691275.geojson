@@ -31,11 +31,8 @@
     "mps:longitude":44.766369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0577\u0565\u0569\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
-    "name:dut_x_preferred":[
-        "Doesjeti"
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Duscheti"
     ],
     "name:eng_x_preferred":[
         "Dusheti"
@@ -48,20 +45,23 @@
     "name:fin_x_preferred":[
         "Du\u0161etin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Doucheti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10e8\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Munizipalit\u00e4t Duscheti"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05d3\u05d5\u05e9\u05ea\u05d9"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0577\u0565\u0569\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Dusheti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10e8\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Doesjeti"
     ],
     "name:oss_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0442\u044b \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108691275,
-    "wof:lastmodified":1553718180,
+    "wof:lastmodified":1561839711,
     "wof:name":"Dusheti",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

@@ -16,9 +16,6 @@
     "name:abk_x_preferred":[
         "\u0421\u0438\u0495\u043d\u0430\u0495\u044c"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0572\u0576\u0561\u0572"
-    ],
     "name:aze_x_preferred":[
         "Si\u011fna\u011fi"
     ],
@@ -34,16 +31,7 @@
     "name:che_x_preferred":[
         "\u0421\u0438\u0433\u043d\u0430\u0445\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u683c\u7d0d\u5409"
-    ],
-    "name:cze_x_preferred":[
-        "Signagi"
-    ],
     "name:deu_x_preferred":[
-        "Sighnaghi"
-    ],
-    "name:dut_x_preferred":[
         "Sighnaghi"
     ],
     "name:eng_x_preferred":[
@@ -61,13 +49,7 @@
     "name:fra_x_preferred":[
         "Signagi"
     ],
-    "name:fre_x_preferred":[
-        "Sighnaghi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10e6\u10dc\u10d0\u10e6\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Sighnaghi"
     ],
     "name:hye_x_preferred":[
@@ -94,6 +76,9 @@
     "name:nld_x_preferred":[
         "Signagi"
     ],
+    "name:nld_x_variant":[
+        "Sighnaghi"
+    ],
     "name:nob_x_preferred":[
         "Sighnaghi"
     ],
@@ -102,9 +87,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0421\u0438\u0433\u044a\u043d\u0430\u0445"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u063a\u0646\u0627\u063a\u06cc"
     ],
     "name:pol_x_preferred":[
         "Sighnaghi"
@@ -184,7 +166,7 @@
         }
     ],
     "wof:id":421203101,
-    "wof:lastmodified":1527716196,
+    "wof:lastmodified":1561839715,
     "wof:name":"Signakhi",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",

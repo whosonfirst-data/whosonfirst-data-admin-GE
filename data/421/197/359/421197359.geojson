@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u0563\u0578\u0564\u0565\u056d"
-    ],
     "name:aze_x_preferred":[
         "Laqodexi"
     ],
@@ -28,16 +25,7 @@
     "name:che_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0434\u0435\u0445\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u6208\u4ee3\u5e0c"
-    ],
-    "name:cze_x_preferred":[
-        "Lagodechi"
-    ],
     "name:deu_x_preferred":[
-        "Lagodechi"
-    ],
-    "name:dut_x_preferred":[
         "Lagodechi"
     ],
     "name:eng_x_preferred":[
@@ -52,14 +40,8 @@
     "name:fin_x_preferred":[
         "Lagodekhi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lagodekhi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d2\u10dd\u10d3\u10d4\u10ee\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Lagodechi"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05d2\u05d5\u05d3\u05d7\u05d9"
@@ -97,16 +79,10 @@
     "name:oss_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0434\u0435\u0445"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u06af\u0648\u062f\u062e\u06cc"
-    ],
     "name:ron_x_preferred":[
         "Lagodehi"
     ],
     "name:ron_x_variant":[
-        "Lagodekhi"
-    ],
-    "name:rum_x_preferred":[
         "Lagodekhi"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +162,7 @@
         }
     ],
     "wof:id":421197359,
-    "wof:lastmodified":1527716404,
+    "wof:lastmodified":1561839716,
     "wof:name":"Lagodekhi",
     "wof:parent_id":1108691323,
     "wof:placetype":"locality",

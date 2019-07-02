@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053e\u0576\u0578\u0580\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0426\u043d\u043e\u0440\u0438"
     ],
@@ -25,14 +22,8 @@
     "name:che_x_preferred":[
         "\u0426\u043d\u043e\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u8328\u8afe\u91cc"
-    ],
     "name:deu_x_preferred":[
         "Znori"
-    ],
-    "name:dut_x_preferred":[
-        "Tsnori"
     ],
     "name:eng_x_preferred":[
         "Tsnori"
@@ -40,14 +31,8 @@
     "name:fas_x_preferred":[
         "\u062a\u0633\u0646\u0648\u0631\u06cc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsnori"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ec\u10dc\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Znori"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05e0\u05d5\u05e8\u05d9"
@@ -76,13 +61,10 @@
     "name:oss_x_preferred":[
         "\u0426\u044a\u043d\u043e\u0440"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0646\u0648\u0631\u06cc"
-    ],
     "name:ron_x_preferred":[
         "\u021anori"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Tsnori"
     ],
     "name:rus_x_preferred":[
@@ -156,7 +138,7 @@
         }
     ],
     "wof:id":421200089,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561839717,
     "wof:name":"Tsnori",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",
