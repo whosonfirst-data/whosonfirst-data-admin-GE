@@ -31,12 +31,14 @@
     "mps:longitude":41.864756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Sugdidi"
+    ],
     "name:eng_x_preferred":[
         "Zugdidi"
     ],
     "name:eng_x_variant":[
         "Zygdidi",
-        "Zugdidi",
         "Zugdidi District"
     ],
     "name:est_x_preferred":[
@@ -66,6 +68,9 @@
     "name:rus_x_preferred":[
         "\u0417\u0443\u0433\u0434\u0438\u0434\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
     ],
+    "name:tur_x_preferred":[
+        "Zugdidi"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0491\u0434\u0456\u0434\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
     ],
@@ -74,6 +79,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d6\u10e3\u10d2\u10d3\u10d8\u10d3\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u683c\u8fea\u8fea\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -109,7 +117,7 @@
         }
     ],
     "wof:id":1108691401,
-    "wof:lastmodified":1561839713,
+    "wof:lastmodified":1563357023,
     "wof:name":"Zugdidi",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

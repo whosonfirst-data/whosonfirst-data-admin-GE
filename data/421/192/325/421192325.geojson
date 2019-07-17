@@ -16,11 +16,17 @@
     "name:aze_x_preferred":[
         "Qonio Apsar"
     ],
+    "name:bak_x_preferred":[
+        "\u0413\u043e\u043d\u0438\u043e \u04a1\u04d9\u043b\u0493\u04d9\u04bb\u0435"
+    ],
     "name:ces_x_preferred":[
         "Gonio"
     ],
     "name:deu_x_preferred":[
         "Festung Gonio"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03c1\u03bf\u03cd\u03c1\u03b9\u03bf \u0393\u03ba\u03cc\u03bd\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Gonio"
@@ -31,11 +37,17 @@
     "name:fin_x_preferred":[
         "Gonio"
     ],
+    "name:fra_x_preferred":[
+        "Gonio"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e0\u05d9\u05d5"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0578\u0576\u056b\u0578\u0575\u056b \u0562\u0565\u0580\u0564"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0578\u0576\u056b\u0578\u0575\u056b \u0532\u0565\u0580\u0564"
     ],
     "name:ita_x_preferred":[
         "Gonio"
@@ -50,7 +62,16 @@
     "name:kor_x_preferred":[
         "\uace0\ub2c8\uc624"
     ],
+    "name:lav_x_preferred":[
+        "Gonio cietoksnis"
+    ],
+    "name:nld_x_preferred":[
+        "Gonio"
+    ],
     "name:pol_x_preferred":[
+        "Gonio"
+    ],
+    "name:por_x_preferred":[
         "Gonio"
     ],
     "name:rus_x_preferred":[
@@ -119,7 +140,7 @@
         }
     ],
     "wof:id":421192325,
-    "wof:lastmodified":1527716112,
+    "wof:lastmodified":1563357130,
     "wof:name":"Gonio",
     "wof:parent_id":1108691309,
     "wof:placetype":"locality",

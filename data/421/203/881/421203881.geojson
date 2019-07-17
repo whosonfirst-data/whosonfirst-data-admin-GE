@@ -16,7 +16,10 @@
     "name:abk_x_preferred":[
         "\u049a\u043e\u0431\u0443\u043b\u0435\u04ad"
     ],
-    "name:bel_x_variant":[
+    "name:aze_x_preferred":[
+        "Kobuleti"
+    ],
+    "name:bel_x_preferred":[
         "\u041a\u0430\u0431\u0443\u043b\u0435\u0446\u0456"
     ],
     "name:bul_x_preferred":[
@@ -46,6 +49,9 @@
     "name:eng_x_preferred":[
         "K'obulet'i"
     ],
+    "name:eng_x_variant":[
+        "Kobuleti"
+    ],
     "name:epo_x_preferred":[
         "Kobuleti"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05d1\u05d5\u05dc\u05ea\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Kobuleti"
     ],
     "name:hye_x_preferred":[
         "\u0554\u0578\u0562\u0578\u0582\u056c\u0565\u0569"
@@ -84,6 +93,12 @@
     ],
     "name:nld_x_preferred":[
         "Koboeleti"
+    ],
+    "name:nno_x_preferred":[
+        "Kobuleti"
+    ],
+    "name:nob_x_preferred":[
+        "Kobuleti"
     ],
     "name:oss_x_preferred":[
         "\u041a\u043e\u0431\u0443\u043b\u0435\u0442"
@@ -172,7 +187,7 @@
         }
     ],
     "wof:id":421203881,
-    "wof:lastmodified":1527716191,
+    "wof:lastmodified":1563357135,
     "wof:name":"K'obulet'i",
     "wof:parent_id":1108691317,
     "wof:placetype":"locality",

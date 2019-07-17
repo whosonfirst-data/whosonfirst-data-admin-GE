@@ -46,6 +46,9 @@
     "name:cat_x_preferred":[
         "Tskhinvali"
     ],
+    "name:ceb_x_preferred":[
+        "Ts'khinvali"
+    ],
     "name:ces_x_preferred":[
         "Cchinvali"
     ],
@@ -204,6 +207,12 @@
     ],
     "name:por_x_preferred":[
         "Tskhinval"
+    ],
+    "name:por_x_variant":[
+        "Tskhinvali"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0633\u062e\u06cc\u0646\u0648\u0627\u0644\u06cc"
     ],
     "name:ron_x_preferred":[
         "\u021ahinvali"
@@ -411,7 +420,7 @@
         }
     ],
     "wof:id":890442235,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357202,
     "wof:name":"Tskhinvali",
     "wof:parent_id":1108691393,
     "wof:placetype":"locality",

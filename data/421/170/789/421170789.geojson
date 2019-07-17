@@ -16,6 +16,9 @@
     "name:aze_x_preferred":[
         "Marneuli"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0456"
+    ],
     "name:bel_x_variant":[
         "\u041c\u0430\u0440\u043d\u044d\u0443\u043b\u0456"
     ],
@@ -61,6 +64,9 @@
     "name:hye_x_variant":[
         "\u0544\u0561\u057c\u0576\u0565\u0578\u0582\u056c"
     ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u057c\u0576\u0567\u0578\u0582\u056c\u056b"
+    ],
     "name:ita_x_preferred":[
         "Marneuli"
     ],
@@ -101,6 +107,9 @@
         "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0438"
     ],
     "name:swe_x_preferred":[
+        "Marneuli"
+    ],
+    "name:szl_x_preferred":[
         "Marneuli"
     ],
     "name:tur_x_preferred":[
@@ -174,7 +183,7 @@
         }
     ],
     "wof:id":421170789,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357176,
     "wof:name":"Marneuli",
     "wof:parent_id":1108691331,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:bel_x_preferred":[
         "\u0410\u0437\u0443\u0440\u0433\u0435\u0446\u043a\u0456 \u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Ozurgeti"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Osurgeti"
     ],
@@ -47,7 +50,6 @@
         "Ozurgeti"
     ],
     "name:eng_x_variant":[
-        "Ozurgeti",
         "Ozurgeti Municipality"
     ],
     "name:est_x_preferred":[
@@ -68,6 +70,9 @@
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Ozurgeti"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ba\u30eb\u30b2\u30c6\u30a3\u57fa\u790e\u81ea\u6cbb\u4f53"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10d6\u10e3\u10e0\u10d2\u10d4\u10d7\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
@@ -77,14 +82,23 @@
     "name:rus_x_preferred":[
         "\u041e\u0437\u0443\u0440\u0433\u0435\u0442\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
     ],
+    "name:tur_x_preferred":[
+        "Ozurgeti"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0437\u0443\u0440\u0433\u0435\u0442\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
+    ],
+    "name:ukr_x_variant":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041e\u0437\u0443\u0440\u0491\u0435\u0442\u0456"
     ],
     "name:war_x_preferred":[
         "Ozurgeti"
     ],
     "name:xmf_x_preferred":[
         "\u10dd\u10d6\u10e3\u10e0\u10d2\u10d4\u10d7\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7956\u723e\u84cb\u8482\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -122,7 +136,7 @@
         }
     ],
     "wof:id":1108691347,
-    "wof:lastmodified":1561839711,
+    "wof:lastmodified":1563356987,
     "wof:name":"Ozurgeti",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

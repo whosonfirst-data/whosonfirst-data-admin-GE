@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Nap'areuli"
     ],
+    "name:eng_x_variant":[
+        "Napareuli"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0583\u0561\u057c\u0565\u0578\u0582\u056c"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421189409,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357155,
     "wof:name":"Napareuli",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

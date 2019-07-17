@@ -16,14 +16,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0646\u0642\u0637\u0627\u0639 \u0627\u0644\u062a\u0646\u0641\u0633"
     ],
+    "name:aze_x_preferred":[
+        "Apnoe"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043f\u043d\u043e\u044d"
     ],
     "name:bre_x_preferred":[
         "Apnea"
     ],
+    "name:bul_x_preferred":[
+        "\u0430\u043f\u043d\u0435\u044f"
+    ],
     "name:cat_x_preferred":[
         "Apnea"
+    ],
+    "name:cat_x_variant":[
+        "apnea"
     ],
     "name:ces_x_preferred":[
         "Apnoe"
@@ -31,14 +40,26 @@
     "name:deu_x_preferred":[
         "Atemstillstand"
     ],
+    "name:eng_x_preferred":[
+        "apnea"
+    ],
     "name:epo_x_preferred":[
         "Apneo"
+    ],
+    "name:eus_x_preferred":[
+        "Apnea"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0642\u0641 \u062a\u0646\u0641\u0633"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u200c\u062f\u0645\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Apn\u00e9e"
+    ],
+    "name:fra_x_variant":[
+        "apn\u00e9e"
     ],
     "name:hbs_x_preferred":[
         "Apneja"
@@ -52,6 +73,12 @@
     "name:ita_x_preferred":[
         "Apnea"
     ],
+    "name:ita_x_variant":[
+        "apnea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7121\u547c\u5438"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10e4\u10dc\u10d8\u10d0"
     ],
@@ -61,14 +88,29 @@
     "name:nld_x_preferred":[
         "Apneu"
     ],
+    "name:nld_x_variant":[
+        "apneu"
+    ],
+    "name:nno_x_preferred":[
+        "apn\u00e9"
+    ],
+    "name:nob_x_preferred":[
+        "apn\u00e9"
+    ],
     "name:nor_x_preferred":[
         "Apn\u00e9"
     ],
     "name:pol_x_preferred":[
         "Bezdech"
     ],
+    "name:pol_x_variant":[
+        "bezdech"
+    ],
     "name:por_x_preferred":[
         "Apneia"
+    ],
+    "name:por_x_variant":[
+        "apneia"
     ],
     "name:ron_x_preferred":[
         "Apnee"
@@ -79,11 +121,17 @@
     "name:spa_x_preferred":[
         "Apnea"
     ],
+    "name:spa_x_variant":[
+        "apnea"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043f\u043d\u0435\u0458\u0430"
     ],
     "name:swe_x_preferred":[
         "Apn\u00e9"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e32\u0e23\u0e2b\u0e22\u0e38\u0e14\u0e2b\u0e32\u0e22\u0e43\u0e08"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043f\u043d\u043e\u0435"
@@ -93,6 +141,12 @@
     ],
     "name:uzb_x_preferred":[
         "Apnoe"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u1eebng th\u1edf"
+    ],
+    "name:zho_x_preferred":[
+        "\u547c\u5438\u505c\u6b62"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -140,7 +194,7 @@
         }
     ],
     "wof:id":421174969,
-    "wof:lastmodified":1527716228,
+    "wof:lastmodified":1563357151,
     "wof:name":"Apnia",
     "wof:parent_id":1108691243,
     "wof:placetype":"locality",

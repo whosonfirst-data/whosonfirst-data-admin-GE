@@ -25,6 +25,9 @@
     "name:aze_x_preferred":[
         "Tsxinvali"
     ],
+    "name:aze_x_variant":[
+        "Sxinval"
+    ],
     "name:bak_x_preferred":[
         "\u0426\u0445\u0438\u043d\u0432\u0430\u043b"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:bos_x_preferred":[
         "Chinvali"
+    ],
+    "name:bos_x_variant":[
+        "Tskhinvali"
     ],
     "name:bul_x_preferred":[
         "\u0426\u0445\u0438\u043d\u0432\u0430\u043b\u0438"
@@ -69,6 +75,9 @@
     ],
     "name:eng_x_preferred":[
         "Ts'khinvali"
+    ],
+    "name:eng_x_variant":[
+        "Tskhinvali"
     ],
     "name:epo_x_preferred":[
         "C\u0125inval"
@@ -181,6 +190,9 @@
     "name:myv_x_preferred":[
         "\u0426\u0445\u0438\u043d\u0432\u0430\u043b\u0438 \u043e\u0448"
     ],
+    "name:myv_x_variant":[
+        "\u0426\u0445\u0438\u043d\u0432\u0430\u043b \u043e\u0448"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u062e\u06cc\u0646\u0648\u0627\u0644\u06cc"
     ],
@@ -216,6 +228,9 @@
     ],
     "name:por_x_preferred":[
         "Tskhinvali"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u0633\u062e\u06cc\u0646\u0648\u0627\u0644\u06cc"
     ],
     "name:ron_x_preferred":[
         "\u021ahinvali"
@@ -258,6 +273,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0445\u0438\u043d\u0432\u043e\u043b\u0438"
+    ],
+    "name:tgk_x_variant":[
+        "\u0421\u0445\u0438\u043d\u0432\u043e\u043b\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e04\u0e34\u0e19\u0e27\u0e32\u0e25\u0e35"
@@ -352,7 +370,7 @@
         }
     ],
     "wof:id":421174439,
-    "wof:lastmodified":1561839715,
+    "wof:lastmodified":1563357149,
     "wof:name":"Ts'khinvali",
     "wof:parent_id":1108691393,
     "wof:placetype":"locality",

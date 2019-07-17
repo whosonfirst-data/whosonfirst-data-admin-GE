@@ -28,12 +28,21 @@
     "name:aze_x_preferred":[
         "Qardabani"
     ],
+    "name:ceb_x_preferred":[
+        "Gardabnis Munitsip'alit'et'i"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Gardabani"
+    ],
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Gardabani"
+    ],
     "name:eng_x_preferred":[
         "Gardabani"
     ],
     "name:eng_x_variant":[
         "Gardabani",
-        "Gardabani"
+        "Gardabani Municipality"
     ],
     "name:fin_x_preferred":[
         "Gardabanin piirikunta"
@@ -68,6 +77,9 @@
     "name:war_x_preferred":[
         "Gardabani"
     ],
+    "name:zho_x_preferred":[
+        "\u52a0\u723e\u9054\u5df4\u5c3c\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108691281,
-    "wof:lastmodified":1561839711,
+    "wof:lastmodified":1563356999,
     "wof:name":"Gardabani",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

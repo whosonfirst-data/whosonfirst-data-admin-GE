@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0646\u0648\u0631\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u0646\u0648\u0631\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u043d\u043e\u0440\u0438"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0426\u044a\u043d\u043e\u0440"
+    ],
+    "name:oss_x_variant":[
+        "\u0426\u043d\u043e\u0440\u0438"
     ],
     "name:ron_x_preferred":[
         "\u021anori"
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":421200089,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357172,
     "wof:name":"Tsnori",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",

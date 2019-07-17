@@ -15,10 +15,16 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0627\u0646\u064a\u0633\u064a"
+    ],
     "name:aze_x_preferred":[
         "Dmanisi"
     ],
     "name:cat_x_preferred":[
+        "Dmanisi"
+    ],
+    "name:ceb_x_preferred":[
         "Dmanisi"
     ],
     "name:ces_x_preferred":[
@@ -99,6 +105,9 @@
     "name:oss_x_preferred":[
         "\u0414\u043c\u0430\u043d\u0438\u0441\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Dmanisi"
+    ],
     "name:por_x_preferred":[
         "Dmanisi"
     ],
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":890431279,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357196,
     "wof:name":"Dmanisi",
     "wof:parent_id":1108691377,
     "wof:placetype":"locality",

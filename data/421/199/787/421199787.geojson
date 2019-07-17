@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u044b\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u0438\u044f"
+    ],
     "name:ceb_x_preferred":[
         "Mest'ia"
     ],
@@ -25,11 +31,17 @@
     "name:deu_x_preferred":[
         "Mestia"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03c3\u03c4\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mestia"
     ],
     "name:est_x_preferred":[
         "Mestia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u062a\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Mestia"
@@ -70,10 +82,16 @@
     "name:pol_x_preferred":[
         "Mestia"
     ],
+    "name:ron_x_preferred":[
+        "Mestia"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0441\u0442\u0438\u0430"
     ],
     "name:swe_x_preferred":[
+        "Mestia"
+    ],
+    "name:tur_x_preferred":[
         "Mestia"
     ],
     "name:ukr_x_preferred":[
@@ -87,6 +105,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d4\u10e1\u10e2\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u65af\u8482\u4e9e"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -135,7 +156,7 @@
         }
     ],
     "wof:id":421199787,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357171,
     "wof:name":"Mestia",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

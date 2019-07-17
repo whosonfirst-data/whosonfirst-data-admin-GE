@@ -31,11 +31,19 @@
     "mps:longitude":42.55956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Khonis Munitsip'alit'et'i"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Khoni"
+    ],
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Choni"
+    ],
     "name:eng_x_preferred":[
         "Khoni"
     ],
     "name:eng_x_variant":[
-        "Khoni",
         "Khoni Municipality"
     ],
     "name:est_x_preferred":[
@@ -68,8 +76,17 @@
     "name:swe_x_preferred":[
         "Khonis Munitsip'alit'et'i"
     ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0425\u043e\u043d\u0456"
+    ],
     "name:war_x_preferred":[
         "Khoni"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10dd\u10dc\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u5c3c\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +124,7 @@
         }
     ],
     "wof:id":1108691313,
-    "wof:lastmodified":1561839711,
+    "wof:lastmodified":1563357004,
     "wof:name":"Khoni",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

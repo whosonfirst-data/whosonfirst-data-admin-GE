@@ -16,6 +16,9 @@
     "name:abk_x_preferred":[
         "\u0426\u0430\u043d\u0434\u0440\u044b\u04a7\u0448\u044c"
     ],
+    "name:abk_x_variant":[
+        "\u0426\u0430\u043d\u0434\u0440\u044b\u0525\u0448\u044c"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0426\u0430\u043d\u0434\u0440\u044b\u043f\u0448"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:eng_x_preferred":[
         "Gant'iadi"
+    ],
+    "name:eng_x_variant":[
+        "Gantiadi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0576\u0569\u056b\u0561\u0564"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10dc\u10d7\u10d8\u10d0\u10d3\u10d8"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421186405,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357157,
     "wof:name":"Gantiadi",
     "wof:parent_id":1108691277,
     "wof:placetype":"locality",

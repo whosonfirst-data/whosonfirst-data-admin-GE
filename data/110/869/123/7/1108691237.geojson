@@ -34,12 +34,20 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u0634\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Abasha"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Abasha"
+    ],
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Abascha"
+    ],
     "name:eng_x_preferred":[
         "Abasha"
     ],
     "name:eng_x_variant":[
         "Abacha",
-        "Abasha",
         "Abasha Municipality"
     ],
     "name:est_x_preferred":[
@@ -66,14 +74,23 @@
     "name:nld_x_preferred":[
         "Abasha Municipality"
     ],
+    "name:por_x_preferred":[
+        "Abasha"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u0430\u0448\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u0431\u0430\u0448\u0430"
     ],
     "name:war_x_preferred":[
         "Abasha"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d1\u10d0\u10e8\u10d0\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5df4\u6c99\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +128,7 @@
         }
     ],
     "wof:id":1108691237,
-    "wof:lastmodified":1561839712,
+    "wof:lastmodified":1563357017,
     "wof:name":"Abasha",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

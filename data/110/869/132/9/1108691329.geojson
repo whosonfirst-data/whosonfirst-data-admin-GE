@@ -31,6 +31,12 @@
     "mps:longitude":42.755343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Leninskiy Rayon"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Lentekhi"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Lentechi"
     ],
@@ -38,7 +44,6 @@
         "Lentekhi"
     ],
     "name:eng_x_variant":[
-        "Lentekhi",
         "Lentekhi Municipality"
     ],
     "name:est_x_preferred":[
@@ -71,8 +76,17 @@
     "name:swe_x_preferred":[
         "Leninskiy Rayon"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041b\u0435\u043d\u0442\u0435\u0445\u0456"
+    ],
     "name:war_x_preferred":[
         "Lentekhi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d4\u10dc\u10e2\u10d4\u10ee\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u6cf0\u5e0c\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +124,7 @@
         }
     ],
     "wof:id":1108691329,
-    "wof:lastmodified":1561839710,
+    "wof:lastmodified":1563356980,
     "wof:name":"Lentekhi",
     "wof:parent_id":1108805959,
     "wof:placetype":"county",

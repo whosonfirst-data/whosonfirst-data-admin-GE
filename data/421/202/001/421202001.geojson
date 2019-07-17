@@ -19,14 +19,23 @@
     "name:aze_x_preferred":[
         "O\u00e7am\u00e7\u0131re"
     ],
+    "name:aze_x_variant":[
+        "O\u00e7am\u00e7\u0131ra"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0447\u0430\u043c\u0447\u044b\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0447\u0430\u043c\u0447\u044b\u0440\u0430"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Otxamtxire"
+    ],
+    "name:cat_x_variant":[
+        "Ochamchira"
     ],
     "name:ceb_x_preferred":[
         "Och'amch'ire"
@@ -46,6 +55,9 @@
     "name:eng_x_preferred":[
         "Och'amch'ire"
     ],
+    "name:eng_x_variant":[
+        "Ochamchire"
+    ],
     "name:epo_x_preferred":[
         "O\u0109am\u0109ire"
     ],
@@ -61,6 +73,9 @@
     "name:fra_x_variant":[
         "Otchamtchire"
     ],
+    "name:gag_x_preferred":[
+        "O\u00e7am\u00e7ira"
+    ],
     "name:hbs_x_preferred":[
         "O\u010dam\u010dire"
     ],
@@ -70,11 +85,20 @@
     "name:hrv_x_preferred":[
         "O\u010dam\u010dire"
     ],
+    "name:hrv_x_variant":[
+        "O\u010dam\u010dira"
+    ],
+    "name:hsb_x_preferred":[
+        "O\u010dam\u010dira"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0579\u0561\u0574\u0579\u056b\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "Ochamchire"
+    ],
+    "name:ita_x_variant":[
+        "Ochamchira"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30c1\u30e3\u30e0\u30c1\u30e9"
@@ -84,6 +108,9 @@
     ],
     "name:kat_x_variant":[
         "Och\u2019amch\u2019ire"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0430"
     ],
     "name:koi_x_preferred":[
         "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0430"
@@ -96,6 +123,9 @@
     ],
     "name:lit_x_preferred":[
         "O\u010dam\u010dyra"
+    ],
+    "name:lit_x_variant":[
+        "O\u010dam\u010dira"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0686\u0627\u0645\u0686\u06cc\u0631\u0627"
@@ -115,6 +145,9 @@
     "name:por_x_preferred":[
         "Ochamchire"
     ],
+    "name:por_x_variant":[
+        "Ochamchira"
+    ],
     "name:ron_x_preferred":[
         "Oceamcire"
     ],
@@ -127,23 +160,38 @@
     "name:sco_x_preferred":[
         "Ochamchire"
     ],
+    "name:sco_x_variant":[
+        "Ochamchira"
+    ],
     "name:spa_x_preferred":[
         "Ochamchira"
     ],
     "name:srp_x_preferred":[
         "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0435"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0430"
+    ],
     "name:swe_x_preferred":[
         "Otjamtjire"
     ],
+    "name:swe_x_variant":[
+        "Otjamtjira"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u041e\u0447\u0430\u043c\u0447\u0456\u0440\u0435"
     ],
     "name:unk_x_variant":[
         "Ochemchiri"
     ],
     "name:war_x_preferred":[
         "Ochamchire"
+    ],
+    "name:war_x_variant":[
+        "Ochamchira"
     ],
     "name:xmf_x_preferred":[
         "\u10dd\u10e9\u10d0\u10db\u10e9\u10d8\u10e0\u10d4"
@@ -199,7 +247,7 @@
         }
     ],
     "wof:id":421202001,
-    "wof:lastmodified":1561839715,
+    "wof:lastmodified":1563357142,
     "wof:name":"Och'amch'ire",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

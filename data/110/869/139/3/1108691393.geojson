@@ -25,6 +25,12 @@
     "mps:longitude":43.967065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Goris Munitsip'alit'et'i"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Gori"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Gori"
     ],
@@ -37,7 +43,7 @@
     "name:eng_x_variant":[
         "Tskhinvali",
         "Gori",
-        "Gori"
+        "Gori Municipality"
     ],
     "name:fin_x_preferred":[
         "Gorin piirikunta"
@@ -78,11 +84,20 @@
     "name:swe_x_preferred":[
         "Goris Munitsip'alit'et'i"
     ],
+    "name:tur_x_preferred":[
+        "Gori"
+    ],
     "name:ukr_x_preferred":[
         "\u0490\u043e\u0440\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0490\u043e\u0440\u0456"
+    ],
     "name:war_x_preferred":[
         "Gori"
+    ],
+    "name:zho_x_preferred":[
+        "\u54e5\u91cc\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +123,7 @@
         }
     ],
     "wof:id":1108691393,
-    "wof:lastmodified":1561839712,
+    "wof:lastmodified":1563357011,
     "wof:name":"Tskhinvali",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

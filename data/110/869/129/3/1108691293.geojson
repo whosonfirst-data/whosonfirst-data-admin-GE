@@ -31,6 +31,12 @@
     "mps:longitude":44.019314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Javis Munitsip'alit'et'i"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Java"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Dschawa"
     ],
@@ -39,7 +45,6 @@
     ],
     "name:eng_x_variant":[
         "Djava",
-        "Java",
         "Java Municipality"
     ],
     "name:fra_x_preferred":[
@@ -75,8 +80,14 @@
     "name:swe_x_preferred":[
         "Javis Munitsip'alit'et'i"
     ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0414\u0436\u0430\u0432\u0430"
+    ],
     "name:war_x_preferred":[
         "Java"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cc8\u74e6\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +123,7 @@
         }
     ],
     "wof:id":1108691293,
-    "wof:lastmodified":1561839711,
+    "wof:lastmodified":1563356992,
     "wof:name":"Java",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

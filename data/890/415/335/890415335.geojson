@@ -27,6 +27,9 @@
     "name:bul_x_preferred":[
         "\u0422\u043a\u0432\u0430\u0440\u0447\u0435\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Tqvarch'eli"
+    ],
     "name:ces_x_preferred":[
         "Tkvar\u010deli"
     ],
@@ -36,11 +39,20 @@
     "name:chv_x_preferred":[
         "\u0422\u043a\u0443\u0430\u0440\u0447\u0430\u043b"
     ],
+    "name:dan_x_preferred":[
+        "Tkvartjeli"
+    ],
     "name:deu_x_preferred":[
         "Tqwartscheli"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ba\u03b2\u03b1\u03c1\u03c4\u03c3\u03ad\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Tkuarchal"
+    ],
+    "name:eng_x_variant":[
+        "Tkvarcheli"
     ],
     "name:est_x_preferred":[
         "Tkvart\u0161eli"
@@ -101,6 +113,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u043a\u0443\u0430\u0440\u0447\u0430\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043a\u0432\u0430\u0440\u0447\u0435\u043b\u0438"
     ],
     "name:spa_x_preferred":[
         "Tkvarcheli"
@@ -164,7 +179,7 @@
         }
     ],
     "wof:id":890415335,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357190,
     "wof:name":"Tqvarch'eli",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

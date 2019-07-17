@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Telavi"
     ],
+    "name:ceb_x_preferred":[
+        "Telavi"
+    ],
     "name:ces_x_preferred":[
         "Telavi"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bb\u03b1\u03b2\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b5\u03bb\u03ac\u03b2\u03b9"
     ],
     "name:eng_x_preferred":[
         "T'elavi"
@@ -90,6 +96,9 @@
     "name:hrv_x_preferred":[
         "Telavi"
     ],
+    "name:hsb_x_preferred":[
+        "Telawi"
+    ],
     "name:hun_x_preferred":[
         "Telavi"
     ],
@@ -119,6 +128,9 @@
     ],
     "name:lav_x_preferred":[
         "Telavi"
+    ],
+    "name:lez_x_preferred":[
+        "\u0422\u0435\u043b\u0430\u0432\u0438"
     ],
     "name:lit_x_preferred":[
         "Telavis"
@@ -237,7 +249,7 @@
         }
     ],
     "wof:id":890443231,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357200,
     "wof:name":"T\u2019elavi",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

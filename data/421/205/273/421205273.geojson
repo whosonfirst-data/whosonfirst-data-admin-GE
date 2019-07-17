@@ -16,7 +16,7 @@
     "name:aze_x_preferred":[
         "Samtredia"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0421\u0430\u043c\u0442\u0440\u044d\u0434\u044b\u044f"
     ],
     "name:bul_x_preferred":[
@@ -109,8 +109,14 @@
     "name:swe_x_preferred":[
         "Samtredia"
     ],
+    "name:tur_x_preferred":[
+        "Samtredia"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0442\u0440\u0435\u0434\u0456\u044f"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043c\u0442\u0440\u0435\u0434\u0456\u0430"
     ],
     "name:unk_x_variant":[
         "Ssamtredia"
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421205273,
-    "wof:lastmodified":1561839715,
+    "wof:lastmodified":1563357145,
     "wof:name":"Samtredia",
     "wof:parent_id":1108691357,
     "wof:placetype":"locality",
