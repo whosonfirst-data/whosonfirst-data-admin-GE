@@ -18,8 +18,14 @@
     "name:aze_x_preferred":[
         "Axmeta"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0445\u043c\u0435\u0442\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0445\u043c\u0435\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Akhmet'a"
     ],
     "name:ces_x_preferred":[
         "Achmeta"
@@ -42,8 +48,14 @@
     "name:fra_x_preferred":[
         "Achmeta"
     ],
+    "name:fra_x_variant":[
+        "Akhmeta"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d7\u05de\u05d8\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Achmeta"
     ],
     "name:hye_x_preferred":[
         "\u0531\u056d\u0574\u0565\u057f\u0561"
@@ -68,6 +80,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0410\u0445\u043c\u0435\u0442\u00e6"
+    ],
+    "name:pol_x_preferred":[
+        "Achmeta"
     ],
     "name:ron_x_preferred":[
         "Akhmeta"
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":890431131,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357194,
     "wof:name":"Akhmeta",
     "wof:parent_id":1108691247,
     "wof:placetype":"locality",

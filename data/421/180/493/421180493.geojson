@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Kvaisi"
     ],
+    "name:eng_x_variant":[
+        "Kvaisa"
+    ],
     "name:fra_x_preferred":[
         "Kvaisi"
+    ],
+    "name:hsb_x_preferred":[
+        "Kwajsa"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30f4\u30a1\u30a4\u30b5"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421180493,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357153,
     "wof:name":"Kvaisi",
     "wof:parent_id":1108691345,
     "wof:placetype":"locality",

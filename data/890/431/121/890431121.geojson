@@ -15,8 +15,14 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Kvareli"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0432\u0430\u0440\u044d\u043b\u0456"
+    ],
+    "name:ceb_x_preferred":[
+        "Qvareli"
     ],
     "name:ces_x_preferred":[
         "Kvareli"
@@ -29,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Qvareli"
+    ],
+    "name:eng_x_variant":[
+        "Kvareli"
     ],
     "name:est_x_preferred":[
         "Kvareli"
@@ -69,6 +78,12 @@
     "name:oss_x_preferred":[
         "\u0425\u044a\u0432\u0430\u0440\u0435\u043b\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Kwareli"
+    ],
+    "name:ron_x_preferred":[
+        "Kvareli"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0432\u0430\u0440\u0435\u043b\u0438"
     ],
@@ -77,6 +92,9 @@
     ],
     "name:swe_x_preferred":[
         "Qvareli"
+    ],
+    "name:tur_x_preferred":[
+        "Kvareli"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0430\u0440\u0435\u043b\u0456"
@@ -131,7 +149,7 @@
         }
     ],
     "wof:id":890431121,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357194,
     "wof:name":"Qvareli",
     "wof:parent_id":1108691321,
     "wof:placetype":"locality",

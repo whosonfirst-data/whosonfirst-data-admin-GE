@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Dushet'i"
     ],
+    "name:eng_x_variant":[
+        "Dusheti"
+    ],
     "name:est_x_preferred":[
         "Du\u0161ethi"
     ],
@@ -85,6 +88,9 @@
     "name:oss_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0442"
     ],
+    "name:pol_x_preferred":[
+        "Duszeti"
+    ],
     "name:ron_x_preferred":[
         "Du\u0219eti"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:swe_x_preferred":[
         "Dusjeti"
+    ],
+    "name:tur_x_preferred":[
+        "Du\u015feti"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0442\u0456"
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":421183771,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357181,
     "wof:name":"Dusheti",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

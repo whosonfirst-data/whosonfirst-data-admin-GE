@@ -25,6 +25,12 @@
     "name:abk_x_preferred":[
         "\u049a\u044b\u0440\u04ad\u0442\u04d9\u044b\u043b\u0430"
     ],
+    "name:ace_x_preferred":[
+        "Georgia"
+    ],
+    "name:ady_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u0435"
+    ],
     "name:afr_x_preferred":[
         "Georgi\u00eb"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:amh_x_variant":[
         "\u1302\u12ee\u122d\u1302\u12eb"
+    ],
+    "name:ang_x_preferred":[
+        "Georgia"
     ],
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u062c\u064a\u0627"
@@ -55,6 +64,9 @@
     "name:arz_x_preferred":[
         "\u062c\u064a\u0648\u0631\u062c\u064a\u0627"
     ],
+    "name:asm_x_preferred":[
+        "\u099c\u09f0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    ],
     "name:ast_x_preferred":[
         "Xeorxa"
     ],
@@ -63,6 +75,9 @@
     ],
     "name:ava_x_preferred":[
         "\u0413\u0443\u0440\u0436\u0438"
+    ],
+    "name:aym_x_preferred":[
+        "Kartulsuyu"
     ],
     "name:azb_x_preferred":[
         "\u06af\u0648\u0631\u062c\u06cc\u0633\u062a\u0627\u0646"
@@ -92,6 +107,12 @@
         "\u099c\u09b0\u09cd\u099c\u09bf\u09df\u09be",
         "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
     ],
+    "name:bgn_x_preferred":[
+        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "name:bho_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
     "name:bih_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
     ],
@@ -113,11 +134,17 @@
     "name:bpy_x_preferred":[
         "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be (\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0)"
     ],
+    "name:bpy_x_variant":[
+        "\u099c\u09b0\u09cd\u099c\u09bf\u09af\u09bc\u09be"
+    ],
     "name:bre_x_preferred":[
         "Georgia (dishe\u00f1velout)"
     ],
     "name:bre_x_variant":[
         "Jorjia"
+    ],
+    "name:brh_x_preferred":[
+        "J\u00e1rj\u00ed\u00e1"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u0443\u0437\u0438\u044f"
@@ -134,11 +161,20 @@
     "name:cdo_x_preferred":[
         "G\u00e1h-l\u016b-g\u00e9k-\u0101"
     ],
+    "name:cdo_x_variant":[
+        "Gruzia"
+    ],
+    "name:ceb_x_preferred":[
+        "Georgia"
+    ],
     "name:ces_x_preferred":[
         "Gruzie"
     ],
     "name:che_x_preferred":[
         "\u0413\u0443\u044c\u0440\u0436\u0438\u0439\u0447\u043e\u044c"
+    ],
+    "name:chr_x_preferred":[
+        "\u13e3\u13a0\u13e5\u13a2"
     ],
     "name:chu_x_preferred":[
         "\u0413\u0454\u0461\u0440\u0433\u0457\ua657"
@@ -151,6 +187,9 @@
     ],
     "name:cor_x_preferred":[
         "Pow Grouzi"
+    ],
+    "name:cos_x_preferred":[
+        "Georgia"
     ],
     "name:crh_x_preferred":[
         "G\u00fcrcistan"
@@ -179,6 +218,9 @@
     ],
     "name:dsb_x_preferred":[
         "Georgiska"
+    ],
+    "name:dty_x_preferred":[
+        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
     ],
     "name:dzo_x_preferred":[
         "\u0f47\u0f7d\u0f0b\u0f47\u0f71"
@@ -223,6 +265,9 @@
     "name:ewe_x_preferred":[
         "Georgia nutome"
     ],
+    "name:ewe_x_variant":[
+        "Georgia"
+    ],
     "name:ext_x_preferred":[
         "Ge\u00f3lgia"
     ],
@@ -259,14 +304,24 @@
     "name:fry_x_preferred":[
         "Georgje"
     ],
+    "name:fry_x_variant":[
+        "Ge\u00f6rgje"
+    ],
     "name:ful_x_preferred":[
         "Jeorgii"
+    ],
+    "name:ful_x_variant":[
+        "Jorjiya"
+    ],
+    "name:gag_x_preferred":[
+        "Gruziya"
     ],
     "name:gla_x_preferred":[
         "Georgia"
     ],
     "name:gla_x_variant":[
-        "A Chairtbheil"
+        "A Chairtbheil",
+        "A' Chairtbheil"
     ],
     "name:gle_x_preferred":[
         "An tSeoirsia"
@@ -284,17 +339,29 @@
     "name:gom_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
     ],
+    "name:grn_x_preferred":[
+        "Georgia"
+    ],
+    "name:gsw_x_preferred":[
+        "Georgie"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c\u0ac0\u0aaf\u0abe"
     ],
     "name:hak_x_preferred":[
         "Kak-l\u00fb-kit-\u00e2"
     ],
+    "name:hak_x_variant":[
+        "Gruzia"
+    ],
     "name:hat_x_preferred":[
         "Jeoji"
     ],
     "name:hau_x_preferred":[
         "Jiwarjiya"
+    ],
+    "name:hau_x_variant":[
+        "Georgia"
     ],
     "name:haw_x_preferred":[
         "Keokia"
@@ -309,6 +376,9 @@
         "\u05d2\u05e8\u05d5\u05d6\u05d9\u05d4",
         "\u05d2\u05d0\u05d5\u05e8\u05d2\u05d9\u05d4",
         "\u05d2'\u05d5\u05e8\u05d2'\u05d9\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Georgia"
     ],
     "name:hin_x_preferred":[
         "\u091c\u094b\u0930\u094d\u091c\u093f\u092f\u093e"
@@ -329,11 +399,17 @@
     "name:hye_x_preferred":[
         "\u054e\u0580\u0561\u057d\u057f\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u054e\u0580\u0561\u057d\u057f\u0561\u0576"
+    ],
     "name:ido_x_preferred":[
         "Georgia"
     ],
     "name:ido_x_variant":[
         "Gruzia"
+    ],
+    "name:ile_x_preferred":[
+        "Georgia"
     ],
     "name:ilo_x_preferred":[
         "Georgia"
@@ -347,6 +423,9 @@
     "name:ind_x_preferred":[
         "Georgia"
     ],
+    "name:inh_x_preferred":[
+        "\u0413\u0443\u0440\u0436\u0435\u0445\u044c\u0435"
+    ],
     "name:isl_x_preferred":[
         "Georg\u00eda"
     ],
@@ -359,8 +438,14 @@
     "name:jam_x_preferred":[
         "Jaajia"
     ],
+    "name:jam_x_variant":[
+        "Juoja"
+    ],
     "name:jav_x_preferred":[
         "G\u00e9orgia"
+    ],
+    "name:jav_x_variant":[
+        "Georgia"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30eb\u30b8\u30a2",
@@ -368,6 +453,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30b0\u30eb\u30b8\u30a2\u5171\u548c\u56fd"
+    ],
+    "name:kaa_x_preferred":[
+        "Gruziya"
     ],
     "name:kab_x_preferred":[
         "Jurjya"
@@ -402,6 +490,9 @@
     "name:kik_x_preferred":[
         "Jojia"
     ],
+    "name:kik_x_variant":[
+        "Georgia"
+    ],
     "name:kin_x_preferred":[
         "Geworugiya"
     ],
@@ -410,6 +501,9 @@
     ],
     "name:kom_x_preferred":[
         "\u0413\u0440\u0443\u0437\u0438\u044f"
+    ],
+    "name:kon_x_preferred":[
+        "Georgia"
     ],
     "name:kor_x_preferred":[
         "\uadf8\ub8e8\uc9c0\uc57c",
@@ -451,8 +545,14 @@
     "name:lez_x_preferred":[
         "\u0413\u0443\u0440\u0436\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:lfn_x_preferred":[
+        "Sacartvelo"
+    ],
     "name:lij_x_preferred":[
         "Zorzia"
+    ],
+    "name:lij_x_variant":[
+        "Ge\u00f2rgia"
     ],
     "name:lim_x_preferred":[
         "Georgi\u00eb"
@@ -465,6 +565,9 @@
     ],
     "name:lit_x_preferred":[
         "Gruzija"
+    ],
+    "name:lmo_x_preferred":[
+        "Georgia"
     ],
     "name:lrc_x_preferred":[
         "\u06af\u0648\u0631\u062c\u0633\u062a\u0627\u0646"
@@ -481,6 +584,12 @@
     "name:lug_x_preferred":[
         "Gyogya"
     ],
+    "name:lzh_x_preferred":[
+        "\u683c\u9b6f\u5409\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d1c\u0d4b\u0d7c\u0d1c\u0d4d\u0d1c\u0d3f\u0d2f (\u0d35\u0d3f\u0d35\u0d15\u0d4d\u0d37\u0d15\u0d7e)"
     ],
@@ -495,6 +604,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0413\u0440\u0443\u0437\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Georgia"
     ],
     "name:mkd_x_preferred":[
         "\u040f\u043e\u0440\u045f\u0438\u0458\u0430"
@@ -542,8 +654,17 @@
     "name:mzn_x_preferred":[
         "\u06af\u0631\u062c\u0633\u062a\u0648\u0646"
     ],
+    "name:nah_x_preferred":[
+        "Georgia"
+    ],
     "name:nan_x_preferred":[
         "Sakartvelo"
+    ],
+    "name:nan_x_variant":[
+        "Gruzia"
+    ],
+    "name:nap_x_preferred":[
+        "Georgia"
     ],
     "name:nau_x_preferred":[
         "Georgia"
@@ -576,6 +697,9 @@
     "name:new_x_preferred":[
         "\u091c\u0930\u094d\u091c\u093f\u092f\u093e"
     ],
+    "name:new_x_variant":[
+        "\u091c\u094d\u092f\u094b\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
     "name:nld_x_colloquial":[
         "Georgie"
     ],
@@ -600,6 +724,9 @@
     "name:nor_x_variant":[
         "Georgia"
     ],
+    "name:nov_x_preferred":[
+        "Georgia"
+    ],
     "name:oci_x_preferred":[
         "Georgia"
     ],
@@ -612,8 +739,14 @@
     "name:orm_x_preferred":[
         "Jioorjiyaa"
     ],
+    "name:orm_x_variant":[
+        "Ji'oorjiyaa"
+    ],
     "name:oss_x_preferred":[
         "\u0413\u0443\u044b\u0440\u0434\u0437\u044b\u0441\u0442\u043e\u043d"
+    ],
+    "name:pag_x_preferred":[
+        "Georgia"
     ],
     "name:pam_x_preferred":[
         "Georgya"
@@ -621,17 +754,26 @@
     "name:pan_x_preferred":[
         "\u0a1c\u0a3e\u0a30\u0a1c\u0a40\u0a06"
     ],
+    "name:pap_x_preferred":[
+        "Georgia"
+    ],
     "name:pcd_x_preferred":[
         "G\u00e9orgie"
     ],
     "name:pih_x_preferred":[
         "Jorja"
     ],
+    "name:pli_x_preferred":[
+        "\u091c\u093e\u0930\u094d\u091c\u093f\u092f\u093e-\u0926\u0947\u0936:"
+    ],
     "name:pms_x_preferred":[
         "Ge\u00f2rgia"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0627\u0631\u062c\u06cc\u0627"
+    ],
+    "name:pnb_x_variant":[
+        "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
     ],
     "name:pnt_x_preferred":[
         "\u0393\u03c1\u03bf\u03c5\u03b6\u03af\u03b1"
@@ -646,6 +788,9 @@
     ],
     "name:pus_x_preferred":[
         "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "name:pus_x_variant":[
+        "\u06ab\u0631\u062c\u0633\u062a\u0627\u0646"
     ],
     "name:que_x_preferred":[
         "Kartulsuyu"
@@ -666,6 +811,9 @@
     "name:run_x_preferred":[
         "Jeworujiya"
     ],
+    "name:rup_x_preferred":[
+        "Georgia"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0438\u044f (\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f)"
     ],
@@ -680,6 +828,9 @@
     ],
     "name:san_x_preferred":[
         "\u091c\u093e\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5a\u1c68\u1c61\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Giorgia"
@@ -705,11 +856,20 @@
     "name:slv_x_preferred":[
         "Gruzija"
     ],
+    "name:sma_x_preferred":[
+        "Georgia"
+    ],
     "name:sme_x_preferred":[
         "Georgia"
     ],
+    "name:smo_x_preferred":[
+        "Siaosia"
+    ],
     "name:sna_x_preferred":[
         "Georgia"
+    ],
+    "name:snd_x_preferred":[
+        "\u062c\u0627\u0631\u062c\u064a\u0627"
     ],
     "name:som_x_preferred":[
         "Joorjiya"
@@ -725,6 +885,9 @@
     ],
     "name:sqi_x_variant":[
         "Gjeorgjia"
+    ],
+    "name:srd_x_preferred":[
+        "Georgia"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
@@ -772,6 +935,9 @@
     "name:tgl_x_preferred":[
         "Heorhiya"
     ],
+    "name:tgl_x_variant":[
+        "Georgia"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22 (\u0e41\u0e01\u0e49\u0e04\u0e27\u0e32\u0e21\u0e01\u0e33\u0e01\u0e27\u0e21)"
     ],
@@ -784,6 +950,12 @@
     ],
     "name:ton_x_preferred":[
         "S\u014dsia"
+    ],
+    "name:tpi_x_preferred":[
+        "Georgia"
+    ],
+    "name:tso_x_preferred":[
+        "Georgia"
     ],
     "name:tuk_x_preferred":[
         "Gruzi\u00fda"
@@ -853,6 +1025,9 @@
         "Georg\u00e4n",
         "Grusiy\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Gruusia"
+    ],
     "name:war_x_preferred":[
         "Georgia"
     ],
@@ -877,11 +1052,17 @@
     "name:yor_x_preferred":[
         "Or\u00edl\u1eb9\u0301\u00e8de G\u1ecdgia"
     ],
+    "name:yor_x_variant":[
+        "Georgia"
+    ],
     "name:yue_x_preferred":[
         "\u683c\u9b6f\u5409\u4e9e"
     ],
     "name:zea_x_preferred":[
         "Georhi\u00eb"
+    ],
+    "name:zha_x_preferred":[
+        "Gruzia"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u6cbb\u4e9e (\u6d88\u6b67\u7fa9)"
@@ -1037,7 +1218,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1561839703,
+    "wof:lastmodified":1563356699,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

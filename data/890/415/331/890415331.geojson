@@ -57,6 +57,9 @@
     "name:hye_x_preferred":[
         "\u053e\u0561\u056c\u056f\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u053e\u0561\u056c\u056f\u0561"
+    ],
     "name:ita_x_preferred":[
         "Tsalka"
     ],
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":890415331,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357188,
     "wof:name":"Tsalka",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

@@ -15,6 +15,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0434\u0430\u0431\u0430"
+    ],
     "name:eng_x_preferred":[
         "Akhaldaba"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890433429,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357203,
     "wof:name":"Akhaldaba",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

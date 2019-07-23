@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Khulo"
     ],
+    "name:che_x_preferred":[
+        "\u0425\u0443\u043b\u043e"
+    ],
     "name:deu_x_preferred":[
         "Chulo"
     ],
@@ -49,6 +52,9 @@
     "name:swe_x_preferred":[
         "Khulo"
     ],
+    "name:tur_x_preferred":[
+        "Hulo"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043b\u043e"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10ee\u10e3\u10da\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u6d1b"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421182789,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357183,
     "wof:name":"Khulo",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",

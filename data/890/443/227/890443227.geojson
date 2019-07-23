@@ -52,6 +52,9 @@
     "name:ast_x_preferred":[
         "Tiflis"
     ],
+    "name:ast_x_variant":[
+        "Tblisi"
+    ],
     "name:ava_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
     ],
@@ -70,8 +73,14 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0431\u0456\u043b\u0456\u0441\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0422\u0431\u0456\u043b\u0456\u0441\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09bf\u09ac\u09bf\u200c\u09b2\u09bf\u09b8\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09bf\u09ac\u09bf\u09b2\u09bf\u09b8\u09bf"
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0fb2\u0f7a\u0f0b\u0f56\u0fb7\u0f72\u0f0b\u0f63\u0f72\u0f0b\u0f66\u0f72\u0f0d"
@@ -91,8 +100,14 @@
     "name:cat_x_preferred":[
         "Tbilisi"
     ],
+    "name:cat_x_variant":[
+        "Tbilissi"
+    ],
     "name:cdo_x_preferred":[
         "Tbilisi"
+    ],
+    "name:ceb_x_preferred":[
+        "K'alak'i T'bilisi"
     ],
     "name:ces_x_preferred":[
         "Tbilisi"
@@ -105,6 +120,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u062a\u0628\u0644\u06cc\u0633"
+    ],
+    "name:crh_x_preferred":[
+        "Tiflis"
     ],
     "name:cym_x_preferred":[
         "Tbilisi"
@@ -151,6 +169,9 @@
     "name:frp_x_preferred":[
         "Tbilisi"
     ],
+    "name:frr_x_preferred":[
+        "Tiflis"
+    ],
     "name:fry_x_preferred":[
         "Tbilisy"
     ],
@@ -166,11 +187,17 @@
     "name:glg_x_preferred":[
         "Tbilisi - \u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8"
     ],
+    "name:glg_x_variant":[
+        "Tbilisi"
+    ],
     "name:glk_x_preferred":[
         "\u062a\u0641\u0644\u06cc\u0633"
     ],
     "name:glv_x_preferred":[
         "Tbilisi"
+    ],
+    "name:grn_x_preferred":[
+        "Tivil\u00edsi"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abf\u0aac\u0abf\u0ab2\u0abf\u0ab8\u0abf"
@@ -193,6 +220,9 @@
     "name:hin_x_preferred":[
         "\u0925\u094d\u092c\u093f\u0932\u0940\u0938\u0940"
     ],
+    "name:hin_x_variant":[
+        "\u0924\u093f\u092c\u094d\u0932\u093f\u0938\u0940"
+    ],
     "name:hrv_x_preferred":[
         "Tbilisi"
     ],
@@ -205,6 +235,9 @@
     "name:hye_x_preferred":[
         "\u0539\u0562\u056b\u056c\u056b\u057d\u056b"
     ],
+    "name:hyw_x_preferred":[
+        "\u0539\u056b\u0586\u056c\u056b\u057d"
+    ],
     "name:ido_x_preferred":[
         "Tbilisi"
     ],
@@ -214,8 +247,14 @@
     "name:ilo_x_preferred":[
         "Tbilisi"
     ],
+    "name:ina_x_preferred":[
+        "Tbilisi"
+    ],
     "name:ind_x_preferred":[
         "Tbilisi"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0430\u044c\u043b\u0430\u043a\u0435"
     ],
     "name:isl_x_preferred":[
         "T\u00edflis"
@@ -270,6 +309,9 @@
     ],
     "name:lat_x_preferred":[
         "Triphelis"
+    ],
+    "name:lat_x_variant":[
+        "Tiphlis"
     ],
     "name:lav_x_preferred":[
         "Tbilisi"
@@ -385,6 +427,9 @@
     "name:por_x_preferred":[
         "Tibl\u00edssi"
     ],
+    "name:por_x_variant":[
+        "Tbilisi"
+    ],
     "name:que_x_preferred":[
         "Tbilisi"
     ],
@@ -393,6 +438,9 @@
     ],
     "name:ron_x_variant":[
         "Tbilisi"
+    ],
+    "name:rue_x_preferred":[
+        "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0431\u0438\u043b\u0438\u0441\u0438"
@@ -469,6 +517,9 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e1a\u0e34\u0e25\u0e34\u0e0b\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e17\u0e1a\u0e34\u0e25\u0e35\u0e0b\u0e35"
+    ],
     "name:tuk_x_preferred":[
         "Tbilisi"
     ],
@@ -489,6 +540,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0637\u0641\u0644\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u0628\u0644\u06cc\u0633\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Tbilisi"
@@ -667,7 +721,7 @@
         }
     ],
     "wof:id":890443227,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357199,
     "wof:name":"Tbilisi",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",

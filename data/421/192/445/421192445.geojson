@@ -34,6 +34,9 @@
     "name:fra_x_variant":[
         "Gudauri"
     ],
+    "name:ita_x_preferred":[
+        "Gudauri"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30c0\u30a6\u30ea"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Gudauri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0434\u0430\u0443\u0440\u0456"
     ],
     "name:unk_x_variant":[
         "Goudaour"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421192445,
-    "wof:lastmodified":1561839715,
+    "wof:lastmodified":1563357131,
     "wof:name":"Gudauri",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

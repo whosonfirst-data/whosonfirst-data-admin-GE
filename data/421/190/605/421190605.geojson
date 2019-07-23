@@ -20,6 +20,9 @@
     "name:abk_x_preferred":[
         "\u049a\u04d9\u04ad\u0435\u0448\u044c"
     ],
+    "name:afr_x_preferred":[
+        "Koetaisi"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627\u064a\u0633\u064a"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Kuta\u00efsi"
+    ],
+    "name:ceb_x_preferred":[
+        "Kutaisi"
     ],
     "name:ces_x_preferred":[
         "Kutaisi"
@@ -95,6 +101,9 @@
     "name:glg_x_preferred":[
         "Kutaisi"
     ],
+    "name:grn_x_preferred":[
+        "Kutaisi"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aa4\u0ac8\u0ab8\u0ac0"
     ],
@@ -106,6 +115,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0924\u093e\u0907\u0938\u0940"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u0941\u0924\u0948\u0938\u0940"
     ],
     "name:hrv_x_preferred":[
         "Kutaisi"
@@ -145,6 +157,9 @@
     ],
     "name:lit_x_preferred":[
         "Kutaisis"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0941\u0924\u0948\u0938\u0940"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d41\u0d31\u0d4d\u0d31\u0d46\u0d2f\u0d4d\u200c\u0d38\u0d3f"
@@ -420,7 +435,7 @@
         }
     ],
     "wof:id":421190605,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357167,
     "wof:name":"K'ut'aisi",
     "wof:parent_id":1108691319,
     "wof:placetype":"locality",

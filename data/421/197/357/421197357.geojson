@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Manglisi"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u043b\u0438\u0441\u0438"
+    ],
     "name:eng_x_preferred":[
         "Manglisi"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:swe_x_preferred":[
         "Manglisi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u043b\u0456\u0441\u0456"
     ],
     "name:unk_x_variant":[
         "Manglis"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421197357,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357169,
     "wof:name":"Manglisi",
     "wof:parent_id":1108691377,
     "wof:placetype":"locality",

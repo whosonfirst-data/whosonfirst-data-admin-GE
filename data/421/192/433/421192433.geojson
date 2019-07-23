@@ -55,6 +55,9 @@
     "name:eng_x_preferred":[
         "Akhalts'ikhe"
     ],
+    "name:eng_x_variant":[
+        "Akhaltsikhe"
+    ],
     "name:epo_x_preferred":[
         "A\u0125alci\u0125o"
     ],
@@ -70,13 +73,22 @@
     "name:fra_x_preferred":[
         "Akhaltsikh\u00e9"
     ],
+    "name:glg_x_preferred":[
+        "Akhaltsikhe"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d7\u05dc\u05e6\u05d9\u05d7\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Ahalcihe"
     ],
+    "name:hsb_x_preferred":[
+        "Achalciche"
+    ],
     "name:hye_x_preferred":[
+        "\u0531\u056d\u0561\u056c\u0581\u056d\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u0531\u056d\u0561\u056c\u0581\u056d\u0561"
     ],
     "name:ind_x_preferred":[
@@ -102,6 +114,9 @@
     ],
     "name:lit_x_preferred":[
         "Achalcich\u0117"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d16\u0d7d\u0d31\u0d4d\u0d31\u0d4d\u0d38\u0d3f\u0d16\u0d46"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u062e\u0627\u0644\u062a \u0633\u06cc\u06a9\u0647"
@@ -211,7 +226,7 @@
         }
     ],
     "wof:id":421192433,
-    "wof:lastmodified":1561839715,
+    "wof:lastmodified":1563357132,
     "wof:name":"Akhalts'ikhe",
     "wof:parent_id":1108691245,
     "wof:placetype":"locality",

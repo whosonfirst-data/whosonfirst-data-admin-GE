@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Pasanauri"
     ],
+    "name:fra_x_preferred":[
+        "Passanaouri"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30b5\u30ca\u30a6\u30ea"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0410\u0421\u0410\u041d\u0410\u0423\u0420\u0418"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0441\u0430\u043d\u0430\u0443\u0440\u0438"
     ],
     "name:unk_x_variant":[
         "Pasanaur"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890433419,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357202,
     "wof:name":"P\u2019asanauri",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

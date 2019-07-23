@@ -19,6 +19,12 @@
     "name:ceb_x_preferred":[
         "Kojori"
     ],
+    "name:ces_x_preferred":[
+        "Kod\u017eori"
+    ],
+    "name:dan_x_preferred":[
+        "Kojori"
+    ],
     "name:eng_x_preferred":[
         "Kojori"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421172897,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357157,
     "wof:name":"Kojori",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",

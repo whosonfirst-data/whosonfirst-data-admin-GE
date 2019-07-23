@@ -37,6 +37,12 @@
     "name:bel_x_preferred":[
         "\u041b\u0430\u043d\u0447\u0445\u0443\u0446\u043a\u0456 \u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Lanchkhutis Munitsip'alit'et'i"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Lanchkhuti"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Lantschchuti"
     ],
@@ -45,7 +51,6 @@
     ],
     "name:eng_x_variant":[
         "Lantchkhuti",
-        "Lanchkhuti",
         "Lanchkhuti Municipality"
     ],
     "name:est_x_preferred":[
@@ -84,8 +89,17 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u0447\u0445\u0443\u0442\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041b\u0430\u043d\u0447\u0445\u0443\u0442\u0456"
+    ],
     "name:war_x_preferred":[
         "Lanchkhuti"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d0\u10dc\u10e9\u10ee\u10e3\u10d7\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u5947\u80e1\u8482\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +137,7 @@
         }
     ],
     "wof:id":1108691327,
-    "wof:lastmodified":1561839710,
+    "wof:lastmodified":1563356980,
     "wof:name":"Lanchkhuti",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

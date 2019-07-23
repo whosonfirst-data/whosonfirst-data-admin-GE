@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0622\u062e\u0627\u0644\u0643\u0627\u0644\u0627\u0643\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Axalkalaki"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0456"
     ],
@@ -31,14 +34,23 @@
     "name:che_x_preferred":[
         "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0438"
     ],
+    "name:dan_x_preferred":[
+        "Akhalkalaki"
+    ],
     "name:deu_x_preferred":[
         "Achalkalaki"
     ],
     "name:diq_x_preferred":[
         "Ah\u0131lkelek"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c7\u03b1\u03bb\u03ba\u03b1\u03bb\u03ac\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Akhalk'alak'i"
+    ],
+    "name:eng_x_variant":[
+        "Akhalkalaki"
     ],
     "name:epo_x_preferred":[
         "A\u0125alkalako"
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":421184051,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357175,
     "wof:name":"Akhalk'alak'i",
     "wof:parent_id":1108691243,
     "wof:placetype":"locality",

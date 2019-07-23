@@ -37,17 +37,28 @@
     "name:aze_x_preferred":[
         "Kvareli b\u0259l\u0259diyy\u0259si"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0432\u0430\u0440\u044d\u043b\u044c\u0441\u043a\u0456 \u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Q'varlis Munitsip'alit'et'i"
+    ],
     "name:ces_x_preferred":[
         "Kvareli"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Qvareli"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Qwareli"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b2\u03b1\u03c1\u03ad\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kvareli"
     ],
     "name:eng_x_variant":[
-        "Kvareli",
         "Qvareli Municipality"
     ],
     "name:fin_x_preferred":[
@@ -80,8 +91,14 @@
     "name:swe_x_preferred":[
         "Q'varlis Munitsip'alit'et'i"
     ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041a\u0432\u0430\u0440\u0435\u043b\u0456"
+    ],
     "name:war_x_preferred":[
         "Qvareli"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u74e6\u96f7\u5229\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -119,7 +136,7 @@
         }
     ],
     "wof:id":1108691321,
-    "wof:lastmodified":1561839710,
+    "wof:lastmodified":1563356981,
     "wof:name":"Kvareli",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

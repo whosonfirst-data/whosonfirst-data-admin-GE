@@ -31,11 +31,16 @@
     "mps:longitude":42.360477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Bwrdeistref Samtredia"
+    ],
+    "name:deu_x_preferred":[
+        "Munizipalit\u00e4t Samtredia"
+    ],
     "name:eng_x_preferred":[
         "Samtredia"
     ],
     "name:eng_x_variant":[
-        "Samtredia",
         "Samtredia Municipality"
     ],
     "name:est_x_preferred":[
@@ -74,8 +79,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0442\u0440\u0435\u0434\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0421\u0430\u043c\u0442\u0440\u0435\u0434\u0456\u0430"
+    ],
     "name:war_x_preferred":[
         "Samtredia"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10db\u10e2\u10e0\u10d4\u10d3\u10d8\u10d0\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u59c6\u7279\u96f7\u8fea\u4e9e\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -113,7 +127,7 @@
         }
     ],
     "wof:id":1108691357,
-    "wof:lastmodified":1561839710,
+    "wof:lastmodified":1563356978,
     "wof:name":"Samtredia",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

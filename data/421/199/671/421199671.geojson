@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Tsxaltubo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsqaltubo"
     ],
     "name:ces_x_preferred":[
         "Cchaltubo"
@@ -91,6 +100,9 @@
     "name:swe_x_preferred":[
         "Tsqaltubo"
     ],
+    "name:tur_x_preferred":[
+        "Tskaltubo"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
     ],
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":421199671,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357170,
     "wof:name":"Ts'qaltubo",
     "wof:parent_id":1108691391,
     "wof:placetype":"locality",

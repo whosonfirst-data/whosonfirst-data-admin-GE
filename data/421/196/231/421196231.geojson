@@ -16,6 +16,9 @@
     "name:aze_x_preferred":[
         "Ananuri"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u043d\u0430\u043d\u0443\u0440\u0438 \u04a1\u04d9\u043b\u0493\u04d9\u04bb\u0435"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u043d\u0443\u0440\u0438"
     ],
@@ -31,11 +34,17 @@
     "name:eng_x_preferred":[
         "Ananuri"
     ],
+    "name:eus_x_preferred":[
+        "Ananuri"
+    ],
     "name:fin_x_preferred":[
         "Ananuri"
     ],
     "name:fra_x_preferred":[
         "Ananouri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d0\u05e0\u05d5\u05e8\u05d9"
     ],
     "name:hun_x_preferred":[
         "Ananuri"
@@ -46,10 +55,16 @@
     "name:ita_x_preferred":[
         "Ananuri"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ca\u30cc\u30ea"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d0\u10dc\u10e3\u10e0\u10d8\u10e1 \u10ea\u10d8\u10ee\u10d4"
     ],
     "name:kat_x_variant":[
+        "Ananuri"
+    ],
+    "name:nld_x_preferred":[
         "Ananuri"
     ],
     "name:pol_x_preferred":[
@@ -66,6 +81,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0410\u043d\u0430\u043d\u0443\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Ananuri"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u043d\u0443\u0440\u0456"
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":421196231,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1563357164,
     "wof:name":"Ananuri",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

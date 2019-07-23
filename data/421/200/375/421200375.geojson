@@ -16,6 +16,9 @@
     "name:abk_x_preferred":[
         "\u04b4\u0430\u043b\u0435\u043d\u045f\u044c\u044b\u0445\u0430"
     ],
+    "name:aze_x_preferred":[
+        "Tsalencixa"
+    ],
     "name:ceb_x_preferred":[
         "Tsalenjikha"
     ],
@@ -88,6 +91,9 @@
     "name:swe_x_preferred":[
         "Tsalendzjicha"
     ],
+    "name:tur_x_preferred":[
+        "Tsalenciha"
+    ],
     "name:unk_x_variant":[
         "Tsalendzhikha"
     ],
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421200375,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1563357173,
     "wof:name":"Tsalenjikha",
     "wof:parent_id":1108691387,
     "wof:placetype":"locality",

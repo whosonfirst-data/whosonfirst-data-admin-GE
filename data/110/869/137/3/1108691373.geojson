@@ -40,14 +40,19 @@
     "name:ces_x_preferred":[
         "Telavi"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Telavi"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Telawi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb\u03ac\u03b2\u03b9"
     ],
     "name:eng_x_preferred":[
         "Telavi"
     ],
     "name:eng_x_variant":[
-        "Telavi",
         "Telavi Municipality"
     ],
     "name:fin_x_preferred":[
@@ -58,6 +63,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05ea\u05dc\u05d0\u05d5\u05d5\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "Tetri Tskaro"
     ],
     "name:hye_x_preferred":[
         "\u0539\u0565\u056c\u0561\u057e\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -74,8 +82,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
     ],
+    "name:tur_x_preferred":[
+        "Telavi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0422\u0435\u043b\u0430\u0432\u0456"
+    ],
     "name:war_x_preferred":[
         "Telavi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u62c9\u7dad\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -113,7 +130,7 @@
         }
     ],
     "wof:id":1108691373,
-    "wof:lastmodified":1561839712,
+    "wof:lastmodified":1563357013,
     "wof:name":"Telavi",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

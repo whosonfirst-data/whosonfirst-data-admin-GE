@@ -34,6 +34,9 @@
     "name:aze_x_preferred":[
         "\u015euaxevi b\u0259l\u0259diyy\u0259si"
     ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Shuakhevi"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Schuachewi"
     ],
@@ -42,7 +45,6 @@
     ],
     "name:eng_x_variant":[
         "Chouakhevi",
-        "Shuakhevi",
         "Shuakhevi Municipality"
     ],
     "name:est_x_preferred":[
@@ -72,11 +74,17 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0430\u0445\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
     ],
+    "name:ukr_x_variant":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0428\u0443\u0430\u0445\u0435\u0432\u0456"
+    ],
     "name:war_x_preferred":[
         "Shuakhevi"
     ],
     "name:xmf_x_preferred":[
         "\u10e8\u10e3\u10d0\u10ee\u10d4\u10d5\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8212\u963f\u6d77\u7dad\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +122,7 @@
         }
     ],
     "wof:id":1108691363,
-    "wof:lastmodified":1561839711,
+    "wof:lastmodified":1563357005,
     "wof:name":"Shuakhevi",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

@@ -34,14 +34,22 @@
     "name:aze_x_preferred":[
         "Tsalka"
     ],
+    "name:ceb_x_preferred":[
+        "Ts'alk'is Munitsip'alit'et'i"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0430\u043b\u043a\u0430\u043d \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
+    ],
     "name:deu_x_preferred":[
         "Tsalka-Rajon"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03c3\u03ac\u03bb\u03ba\u03b1\u03c2\u200e"
     ],
     "name:eng_x_preferred":[
         "Tsalka"
     ],
     "name:eng_x_variant":[
-        "Tsalka",
         "Tsalka District"
     ],
     "name:fin_x_preferred":[
@@ -62,14 +70,26 @@
     "name:nld_x_preferred":[
         "Tsalka"
     ],
+    "name:oss_x_preferred":[
+        "\u0426\u0430\u043b\u043a\u00e6\u0439\u044b \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
+    ],
+    "name:pol_x_preferred":[
+        "Calka"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0430\u043b\u043a\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
     ],
     "name:swe_x_preferred":[
         "Ts'alk'is Munitsip'alit'et'i"
     ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0426\u0430\u043b\u043a\u0430"
+    ],
     "name:war_x_preferred":[
         "Tsalka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bdf\u723e\u5361\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +127,7 @@
         }
     ],
     "wof:id":1108691389,
-    "wof:lastmodified":1561839712,
+    "wof:lastmodified":1563357006,
     "wof:name":"Tsalka",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

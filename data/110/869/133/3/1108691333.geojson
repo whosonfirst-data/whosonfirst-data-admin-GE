@@ -31,6 +31,12 @@
     "mps:longitude":42.388493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mart'vilis Munitsip'alit'et'i"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Martvili"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Martwili"
     ],
@@ -38,7 +44,6 @@
         "Martvili"
     ],
     "name:eng_x_variant":[
-        "Martvili",
         "Martvili Municipality"
     ],
     "name:est_x_preferred":[
@@ -74,11 +79,20 @@
     "name:scn_x_preferred":[
         "Municipalitati di Martvili"
     ],
+    "name:swe_x_preferred":[
+        "Mart'vilis Munitsip'alit'et'i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041c\u0430\u0440\u0442\u0432\u0456\u043b\u0456"
+    ],
     "name:war_x_preferred":[
         "Martvili"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10e0\u10e2\u10d5\u10d8\u10da\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u7279\u7dad\u5229\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -116,7 +130,7 @@
         }
     ],
     "wof:id":1108691333,
-    "wof:lastmodified":1561839710,
+    "wof:lastmodified":1563356985,
     "wof:name":"Martvili",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

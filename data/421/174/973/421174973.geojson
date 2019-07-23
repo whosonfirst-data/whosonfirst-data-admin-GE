@@ -19,11 +19,11 @@
     "name:bel_x_preferred":[
         "\u0411\u0430\u0440\u0436\u043e\u043c\u0456"
     ],
-    "name:bel_x_variant":[
-        "\u0411\u0430\u0440\u0436\u043e\u043c\u0456"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0436\u043e\u043c\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u043e\u0440\u0434\u0436\u043e\u043c\u0438"
     ],
     "name:ceb_x_preferred":[
         "Borjomi"
@@ -73,6 +73,9 @@
     "name:hsb_x_preferred":[
         "Bord\u017aomi"
     ],
+    "name:hun_x_preferred":[
+        "Borzsomi"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0580\u056a\u0578\u0574"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ub974\uc870\ubbf8"
+    ],
+    "name:lav_x_preferred":[
+        "Bord\u017eomi"
     ],
     "name:lit_x_preferred":[
         "Bor\u017eomis"
@@ -135,6 +141,9 @@
     ],
     "name:tur_x_preferred":[
         "Borcomi"
+    ],
+    "name:tur_x_variant":[
+        "Borjomi"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0436\u043e\u043c\u0456"
@@ -207,7 +216,7 @@
         }
     ],
     "wof:id":421174973,
-    "wof:lastmodified":1561839716,
+    "wof:lastmodified":1563357152,
     "wof:name":"Borjomi",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043c\u0430\u043d\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0430\u043d\u044b \u0410\u0431\u0445\u0430\u0437\u0441\u043a\u0438\u0435"
+    ],
     "name:unk_x_variant":[
         "Komani"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890428849,
-    "wof:lastmodified":1561839718,
+    "wof:lastmodified":1563357196,
     "wof:name":"K\u2019amani",
     "wof:parent_id":1108691367,
     "wof:placetype":"locality",

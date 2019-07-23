@@ -31,6 +31,18 @@
     "mps:longitude":43.613842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Xa\u015furi b\u0259l\u0259diyy\u0259si"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0448\u0443\u0440\u0441\u043a\u0456 \u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Khashuris Raioni"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Khashuri"
+    ],
     "name:deu_x_preferred":[
         "Munizipalit\u00e4t Chaschuri"
     ],
@@ -39,7 +51,6 @@
     ],
     "name:eng_x_variant":[
         "Khachuri",
-        "Khashuri",
         "Khashuri Municipality"
     ],
     "name:fin_x_preferred":[
@@ -75,8 +86,14 @@
     "name:swe_x_preferred":[
         "Khashuris Raioni"
     ],
+    "name:ukr_x_preferred":[
+        "\u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0425\u0430\u0448\u0443\u0440\u0456"
+    ],
     "name:war_x_preferred":[
         "Khashuri"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u8212\u91cc\u5e02"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +131,7 @@
         }
     ],
     "wof:id":1108691305,
-    "wof:lastmodified":1561839712,
+    "wof:lastmodified":1563357016,
     "wof:name":"Khashuri",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",
