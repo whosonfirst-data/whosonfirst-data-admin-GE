@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0417\u0443\u0431\u0438"
     ],
+    "name:tgk_x_preferred":[
+        "\u0417\u0443\u0431\u0438"
+    ],
     "name:und_x_variant":[
         "Zumi",
         "Zubi"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259419467,
-    "wof:lastmodified":1537623020,
+    "wof:lastmodified":1564169740,
     "wof:name":"Zubi",
     "wof:parent_id":1108691385,
     "wof:placetype":"locality",

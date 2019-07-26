@@ -26,6 +26,12 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10eb\u10d8"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u043e\u0434\u0437"
+    ],
     "name:und_x_variant":[
         "Khodz",
         "Khodzi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293497827,
-    "wof:lastmodified":1537623204,
+    "wof:lastmodified":1564169259,
     "wof:name":"Khodzi",
     "wof:parent_id":1108691293,
     "wof:placetype":"locality",

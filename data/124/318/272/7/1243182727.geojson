@@ -25,6 +25,33 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chorvila"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631\u0648\u06cc\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tchorvila"
+    ],
+    "name:hye_x_preferred":[
+        "\u0543\u0578\u0580\u057e\u056b\u056c\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ed\u10dd\u10e0\u10d5\u10d8\u10da\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Czorwila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0440\u0432\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tjorvila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u0432\u0456\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Chlorvila",
         "Chorvila"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1243182727,
-    "wof:lastmodified":1537623272,
+    "wof:lastmodified":1564169712,
     "wof:name":"Chorvila",
     "wof:parent_id":1108691353,
     "wof:placetype":"locality",

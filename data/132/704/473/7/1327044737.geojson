@@ -25,8 +25,29 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u00e1vliani"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03cd\u03bb\u03b9\u03b1\u03bd\u03b7"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e1vliani"
+    ],
+    "name:glg_x_preferred":[
+        "Pavliani"
+    ],
+    "name:ita_x_preferred":[
+        "Pavliani"
+    ],
     "name:kat_x_preferred":[
         "Pavliani"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e1vliani"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e1vliani"
     ],
     "name:und_x_variant":[
         "Pavliantkari",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327044737,
-    "wof:lastmodified":1537623115,
+    "wof:lastmodified":1564169111,
     "wof:name":"Pavliani",
     "wof:parent_id":1108691241,
     "wof:placetype":"locality",

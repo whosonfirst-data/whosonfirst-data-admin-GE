@@ -25,10 +25,16 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Birja"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10e0\u10ef\u10d0"
     ],
     "name:kat_x_variant":[
+        "Birja"
+    ],
+    "name:tur_x_preferred":[
         "Birja"
     ],
     "name:und_x_variant":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1226061039,
-    "wof:lastmodified":1537623343,
+    "wof:lastmodified":1564169843,
     "wof:name":"Birja",
     "wof:parent_id":1108691367,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:kat_x_variant":[
         "\u10e2\u10d1\u10d4\u10d7\u10d8"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u044a\u0431\u0435\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0431\u0435\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226677423,
-    "wof:lastmodified":1537623077,
+    "wof:lastmodified":1564169799,
     "wof:name":"Tbeti",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

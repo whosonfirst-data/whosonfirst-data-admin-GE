@@ -22,8 +22,167 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:abk_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u04ad\u0438"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0645\u064a\u0631\u064a\u062a\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Rex\u00f3n d'Imericia"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130mereti"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u043c\u0435\u0440\u044d\u0446\u0456\u044f"
+    ],
+    "name:bre_x_preferred":[
+        "Imereti"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Regi\u00f3 d'Imer\u00e8tia"
+    ],
+    "name:ceb_x_preferred":[
+        "Imereti"
+    ],
+    "name:ces_x_preferred":[
+        "Imeretie"
+    ],
+    "name:chv_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u0442\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Imeretien"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bc\u03b5\u03c1\u03ad\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Imereti"
+    ],
+    "name:epo_x_preferred":[
+        "Imeretio"
+    ],
+    "name:est_x_preferred":[
+        "Imerethi"
+    ],
+    "name:eus_x_preferred":[
+        "Imereti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0645\u0631\u062a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Imereti"
+    ],
+    "name:fra_x_preferred":[
+        "Im\u00e9r\u00e9thie"
+    ],
+    "name:frr_x_preferred":[
+        "Imereetien"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05de\u05e8\u05ea\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Imer\u00e9ti"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0574\u0565\u0580\u0565\u0569\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:ind_x_preferred":[
+        "Imereti"
+    ],
+    "name:ita_x_preferred":[
+        "Imerezia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30e1\u30ec\u30c6\u30a3\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10db\u10d4\u10e0\u10d4\u10d7\u10d8\u10e1 \u10db\u10ee\u10d0\u10e0\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uba54\ub808\ud2f0\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Imeretija"
+    ],
+    "name:lit_x_preferred":[
+        "Imeretija"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d07\u0d2e\u0d46\u0d31\u0d46\u0d24\u0d3f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Imereti"
+    ],
+    "name:nno_x_preferred":[
+        "Imereti"
+    ],
+    "name:nor_x_preferred":[
+        "Imereti"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u0442"
+    ],
+    "name:pam_x_preferred":[
+        "Imereti"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u06cc\u0645\u0631\u062a\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Imeretia"
+    ],
+    "name:por_x_preferred":[
+        "Imer\u00edcia"
+    ],
+    "name:que_x_preferred":[
+        "Imereti suyu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u044f"
+    ],
+    "name:scn_x_preferred":[
+        "Imeretia"
+    ],
+    "name:sco_x_preferred":[
+        "Imereti"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043c\u0435\u0440\u0435\u0442\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Imeretien"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130mereti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043c\u0435\u0440\u0435\u0442\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0645\u0631\u062a\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Imereti"
+    ],
+    "name:war_x_preferred":[
+        "Imereti"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10db\u10d4\u10e0\u10d4\u10d7\u10d8\u10e8 \u10d0\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6885\u5217\u5b63\u5dde"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +229,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1553551424,
+    "wof:lastmodified":1564169508,
     "wof:name":"Imereti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

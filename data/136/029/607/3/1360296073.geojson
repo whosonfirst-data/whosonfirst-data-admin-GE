@@ -26,8 +26,20 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0414\u0443\u0439-\u042e\u0440\u0442"
+    ],
     "name:eng_x_preferred":[
         "Duisi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u056b\u057d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10d8\u10e1\u10d8"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0443\u0438\u0441"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u0438\u0441\u0438"
@@ -35,6 +47,9 @@
     "name:und_x_variant":[
         "Duisopeli",
         "Duisi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10e3\u10d8\u10e1\u10d8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1360296073,
-    "wof:lastmodified":1537623257,
+    "wof:lastmodified":1564169600,
     "wof:name":"Duisi",
     "wof:parent_id":1108691247,
     "wof:placetype":"locality",

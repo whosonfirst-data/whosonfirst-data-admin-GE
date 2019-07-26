@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sameba"
+    ],
     "name:kat_x_preferred":[
         "K\u2019veda Sameba"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293001259,
-    "wof:lastmodified":1537623243,
+    "wof:lastmodified":1564169225,
     "wof:name":"Sameba",
     "wof:parent_id":1108691309,
     "wof:placetype":"locality",

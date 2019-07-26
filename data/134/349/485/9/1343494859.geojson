@@ -25,18 +25,54 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u0440\u0446\u043c\u0438\u043d\u0434\u0430"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0456\u043a\u0430\u0440\u0446\u043c\u0456\u043d\u0434\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Nikorzminda-Kathedrale"
+    ],
     "name:eng_x_preferred":[
         "Nikortsminda"
+    ],
+    "name:est_x_preferred":[
+        "Nikortsminda katedraal"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u0580\u056e\u0574\u056b\u0576\u0564\u0561"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d9\u10dd\u10e0\u10ec\u10db\u10d8\u10dc\u10d3\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10dc\u10d8\u10d9\u10dd\u10e0\u10ec\u10db\u10d8\u10dc\u10d3\u10d8\u10e1 \u10e2\u10d0\u10eb\u10d0\u10e0\u10d8"
+    ],
+    "name:myv_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u0440\u0446\u043c\u0438\u043d\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Nikortsminda-kathedraal"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0440\u0446\u043c\u0438\u043d\u0434\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u0440\u0446\u043c\u0438\u043d\u0434\u0430 \u043a\u0430\u0442\u0435\u0434\u0440\u0430\u043b\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Nikortsminda Katedrali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u0440\u0446\u043c\u0456\u043d\u0434\u0430"
     ],
     "name:und_x_variant":[
         "Sinatle",
         "Nikortsminda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u79d1\u723e\u8328\u654f\u9054\u4e3b\u6559\u5ea7\u5802"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +98,7 @@
         }
     ],
     "wof:id":1343494859,
-    "wof:lastmodified":1537623132,
+    "wof:lastmodified":1564169173,
     "wof:name":"Nikortsminda",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Biso"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10e1\u10dd"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1193026371,
-    "wof:lastmodified":1537623290,
+    "wof:lastmodified":1564169471,
     "wof:name":"Biso",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

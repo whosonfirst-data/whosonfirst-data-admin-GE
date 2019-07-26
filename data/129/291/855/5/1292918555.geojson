@@ -28,6 +28,9 @@
     "name:kat_x_preferred":[
         "Shroma"
     ],
+    "name:kat_x_variant":[
+        "\u10e8\u10e0\u10dd\u10db\u10d0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1292918555,
-    "wof:lastmodified":1537623090,
+    "wof:lastmodified":1564169289,
     "wof:name":"Shroma",
     "wof:parent_id":1108691323,
     "wof:placetype":"locality",

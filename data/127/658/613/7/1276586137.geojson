@@ -28,8 +28,26 @@
     "name:eng_x_preferred":[
         "Metekhi"
     ],
+    "name:epo_x_preferred":[
+        "Mete\u0125i"
+    ],
+    "name:fra_x_preferred":[
+        "Metekhi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d7\u05d9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10e2\u10d4\u10ee\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0442\u0435\u0445\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Metekhi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u0435\u0445\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276586137,
-    "wof:lastmodified":1537623150,
+    "wof:lastmodified":1564169334,
     "wof:name":"Metekhi",
     "wof:parent_id":1108691297,
     "wof:placetype":"locality",

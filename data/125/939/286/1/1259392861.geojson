@@ -25,11 +25,23 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sioni"
+    ],
+    "name:deu_x_preferred":[
+        "Sioni"
+    ],
     "name:eng_x_preferred":[
         "Sioni"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0438\u043e\u043d\u0438"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sioni"
     ],
     "name:und_x_variant":[
         "Sionstroy",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1259392861,
-    "wof:lastmodified":1537623086,
+    "wof:lastmodified":1564169730,
     "wof:name":"Sioni",
     "wof:parent_id":1108691381,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10e3\u10d6\u10d7\u10d0"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u044a\u0430\u0431\u0443\u0437\u0442\u00e6"
+    ],
     "name:und_x_variant":[
         "Kvemo-Kabuzta",
         "Kabuzta"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243278815,
-    "wof:lastmodified":1537623327,
+    "wof:lastmodified":1564169714,
     "wof:name":"Kabuzta",
     "wof:parent_id":1108691293,
     "wof:placetype":"locality",

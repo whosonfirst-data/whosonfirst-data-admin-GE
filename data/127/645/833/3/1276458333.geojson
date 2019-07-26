@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Norio"
     ],
+    "name:fin_x_preferred":[
+        "Norio"
+    ],
     "name:kat_x_preferred":[
         "Norio"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276458333,
-    "wof:lastmodified":1537623130,
+    "wof:lastmodified":1564169321,
     "wof:name":"Norio",
     "wof:parent_id":1108691281,
     "wof:placetype":"locality",

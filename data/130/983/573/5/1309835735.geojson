@@ -25,14 +25,23 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shulaveri"
+    ],
     "name:eng_x_preferred":[
         "Shulaveri"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0578\u0582\u056c\u0561\u057e\u0565\u0580"
     ],
     "name:kat_x_preferred":[
         "\u10e8\u10e3\u10da\u10d0\u10d5\u10d4\u10e0\u10d8"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0443\u043b\u0430\u0432\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Shulaveri"
     ],
     "name:und_x_variant":[
         "Shulavery",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1309835735,
-    "wof:lastmodified":1537623087,
+    "wof:lastmodified":1564169611,
     "wof:name":"Shulaveri",
     "wof:parent_id":1108691331,
     "wof:placetype":"locality",

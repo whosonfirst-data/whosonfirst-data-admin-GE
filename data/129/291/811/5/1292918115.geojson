@@ -26,6 +26,24 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u043d\u0456\u043d\u0430"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Lenino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u045a\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0456\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Lenin"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1292918115,
-    "wof:lastmodified":1537623164,
+    "wof:lastmodified":1564169288,
     "wof:name":"Lenino",
     "wof:parent_id":1108691367,
     "wof:placetype":"locality",

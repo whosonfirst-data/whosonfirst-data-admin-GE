@@ -25,6 +25,18 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zeni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u92ad"
+    ],
+    "name:vie_x_preferred":[
+        "Ti\u1ec1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9322"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343271747,
-    "wof:lastmodified":1537017793,
+    "wof:lastmodified":1564169207,
     "wof:name":"Zeni",
     "wof:parent_id":1108691311,
     "wof:placetype":"locality",

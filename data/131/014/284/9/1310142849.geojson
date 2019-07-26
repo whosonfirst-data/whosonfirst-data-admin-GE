@@ -25,8 +25,14 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u041d\u0438\u0433\u043e\u0438\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Nigoiti"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0563\u0578\u0575\u056b\u0569"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d2\u10dd\u10d8\u10d7\u10d8"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1310142849,
-    "wof:lastmodified":1537623133,
+    "wof:lastmodified":1564169529,
     "wof:name":"Nigoiti",
     "wof:parent_id":1108691327,
     "wof:placetype":"locality",

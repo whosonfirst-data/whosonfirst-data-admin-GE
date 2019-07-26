@@ -31,6 +31,9 @@
     "name:kat_x_variant":[
         "\u10dd\u10d3\u10d8\u10e8\u10d8"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0438\u0448\u0438"
+    ],
     "name:und_x_variant":[
         "Odish"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260214365,
-    "wof:lastmodified":1537623129,
+    "wof:lastmodified":1564169497,
     "wof:name":"Odishi",
     "wof:parent_id":1108691401,
     "wof:placetype":"locality",

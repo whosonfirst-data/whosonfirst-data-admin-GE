@@ -25,8 +25,14 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10e0\u10d2\u10d4\u10e2\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0440\u0433\u0435\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Gergeti"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310519689,
-    "wof:lastmodified":1537550502,
+    "wof:lastmodified":1564169577,
     "wof:name":"Gergeti",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

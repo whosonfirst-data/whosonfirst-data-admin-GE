@@ -25,11 +25,17 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:abk_x_preferred":[
+        "\u0410\u0433\u04d9\u044b-\u0411\u0435\u0434\u0438\u0430"
+    ],
     "name:kat_x_preferred":[
         "Agubedia"
     ],
     "name:kat_x_variant":[
         "\u10d0\u10d2\u10e3\u10d1\u10d4\u10d3\u10d8\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0443\u0431\u0435\u0434\u0438\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293213601,
-    "wof:lastmodified":1537623317,
+    "wof:lastmodified":1564169303,
     "wof:name":"Agubedia",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

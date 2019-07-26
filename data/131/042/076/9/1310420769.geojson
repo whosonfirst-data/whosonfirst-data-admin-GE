@@ -25,6 +25,21 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10e5\u10dd\u10d6\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Nikozi"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u0437\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Nikozi"
+    ],
     "name:und_x_variant":[
         "Nikozi",
         "Nikozi Nizhniye",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1310420769,
-    "wof:lastmodified":1537623175,
+    "wof:lastmodified":1564169549,
     "wof:name":"K'vemo Nik'ozi",
     "wof:parent_id":1108691283,
     "wof:placetype":"locality",

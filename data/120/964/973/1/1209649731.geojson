@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Norio"
+    ],
     "name:kat_x_preferred":[
         "Norio"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209649731,
-    "wof:lastmodified":1537623130,
+    "wof:lastmodified":1564169397,
     "wof:name":"Norio",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0410\u0445\u0430\u0442\u0435\u043b\u0438"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056d\u0561\u057f\u0565\u056c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10e2\u10d4\u10da\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343972613,
-    "wof:lastmodified":1537001648,
+    "wof:lastmodified":1564169156,
     "wof:name":"Akhateli",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chapayevka"
+    ],
+    "name:deu_x_preferred":[
+        "Tschapajewka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u057a\u0561\u0587\u056f\u0561"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10de\u10d0\u10d4\u10d5\u10d9\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0454\u0432\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Yakublo",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310023859,
-    "wof:lastmodified":1537623281,
+    "wof:lastmodified":1564169573,
     "wof:name":"Chapayevka",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

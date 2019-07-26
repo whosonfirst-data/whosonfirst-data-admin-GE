@@ -25,6 +25,33 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arbo"
+    ],
+    "name:deu_x_preferred":[
+        "Arbo"
+    ],
+    "name:epo_x_preferred":[
+        "Arbo"
+    ],
+    "name:fra_x_preferred":[
+        "Arbo"
+    ],
+    "name:glg_x_preferred":[
+        "Arbo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0562\u0578"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Arbo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0431\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1259994349,
-    "wof:lastmodified":1536617185,
+    "wof:lastmodified":1564169735,
     "wof:name":"Arbo",
     "wof:parent_id":1108691283,
     "wof:placetype":"locality",

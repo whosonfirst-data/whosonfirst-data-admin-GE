@@ -25,8 +25,17 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u041a\u0435\u0442\u0440\u0438\u0441\u0438"
+    ],
     "name:eng_x_preferred":[
         "Ketrisi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10e2\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:oss_x_preferred":[
+        "\u0427\u0435\u0442\u044b\u0440\u0441"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0442\u0440\u0438\u0441\u0438"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1242596235,
-    "wof:lastmodified":1537623210,
+    "wof:lastmodified":1564169667,
     "wof:name":"Ketrisi",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

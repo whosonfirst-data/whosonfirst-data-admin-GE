@@ -28,8 +28,20 @@
     "name:abk_x_preferred":[
         "\u0410\u04e1\u04a9\u044b\u0431\u0436\u044c\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Adzjub\u017ea"
+    ],
     "name:eng_x_preferred":[
         "Adzyubzha"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10eb\u10e3\u10d1\u10df\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0437\u044e\u0431\u0436\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Acyubja"
     ],
     "name:und_x_variant":[
         "Azyubzha",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1209418109,
-    "wof:lastmodified":1537623319,
+    "wof:lastmodified":1564169403,
     "wof:name":"Adzubzha",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

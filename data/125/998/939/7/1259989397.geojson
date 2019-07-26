@@ -26,8 +26,29 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kudo"
+    ],
+    "name:deu_x_preferred":[
+        "Kudo"
+    ],
+    "name:fra_x_preferred":[
+        "Kudo"
+    ],
+    "name:hun_x_preferred":[
+        "Kud\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Kudo"
+    ],
+    "name:swe_x_preferred":[
+        "Kudo"
+    ],
     "name:und_x_variant":[
         "Kudo-Khiliana"
+    ],
+    "name:vie_x_preferred":[
+        "Kudo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1259989397,
-    "wof:lastmodified":1537623191,
+    "wof:lastmodified":1564169723,
     "wof:name":"Kudo",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

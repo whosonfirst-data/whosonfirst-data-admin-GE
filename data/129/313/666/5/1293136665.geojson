@@ -25,8 +25,29 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gunda"
+    ],
+    "name:hun_x_preferred":[
+        "Gunda"
+    ],
+    "name:lat_x_preferred":[
+        "Gunda"
+    ],
+    "name:por_x_preferred":[
+        "Gunda"
+    ],
+    "name:swe_x_preferred":[
+        "Gunda"
+    ],
     "name:und_x_variant":[
         "Gukda",
+        "Gunda"
+    ],
+    "name:vie_x_preferred":[
+        "Gunda"
+    ],
+    "name:war_x_preferred":[
         "Gunda"
     ],
     "src:geom":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293136665,
-    "wof:lastmodified":1537623226,
+    "wof:lastmodified":1564169267,
     "wof:name":"Gunda",
     "wof:parent_id":1108691345,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gelati"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10d4\u10da\u10d0\u10d7\u10d8"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293215299,
-    "wof:lastmodified":1537623236,
+    "wof:lastmodified":1564169303,
     "wof:name":"Gelati",
     "wof:parent_id":1108691323,
     "wof:placetype":"locality",

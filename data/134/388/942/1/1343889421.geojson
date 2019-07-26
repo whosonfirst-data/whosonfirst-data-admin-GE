@@ -25,11 +25,26 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0423\u0431\u0438\u0441\u0438"
+    ],
+    "name:che_x_preferred":[
+        "\u0423\u0431\u0438\u0441\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Monast\u00e8re d'Oubissi"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10d1\u10d8\u10e1\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10e3\u10d1\u10d8\u10e1\u10d8\u10e1 \u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d4\u10e0\u10d8"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0431\u0438\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0431\u0438\u0441\u0438"
     ],
     "name:und_x_variant":[
         "Ubisa",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1343889421,
-    "wof:lastmodified":1537623055,
+    "wof:lastmodified":1564169224,
     "wof:name":"Ubisi",
     "wof:parent_id":1108691303,
     "wof:placetype":"locality",

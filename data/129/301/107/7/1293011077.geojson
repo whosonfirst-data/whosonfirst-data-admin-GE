@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Ghoresha"
     ],
+    "name:hye_x_preferred":[
+        "\u0542\u0578\u0580\u0565\u0577\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e6\u10dd\u10e0\u10d4\u10e8\u10d0"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0435\u0448\u0430"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293011077,
-    "wof:lastmodified":1537623231,
+    "wof:lastmodified":1564169236,
     "wof:name":"Ghoresha",
     "wof:parent_id":1108691303,
     "wof:placetype":"locality",
