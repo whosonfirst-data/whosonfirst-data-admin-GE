@@ -28,6 +28,9 @@
     "name:kat_x_preferred":[
         "\u10e9\u10d8\u10d4"
     ],
+    "name:pol_x_preferred":[
+        "Chie"
+    ],
     "name:und_x_variant":[
         "Chiye",
         "Chie"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226158027,
-    "wof:lastmodified":1537623276,
+    "wof:lastmodified":1564169830,
     "wof:name":"Chie",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

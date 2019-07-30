@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sioni"
+    ],
     "name:deu_x_preferred":[
         "Sioni"
     ],
@@ -22,8 +25,14 @@
     "name:kat_x_preferred":[
         "Sioni"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0438\u043e\u043d\u0438"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Sioni"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":421175559,
-    "wof:lastmodified":1527716335,
+    "wof:lastmodified":1564169635,
     "wof:name":"Sioni",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

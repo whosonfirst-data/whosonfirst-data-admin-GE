@@ -25,11 +25,44 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0434\u043e\u043f\u043b\u0438\u0441\u0446\u043a\u0430\u0440\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Dedoplis Tskaro"
+    ],
+    "name:ces_x_preferred":[
+        "Dedopliscqaro"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0435\u0434\u043e\u043f\u043b\u0438\u0441\u0446\u043a\u0430\u0440\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Dedopliszqaro"
+    ],
     "name:eng_x_preferred":[
         "Dedop'listsqaro"
     ],
     "name:eng_x_variant":[
         "Dedophlistkaro"
+    ],
+    "name:est_x_preferred":[
+        "Dedophlistskaro"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u062f\u0648\u067e\u0644\u06cc\u0633 \u062a\u0633\u0642\u0627\u0631\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Dedoplistsqaro"
+    ],
+    "name:hsb_x_preferred":[
+        "Dedoplisckaro"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0564\u0578\u0583\u056c\u056b\u057d\u056e\u0572\u0561\u0580\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Dedoplistsqaro"
     ],
     "name:kat_x_preferred":[
         "Dedop\u2019listsqaro"
@@ -37,8 +70,32 @@
     "name:kat_x_variant":[
         "\u10d3\u10d4\u10d3\u10dd\u10e4\u10da\u10d8\u10e1\u10ec\u10e7\u10d0\u10e0\u10dd"
     ],
+    "name:lit_x_preferred":[
+        "Dedoflis Ckaro"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u062a\u0648\u067e\u0644\u06cc\u0633\u062a\u0633\u0642\u0627\u0631\u0648"
+    ],
+    "name:nld_x_preferred":[
+        "Dedoplistsqaro"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0435\u0434\u043e\u043f\u043b\u0438\u0441\u0446\u044a\u0445\u044a\u0430\u0440\u043e"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u0434\u043e\u043f\u043b\u0438\u0441-\u0426\u043a\u0430\u0440\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0434\u043e\u043f\u043b\u0438\u0441\u0442\u0441\u043a\u0430\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dedoplistsqaro"
+    ],
+    "name:tur_x_preferred":[
+        "Dedoplistskaro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0434\u043e\u043f\u043b\u0456\u0441\u0446\u043a\u0430\u0440\u043e"
     ],
     "name:und_x_variant":[
         "Kras-kolodtsy",
@@ -48,6 +105,18 @@
         "Tseteli-Tskhara",
         "Tsiteli-Tskaro",
         "Tsarskie-Kolodtsy"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u062f\u0648\u067e\u0644\u06cc\u0633 \u062a\u0633\u0642\u0627\u0631\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Dedoplis Tsqaro"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d4\u10d3\u10dd\u10e4\u10da\u10d8\u10e1\u10ec\u10e7\u10d0\u10e0\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u591a\u666e\u5229\u65af\u8328\u5361\u7f85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +142,7 @@
         }
     ],
     "wof:id":1260114315,
-    "wof:lastmodified":1537623267,
+    "wof:lastmodified":1564169489,
     "wof:name":"Dedop'listsqaro",
     "wof:parent_id":1108691269,
     "wof:placetype":"locality",

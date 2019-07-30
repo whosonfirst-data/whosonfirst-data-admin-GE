@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Bandza"
     ],
+    "name:fra_x_preferred":[
+        "Bandza"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0576\u0571\u0561"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10dc\u10eb\u10d0"
     ],
@@ -37,6 +43,9 @@
     "name:und_x_variant":[
         "Bandsar",
         "Bandza"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10eb\u10d0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1276473471,
-    "wof:lastmodified":1537623296,
+    "wof:lastmodified":1564169350,
     "wof:name":"Bandza",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

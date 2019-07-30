@@ -25,8 +25,32 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Be\u015fda\u015f"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0430\u0448\u0435\u043d\u0438"
+    ],
+    "name:dan_x_preferred":[
+        "Beshtasheni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c3\u03c4\u03b1\u03c3\u03ad\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Besht'asheni"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0577\u0569\u0561\u0577\u0565\u0576"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e8\u10d7\u10d0\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Besjtasjeni"
+    ],
+    "name:nor_x_preferred":[
+        "Beshtasheni"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0448\u0442\u0430\u0448\u0435\u043d\u0438"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1327152441,
-    "wof:lastmodified":1537623292,
+    "wof:lastmodified":1564169094,
     "wof:name":"Besht'asheni",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

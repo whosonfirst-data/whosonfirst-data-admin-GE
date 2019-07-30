@@ -25,6 +25,12 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10d9\u10d0\u10d7\u10d0"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u043e\u043a\u044a\u0430\u0442\u00e6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276461929,
-    "wof:lastmodified":1536603369,
+    "wof:lastmodified":1564169361,
     "wof:name":"Rokata",
     "wof:parent_id":1108691293,
     "wof:placetype":"locality",

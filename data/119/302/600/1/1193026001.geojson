@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urmi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193026001,
-    "wof:lastmodified":1536367823,
+    "wof:lastmodified":1564169472,
     "wof:name":"Urmi",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

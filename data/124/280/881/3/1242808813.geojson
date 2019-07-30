@@ -25,11 +25,17 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u056d\u0578\u0582\u0576\u0561\u057e\u0578"
+    ],
     "name:kat_x_preferred":[
         "Nakhunavo"
     ],
     "name:kat_x_variant":[
         "\u10dc\u10d0\u10ee\u10e3\u10dc\u10d0\u10d5\u10dd"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d0\u10ee\u10e3\u10dc\u10e3\u10e3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242808813,
-    "wof:lastmodified":1537623138,
+    "wof:lastmodified":1564169657,
     "wof:name":"Nakhunavo",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0425\u043e\u043d\u0438\u0441\u0447\u0430\u043b\u0430"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0576\u056b\u057d\u0573\u0561\u056c\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10dd\u10dc\u10d8\u10e1\u10ed\u10d0\u10da\u10d0"
+    ],
     "name:und_x_variant":[
         "Khons",
         "Khone"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243373991,
-    "wof:lastmodified":1537623327,
+    "wof:lastmodified":1564169648,
     "wof:name":"Khone",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

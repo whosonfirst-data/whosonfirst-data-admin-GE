@@ -25,8 +25,20 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0428\u0435\u0432\u0430\u0440\u0434\u0435\u043d\u0438"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0587\u0561\u0580\u0564\u0565\u0576\u056b"
+    ],
     "name:kat_x_preferred":[
         "Shevardeni"
+    ],
+    "name:kat_x_variant":[
+        "\u10e8\u10d4\u10d5\u10d0\u10e0\u10d3\u10d4\u10dc\u10d8"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0443\u0430\u0440\u0434\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Shavardeni"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1209725525,
-    "wof:lastmodified":1537623091,
+    "wof:lastmodified":1564169453,
     "wof:name":"Shevardeni",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

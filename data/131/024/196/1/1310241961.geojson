@@ -31,6 +31,9 @@
     "name:kat_x_variant":[
         "\u10d6\u10e3\u10d1\u10d8"
     ],
+    "name:tgk_x_preferred":[
+        "\u0417\u0443\u0431\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310241961,
-    "wof:lastmodified":1537623021,
+    "wof:lastmodified":1564169520,
     "wof:name":"Zubi",
     "wof:parent_id":1108691311,
     "wof:placetype":"locality",

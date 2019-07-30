@@ -25,8 +25,17 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dizi"
+    ],
+    "name:fra_x_preferred":[
+        "Dizi"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10d8\u10d6\u10d8"
+    ],
+    "name:tur_x_preferred":[
+        "Dizi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259814301,
-    "wof:lastmodified":1537623259,
+    "wof:lastmodified":1564169773,
     "wof:name":"Dizi",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

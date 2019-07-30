@@ -24,6 +24,114 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0633\u062a\u0627\u0628\u0648\u0646\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Zestafoni"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u0444\u043e\u043d\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u043f\u043e\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Zestap'oni"
+    ],
+    "name:ces_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u043f\u043e\u043d\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Sestaponi"
+    ],
+    "name:est_x_preferred":[
+        "Zestaphoni"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0633\u062a\u0627\u067e\u0648\u0646\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:fra_x_preferred":[
+        "Zestafoni"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e1\u05d8\u05e4\u05d5\u05e0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0565\u057d\u057f\u0561\u0583\u0578\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:ita_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bc\u30b9\u30bf\u30dd\u30cb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10e1\u10e2\u10d0\u10e4\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\uc2a4\ud0c0\ud3ec\ub2c8"
+    ],
+    "name:lit_x_preferred":[
+        "Zestafonis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d3e\u0d2a\u0d4b\u0d28\u0d3f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0632\u0633\u062a\u0627\u0641\u0648\u0646\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u0444\u043e\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:por_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u0444\u043e\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u0444\u043e\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:tur_x_preferred":[
+        "Zestafoni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0441\u0442\u0430\u0444\u043e\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0633\u062a\u0627\u067e\u0648\u0646\u06cc"
+    ],
+    "name:war_x_preferred":[
+        "Zestaponi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d6\u10d4\u10e1\u10e2\u10d0\u10e4\u10dd\u10dc\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fa4\u65af\u5854\u6ce2\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +155,7 @@
         }
     ],
     "wof:id":1259989975,
-    "wof:lastmodified":1536623730,
+    "wof:lastmodified":1564169724,
     "wof:name":"Zestaponi",
     "wof:parent_id":1108691399,
     "wof:placetype":"locality",

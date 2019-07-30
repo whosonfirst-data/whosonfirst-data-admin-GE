@@ -25,8 +25,20 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gomi"
+    ],
+    "name:deu_x_preferred":[
+        "Gomi"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10db\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gomi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209041057,
-    "wof:lastmodified":1537623232,
+    "wof:lastmodified":1564169432,
     "wof:name":"Gomi",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

@@ -25,14 +25,44 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Trial\u00e8tia"
+    ],
+    "name:ces_x_preferred":[
+        "Trialetie"
+    ],
     "name:eng_x_preferred":[
         "T'rialet'i"
+    ],
+    "name:fra_x_preferred":[
+        "Trialeti"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u057c\u0565\u0572\u0584"
+    ],
+    "name:ita_x_preferred":[
+        "Trialeti"
     ],
     "name:kat_x_preferred":[
         "\u10d7\u10e0\u10d8\u10d0\u10da\u10d4\u10d7\u10d8"
     ],
+    "name:nor_x_preferred":[
+        "Trialeti"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0440\u0438\u0430\u043b\u0435\u0442"
+    ],
+    "name:por_x_preferred":[
+        "Trelca"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0438\u0430\u043b\u0435\u0442\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0440\u0438\u0430\u043b\u0435\u0442\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0456\u0430\u043b\u0435\u0442\u0456"
     ],
     "name:und_x_variant":[
         "Imeni Molotova",
@@ -67,7 +97,7 @@
         }
     ],
     "wof:id":1226682381,
-    "wof:lastmodified":1537623070,
+    "wof:lastmodified":1564169808,
     "wof:name":"T'rialet'i",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kisiskhevi"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0441\u0438\u0441\u0445\u0435\u0432\u0438"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u057d\u056b\u057d\u056d\u0587"
+    ],
     "name:kat_x_preferred":[
         "K\u10d8\u10e1\u10d8\u10e1\u10d9\u10f0\u10d4\u10d5\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d8\u10e1\u10d8\u10e1\u10ee\u10d4\u10d5\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Kisiskhevi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1360022383,
-    "wof:lastmodified":1537623198,
+    "wof:lastmodified":1564169609,
     "wof:name":"Kisiskhevi",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

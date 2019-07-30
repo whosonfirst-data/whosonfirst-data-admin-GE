@@ -25,15 +25,42 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Faxral\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "P'akhralo"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0432\u0435\u0440\u0438"
+    ],
     "name:eng_x_preferred":[
         "P'akhralo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u056c\u0561\u057e\u0565\u0580"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10da\u10d0\u10d5\u10d4\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Fachralo"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0445\u0440\u0430\u043b\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043b\u0430\u0432\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "P'akhralo"
+    ],
     "name:und_x_variant":[
         "Fakhralo",
         "P\u2019akhralo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u062e\u0631\u0627\u0644\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1293302849,
-    "wof:lastmodified":1537623244,
+    "wof:lastmodified":1564169233,
     "wof:name":"P'akhralo",
     "wof:parent_id":1108691259,
     "wof:placetype":"locality",

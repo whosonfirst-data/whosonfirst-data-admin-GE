@@ -28,6 +28,12 @@
     "name:kat_x_preferred":[
         "\u10d0\u10ee\u10d0\u10e8\u10d4\u10dc\u10d8"
     ],
+    "name:lit_x_preferred":[
+        "Acha\u0161enis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u0448\u0435\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309821859,
-    "wof:lastmodified":1537623313,
+    "wof:lastmodified":1564169615,
     "wof:name":"Akhasheni",
     "wof:parent_id":1108691291,
     "wof:placetype":"locality",

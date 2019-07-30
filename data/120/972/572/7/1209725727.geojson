@@ -25,8 +25,17 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0440\u0434\u0433\u0435\u043b\u0430\u0443\u0440\u0438"
+    ],
     "name:eng_x_preferred":[
         "Kurdghelauri"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0580\u0564\u0563\u0565\u056c\u0561\u0578\u0582\u0580"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10d3\u10e6\u10d4\u10da\u10d0\u10e3\u10e0\u10d8"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0434\u0433\u0435\u043b\u0430\u0443\u0440\u0438"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209725727,
-    "wof:lastmodified":1537623190,
+    "wof:lastmodified":1564169453,
     "wof:name":"Kurdghelauri",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

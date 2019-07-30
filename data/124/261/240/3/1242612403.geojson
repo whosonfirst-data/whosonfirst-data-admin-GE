@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Nagomari"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0563\u0578\u0574\u0561\u0580"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10d2\u10dd\u10db\u10d0\u10e0\u10d8"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242612403,
-    "wof:lastmodified":1537623139,
+    "wof:lastmodified":1564169670,
     "wof:name":"Nagomari",
     "wof:parent_id":1108691347,
     "wof:placetype":"locality",

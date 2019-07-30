@@ -28,6 +28,21 @@
     "name:eng_x_preferred":[
         "Perevi"
     ],
+    "name:fin_x_preferred":[
+        "Perevi"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0580\u0587\u056b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e0\u10d4\u10d5\u10d8"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u044a\u0435\u0440\u0435\u0443"
+    ],
+    "name:pol_x_preferred":[
+        "Perewi"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0432\u0438"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1259502283,
-    "wof:lastmodified":1537623115,
+    "wof:lastmodified":1564169750,
     "wof:name":"Perevi",
     "wof:parent_id":1108691353,
     "wof:placetype":"locality",

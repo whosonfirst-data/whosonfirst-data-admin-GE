@@ -31,6 +31,9 @@
     "name:kat_x_variant":[
         "\u10dc\u10d0\u10d2\u10e3\u10e0\u10e3"
     ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c17\u0c42\u0c30\u0c41"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1193047091,
-    "wof:lastmodified":1537623139,
+    "wof:lastmodified":1564169469,
     "wof:name":"Naguru",
     "wof:parent_id":1108691387,
     "wof:placetype":"locality",

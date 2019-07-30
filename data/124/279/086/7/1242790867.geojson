@@ -25,8 +25,20 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:abk_x_preferred":[
+        "\u041c\u044b\u049b\u04d9"
+    ],
+    "name:ceb_x_preferred":[
+        "Mokvi"
+    ],
+    "name:ces_x_preferred":[
+        "Mokva"
+    ],
     "name:eng_x_preferred":[
         "Mok'vi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0584\u057e\u056b"
     ],
     "name:kat_x_preferred":[
         "Mokvi"
@@ -36,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043a\u0432\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mokvi"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1242790867,
-    "wof:lastmodified":1537623146,
+    "wof:lastmodified":1564169695,
     "wof:name":"Mokvi",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

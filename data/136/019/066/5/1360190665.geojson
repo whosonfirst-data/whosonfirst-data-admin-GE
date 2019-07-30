@@ -31,6 +31,12 @@
     "name:kat_x_variant":[
         "\u10db\u10d0\u10ee\u10dd"
     ],
+    "name:tur_x_preferred":[
+        "Maho"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360190665,
-    "wof:lastmodified":1537623158,
+    "wof:lastmodified":1564169604,
     "wof:name":"Makho",
     "wof:parent_id":1108691309,
     "wof:placetype":"locality",

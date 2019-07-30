@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Rioni"
     ],
+    "name:fra_x_preferred":[
+        "Rioni"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10dd\u10dc\u10d8"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293231931,
-    "wof:lastmodified":1537623109,
+    "wof:lastmodified":1564169255,
     "wof:name":"Rioni",
     "wof:parent_id":1108691391,
     "wof:placetype":"locality",

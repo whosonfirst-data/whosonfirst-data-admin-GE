@@ -25,14 +25,32 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kardanakhi"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u0434\u0430\u043d\u0430\u0445\u0438"
+    ],
     "name:eng_x_preferred":[
         "Kardanakhi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0564\u0561\u0576\u0561\u056d"
     ],
     "name:kat_x_preferred":[
         "Kardanakhi"
     ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d0\u10e0\u10d3\u10d0\u10dc\u10d0\u10ee\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Kardanachi"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0434\u0430\u043d\u0430\u0445\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kardanakhi"
     ],
     "name:und_x_variant":[
         "Kardenakhy"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1343271751,
-    "wof:lastmodified":1537623215,
+    "wof:lastmodified":1564169208,
     "wof:name":"Kardanakhi",
     "wof:parent_id":1108691291,
     "wof:placetype":"locality",

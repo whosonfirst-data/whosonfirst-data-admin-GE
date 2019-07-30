@@ -25,11 +25,80 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bagdati"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0433\u0434\u0430\u0442\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Baghdati"
+    ],
     "name:eng_x_preferred":[
         "Bagdat'i"
     ],
+    "name:est_x_preferred":[
+        "Bagdathi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0642\u062f\u0627\u062a\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Baghdati"
+    ],
+    "name:fra_x_preferred":[
+        "Baghdati"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8'\u05d3\u05ea\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Bagdati"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0572\u0564\u0561\u0569"
+    ],
+    "name:ita_x_preferred":[
+        "Bagdati"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e6\u10d3\u10d0\u10d7\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Bagdatis"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d3e\u0d17\u0d4d\u0d26\u0d3e\u0d24\u0d3f"
+    ],
+    "name:nld_x_preferred":[
+        "Baghdati"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0433\u044a\u0434\u0430\u0442\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Baghdati"
+    ],
+    "name:por_x_preferred":[
+        "Baghdati"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0433\u0434\u0430\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Baghdati"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0433\u0434\u0430\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Baghdati"
+    ],
+    "name:tur_x_preferred":[
+        "Ba\u011fdati"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0433\u0434\u0430\u0442\u0456"
     ],
     "name:und_x_variant":[
         "Mayakovski",
@@ -39,6 +108,18 @@
         "Mbagdat",
         "Bagdadi",
         "Bagdat\u2019i"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u063a\u062f\u0627\u062a\u06cc"
+    ],
+    "name:war_x_preferred":[
+        "Baghdati"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10e6\u10d3\u10d0\u10d7\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u683c\u9054\u8482"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +145,7 @@
         }
     ],
     "wof:id":1309939861,
-    "wof:lastmodified":1537623298,
+    "wof:lastmodified":1564169619,
     "wof:name":"Bagdat'i",
     "wof:parent_id":1108691255,
     "wof:placetype":"locality",

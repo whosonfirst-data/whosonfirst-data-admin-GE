@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Ianet'i"
     ],
+    "name:hye_x_preferred":[
+        "\u053b\u0561\u0576\u0565\u0569"
+    ],
     "name:kat_x_preferred":[
         "Ianeti"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276371051,
-    "wof:lastmodified":1537623327,
+    "wof:lastmodified":1564169376,
     "wof:name":"Ianeti",
     "wof:parent_id":1108691357,
     "wof:placetype":"locality",

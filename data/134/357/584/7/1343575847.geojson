@@ -25,11 +25,20 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u0441\u0438\u0430\u043d\u0438"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0574\u0561\u057d\u056b\u0561\u0576\u056b"
+    ],
     "name:kat_x_preferred":[
         "Almasiani"
     ],
     "name:kat_x_variant":[
         "\u10d0\u10da\u10db\u10d0\u10e1\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0437\u0438\u043b\u00e6\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343575847,
-    "wof:lastmodified":1537623309,
+    "wof:lastmodified":1564169187,
     "wof:name":"Almasiani",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

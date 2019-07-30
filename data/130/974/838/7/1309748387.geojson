@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Khe"
+    ],
     "name:kat_x_preferred":[
         "Khe"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309748387,
-    "wof:lastmodified":1537623207,
+    "wof:lastmodified":1564169626,
     "wof:name":"Khe",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

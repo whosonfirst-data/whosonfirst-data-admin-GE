@@ -25,6 +25,21 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lami"
+    ],
+    "name:deu_x_preferred":[
+        "Lami"
+    ],
+    "name:ita_x_preferred":[
+        "Lami"
+    ],
+    "name:spa_x_preferred":[
+        "Lami"
+    ],
+    "name:swe_x_preferred":[
+        "Lami"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344267197,
-    "wof:lastmodified":1537071259,
+    "wof:lastmodified":1564169198,
     "wof:name":"Lami",
     "wof:parent_id":1108691337,
     "wof:placetype":"locality",

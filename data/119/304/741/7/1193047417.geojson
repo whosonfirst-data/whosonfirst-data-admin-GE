@@ -25,6 +25,9 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0410\u0433\u0430\u044f\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
         "Aghaiani"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1193047417,
-    "wof:lastmodified":1537623318,
+    "wof:lastmodified":1564169469,
     "wof:name":"Aghaiani",
     "wof:parent_id":1108691297,
     "wof:placetype":"locality",

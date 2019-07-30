@@ -26,7 +26,13 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Machara"
+    ],
     "name:kat_x_preferred":[
+        "Machara"
+    ],
+    "name:swe_x_preferred":[
         "Machara"
     ],
     "name:und_x_variant":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209327721,
-    "wof:lastmodified":1537623160,
+    "wof:lastmodified":1564169431,
     "wof:name":"Machara",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

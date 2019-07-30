@@ -25,11 +25,17 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balani"
+    ],
     "name:kat_x_preferred":[
         "Balani"
     ],
     "name:kat_x_variant":[
         "\u10d1\u10d0\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Balani"
     ],
     "name:und_x_variant":[
         "Balan"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343270873,
-    "wof:lastmodified":1537623323,
+    "wof:lastmodified":1564169208,
     "wof:name":"Balani",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

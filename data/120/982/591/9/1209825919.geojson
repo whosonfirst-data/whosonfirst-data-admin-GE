@@ -25,8 +25,20 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0421\u0443\u043f\u0441\u0430"
+    ],
     "name:eng_x_preferred":[
         "Supsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u067e\u0633\u0627"
+    ],
+    "name:hun_x_preferred":[
+        "Szupsza"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0583\u057d\u0561"
     ],
     "name:kat_x_preferred":[
         "Sup\u2019sa"
@@ -34,8 +46,23 @@
     "name:kat_x_variant":[
         "\u10e1\u10e3\u10e4\u10e1\u10d0"
     ],
+    "name:nld_x_preferred":[
+        "Soepsa"
+    ],
+    "name:nor_x_preferred":[
+        "Supsa"
+    ],
+    "name:pol_x_preferred":[
+        "Supsa"
+    ],
+    "name:ron_x_preferred":[
+        "Supsa"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043f\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Supsa"
     ],
     "name:und_x_variant":[
         "Sufsa"
@@ -64,7 +91,7 @@
         }
     ],
     "wof:id":1209825919,
-    "wof:lastmodified":1537623082,
+    "wof:lastmodified":1564169414,
     "wof:name":"Sup'sa",
     "wof:parent_id":1108691327,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Borit'i"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0580\u056b\u0569"
     ],
     "name:kat_x_preferred":[
         "Boriti"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1293919979,
-    "wof:lastmodified":1537623288,
+    "wof:lastmodified":1564169227,
     "wof:name":"Boriti",
     "wof:parent_id":1108691303,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:kat_x_variant":[
         "\u10d7\u10d0\u10d1\u10dd\u10e0\u10d8"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u043e\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327270181,
-    "wof:lastmodified":1537623081,
+    "wof:lastmodified":1564169144,
     "wof:name":"Tabori",
     "wof:parent_id":1108691385,
     "wof:placetype":"locality",

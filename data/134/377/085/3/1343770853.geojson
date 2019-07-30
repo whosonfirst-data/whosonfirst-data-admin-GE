@@ -25,11 +25,26 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062e\u0648\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Merkheouli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0580\u056d\u0565\u0578\u0582\u056c"
+    ],
     "name:kat_x_preferred":[
         "Merkheuli"
     ],
     "name:kat_x_variant":[
         "\u10db\u10d4\u10e0\u10ee\u10d4\u10e3\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0445\u0435\u0443\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Merkheuli"
     ],
     "name:und_x_variant":[
         "Verkhniye Merkheuli"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1343770853,
-    "wof:lastmodified":1537623150,
+    "wof:lastmodified":1564169169,
     "wof:name":"Merkheuli",
     "wof:parent_id":1108691287,
     "wof:placetype":"locality",

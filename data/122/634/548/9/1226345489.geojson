@@ -25,14 +25,29 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aruta"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10e3\u10d7\u10d0"
     ],
     "name:kat_x_variant":[
         "Aruta"
     ],
+    "name:por_x_preferred":[
+        "Aruta"
+    ],
+    "name:ron_x_preferred":[
+        "Aruta"
+    ],
+    "name:swe_x_preferred":[
+        "Aruta"
+    ],
     "name:und_x_variant":[
         "Aryuta"
+    ],
+    "name:war_x_preferred":[
+        "Aruta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226345489,
-    "wof:lastmodified":1537623303,
+    "wof:lastmodified":1564169795,
     "wof:name":"Aruta",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

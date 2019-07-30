@@ -25,6 +25,12 @@
     "iso:country":"GE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Senebi"
+    ],
+    "name:hun_x_preferred":[
+        "Szenebi"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10dc\u10d4\u10d1\u10d8"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293917107,
-    "wof:lastmodified":1537623094,
+    "wof:lastmodified":1564169229,
     "wof:name":"Senebi",
     "wof:parent_id":1108691259,
     "wof:placetype":"locality",

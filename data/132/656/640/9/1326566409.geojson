@@ -28,11 +28,17 @@
     "name:eng_x_preferred":[
         "Tabakhmela"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d7\u05de\u05dc\u05d4"
+    ],
     "name:kat_x_preferred":[
         "Tabakhmela"
     ],
     "name:kat_x_variant":[
         "\u10e2\u10d0\u10d1\u10d0\u10ee\u10db\u10d4\u10da\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Tabachmela"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0431\u0430\u0445\u043c\u0435\u043b\u0430"
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1326566409,
-    "wof:lastmodified":1537623081,
+    "wof:lastmodified":1564169079,
     "wof:name":"Tabakhmela",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",
