@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MM"
+    ],
     "lbl:latitude":42.266652,
     "lbl:longitude":44.741219,
     "mz:hierarchy_label":1,
@@ -214,7 +217,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1564169503,
+    "wof:lastmodified":1565712447,
     "wof:name":"Mtskheta-Mtianeti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

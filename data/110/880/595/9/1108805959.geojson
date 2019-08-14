@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RK"
+    ],
     "lbl:latitude":42.661309,
     "lbl:longitude":43.192697,
     "mz:hierarchy_label":1,
@@ -70,7 +73,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1553551424,
+    "wof:lastmodified":1565712448,
     "wof:name":"Racha-Leckhumi-Kvemo Svaneti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

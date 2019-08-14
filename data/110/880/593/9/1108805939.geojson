@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":41.756996,
     "lbl:longitude":45.699392,
     "mz:hierarchy_label":1,
@@ -207,7 +210,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1564169507,
+    "wof:lastmodified":1565712447,
     "wof:name":"Kakheti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

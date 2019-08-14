@@ -14,6 +14,9 @@
     "itu:country_code":[
         "995"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GE"
+    ],
     "lbl:latitude":41.870087,
     "lbl:longitude":43.735725,
     "mps:latitude":41.870087,
@@ -1218,7 +1221,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1563356699,
+    "wof:lastmodified":1565712406,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
