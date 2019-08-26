@@ -23,8 +23,12 @@
     "gn:population":1000,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.2658,41.45796,43.3058,41.49796",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Xertvisi"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1343390339,
-    "wof:lastmodified":1564169154,
+    "wof:lastmodified":1566636788,
     "wof:name":"Khert'visi",
     "wof:parent_id":1108691251,
     "wof:placetype":"locality",

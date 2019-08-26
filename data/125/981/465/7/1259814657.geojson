@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.09212,42.52366,43.13212,42.56366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sadmeli"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259814657,
-    "wof:lastmodified":1537623105,
+    "wof:lastmodified":1566637336,
     "wof:name":"Sadmeli",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

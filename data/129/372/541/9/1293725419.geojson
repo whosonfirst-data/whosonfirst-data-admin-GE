@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.10213,42.19922,42.14213,42.23922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Gaghma Zanati"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293725419,
-    "wof:lastmodified":1537623241,
+    "wof:lastmodified":1566636922,
     "wof:name":"Gaghma Zanati",
     "wof:parent_id":1108691237,
     "wof:placetype":"locality",

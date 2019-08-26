@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.63418,42.54661,41.67418,42.58661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Zemo-Barghebi"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326943177,
-    "wof:lastmodified":1537623034,
+    "wof:lastmodified":1566636730,
     "wof:name":"Zemo-Barghebi",
     "wof:parent_id":1108691279,
     "wof:placetype":"locality",

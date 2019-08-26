@@ -10,10 +10,14 @@
     "geom:latitude":41.570368,
     "geom:longitude":45.050004,
     "iso:country":"GE",
+    "lbl:bbox":"45.030004434,41.5503682648,45.070004434,41.5903682648",
     "lbl:latitude":41.570368,
     "lbl:longitude":45.050004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0420\u0443\u0441\u04ad\u0430\u0443"
     ],
@@ -340,7 +344,7 @@
         }
     ],
     "wof:id":1141907831,
-    "wof:lastmodified":1563357409,
+    "wof:lastmodified":1566637405,
     "wof:name":"Rustavi",
     "wof:parent_id":1108691281,
     "wof:placetype":"locality",

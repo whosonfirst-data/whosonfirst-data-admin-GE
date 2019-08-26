@@ -11,10 +11,14 @@
     "geom:longitude":41.0737,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":450,
+    "gn:population":450,
     "iso:country":"GE",
+    "lbl:bbox":"41.0537,42.94462,41.0937,42.98462",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tkhubun",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":865376,
-        "qs:id":554703
+        "qs_pg:id":554703
     },
     "wof:country":"GE",
     "wof:created":1469052976,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890455809,
-    "wof:lastmodified":1505343666,
+    "wof:lastmodified":1566637217,
     "wof:name":"Tkhubun",
     "wof:parent_id":1108691287,
     "wof:placetype":"locality",

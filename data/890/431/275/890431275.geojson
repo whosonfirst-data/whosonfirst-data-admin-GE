@@ -11,10 +11,14 @@
     "geom:longitude":43.0525,
     "gn:country":"GE",
     "gn:fcode":"PPLA2",
-    "gn:pop":25891,
+    "gn:population":25891,
     "iso:country":"GE",
+    "lbl:bbox":"43.0325,42.09,43.0725,42.13",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0633\u062a\u0627\u0628\u0648\u0646\u064a"
     ],
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0441\u0442\u0430\u0444\u043e\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kvirily"
     ],
     "name:urd_x_preferred":[
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":610864,
         "gp:id":1966722,
-        "qs:id":275121,
+        "qs_pg:id":275121,
         "wd:id":"Q734315",
         "wk:page":"Zestafoni Municipality"
     },
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":890431275,
-    "wof:lastmodified":1563357192,
+    "wof:lastmodified":1566637217,
     "wof:name":"Zestap\u2019oni",
     "wof:parent_id":1108691399,
     "wof:placetype":"locality",

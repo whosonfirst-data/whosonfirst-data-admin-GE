@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.86049,42.04262,43.90049,42.08262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293603565,
-    "wof:lastmodified":1536617524,
+    "wof:lastmodified":1566636900,
     "wof:name":"Aradeti",
     "wof:parent_id":1108691295,
     "wof:placetype":"locality",

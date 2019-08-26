@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.46293,41.27204,43.50293,41.31204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Didi K\u2019onduri"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209530699,
-    "wof:lastmodified":1537623263,
+    "wof:lastmodified":1566636991,
     "wof:name":"Didi Gondrio",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

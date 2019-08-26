@@ -10,8 +10,12 @@
     "geom:latitude":42.12597,
     "geom:longitude":44.48333,
     "iso:country":"GE",
+    "lbl:bbox":"44.46333,42.10597,44.50333,42.14597",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Akhalgori"
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":615914,
         "gp:id":1962198,
-        "qs:id":1027114,
+        "qs_pg:id":1027114,
         "wd:id":"Q1010939",
         "wk:page":"Akhalgori"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421175677,
-    "wof:lastmodified":1563357161,
+    "wof:lastmodified":1566637207,
     "wof:name":"Akhalgori",
     "wof:parent_id":1108691241,
     "wof:placetype":"locality",

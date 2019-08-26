@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.62417,42.22292,42.66417,42.26292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zeda-Kvitiri",
         "K\u2019vitiri"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209233353,
-    "wof:lastmodified":1537623171,
+    "wof:lastmodified":1566637011,
     "wof:name":"K'vitiri",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

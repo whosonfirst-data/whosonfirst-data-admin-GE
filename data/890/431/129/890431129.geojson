@@ -11,10 +11,14 @@
     "geom:longitude":43.16222,
     "gn:country":"GE",
     "gn:fcode":"PPLA2",
-    "gn:pop":2408,
+    "gn:population":2408,
     "iso:country":"GE",
+    "lbl:bbox":"43.14222,42.50111,43.18222,42.54111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:abk_x_preferred":[
         "\u0410\u043c\u0431\u0440\u043e\u043b\u0430\u0443\u0440"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0431\u0440\u043e\u043b\u0430\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ambralauri"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +167,7 @@
     "wof:concordances":{
         "gn:id":615776,
         "gp:id":12513002,
-        "qs:id":126133,
+        "qs_pg:id":126133,
         "wd:id":"Q456842",
         "wk:page":"Ambrolauri"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":890431129,
-    "wof:lastmodified":1563357193,
+    "wof:lastmodified":1566637217,
     "wof:name":"Ambrolauri",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

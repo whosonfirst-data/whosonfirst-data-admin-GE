@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.33172,41.9277,42.37172,41.9677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nabeghlavi"
     ],
@@ -38,8 +42,7 @@
         "\u041d\u0430\u0431\u0435\u0433\u043b\u0430\u0432\u0438"
     ],
     "name:und_x_variant":[
-        "Nabeglavi",
-        "Nabeghlavi"
+        "Nabeglavi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1360120387,
-    "wof:lastmodified":1537623140,
+    "wof:lastmodified":1566637157,
     "wof:name":"Nabeghlavi",
     "wof:parent_id":1108691267,
     "wof:placetype":"locality",

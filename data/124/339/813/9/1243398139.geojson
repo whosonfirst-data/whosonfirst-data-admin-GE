@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.73945,41.78861,45.77945,41.82861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0412\u0435\u043b\u0438\u0441\u0446\u0438\u0445\u0435"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1243398139,
-    "wof:lastmodified":1564169656,
+    "wof:lastmodified":1566637234,
     "wof:name":"Velists'ikhe",
     "wof:parent_id":1108691291,
     "wof:placetype":"locality",

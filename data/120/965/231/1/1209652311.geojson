@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.98233,41.55405,46.02233,41.59405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tibaani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209652311,
-    "wof:lastmodified":1537623076,
+    "wof:lastmodified":1566636991,
     "wof:name":"Tibaani",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

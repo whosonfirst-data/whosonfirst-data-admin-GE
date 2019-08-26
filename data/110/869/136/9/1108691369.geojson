@@ -12,6 +12,8 @@
     "iso:country":"GE",
     "lbl:latitude":43.005044,
     "lbl:longitude":41.005161,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Abkhazeti Autonomous Republic",
     "meso:dissme":"SOKHUMI CITYABKHAZETI AUTONOMOUS REPUBLIC",
     "meso:gadm_admin":"Sokhumi",
@@ -25,12 +27,13 @@
     "mps:longitude":41.005161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Soukhumi",
         "Sokhumi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85633163,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1108691369,
-    "wof:lastmodified":1536615236,
+    "wof:lastmodified":1566637102,
     "wof:name":"Sokhumi City",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

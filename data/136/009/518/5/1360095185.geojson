@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.32389,41.22895,44.36389,41.26895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Komishlo",
         "Kamishlo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360095185,
-    "wof:lastmodified":1537623217,
+    "wof:lastmodified":1566637161,
     "wof:name":"Kamishlo",
     "wof:parent_id":1108691273,
     "wof:placetype":"locality",

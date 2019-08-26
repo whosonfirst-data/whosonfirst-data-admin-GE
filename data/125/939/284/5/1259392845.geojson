@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.16111,42.27611,43.20111,42.31611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dmorkheti",
         "Dzholkheyeti",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259392845,
-    "wof:lastmodified":1537623251,
+    "wof:lastmodified":1566637297,
     "wof:name":"Dzholkheti",
     "wof:parent_id":1108691263,
     "wof:placetype":"locality",

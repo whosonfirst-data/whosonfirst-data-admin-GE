@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.618301,
     "lbl:longitude":44.604796,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mtskheta-Mtianeti",
     "meso:dissme":"KAZBEGIMTSKHETA-MTIANETI",
     "meso:gadm_admin":"Kazbegi",
@@ -31,6 +33,7 @@
     "mps:longitude":44.604796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Kazbegi"
     ],
@@ -87,9 +90,9 @@
         "\u5361\u8332\u8c9d\u5409\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"1,082.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108691299,
-    "wof:lastmodified":1563356989,
+    "wof:lastmodified":1566637097,
     "wof:name":"Kazbegi",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

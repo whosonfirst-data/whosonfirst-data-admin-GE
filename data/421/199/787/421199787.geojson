@@ -10,8 +10,12 @@
     "geom:latitude":43.04581,
     "geom:longitude":42.7278,
     "iso:country":"GE",
+    "lbl:bbox":"42.7078,43.02581,42.7478,43.06581",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041c\u0435\u0441\u0442\u044b\u044f"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0441\u0442\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mestiya"
     ],
     "name:war_x_preferred":[
@@ -140,7 +144,7 @@
     "wof:concordances":{
         "gn:id":612987,
         "gp:id":1966875,
-        "qs:id":493117,
+        "qs_pg:id":493117,
         "wd:id":"Q1011051"
     },
     "wof:country":"GE",
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":421199787,
-    "wof:lastmodified":1563357171,
+    "wof:lastmodified":1566637211,
     "wof:name":"Mestia",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

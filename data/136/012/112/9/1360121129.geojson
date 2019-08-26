@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.28196,41.76103,43.32196,41.80103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chobiskhevi"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Chobinskhevi",
         "Chobi",
-        "Chobikhevi",
-        "Chobiskhevi"
+        "Chobikhevi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1360121129,
-    "wof:lastmodified":1537623274,
+    "wof:lastmodified":1566637158,
     "wof:name":"Chobiskhevi",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

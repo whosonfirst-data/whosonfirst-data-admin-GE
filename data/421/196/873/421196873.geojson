@@ -10,8 +10,12 @@
     "geom:latitude":42.31558,
     "geom:longitude":41.89871,
     "iso:country":"GE",
+    "lbl:bbox":"41.87871,42.29558,41.91871,42.33558",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Xobi"
@@ -82,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khopi"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":613918,
         "gp:id":1963944,
-        "qs:id":1301373,
+        "qs_pg:id":1301373,
         "wd:id":"Q1989822",
         "wk:page":"Khobi"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":421196873,
-    "wof:lastmodified":1563357163,
+    "wof:lastmodified":1566637208,
     "wof:name":"Khobi",
     "wof:parent_id":1108691311,
     "wof:placetype":"locality",

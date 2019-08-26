@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.79774,41.88511,44.83774,41.92511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Navdaraantk\u2019ari"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310240921,
-    "wof:lastmodified":1537623134,
+    "wof:lastmodified":1566637110,
     "wof:name":"Navdaraantk'ari",
     "wof:parent_id":1108691337,
     "wof:placetype":"locality",

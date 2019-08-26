@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.13206,41.56095,43.17206,41.60095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dzveli"
     ],
@@ -35,8 +39,7 @@
         "\u0414\u0437\u0432\u0435\u043b\u0438"
     ],
     "name:und_x_variant":[
-        "Zveli",
-        "Dzveli"
+        "Zveli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360115791,
-    "wof:lastmodified":1537623248,
+    "wof:lastmodified":1566637170,
     "wof:name":"Dzveli",
     "wof:parent_id":1108691251,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.26972,42.26306,43.30972,42.30306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10ec\u10d8\u10dc\u10e1\u10dd\u10e4\u10d4\u10da\u10d8"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276266095,
-    "wof:lastmodified":1537623064,
+    "wof:lastmodified":1566636933,
     "wof:name":"Tsinsop'eli",
     "wof:parent_id":1108691263,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.62136,41.60665,41.66136,41.64665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urekhi"
     ],
@@ -39,7 +43,6 @@
         "\u0423\u0440\u0435\u0445\u0438"
     ],
     "name:und_x_variant":[
-        "Ureki",
         "Urukhi"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1327334081,
-    "wof:lastmodified":1537623052,
+    "wof:lastmodified":1566636748,
     "wof:name":"Urekhi",
     "wof:parent_id":1108691309,
     "wof:placetype":"locality",

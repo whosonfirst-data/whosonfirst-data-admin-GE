@@ -10,8 +10,12 @@
     "geom:latitude":43.25778,
     "geom:longitude":40.28766,
     "iso:country":"GE",
+    "lbl:bbox":"40.26766,43.23778,40.30766,43.27778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0524\u0441\u0430\u0445\u0430\u0440\u0430"
@@ -34,7 +38,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0445\u0438\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sakartvelos Kheoba"
     ],
     "qs:gn_country":"GE",
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":613724,
         "gp:id":1964121,
-        "qs:id":59043,
+        "qs_pg:id":59043,
         "wd:id":"Q3734526"
     },
     "wof:country":"GE",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421190967,
-    "wof:lastmodified":1563357167,
+    "wof:lastmodified":1566637209,
     "wof:name":"Kolkhida",
     "wof:parent_id":1108691277,
     "wof:placetype":"locality",

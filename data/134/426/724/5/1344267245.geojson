@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.01264,41.93,45.05264,41.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10ec\u10d4\u10dc\u10ec\u10e3\u10e0\u10d4\u10d1\u10d8"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344267245,
-    "wof:lastmodified":1537623291,
+    "wof:lastmodified":1566636820,
     "wof:name":"Betsentsurebi",
     "wof:parent_id":1108691381,
     "wof:placetype":"locality",

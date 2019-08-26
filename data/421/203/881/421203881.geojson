@@ -10,8 +10,12 @@
     "geom:latitude":41.82,
     "geom:longitude":41.77528,
     "iso:country":"GE",
+    "lbl:bbox":"41.75528,41.8,41.79528,41.84",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u049a\u043e\u0431\u0443\u043b\u0435\u04ad"
@@ -127,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0443\u043b\u0435\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kobulyety"
     ],
     "name:war_x_preferred":[
@@ -170,7 +174,7 @@
     "wof:concordances":{
         "gn:id":613762,
         "gp:id":1963696,
-        "qs:id":235470,
+        "qs_pg:id":235470,
         "wd:id":"Q328975",
         "wk:page":"Kobuleti"
     },
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":421203881,
-    "wof:lastmodified":1563357135,
+    "wof:lastmodified":1566637199,
     "wof:name":"K'obulet'i",
     "wof:parent_id":1108691317,
     "wof:placetype":"locality",

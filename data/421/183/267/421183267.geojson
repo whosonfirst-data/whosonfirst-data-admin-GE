@@ -10,8 +10,12 @@
     "geom:latitude":41.73397,
     "geom:longitude":45.33148,
     "iso:country":"GE",
+    "lbl:bbox":"45.31148,41.71397,45.35148,41.75397",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Saqareco"
@@ -97,7 +101,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0430\u0491\u0430\u0440\u0435\u0434\u0436\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sagaredzho"
     ],
     "name:war_x_preferred":[
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":612230,
         "gp:id":1965486,
-        "qs:id":970154,
+        "qs_pg:id":970154,
         "wd:id":"Q956932",
         "wk:page":"Sagarejo"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":421183267,
-    "wof:lastmodified":1563357180,
+    "wof:lastmodified":1566637213,
     "wof:name":"Sagarejo",
     "wof:parent_id":1108691355,
     "wof:placetype":"locality",

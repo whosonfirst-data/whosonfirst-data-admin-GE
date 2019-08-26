@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.69667,42.03,44.73667,42.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Varsimaant-Kari",
         "Varsimaani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193155377,
-    "wof:lastmodified":1537623047,
+    "wof:lastmodified":1566637059,
     "wof:name":"Varsimaani",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

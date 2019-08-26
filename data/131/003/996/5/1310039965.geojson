@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.74054,42.70609,42.78054,42.74609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsip'lakakia"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310039965,
-    "wof:lastmodified":1537623063,
+    "wof:lastmodified":1566637142,
     "wof:name":"Tsip'lakakia",
     "wof:parent_id":1108691329,
     "wof:placetype":"locality",

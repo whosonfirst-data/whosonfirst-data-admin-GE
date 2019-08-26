@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.90545,42.50224,42.94545,42.54224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Tsakhi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259517569,
-    "wof:lastmodified":1537623068,
+    "wof:lastmodified":1566637326,
     "wof:name":"Tsakhi",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

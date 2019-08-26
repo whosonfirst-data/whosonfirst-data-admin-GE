@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.15483,42.07746,43.19483,42.11746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dzerula",
         "Dziruly",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209043127,
-    "wof:lastmodified":1537623248,
+    "wof:lastmodified":1566637032,
     "wof:name":"Dzirula",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

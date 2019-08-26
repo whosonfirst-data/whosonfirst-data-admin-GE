@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.200429,
     "lbl:longitude":42.218091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Samagrelo-zemo Svaneti",
     "meso:dissme":"ABASHASAMAGRELO-ZEMO SVANETI",
     "meso:gadm_admin":"Abasha",
@@ -31,6 +33,7 @@
     "mps:longitude":42.218091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u0634\u0627"
     ],
@@ -93,9 +96,9 @@
         "\u963f\u5df4\u6c99\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"323.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108691237,
-    "wof:lastmodified":1563357017,
+    "wof:lastmodified":1566637106,
     "wof:name":"Abasha",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

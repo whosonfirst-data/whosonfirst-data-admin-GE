@@ -23,8 +23,12 @@
     "gn:population":500,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.64522,41.70898,44.68522,41.74898",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343680517,
-    "wof:lastmodified":1536926823,
+    "wof:lastmodified":1566636810,
     "wof:name":"Nafetvrebi",
     "wof:parent_id":1108691337,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.92422,41.57012,45.96422,41.61012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Bodbiskhevi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343575781,
-    "wof:lastmodified":1537623289,
+    "wof:lastmodified":1566636812,
     "wof:name":"Bodbiskhevi",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",

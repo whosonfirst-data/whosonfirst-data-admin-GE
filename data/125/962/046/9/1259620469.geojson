@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.17167,42.32944,42.21167,42.36944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Nokalakevi"
     ],
@@ -67,7 +71,6 @@
     "name:und_x_variant":[
         "Zeda-Nakalakevi",
         "Najikhevi",
-        "Nokalakevi",
         "Nakalakevi"
     ],
     "name:xmf_x_preferred":[
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1259620469,
-    "wof:lastmodified":1564169729,
+    "wof:lastmodified":1566637295,
     "wof:name":"Nakalakevi",
     "wof:parent_id":1108691359,
     "wof:placetype":"locality",

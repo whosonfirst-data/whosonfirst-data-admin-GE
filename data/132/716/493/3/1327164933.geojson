@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.59335,41.47946,44.63335,41.51946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e5\u10dd\u10e1\u10d0\u10da\u10d0\u10e0\u10d8"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327164933,
-    "wof:lastmodified":1537623192,
+    "wof:lastmodified":1566636779,
     "wof:name":"K'osalari",
     "wof:parent_id":1108691377,
     "wof:placetype":"locality",

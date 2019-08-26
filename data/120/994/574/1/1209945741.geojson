@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.23574,42.3533,42.27574,42.3933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Jolevi"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209945741,
-    "wof:lastmodified":1537623251,
+    "wof:lastmodified":1566637034,
     "wof:name":"Jolevi",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

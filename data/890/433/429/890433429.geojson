@@ -11,10 +11,14 @@
     "geom:longitude":42.15163,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":3640,
+    "gn:population":3640,
     "iso:country":"GE",
+    "lbl:bbox":"42.13163,41.63395,42.17163,41.67395",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:che_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0434\u0430\u0431\u0430"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":615921,
         "gp:id":1962934,
-        "qs:id":126138,
+        "qs_pg:id":126138,
         "wd:id":"Q16365335"
     },
     "wof:country":"GE",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890433429,
-    "wof:lastmodified":1563357203,
+    "wof:lastmodified":1566637220,
     "wof:name":"Akhaldaba",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

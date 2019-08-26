@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"46.12306,41.43556,46.16306,41.47556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Jap\u2019aridze"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327246631,
-    "wof:lastmodified":1537623253,
+    "wof:lastmodified":1566636743,
     "wof:name":"Jap'aridze",
     "wof:parent_id":1108691269,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":41.63,
     "geom:longitude":42.19083,
     "iso:country":"GE",
+    "lbl:bbox":"42.17083,41.61,42.21083,41.65",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0428\u0443\u0430\u043a\u0445\u0435\u0432\u0438"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":611936,
         "gp:id":1965762,
-        "qs:id":184238,
+        "qs_pg:id":184238,
         "wd:id":"Q161941",
         "wk:page":"Shuakhevi"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421198653,
-    "wof:lastmodified":1563357162,
+    "wof:lastmodified":1566637208,
     "wof:name":"Shuakhevi",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

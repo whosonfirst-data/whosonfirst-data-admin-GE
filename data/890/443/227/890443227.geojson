@@ -11,10 +11,12 @@
     "geom:longitude":44.81235,
     "gn:country":"GE",
     "gn:fcode":"PPLC",
-    "gn:pop":1049498,
+    "gn:population":1049498,
     "iso:country":"GE",
     "lbl:latitude":41.69411,
     "lbl:longitude":44.83368,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -535,7 +537,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0431\u0456\u043b\u0456\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tbilsi"
     ],
     "name:urd_x_preferred":[
@@ -700,10 +702,12 @@
     "wof:concordances":{
         "gn:id":611717,
         "gp:id":1965878,
-        "qs:id":1027103,
         "qs_pg:id":580727,
         "wd:id":"Q994",
         "wk:page":"Tbilisi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027103
     },
     "wof:coterminous":[
         85671301
@@ -721,7 +725,7 @@
         }
     ],
     "wof:id":890443227,
-    "wof:lastmodified":1563357199,
+    "wof:lastmodified":1566637218,
     "wof:name":"Tbilisi",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",

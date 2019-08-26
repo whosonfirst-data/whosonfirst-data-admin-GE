@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.42766,43.02965,42.46766,43.06965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lakhamula"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209549867,
-    "wof:lastmodified":1537623169,
+    "wof:lastmodified":1566636988,
     "wof:name":"Lakhamula",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

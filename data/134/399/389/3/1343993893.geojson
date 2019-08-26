@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.83,42.31333,42.87,42.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10ed\u10e7\u10d4\u10de\u10d8"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343993893,
-    "wof:lastmodified":1537623186,
+    "wof:lastmodified":1566636789,
     "wof:name":"K'veda Chqepi",
     "wof:parent_id":1108691383,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.62111,41.51194,44.66111,41.55194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Arnauti"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344066923,
-    "wof:lastmodified":1564169158,
+    "wof:lastmodified":1566636791,
     "wof:name":"Arnauti",
     "wof:parent_id":1108691377,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.27049,42.47349,42.31049,42.51349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10da\u10d4\u10d3\u10d2\u10d4\u10d1\u10d4"
     ],
@@ -32,8 +36,7 @@
         "Ledgebe"
     ],
     "name:und_x_variant":[
-        "Ledgebiye",
-        "Ledgebe"
+        "Ledgebiye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343293429,
-    "wof:lastmodified":1537623166,
+    "wof:lastmodified":1566636833,
     "wof:name":"Ledgebe",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

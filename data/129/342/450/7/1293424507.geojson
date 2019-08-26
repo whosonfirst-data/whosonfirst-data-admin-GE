@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.88322,42.51296,41.92322,42.55296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e9\u10ee\u10dd\u10e3\u10e8\u10d8"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293424507,
-    "wof:lastmodified":1537623275,
+    "wof:lastmodified":1566636910,
     "wof:name":"Chkhoushi",
     "wof:parent_id":1108691401,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.17891,41.39651,44.21891,41.43651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10ee\u10e9\u10d0\u10da\u10d0\u10e0\u10d8"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209629787,
-    "wof:lastmodified":1537623297,
+    "wof:lastmodified":1566636994,
     "wof:name":"Bakhchalari",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

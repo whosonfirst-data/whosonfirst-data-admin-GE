@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.15507,42.46295,43.19507,42.50295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u062a\u064a"
     ],
@@ -44,8 +48,7 @@
         "Korti"
     ],
     "name:und_x_variant":[
-        "Kordi",
-        "Korti"
+        "Kordi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293920589,
-    "wof:lastmodified":1564169272,
+    "wof:lastmodified":1566636887,
     "wof:name":"Korti",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

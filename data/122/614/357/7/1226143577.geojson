@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.39667,41.54667,42.43667,41.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Makhalak\u2019auri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226143577,
-    "wof:lastmodified":1537623158,
+    "wof:lastmodified":1566637374,
     "wof:name":"Makhalak'auri",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",

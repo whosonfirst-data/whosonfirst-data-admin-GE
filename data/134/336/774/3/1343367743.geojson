@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.77435,42.53283,41.81435,42.57283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Tagiloni"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343367743,
-    "wof:lastmodified":1537623080,
+    "wof:lastmodified":1566636781,
     "wof:name":"Tagiloni",
     "wof:parent_id":1108691279,
     "wof:placetype":"locality",

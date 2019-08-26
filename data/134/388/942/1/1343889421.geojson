@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.20057,42.08017,43.24057,42.12017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0423\u0431\u0438\u0441\u0438"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343889421,
-    "wof:lastmodified":1564169224,
+    "wof:lastmodified":1566636842,
     "wof:name":"Ubisi",
     "wof:parent_id":1108691303,
     "wof:placetype":"locality",

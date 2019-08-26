@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.0269,42.70782,42.0669,42.74782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10da\u10d4\u10e8\u10d0\u10db\u10e3\u10d3\u10d4"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293232015,
-    "wof:lastmodified":1537623163,
+    "wof:lastmodified":1566636873,
     "wof:name":"Leshamude",
     "wof:parent_id":1108691387,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.0825,42.99194,41.1225,43.03194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kelasuri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243472447,
-    "wof:lastmodified":1537623212,
+    "wof:lastmodified":1566637258,
     "wof:name":"Kelasuri",
     "wof:parent_id":1108691367,
     "wof:placetype":"locality",

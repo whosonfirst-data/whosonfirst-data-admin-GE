@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.71444,42.1975,42.75444,42.2375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d9\u10d5\u10d0\u10ee\u10ed\u10d8\u10e0\u10d8"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209430065,
-    "wof:lastmodified":1537623188,
+    "wof:lastmodified":1566637048,
     "wof:name":"Kvakhchiri",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

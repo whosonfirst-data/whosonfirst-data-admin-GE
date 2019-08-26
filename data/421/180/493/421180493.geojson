@@ -10,8 +10,12 @@
     "geom:latitude":42.52274,
     "geom:longitude":43.65141,
     "iso:country":"GE",
+    "lbl:bbox":"43.63141,42.50274,43.67141,42.54274",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0432\u0430\u0439\u0441\u0430"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":613593,
         "gp:id":1964240,
-        "qs:id":433428,
+        "qs_pg:id":433428,
         "wd:id":"Q1794889",
         "wk:page":"Kvaisa"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421180493,
-    "wof:lastmodified":1563357153,
+    "wof:lastmodified":1566637203,
     "wof:name":"Kvaisi",
     "wof:parent_id":1108691345,
     "wof:placetype":"locality",

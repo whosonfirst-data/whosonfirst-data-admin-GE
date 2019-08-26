@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.174,42.41582,42.214,42.45582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Legogie Nasaju"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259914091,
-    "wof:lastmodified":1537623166,
+    "wof:lastmodified":1566637293,
     "wof:name":"Legogie Nasaju",
     "wof:parent_id":1108691359,
     "wof:placetype":"locality",

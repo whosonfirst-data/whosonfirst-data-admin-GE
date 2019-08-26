@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.212305,
     "lbl:longitude":42.945161,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imereti",
     "meso:dissme":"TERJOLAIMERETI",
     "meso:gadm_admin":"Terjola",
@@ -31,6 +33,7 @@
     "mps:longitude":42.945161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cym_x_preferred":[
         "Bwrdeistref Terjola"
     ],
@@ -87,9 +90,9 @@
         "\u6cf0\u723e\u7126\u62c9\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"357.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108691375,
-    "wof:lastmodified":1563357014,
+    "wof:lastmodified":1566637105,
     "wof:name":"Terjola",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

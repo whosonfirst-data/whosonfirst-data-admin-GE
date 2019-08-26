@@ -10,8 +10,12 @@
     "geom:latitude":42.47797,
     "geom:longitude":44.47616,
     "iso:country":"GE",
+    "lbl:bbox":"44.45616,42.45797,44.49616,42.49797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0413\u0443\u0434\u0430\u0443\u0440\u0438"
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0434\u0430\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goudaour"
     ],
     "name:zho_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":614410,
         "gp:id":1966829,
-        "qs:id":1168218,
+        "qs_pg:id":1168218,
         "wd:id":"Q1553013",
         "wk:page":"Gudauri"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421192445,
-    "wof:lastmodified":1563357131,
+    "wof:lastmodified":1566637197,
     "wof:name":"Gudauri",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

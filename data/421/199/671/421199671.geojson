@@ -10,8 +10,12 @@
     "geom:latitude":42.34129,
     "geom:longitude":42.5976,
     "iso:country":"GE",
+    "lbl:bbox":"42.5776,42.32129,42.6176,42.36129",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Tsxaltubo"
@@ -106,9 +110,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
     ],
-    "name:unk_x_variant":[
-        "Tskaltubo"
-    ],
     "name:war_x_preferred":[
         "Tsqaltubo"
     ],
@@ -148,7 +149,7 @@
     "wof:concordances":{
         "gn:id":824288,
         "gp:id":1966049,
-        "qs:id":1221305,
+        "qs_pg:id":1221305,
         "wd:id":"Q227156"
     },
     "wof:country":"GE",
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421199671,
-    "wof:lastmodified":1563357170,
+    "wof:lastmodified":1566637211,
     "wof:name":"Ts'qaltubo",
     "wof:parent_id":1108691391,
     "wof:placetype":"locality",

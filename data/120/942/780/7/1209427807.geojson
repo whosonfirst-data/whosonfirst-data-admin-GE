@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.58233,42.78616,41.62233,42.82616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "P\u2019at\u2019rakhuts\u2019a"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209427807,
-    "wof:lastmodified":1537623115,
+    "wof:lastmodified":1566637044,
     "wof:name":"P'at'rakhuts'a",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

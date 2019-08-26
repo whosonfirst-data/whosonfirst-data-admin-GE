@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.07514,42.10732,44.11514,42.14732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K'itsnisi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309822411,
-    "wof:lastmodified":1537623197,
+    "wof:lastmodified":1566637184,
     "wof:name":"K'itsnisi",
     "wof:parent_id":1108691283,
     "wof:placetype":"locality",

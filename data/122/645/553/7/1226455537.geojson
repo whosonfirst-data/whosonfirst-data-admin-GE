@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.63405,43.19135,40.67405,43.23135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tvanaarkhu"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226455537,
-    "wof:lastmodified":1537623055,
+    "wof:lastmodified":1566637351,
     "wof:name":"T'vanaarkhu",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

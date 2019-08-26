@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.75556,41.73028,41.79556,41.77028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Shuaghele"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226753807,
-    "wof:lastmodified":1537623089,
+    "wof:lastmodified":1566637344,
     "wof:name":"Shuaghele",
     "wof:parent_id":1108691317,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.36991,43.06237,42.40991,43.10237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Naki"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1277013277,
-    "wof:lastmodified":1537623138,
+    "wof:lastmodified":1566636925,
     "wof:name":"Nakra",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

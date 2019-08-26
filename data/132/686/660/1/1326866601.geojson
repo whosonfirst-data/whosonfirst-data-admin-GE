@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.93652,42.31987,41.97652,42.35987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Zemo Bia"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326866601,
-    "wof:lastmodified":1537623033,
+    "wof:lastmodified":1566636714,
     "wof:name":"Zemo Bia",
     "wof:parent_id":1108691311,
     "wof:placetype":"locality",

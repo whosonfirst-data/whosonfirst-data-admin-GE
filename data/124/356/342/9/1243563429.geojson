@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.53717,42.42678,41.57717,42.46678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Nach\u2019k\u2019adu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243563429,
-    "wof:lastmodified":1537623333,
+    "wof:lastmodified":1566637261,
     "wof:name":"Nach'k'adu",
     "wof:parent_id":1108691279,
     "wof:placetype":"locality",

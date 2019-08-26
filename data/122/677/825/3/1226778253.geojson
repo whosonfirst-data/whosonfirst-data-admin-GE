@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.03174,41.86157,42.07174,41.90157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Gogieti"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226778253,
-    "wof:lastmodified":1537623233,
+    "wof:lastmodified":1566637388,
     "wof:name":"Gogieti",
     "wof:parent_id":1108691347,
     "wof:placetype":"locality",

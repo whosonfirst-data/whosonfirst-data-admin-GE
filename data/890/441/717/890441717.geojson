@@ -11,10 +11,14 @@
     "geom:longitude":44.71875,
     "gn:country":"GE",
     "gn:fcode":"PPLA",
-    "gn:pop":7423,
+    "gn:population":7423,
     "iso:country":"GE",
+    "lbl:bbox":"44.69875,41.82514,44.73875,41.86514",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u064a\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0648\u0645\u062a\u062d\u0641 \u0645\u062a\u0633\u062e\u064a\u062a\u0627"
     ],
@@ -195,9 +199,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0446\u0445\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mzcheta"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u062a\u0633\u062e\u062a\u0627"
     ],
@@ -232,7 +233,7 @@
     "wof:concordances":{
         "gn:id":612890,
         "gp:id":1966876,
-        "qs:id":126100,
+        "qs_pg:id":126100,
         "wd:id":"Q180810",
         "wk:page":"Mtskheta Municipality"
     },
@@ -249,7 +250,7 @@
         }
     ],
     "wof:id":890441717,
-    "wof:lastmodified":1563357187,
+    "wof:lastmodified":1566637216,
     "wof:name":"Mts\u2019khet\u2019a",
     "wof:parent_id":1108691337,
     "wof:placetype":"locality",

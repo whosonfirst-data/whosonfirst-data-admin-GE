@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"46.14736,41.72916,46.18736,41.76916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "T\u2019amariani"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260192957,
-    "wof:lastmodified":1537623079,
+    "wof:lastmodified":1566637086,
     "wof:name":"T'amariani",
     "wof:parent_id":1108691323,
     "wof:placetype":"locality",

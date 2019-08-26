@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.62327,42.62305,41.66327,42.66305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Meore Shesheleti"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293602125,
-    "wof:lastmodified":1537623151,
+    "wof:lastmodified":1566636901,
     "wof:name":"Meore Shesheleti",
     "wof:parent_id":1108691279,
     "wof:placetype":"locality",

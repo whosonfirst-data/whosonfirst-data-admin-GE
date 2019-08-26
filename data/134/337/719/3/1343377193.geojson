@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.72986,42.17444,43.76986,42.21444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e8\u10d8\u10dc\u10d3\u10d0\u10e0\u10d0"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343377193,
-    "wof:lastmodified":1564169151,
+    "wof:lastmodified":1566636785,
     "wof:name":"Shindara",
     "wof:parent_id":1108691295,
     "wof:placetype":"locality",

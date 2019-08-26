@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.90323,42.36242,43.94323,42.40242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0566\u0561\u056c\u0561"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326648367,
-    "wof:lastmodified":1564169126,
+    "wof:lastmodified":1566636764,
     "wof:name":"Buzala",
     "wof:parent_id":1108691293,
     "wof:placetype":"locality",

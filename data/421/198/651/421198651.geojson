@@ -10,8 +10,12 @@
     "geom:latitude":41.57389,
     "geom:longitude":43.24826,
     "iso:country":"GE",
+    "lbl:bbox":"43.22826,41.55389,43.26826,41.59389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Aspindza"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":615660,
         "gp:id":1962428,
-        "qs:id":184171,
+        "qs_pg:id":184171,
         "wd:id":"Q2344454",
         "wk:page":"Aspindza"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421198651,
-    "wof:lastmodified":1563357161,
+    "wof:lastmodified":1566637207,
     "wof:name":"Aspindza",
     "wof:parent_id":1108691251,
     "wof:placetype":"locality",

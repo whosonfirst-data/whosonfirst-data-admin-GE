@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.50617,43.18551,40.54617,43.22551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bacha"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276560951,
-    "wof:lastmodified":1564169333,
+    "wof:lastmodified":1566636943,
     "wof:name":"Bacha",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

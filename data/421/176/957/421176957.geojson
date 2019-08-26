@@ -10,8 +10,12 @@
     "geom:latitude":41.44794,
     "geom:longitude":44.53838,
     "iso:country":"GE",
+    "lbl:bbox":"44.51838,41.42794,44.55838,41.46794",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Bolnisi"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u043d\u0456\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luxemburg"
     ],
     "name:war_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":615419,
         "gp:id":1966797,
-        "qs:id":1091726,
+        "qs_pg:id":1091726,
         "wd:id":"Q653420",
         "wk:page":"Bolnisi"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":421176957,
-    "wof:lastmodified":1561839717,
+    "wof:lastmodified":1566637214,
     "wof:name":"Bolnisi",
     "wof:parent_id":1108691259,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.80222,42.215,44.84222,42.255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10ec\u10d8\u10e4\u10e0\u10d0\u10dc\u10d8"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360216139,
-    "wof:lastmodified":1537623065,
+    "wof:lastmodified":1566637176,
     "wof:name":"Tsip'rani",
     "wof:parent_id":1108691275,
     "wof:placetype":"locality",

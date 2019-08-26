@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.98419,41.68655,44.02419,41.72655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kobur",
         "Kaburi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343271917,
-    "wof:lastmodified":1537623219,
+    "wof:lastmodified":1566636828,
     "wof:name":"Kaburi",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":41.62088,
     "geom:longitude":45.96943,
     "iso:country":"GE",
+    "lbl:bbox":"45.94943,41.60088,45.98943,41.64088",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0633\u0646\u0648\u0631\u064a"
@@ -88,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u043d\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sakobosubani"
     ],
     "name:xmf_x_preferred":[
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":611373,
         "gp:id":1966928,
-        "qs:id":206474,
+        "qs_pg:id":206474,
         "wd:id":"Q217990",
         "wk:page":"Tsnori"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":421200089,
-    "wof:lastmodified":1563357172,
+    "wof:lastmodified":1566637211,
     "wof:name":"Tsnori",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",

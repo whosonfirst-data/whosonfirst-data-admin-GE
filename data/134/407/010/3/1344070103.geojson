@@ -23,8 +23,12 @@
     "gn:population":524,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.59472,43.12738,40.63472,43.16738",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:abk_x_preferred":[
         "\u041b\u044b\u0445\u043d\u044b"
     ],
@@ -88,7 +92,6 @@
     "name:und_x_variant":[
         "Loukhoumi",
         "Lykhni",
-        "Lykhny",
         "Luikhni",
         "Lukhny"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1344070103,
-    "wof:lastmodified":1564169164,
+    "wof:lastmodified":1566636796,
     "wof:name":"Likhni",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

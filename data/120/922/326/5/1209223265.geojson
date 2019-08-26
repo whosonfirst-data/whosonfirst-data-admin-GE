@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.79508,43.09664,41.83508,43.13664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10ee\u10e3\u10e2\u10d8\u10d0"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209223265,
-    "wof:lastmodified":1537623201,
+    "wof:lastmodified":1566637018,
     "wof:name":"Khut'ia",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

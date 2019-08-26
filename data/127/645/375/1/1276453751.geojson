@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.6423,42.16297,43.6823,42.20297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lopani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276453751,
-    "wof:lastmodified":1537623161,
+    "wof:lastmodified":1566636935,
     "wof:name":"Lopani",
     "wof:parent_id":1108691295,
     "wof:placetype":"locality",

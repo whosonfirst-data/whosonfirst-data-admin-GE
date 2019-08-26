@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.14115,41.71,43.18115,41.75",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Atsquri"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Atskuri",
         "Atskhur",
-        "Azchuri",
-        "Atsquri"
+        "Azchuri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293323143,
-    "wof:lastmodified":1537623301,
+    "wof:lastmodified":1566636895,
     "wof:name":"Atsquri",
     "wof:parent_id":1108691245,
     "wof:placetype":"locality",

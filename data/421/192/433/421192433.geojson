@@ -10,8 +10,12 @@
     "geom:latitude":41.63901,
     "geom:longitude":42.98262,
     "iso:country":"GE",
+    "lbl:bbox":"42.96262,41.61901,43.00262,41.65901",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0622\u062e\u0627\u0644\u062a\u0633\u064a\u062e\u0647"
@@ -160,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0446\u0456\u0445\u0435"
     ],
-    "name:unk_x_variant":[
-        "Achalziche"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u062e\u0627\u0644\u062a\u0633\u06cc\u062e\u06d2"
     ],
@@ -209,7 +210,7 @@
     "wof:concordances":{
         "gn:id":615860,
         "gp:id":1962250,
-        "qs:id":1168197,
+        "qs_pg:id":1168197,
         "wd:id":"Q212546",
         "wk:page":"Akhaltsikhe"
     },
@@ -226,7 +227,7 @@
         }
     ],
     "wof:id":421192433,
-    "wof:lastmodified":1563357132,
+    "wof:lastmodified":1566637197,
     "wof:name":"Akhalts'ikhe",
     "wof:parent_id":1108691245,
     "wof:placetype":"locality",

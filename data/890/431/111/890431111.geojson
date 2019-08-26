@@ -11,10 +11,14 @@
     "geom:longitude":44.76178,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":5238,
+    "gn:population":5238,
     "iso:country":"GE",
+    "lbl:bbox":"44.74178,41.33272,44.78178,41.37272",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "\u015e\u00fcl\u0259ver"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Naghvarevi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shulaveri"
     ],
     "qs:name":"Naghvarevi",
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":612012,
         "gp:id":1965682,
-        "qs:id":126084,
+        "qs_pg:id":126084,
         "wd:id":"Q3653114"
     },
     "wof:country":"GE",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890431111,
-    "wof:lastmodified":1563357193,
+    "wof:lastmodified":1566637217,
     "wof:name":"Naghvarevi",
     "wof:parent_id":1108691331,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":41.92442,
     "geom:longitude":42.00682,
     "iso:country":"GE",
+    "lbl:bbox":"41.98682,41.90442,42.02682,41.94442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Ozurgeti"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0437\u0443\u0440\u0433\u0435\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makharadze"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":612536,
         "gp:id":1965198,
-        "qs:id":1353539,
+        "qs_pg:id":1353539,
         "wd:id":"Q317145",
         "wk:page":"Ozurgeti"
     },
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":421177789,
-    "wof:lastmodified":1563357178,
+    "wof:lastmodified":1566637213,
     "wof:name":"Ozurget'i",
     "wof:parent_id":1108691347,
     "wof:placetype":"locality",

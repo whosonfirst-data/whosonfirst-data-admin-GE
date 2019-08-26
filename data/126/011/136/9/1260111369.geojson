@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.25681,42.18791,42.29681,42.22791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "P\u2019at\u2019ara Gezati"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260111369,
-    "wof:lastmodified":1537623119,
+    "wof:lastmodified":1566637082,
     "wof:name":"P'at'ara Gezati",
     "wof:parent_id":1108691237,
     "wof:placetype":"locality",

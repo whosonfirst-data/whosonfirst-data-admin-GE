@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.29653,41.60248,42.33653,41.64248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tago"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226242929,
-    "wof:lastmodified":1564169829,
+    "wof:lastmodified":1566637383,
     "wof:name":"Tago",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",

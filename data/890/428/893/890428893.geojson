@@ -11,10 +11,14 @@
     "geom:longitude":44.25105,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":227,
+    "gn:population":227,
     "iso:country":"GE",
+    "lbl:bbox":"44.23105,41.52244,44.27105,41.56244",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0434\u0438\u0430\u043d\u0438"
     ],
@@ -72,7 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":800063,
-        "qs:id":83816,
+        "qs_pg:id":83816,
         "wd:id":"Q2200805",
         "wk:page":"Bediani"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890428893,
-    "wof:lastmodified":1563357196,
+    "wof:lastmodified":1566637218,
     "wof:name":"Bediani",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

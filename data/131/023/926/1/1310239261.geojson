@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.05916,41.90935,42.09916,41.94935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u0551\u056d\u0565\u0574\u056c\u056b\u057d\u056d\u056b\u0564"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310239261,
-    "wof:lastmodified":1564169523,
+    "wof:lastmodified":1566637111,
     "wof:name":"Tskhemliskhidi",
     "wof:parent_id":1108691347,
     "wof:placetype":"locality",
