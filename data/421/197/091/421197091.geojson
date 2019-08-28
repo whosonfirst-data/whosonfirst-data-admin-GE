@@ -10,8 +10,12 @@
     "geom:latitude":43.08334,
     "geom:longitude":41.03209,
     "iso:country":"GE",
+    "lbl:bbox":"41.01209,43.06334,41.05209,43.10334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Shroma"
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "\u0428\u0440\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylovka"
     ],
     "qs:gn_country":"GE",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":611955,
         "gp:id":1965727,
-        "qs:id":1301448
+        "qs_pg:id":1301448
     },
     "wof:country":"GE",
     "wof:created":1459009902,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421197091,
-    "wof:lastmodified":1505340749,
+    "wof:lastmodified":1566637210,
     "wof:name":"Shroma",
     "wof:parent_id":1108691367,
     "wof:placetype":"locality",

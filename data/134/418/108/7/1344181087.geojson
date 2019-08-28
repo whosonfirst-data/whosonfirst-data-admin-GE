@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.22803,41.57208,42.26803,41.61208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Momts\u2019vari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344181087,
-    "wof:lastmodified":1537623356,
+    "wof:lastmodified":1566636825,
     "wof:name":"Momts'vari",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

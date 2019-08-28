@@ -11,10 +11,14 @@
     "geom:longitude":42.72611,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":10442,
+    "gn:population":10442,
     "iso:country":"GE",
+    "lbl:bbox":"42.70611,42.76556,42.74611,42.80556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d\u0442\u044d\u0445\u0456"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u0442\u0435\u0445\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leksura"
     ],
     "name:war_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":613226,
         "gp:id":1966862,
-        "qs:id":126102,
+        "qs_pg:id":126102,
         "wd:id":"Q1026961",
         "wk:page":"Lentekhi"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890441719,
-    "wof:lastmodified":1563357186,
+    "wof:lastmodified":1566637216,
     "wof:name":"Lentekhi",
     "wof:parent_id":1108691329,
     "wof:placetype":"locality",

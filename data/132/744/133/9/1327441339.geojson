@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.44336,41.42355,44.48336,41.46355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karatikyan",
         "Karatikani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327441339,
-    "wof:lastmodified":1537623215,
+    "wof:lastmodified":1566636771,
     "wof:name":"Karatikani",
     "wof:parent_id":1108691259,
     "wof:placetype":"locality",

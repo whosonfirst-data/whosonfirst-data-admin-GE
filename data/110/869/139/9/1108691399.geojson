@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.121531,
     "lbl:longitude":43.071959,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imereti",
     "meso:dissme":"ZESTAFONIIMERETI",
     "meso:gadm_admin":"Zestaponi",
@@ -31,6 +33,7 @@
     "mps:longitude":43.071959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Zest'aponis Munitsip'alit'et'i"
     ],
@@ -93,9 +96,9 @@
         "\u6fa4\u65af\u5854\u6ce2\u5c3c\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"423.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108691399,
-    "wof:lastmodified":1563357009,
+    "wof:lastmodified":1566637104,
     "wof:name":"Zestafoni",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

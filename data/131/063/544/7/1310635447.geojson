@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.31086,42.57613,42.35086,42.61613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Doberazeni"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310635447,
-    "wof:lastmodified":1537623259,
+    "wof:lastmodified":1566637128,
     "wof:name":"Doberazeni",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

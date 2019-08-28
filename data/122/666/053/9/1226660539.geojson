@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.91333,42.38,41.95333,42.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shashadela"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226660539,
-    "wof:lastmodified":1537623093,
+    "wof:lastmodified":1566637363,
     "wof:name":"Shamadela",
     "wof:parent_id":1108691401,
     "wof:placetype":"locality",

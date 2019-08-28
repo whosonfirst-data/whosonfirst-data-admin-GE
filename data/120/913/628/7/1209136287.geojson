@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.50961,42.99568,42.54961,43.03568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Ghvebaldi"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209136287,
-    "wof:lastmodified":1537623225,
+    "wof:lastmodified":1566637019,
     "wof:name":"Ghvebaldi",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

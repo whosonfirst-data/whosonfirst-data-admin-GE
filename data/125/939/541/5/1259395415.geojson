@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.43042,42.72512,41.47042,42.76512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Juq\u2019muri"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259395415,
-    "wof:lastmodified":1537623336,
+    "wof:lastmodified":1566637299,
     "wof:name":"Juq'muri",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

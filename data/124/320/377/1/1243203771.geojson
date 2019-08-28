@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.74144,41.29335,43.78144,41.33335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Saghamo"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243203771,
-    "wof:lastmodified":1537623104,
+    "wof:lastmodified":1566637279,
     "wof:name":"Saghamo",
     "wof:parent_id":1108691339,
     "wof:placetype":"locality",

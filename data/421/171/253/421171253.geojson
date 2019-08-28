@@ -10,8 +10,12 @@
     "geom:latitude":41.61558,
     "geom:longitude":42.87224,
     "iso:country":"GE",
+    "lbl:bbox":"42.85224,41.59558,42.89224,41.63558",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u0435"
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":611230,
         "gp:id":1966931,
-        "qs:id":1221314,
+        "qs_pg:id":1221314,
         "wd:id":"Q783749",
         "wk:page":"Vale, Georgia"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":421171253,
-    "wof:lastmodified":1563357185,
+    "wof:lastmodified":1566637215,
     "wof:name":"Vale",
     "wof:parent_id":1108691245,
     "wof:placetype":"locality",

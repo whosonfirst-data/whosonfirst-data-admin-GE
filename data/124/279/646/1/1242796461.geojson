@@ -22,8 +22,12 @@
     "gn:population":1,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.62166,41.84305,44.66166,41.88305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0428\u0438\u043e-\u041c\u0433\u0432\u0438\u043c"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242796461,
-    "wof:lastmodified":1537623360,
+    "wof:lastmodified":1566637268,
     "wof:name":"Shiomghvime",
     "wof:parent_id":1108691337,
     "wof:placetype":"locality",

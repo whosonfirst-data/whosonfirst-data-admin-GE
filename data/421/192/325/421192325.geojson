@@ -10,8 +10,12 @@
     "geom:latitude":41.56287,
     "geom:longitude":41.57332,
     "iso:country":"GE",
+    "lbl:bbox":"41.55332,41.54287,41.59332,41.58287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Qonio Apsar"
@@ -89,7 +93,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043d\u0456\u043e-\u0410\u043f\u0441\u0430\u0440\u043e\u0441\u044c\u043a\u0430 \u0444\u043e\u0440\u0442\u0435\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goniya"
     ],
     "qs:gn_country":"GE",
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":614471,
         "gp:id":1963474,
-        "qs:id":1167489,
+        "qs_pg:id":1167489,
         "wd:id":"Q944813"
     },
     "wof:country":"GE",
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":421192325,
-    "wof:lastmodified":1563357130,
+    "wof:lastmodified":1566637197,
     "wof:name":"Gonio",
     "wof:parent_id":1108691309,
     "wof:placetype":"locality",

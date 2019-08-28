@@ -11,10 +11,14 @@
     "geom:longitude":43.5916,
     "gn:country":"GE",
     "gn:fcode":"PPLA2",
-    "gn:pop":6141,
+    "gn:population":6141,
     "iso:country":"GE",
+    "lbl:bbox":"43.5716,41.24458,43.6116,41.28458",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Ninotsminda"
     ],
@@ -84,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043d\u043e\u0446\u043c\u0456\u043d\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogdanovka"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":612691,
         "gp:id":1965051,
-        "qs:id":126099,
+        "qs_pg:id":126099,
         "wd:id":"Q10600995",
         "wk:page":"Ninotsminda"
     },
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":890441715,
-    "wof:lastmodified":1563357186,
+    "wof:lastmodified":1566637216,
     "wof:name":"Ninotsminda",
     "wof:parent_id":1108691339,
     "wof:placetype":"locality",

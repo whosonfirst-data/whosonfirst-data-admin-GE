@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.37482,42.93521,41.41482,42.97521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Akhuts\u2019a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259796571,
-    "wof:lastmodified":1537623312,
+    "wof:lastmodified":1566637303,
     "wof:name":"Akhuts'a",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

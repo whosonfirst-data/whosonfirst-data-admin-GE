@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.617018,
     "lbl:longitude":43.976594,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kvemo Kartli",
     "meso:dissme":"TSALKAKVEMO KARTLI",
     "meso:gadm_admin":"Tsalka",
@@ -31,6 +33,7 @@
     "mps:longitude":43.976594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Tsalka"
     ],
@@ -92,9 +95,9 @@
         "\u5bdf\u723e\u5361\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"1,051.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108691389,
-    "wof:lastmodified":1563357006,
+    "wof:lastmodified":1566637103,
     "wof:name":"Tsalka",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

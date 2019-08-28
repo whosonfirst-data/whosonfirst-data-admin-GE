@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.28956,43.21792,40.32956,43.25792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0426\u0430\u043d\u0433\u04d9\u0430\u0440\u0430"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1309806709,
-    "wof:lastmodified":1564169628,
+    "wof:lastmodified":1566637192,
     "wof:name":"Zemo Khevi",
     "wof:parent_id":1108691277,
     "wof:placetype":"locality",

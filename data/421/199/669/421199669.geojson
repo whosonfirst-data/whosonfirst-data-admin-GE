@@ -10,8 +10,12 @@
     "geom:latitude":41.74292,
     "geom:longitude":45.80111,
     "iso:country":"GE",
+    "lbl:bbox":"45.78111,41.72292,45.82111,41.76292",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "G\u00fcrcaani"
@@ -103,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0440\u0434\u0436\u0430\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gurdzhani"
     ],
     "name:war_x_preferred":[
@@ -148,7 +152,7 @@
     "wof:concordances":{
         "gn:id":614351,
         "gp:id":1963573,
-        "qs:id":1221298,
+        "qs_pg:id":1221298,
         "wd:id":"Q1011047",
         "wk:page":"Gurjaani"
     },
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":421199669,
-    "wof:lastmodified":1563357170,
+    "wof:lastmodified":1566637210,
     "wof:name":"Gurjaani",
     "wof:parent_id":1108691291,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":43.0737,
     "geom:longitude":42.6099,
     "iso:country":"GE",
+    "lbl:bbox":"42.5899,43.0537,42.6299,43.0937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Mazeri"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":613050,
         "gp:id":1964711,
-        "qs:id":260031,
+        "qs_pg:id":260031,
         "wd:id":"Q14467132"
     },
     "wof:country":"GE",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421205253,
-    "wof:lastmodified":1563357147,
+    "wof:lastmodified":1566637202,
     "wof:name":"Mazeri",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

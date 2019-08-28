@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.179067,
     "lbl:longitude":42.360477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Imereti",
     "meso:dissme":"SAMTREDIAIMERETI",
     "meso:gadm_admin":"Samtredia",
@@ -31,6 +33,7 @@
     "mps:longitude":42.360477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cym_x_preferred":[
         "Bwrdeistref Samtredia"
     ],
@@ -92,9 +95,9 @@
         "\u85a9\u59c6\u7279\u96f7\u8fea\u4e9e\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"364.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108691357,
-    "wof:lastmodified":1563356978,
+    "wof:lastmodified":1566637094,
     "wof:name":"Samtredia",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

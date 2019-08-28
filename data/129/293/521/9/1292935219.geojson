@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.97885,42.8938,43.01885,42.9338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10df\u10d8\u10d1\u10d8\u10d0\u10dc\u10d8"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1292935219,
-    "wof:lastmodified":1537623023,
+    "wof:lastmodified":1566636865,
     "wof:name":"Zhibiani",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

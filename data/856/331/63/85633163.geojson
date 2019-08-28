@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":41.870087,
     "lbl:longitude":43.735725,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":41.870087,
     "mps:longitude":43.735725,
     "mz:hierarchy_label":1,
@@ -984,15 +986,9 @@
     "name:ukr_x_variant":[
         "\u0413\u0440\u0443\u0437\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Gruzija"
-    ],
     "name:und_x_variant":[
         "Republika Gruzija",
         "Sak'art'velo",
-        "Sakartvelo"
-    ],
-    "name:unk_x_variant":[
         "Sak\u2019art\u2019velos Respublika"
     ],
     "name:urd_x_preferred":[
@@ -1159,7 +1155,7 @@
         "meso"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"995",
     "statoids:ds":"GE",
@@ -1197,7 +1193,7 @@
         "m49:code":"268",
         "marc:id":"gs",
         "mzb:id":"georgia",
-        "qs:id":550343,
+        "qs_pg:id":550343,
         "uncrt:id":"GE",
         "wd:id":"Q230",
         "wk:page":"Georgia (country)",
@@ -1221,7 +1217,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1565712406,
+    "wof:lastmodified":1566636842,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

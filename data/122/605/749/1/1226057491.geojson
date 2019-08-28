@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.13,41.76333,45.17,41.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Moechrovani"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226057491,
-    "wof:lastmodified":1564169796,
+    "wof:lastmodified":1566637357,
     "wof:name":"Mukhrovani",
     "wof:parent_id":1108691355,
     "wof:placetype":"locality",

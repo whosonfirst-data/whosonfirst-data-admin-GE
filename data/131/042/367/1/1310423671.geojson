@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.46422,43.18675,40.50422,43.22675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d0\u10ef\u10ee\u10d0\u10ee\u10d0\u10e0\u10d0"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310423671,
-    "wof:lastmodified":1537623319,
+    "wof:lastmodified":1566637134,
     "wof:name":"Ajkhakhara",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":41.07067,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":1373,
+    "gn:population":1373,
     "iso:country":"GE",
+    "lbl:bbox":"41.05067,42.95877,41.09067,42.99877",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bak_x_preferred":[
         "\u041a\u0435\u043b\u0430\u0441\u0443\u0440 \u0434\u0438\u0443\u0430\u0440\u044b"
     ],
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":865372,
-        "qs:id":554702,
+        "qs_pg:id":554702,
         "wd:id":"Q1235332",
         "wk:page":"Kelasuri Wall"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890455807,
-    "wof:lastmodified":1563357191,
+    "wof:lastmodified":1566637217,
     "wof:name":"Kelasuri",
     "wof:parent_id":1108691367,
     "wof:placetype":"locality",

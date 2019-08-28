@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.41089,42.88372,41.45089,42.92372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0494\u04d9\u0430\u0434\u0430"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1310108759,
-    "wof:lastmodified":1564169557,
+    "wof:lastmodified":1566637139,
     "wof:name":"Ghvada",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

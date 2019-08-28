@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.11298,41.57732,42.15298,41.61732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Lak\u2019laketi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310411705,
-    "wof:lastmodified":1537623169,
+    "wof:lastmodified":1566637115,
     "wof:name":"Lak'laketi",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

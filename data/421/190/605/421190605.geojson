@@ -12,6 +12,8 @@
     "iso:country":"GE",
     "lbl:latitude":42.271594,
     "lbl:longitude":42.705034,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -266,9 +268,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0442\u0430\u0457\u0441\u0456"
     ],
-    "name:unk_x_variant":[
-        "Kutaissi"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u062a\u0627\u0626\u06cc\u0633\u06cc"
     ],
@@ -418,9 +417,11 @@
     "wof:concordances":{
         "gn:id":613607,
         "gp:id":1963698,
-        "qs:id":1119826,
         "qs_pg:id":273806,
         "wd:id":"Q172415"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1119826
     },
     "wof:country":"GE",
     "wof:created":1459009663,
@@ -435,7 +436,7 @@
         }
     ],
     "wof:id":421190605,
-    "wof:lastmodified":1563357167,
+    "wof:lastmodified":1566637209,
     "wof:name":"K'ut'aisi",
     "wof:parent_id":1108691319,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.88607,42.46771,41.92607,42.50771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0441\u043e\u043f\u0435\u043b\u0438"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276587291,
-    "wof:lastmodified":1564169335,
+    "wof:lastmodified":1566636946,
     "wof:name":"Akhalsopeli",
     "wof:parent_id":1108691401,
     "wof:placetype":"locality",

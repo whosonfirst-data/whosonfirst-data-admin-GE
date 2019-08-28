@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.09444,42.01917,44.13444,42.05917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Zemo Rekha"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293794369,
-    "wof:lastmodified":1537623026,
+    "wof:lastmodified":1566636867,
     "wof:name":"Zemo Rekha",
     "wof:parent_id":1108691283,
     "wof:placetype":"locality",

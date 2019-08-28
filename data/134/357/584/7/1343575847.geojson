@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.47694,42.53694,44.51694,42.57694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u0410\u043b\u043c\u0430\u0441\u0438\u0430\u043d\u0438"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343575847,
-    "wof:lastmodified":1564169187,
+    "wof:lastmodified":1566636813,
     "wof:name":"Almasiani",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

@@ -23,16 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.48406,41.28484,43.52406,41.32484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Mamzvara"
     ],
     "name:kat_x_variant":[
         "\u10db\u10d0\u10db\u10d6\u10d5\u10d0\u10e0\u10d0",
-        "Mamtsvara"
-    ],
-    "name:und_x_variant":[
         "Mamtsvara"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1259817545,
-    "wof:lastmodified":1537623157,
+    "wof:lastmodified":1566637335,
     "wof:name":"Mamzvara",
     "wof:parent_id":1108691339,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.00495,41.98297,42.04495,42.02297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "K\u2019onch\u2019k\u2019eti"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327066163,
-    "wof:lastmodified":1537623359,
+    "wof:lastmodified":1566636711,
     "wof:name":"K'onch'k'eti",
     "wof:parent_id":1108691327,
     "wof:placetype":"locality",

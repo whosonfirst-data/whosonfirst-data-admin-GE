@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.55432,43.21236,40.59432,43.25236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10ee\u10d5\u10d0"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226552837,
-    "wof:lastmodified":1537623328,
+    "wof:lastmodified":1566637390,
     "wof:name":"Arkhva",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

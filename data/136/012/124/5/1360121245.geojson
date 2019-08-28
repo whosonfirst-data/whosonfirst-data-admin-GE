@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.34196,42.048,42.38196,42.088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Didi Opeti"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360121245,
-    "wof:lastmodified":1537623125,
+    "wof:lastmodified":1566637158,
     "wof:name":"Didi Opeti",
     "wof:parent_id":1108691357,
     "wof:placetype":"locality",

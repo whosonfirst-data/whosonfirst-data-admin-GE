@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.39038,41.94985,42.43038,41.98985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shua Surebi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243584327,
-    "wof:lastmodified":1537623088,
+    "wof:lastmodified":1566637263,
     "wof:name":"Shua Surebi",
     "wof:parent_id":1108691267,
     "wof:placetype":"locality",

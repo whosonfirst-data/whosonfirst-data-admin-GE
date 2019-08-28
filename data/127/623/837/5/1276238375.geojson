@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.451,42.34952,44.491,42.38952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "K\u2019arelt\u2019kari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276238375,
-    "wof:lastmodified":1537623214,
+    "wof:lastmodified":1566636962,
     "wof:name":"K'arelt'kari",
     "wof:parent_id":1108691241,
     "wof:placetype":"locality",

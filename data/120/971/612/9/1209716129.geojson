@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.13536,41.61661,42.17536,41.65661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Beselashvilebi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209716129,
-    "wof:lastmodified":1537623292,
+    "wof:lastmodified":1566637012,
     "wof:name":"Beselashvilebi",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

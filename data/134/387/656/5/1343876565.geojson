@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.96861,42.175,45.00861,42.215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343876565,
-    "wof:lastmodified":1536642621,
+    "wof:lastmodified":1566636835,
     "wof:name":"Skhlovani",
     "wof:parent_id":1108691381,
     "wof:placetype":"locality",

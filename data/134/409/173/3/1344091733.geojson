@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.8376,42.52845,41.8776,42.56845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rukhi"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344091733,
-    "wof:lastmodified":1537623108,
+    "wof:lastmodified":1566636793,
     "wof:name":"Rukhi",
     "wof:parent_id":1108691401,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.92972,41.56278,41.96972,41.60278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Shevaburi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243073789,
-    "wof:lastmodified":1537623352,
+    "wof:lastmodified":1566637220,
     "wof:name":"Shevaburi",
     "wof:parent_id":1108691301,
     "wof:placetype":"locality",

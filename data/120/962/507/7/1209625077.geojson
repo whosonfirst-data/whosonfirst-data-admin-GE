@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.89289,42.3408,43.93289,42.3808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Barsi"
     ],
@@ -32,8 +36,7 @@
         "\u0411\u0430\u0440\u0441\u0438"
     ],
     "name:und_x_variant":[
-        "Bars",
-        "Barsi"
+        "Bars"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209625077,
-    "wof:lastmodified":1564169389,
+    "wof:lastmodified":1566636994,
     "wof:name":"Barsi",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

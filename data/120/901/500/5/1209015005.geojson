@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.93045,42.33993,42.97045,42.37993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10eb\u10d8\u10e0\u10dd\u10d5\u10d0\u10dc\u10d8"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209015005,
-    "wof:lastmodified":1537623248,
+    "wof:lastmodified":1566636998,
     "wof:name":"Dzirovani",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

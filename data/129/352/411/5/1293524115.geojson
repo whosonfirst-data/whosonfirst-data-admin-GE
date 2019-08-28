@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.18722,42.00389,42.22722,42.04389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Shua Partskhma"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293524115,
-    "wof:lastmodified":1537623088,
+    "wof:lastmodified":1566636859,
     "wof:name":"Shua Partskhma",
     "wof:parent_id":1108691267,
     "wof:placetype":"locality",

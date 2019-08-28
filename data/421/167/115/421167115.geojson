@@ -10,8 +10,12 @@
     "geom:latitude":41.99414,
     "geom:longitude":43.59994,
     "iso:country":"GE",
+    "lbl:bbox":"43.57994,41.97414,43.61994,42.01414",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Xa\u015furi"
@@ -127,9 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0448\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Chaschuri"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0634\u0648\u0631\u06cc"
     ],
@@ -176,7 +177,7 @@
     "wof:concordances":{
         "gn:id":613988,
         "gp:id":1966842,
-        "qs:id":126105,
+        "qs_pg:id":126105,
         "wd:id":"Q932901",
         "wk:page":"Khashuri"
     },
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421167115,
-    "wof:lastmodified":1563357135,
+    "wof:lastmodified":1566637198,
     "wof:name":"Khashuri",
     "wof:parent_id":1108691305,
     "wof:placetype":"locality",

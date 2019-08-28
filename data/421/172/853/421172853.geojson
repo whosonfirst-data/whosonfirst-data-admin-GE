@@ -10,8 +10,12 @@
     "geom:latitude":42.0832,
     "geom:longitude":42.52163,
     "iso:country":"GE",
+    "lbl:bbox":"42.50163,42.0632,42.54163,42.1032",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Vani"
@@ -100,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bzvani"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +156,7 @@
     "wof:concordances":{
         "gn:id":611219,
         "gp:id":1966932,
-        "qs:id":275123,
+        "qs_pg:id":275123,
         "wd:id":"Q1011003",
         "wk:page":"Vani"
     },
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":421172853,
-    "wof:lastmodified":1563357157,
+    "wof:lastmodified":1566637206,
     "wof:name":"Vani",
     "wof:parent_id":1108691395,
     "wof:placetype":"locality",

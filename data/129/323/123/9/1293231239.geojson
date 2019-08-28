@@ -23,8 +23,12 @@
     "gn:population":12803,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.27889,42.27806,43.31889,42.31806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "\u00c7iatura"
     ],
@@ -134,7 +138,6 @@
         "\u0427\u0438\u0430\u0442\u0443\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Tschiatura",
         "\u010ciat\u2019ura",
         "Chitura"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1293231239,
-    "wof:lastmodified":1564169258,
+    "wof:lastmodified":1566636873,
     "wof:name":"Chiat'ura",
     "wof:parent_id":1108691263,
     "wof:placetype":"locality",

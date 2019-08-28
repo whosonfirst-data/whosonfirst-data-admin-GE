@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.91022,41.98721,41.95022,42.02721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u053b\u0561\u0576\u0565\u0569"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293526507,
-    "wof:lastmodified":1564169241,
+    "wof:lastmodified":1566636858,
     "wof:name":"Ianeti",
     "wof:parent_id":1108691327,
     "wof:placetype":"locality",

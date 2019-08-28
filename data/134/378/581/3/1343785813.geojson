@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.84639,41.82194,41.88639,41.86194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mukhaestate"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343785813,
-    "wof:lastmodified":1537623143,
+    "wof:lastmodified":1566636807,
     "wof:name":"Mukhaest'at'e",
     "wof:parent_id":1108691317,
     "wof:placetype":"locality",

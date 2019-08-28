@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.00988,42.05434,44.04988,42.09434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u0438\u0430\u043d\u0438"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209140303,
-    "wof:lastmodified":1564169420,
+    "wof:lastmodified":1566637020,
     "wof:name":"Variani",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.80361,41.73556,41.84361,41.77556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K'veda Dagva"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1277075379,
-    "wof:lastmodified":1537623186,
+    "wof:lastmodified":1566636929,
     "wof:name":"Kveda Dagva",
     "wof:parent_id":1108691317,
     "wof:placetype":"locality",

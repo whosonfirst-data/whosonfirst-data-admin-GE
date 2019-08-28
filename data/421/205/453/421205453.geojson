@@ -10,8 +10,12 @@
     "geom:latitude":42.0898,
     "geom:longitude":43.08662,
     "iso:country":"GE",
+    "lbl:bbox":"43.06662,42.0698,43.10662,42.1098",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0428\u043e\u0440\u0430\u043f\u0430\u043d\u0438"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Shorapani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sharadan\u2019"
     ],
     "qs:gn_country":"GE",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":611964,
         "gp:id":1965724,
-        "qs:id":263219,
+        "qs_pg:id":263219,
         "wd:id":"Q1944249",
         "wk:page":"Shorapani"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421205453,
-    "wof:lastmodified":1561839715,
+    "wof:lastmodified":1566637201,
     "wof:name":"Shorapani",
     "wof:parent_id":1108691399,
     "wof:placetype":"locality",

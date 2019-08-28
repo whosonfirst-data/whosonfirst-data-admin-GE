@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.64709,42.61547,41.68709,42.65547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Repo Ets\u2019eri"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276456541,
-    "wof:lastmodified":1537623109,
+    "wof:lastmodified":1566636935,
     "wof:name":"Repo Ets'eri",
     "wof:parent_id":1108691279,
     "wof:placetype":"locality",

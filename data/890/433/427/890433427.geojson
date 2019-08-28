@@ -11,10 +11,14 @@
     "geom:longitude":40.83833,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":26636,
+    "gn:population":26636,
     "iso:country":"GE",
+    "lbl:bbox":"40.81833,43.06056,40.85833,43.10056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:abk_x_preferred":[
         "\u0410\u0444\u043e\u043d \u04be\u044b\u0446"
     ],
@@ -138,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0456-\u0410\u0442\u043e\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stantsiya Akhali-Afoni"
     ],
     "name:urd_x_preferred":[
@@ -165,7 +169,7 @@
     "wof:concordances":{
         "gn:id":615912,
         "gp:id":1962200,
-        "qs:id":126137,
+        "qs_pg:id":126137,
         "wd:id":"Q42194"
     },
     "wof:country":"GE",
@@ -181,7 +185,7 @@
         }
     ],
     "wof:id":890433427,
-    "wof:lastmodified":1563357204,
+    "wof:lastmodified":1566637220,
     "wof:name":"Stantsiya Novyy Afon",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

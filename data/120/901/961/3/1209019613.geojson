@@ -23,8 +23,12 @@
     "gn:population":83,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.35667,42.14944,44.39667,42.18944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Armazi"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1209019613,
-    "wof:lastmodified":1564169392,
+    "wof:lastmodified":1566636997,
     "wof:name":"Armazi",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

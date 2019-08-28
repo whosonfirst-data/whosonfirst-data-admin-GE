@@ -10,8 +10,12 @@
     "geom:latitude":41.74972,
     "geom:longitude":43.5325,
     "iso:country":"GE",
+    "lbl:bbox":"43.5125,41.72972,43.5525,41.76972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u044b\u044f\u043d\u0456"
@@ -85,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u0456\u0430\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bakuiani"
     ],
     "name:zho_x_preferred":[
@@ -122,7 +126,7 @@
     "wof:concordances":{
         "gn:id":615583,
         "gp:id":1966791,
-        "qs:id":493118,
+        "qs_pg:id":493118,
         "wd:id":"Q789104",
         "wk:page":"Bakuriani"
     },
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":421199789,
-    "wof:lastmodified":1563357172,
+    "wof:lastmodified":1566637211,
     "wof:name":"Bakuriani",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

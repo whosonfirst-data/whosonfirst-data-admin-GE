@@ -10,8 +10,12 @@
     "geom:latitude":41.64353,
     "geom:longitude":42.30397,
     "iso:country":"GE",
+    "lbl:bbox":"42.28397,41.62353,42.32397,41.66353",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0445\u0443\u043b\u043e"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daba"
     ],
     "name:war_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":613870,
         "gp:id":1963991,
-        "qs:id":945370,
+        "qs_pg:id":945370,
         "wd:id":"Q1089456",
         "wk:page":"Khulo"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421182789,
-    "wof:lastmodified":1563357183,
+    "wof:lastmodified":1566637214,
     "wof:name":"Khulo",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",

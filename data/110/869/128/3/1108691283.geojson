@@ -12,6 +12,8 @@
     "iso:country":"GE",
     "lbl:latitude":42.159233,
     "lbl:longitude":44.122967,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Shida Kartli",
     "meso:dissme":"GORISHIDA KARTLI",
     "meso:gadm_admin":"Gori",
@@ -25,6 +27,7 @@
     "mps:longitude":44.122967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Goris Munitsip'alit'et'i"
     ],
@@ -99,7 +102,7 @@
         "\u54e5\u91cc\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85633163,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108691283,
-    "wof:lastmodified":1563357000,
+    "wof:lastmodified":1566637101,
     "wof:name":"Gori",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

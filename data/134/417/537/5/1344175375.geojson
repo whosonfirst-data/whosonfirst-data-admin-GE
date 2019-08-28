@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.35984,41.48643,45.39984,41.52643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Udabno Sovxozu"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344175375,
-    "wof:lastmodified":1537623054,
+    "wof:lastmodified":1566636822,
     "wof:name":"Udabno Sovxozu",
     "wof:parent_id":1108691355,
     "wof:placetype":"locality",

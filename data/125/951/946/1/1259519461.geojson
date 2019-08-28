@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.89067,42.51738,42.93067,42.55738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K'veda Ghvardia"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1259519461,
-    "wof:lastmodified":1537623185,
+    "wof:lastmodified":1566637326,
     "wof:name":"Kveda Ghvardia",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

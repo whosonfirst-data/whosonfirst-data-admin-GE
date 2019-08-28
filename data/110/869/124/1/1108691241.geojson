@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.2524,
     "lbl:longitude":44.487275,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mtskheta-mtianeti",
     "meso:dissme":"AKHALGORIMTSKHETA-MTIANETI",
     "meso:gadm_admin":"Akhalgori",
@@ -31,6 +33,7 @@
     "mps:longitude":44.487275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0631\u064a\u0629 \u0623\u062e\u0627\u0644\u063a\u0648\u0631\u064a"
     ],
@@ -92,9 +95,9 @@
         "\u5217\u5be7\u54e5\u91cc\u5730\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"1,011.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108691241,
-    "wof:lastmodified":1563357019,
+    "wof:lastmodified":1566637107,
     "wof:name":"Akhalgori",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.88821,42.35201,43.92821,42.39201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293404761,
-    "wof:lastmodified":1536906431,
+    "wof:lastmodified":1566636876,
     "wof:name":"Sakire",
     "wof:parent_id":1108691293,
     "wof:placetype":"locality",

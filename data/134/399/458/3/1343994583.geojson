@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.61269,42.9927,42.65269,43.0327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ienishi"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1343994583,
-    "wof:lastmodified":1537623219,
+    "wof:lastmodified":1566636788,
     "wof:name":"Ienashi",
     "wof:parent_id":1108691335,
     "wof:placetype":"locality",

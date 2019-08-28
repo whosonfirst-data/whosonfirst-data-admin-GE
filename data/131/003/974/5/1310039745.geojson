@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.66474,42.06233,42.70474,42.10233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shua-Gora"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310039745,
-    "wof:lastmodified":1537623089,
+    "wof:lastmodified":1566637143,
     "wof:name":"Shua Gora",
     "wof:parent_id":1108691395,
     "wof:placetype":"locality",

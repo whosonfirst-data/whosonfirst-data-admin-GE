@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.42541,42.29056,42.46541,42.33056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "P\u2019at\u2019ara K\u2019ukhi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326459743,
-    "wof:lastmodified":1537623117,
+    "wof:lastmodified":1566636718,
     "wof:name":"P'at'ara K'ukhi",
     "wof:parent_id":1108691313,
     "wof:placetype":"locality",

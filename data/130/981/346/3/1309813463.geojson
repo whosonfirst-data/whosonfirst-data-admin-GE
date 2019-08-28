@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.23917,41.30861,44.27917,41.34861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dzhavakhi",
         "Midzha",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309813463,
-    "wof:lastmodified":1537623253,
+    "wof:lastmodified":1566637193,
     "wof:name":"Javakhi",
     "wof:parent_id":1108691273,
     "wof:placetype":"locality",

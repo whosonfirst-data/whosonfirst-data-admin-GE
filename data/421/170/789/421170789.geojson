@@ -10,8 +10,12 @@
     "geom:latitude":41.47588,
     "geom:longitude":44.80894,
     "iso:country":"GE",
+    "lbl:bbox":"44.78894,41.45588,44.82894,41.49588",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Marneuli"
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borchalo"
     ],
     "name:urd_x_preferred":[
@@ -167,7 +171,7 @@
     "wof:concordances":{
         "gn:id":613074,
         "gp:id":1966870,
-        "qs:id":257225,
+        "qs_pg:id":257225,
         "wd:id":"Q770336"
     },
     "wof:country":"GE",
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":421170789,
-    "wof:lastmodified":1563357176,
+    "wof:lastmodified":1566637212,
     "wof:name":"Marneuli",
     "wof:parent_id":1108691331,
     "wof:placetype":"locality",

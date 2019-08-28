@@ -10,8 +10,12 @@
     "geom:latitude":41.65887,
     "geom:longitude":44.70006,
     "iso:country":"GE",
+    "lbl:bbox":"44.68006,41.63887,44.72006,41.67887",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u041a\u0430\u0434\u0436\u043e\u0440\u044b"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Kojori"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kodzhory"
     ],
     "qs:gn_country":"GE",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":613742,
         "gp:id":28752630,
-        "qs:id":483958,
+        "qs_pg:id":483958,
         "wd:id":"Q13637001",
         "wk:page":"Kojori"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421172897,
-    "wof:lastmodified":1563357157,
+    "wof:lastmodified":1566637206,
     "wof:name":"Kojori",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",

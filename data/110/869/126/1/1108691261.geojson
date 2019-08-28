@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.790331,
     "lbl:longitude":43.482988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Samtskhe-Javakheti",
     "meso:dissme":"BORJOMISAMTSKHE-JAVAKHETI",
     "meso:gadm_admin":"Borjomi",
@@ -31,6 +33,7 @@
     "mps:longitude":43.482988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Borjomi"
     ],
@@ -161,9 +164,9 @@
         "\u535a\u723e\u82e5\u7c73"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-17",
+    "src:population_date":"2002-01-17",
     "statoids:area_km":"1,189.0",
     "statoids:as_of_date":"2002-01-17",
     "statoids:capital":"",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":1108691261,
-    "wof:lastmodified":1564169514,
+    "wof:lastmodified":1566637100,
     "wof:name":"Borjomi",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

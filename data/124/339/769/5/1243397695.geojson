@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.01181,41.56296,43.05181,41.60296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d3\u10e0\u10d8\u10d0\u10ec\u10db\u10d8\u10dc\u10d3\u10d0"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243397695,
-    "wof:lastmodified":1537623307,
+    "wof:lastmodified":1566637234,
     "wof:name":"Andriatsminda",
     "wof:parent_id":1108691245,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.27105,41.95385,42.31105,41.99385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Kvemo Onch\u2019ik\u2019eti"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276157923,
-    "wof:lastmodified":1537623175,
+    "wof:lastmodified":1566636968,
     "wof:name":"Kvemo Onch'ik'eti",
     "wof:parent_id":1108691267,
     "wof:placetype":"locality",

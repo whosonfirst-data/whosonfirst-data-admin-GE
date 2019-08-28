@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.27667,42.12458,44.31667,42.16458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsotagori",
         "Tsotaguri"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209530353,
-    "wof:lastmodified":1537623057,
+    "wof:lastmodified":1566636990,
     "wof:name":"Tsotaguri",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

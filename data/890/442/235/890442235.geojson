@@ -11,8 +11,11 @@
     "geom:longitude":43.97,
     "gn:country":"GE",
     "gn:fcode":"PPLA2",
-    "gn:pop":15000,
+    "gn:population":15000,
     "iso:country":"GE",
+    "lbl:bbox":"43.95,42.21,43.99,42.25",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -403,7 +406,7 @@
     "wof:concordances":{
         "gn:id":6940391,
         "gp:id":1966048,
-        "qs:id":274742,
+        "qs_pg:id":274742,
         "wd:id":"Q79863",
         "wk:page":"Tskhinvali"
     },
@@ -420,7 +423,7 @@
         }
     ],
     "wof:id":890442235,
-    "wof:lastmodified":1563357202,
+    "wof:lastmodified":1566637219,
     "wof:name":"Tskhinvali",
     "wof:parent_id":1108691393,
     "wof:placetype":"locality",

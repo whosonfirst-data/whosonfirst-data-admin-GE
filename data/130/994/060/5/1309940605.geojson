@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"43.16873,42.87533,43.20873,42.91533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309940605,
-    "wof:lastmodified":1536736866,
+    "wof:lastmodified":1566637188,
     "wof:name":"Zeskho",
     "wof:parent_id":1108691329,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"41.7532,41.78741,41.7932,41.82741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kindryschi",
         "Kintrist"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259880451,
-    "wof:lastmodified":1537623200,
+    "wof:lastmodified":1566637334,
     "wof:name":"Kinkisha",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

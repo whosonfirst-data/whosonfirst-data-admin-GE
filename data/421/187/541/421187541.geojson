@@ -10,8 +10,12 @@
     "geom:latitude":43.08427,
     "geom:longitude":40.8185,
     "iso:country":"GE",
+    "lbl:bbox":"40.7985,43.06427,40.8385,43.10427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0410\u0444\u043e\u043d \u04be\u044b\u0446"
@@ -177,7 +181,7 @@
     "wof:concordances":{
         "gn:id":7053271,
         "gp:id":1962200,
-        "qs:id":1083631,
+        "qs_pg:id":1083631,
         "wd:id":"Q42194",
         "wk:page":"Budy Czarnockie"
     },
@@ -194,7 +198,7 @@
         }
     ],
     "wof:id":421187541,
-    "wof:lastmodified":1563357154,
+    "wof:lastmodified":1566637204,
     "wof:name":"Akhali At'oni",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",

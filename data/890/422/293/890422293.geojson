@@ -11,17 +11,21 @@
     "geom:longitude":42.83556,
     "gn:country":"GE",
     "gn:fcode":"PPL",
-    "gn:pop":95,
+    "gn:population":95,
     "iso:country":"GE",
+    "lbl:bbox":"42.81556,42.59806,42.85556,42.63806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:kat_x_preferred":[
         "Lajana"
     ],
     "name:kat_x_variant":[
         "\u10da\u10d0\u10ef\u10d0\u10dc\u10d0"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ladzhanurges Tsentral\u2019nyy"
     ],
     "qs:name":"Lajanurhesi",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":613347,
-        "qs:id":550328
+        "qs_pg:id":550328
     },
     "wof:country":"GE",
     "wof:created":1469051435,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890422293,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566637216,
     "wof:name":"Lajanurhesi",
     "wof:parent_id":1108691385,
     "wof:placetype":"locality",

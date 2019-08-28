@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.09548,41.61821,44.13548,41.65821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Be\u015fda\u015f"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1327152441,
-    "wof:lastmodified":1564169094,
+    "wof:lastmodified":1566636739,
     "wof:name":"Besht'asheni",
     "wof:parent_id":1108691389,
     "wof:placetype":"locality",

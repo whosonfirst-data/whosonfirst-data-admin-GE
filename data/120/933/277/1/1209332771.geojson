@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"44.11049,42.28047,44.15049,42.32047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Belot'i"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209332771,
-    "wof:lastmodified":1537623292,
+    "wof:lastmodified":1566637037,
     "wof:name":"Belot'i",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",

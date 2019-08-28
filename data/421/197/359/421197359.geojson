@@ -10,8 +10,12 @@
     "geom:latitude":41.82681,
     "geom:longitude":46.27667,
     "iso:country":"GE",
+    "lbl:bbox":"46.25667,41.80681,46.29667,41.84681",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Laqodexi"
@@ -151,7 +155,7 @@
     "wof:concordances":{
         "gn:id":613342,
         "gp:id":1966859,
-        "qs:id":126103,
+        "qs_pg:id":126103,
         "wd:id":"Q956966",
         "wk:page":"Lagodekhi"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":421197359,
-    "wof:lastmodified":1563357168,
+    "wof:lastmodified":1566637210,
     "wof:name":"Lagodekhi",
     "wof:parent_id":1108691323,
     "wof:placetype":"locality",

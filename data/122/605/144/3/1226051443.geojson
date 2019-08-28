@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"40.0646,43.41541,40.1046,43.45541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e8\u10d0\u10e4\u10e0\u10d0\u10dc\u10dd\u10d5\u10dd"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226051443,
-    "wof:lastmodified":1537623093,
+    "wof:lastmodified":1566637357,
     "wof:name":"Shapranovo",
     "wof:parent_id":1108691277,
     "wof:placetype":"locality",

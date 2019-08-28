@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"45.57417,42.0423,45.61417,42.0823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lap'anquri"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260321789,
-    "wof:lastmodified":1537623168,
+    "wof:lastmodified":1566637091,
     "wof:name":"Lap'anquri",
     "wof:parent_id":1108691373,
     "wof:placetype":"locality",

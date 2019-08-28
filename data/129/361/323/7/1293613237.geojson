@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tbilisi",
     "iso:country":"GE",
+    "lbl:bbox":"42.43756,41.62165,42.47756,41.66165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "Shuasopeli"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293613237,
-    "wof:lastmodified":1537623088,
+    "wof:lastmodified":1566636884,
     "wof:name":"Shuasopeli",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",
