@@ -52,6 +52,9 @@
     },
     "wof:country":"GE",
     "wof:created":1459008703,
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"e8b768dacc1c34f7c02d4fddde3954b4",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421166797,
-    "wof:lastmodified":1527716101,
+    "wof:lastmodified":1582343850,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

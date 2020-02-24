@@ -365,6 +365,9 @@
     },
     "wof:country":"GE",
     "wof:created":1459010141,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"6f72ced689d537e4951fc9c3c86b3b47",
     "wof:hierarchy":[
         {
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":421203121,
-    "wof:lastmodified":1566637199,
+    "wof:lastmodified":1582343850,
     "wof:name":"Rustavi",
     "wof:parent_id":1108691281,
     "wof:placetype":"locality",

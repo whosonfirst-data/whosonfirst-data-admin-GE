@@ -714,6 +714,10 @@
     ],
     "wof:country":"GE",
     "wof:created":1469052414,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"646787f299203547cea77dc7da27e020",
     "wof:hierarchy":[
         {
@@ -725,7 +729,7 @@
         }
     ],
     "wof:id":890443227,
-    "wof:lastmodified":1566637218,
+    "wof:lastmodified":1582343850,
     "wof:name":"Tbilisi",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",
