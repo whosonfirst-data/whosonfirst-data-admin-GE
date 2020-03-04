@@ -1151,8 +1151,9 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes",
-        "meso"
+        "naturalearth",
+        "meso",
+        "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -1201,6 +1202,11 @@
     },
     "wof:country":"GE",
     "wof:country_alpha3":"GEO",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"126a90f96ed58b79d01691c5944bb967",
     "wof:hierarchy":[
         {
@@ -1217,7 +1223,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1566636842,
+    "wof:lastmodified":1582343845,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

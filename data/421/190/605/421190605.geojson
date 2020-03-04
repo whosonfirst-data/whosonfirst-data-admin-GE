@@ -398,8 +398,9 @@
     "qs:woe_id":1963698,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
-        "quattroshapes"
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
     ],
     "src:population":"wk",
     "wd:latitude":42.25,
@@ -425,6 +426,11 @@
     },
     "wof:country":"GE",
     "wof:created":1459009663,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df64089574128f06599fe5939e725a97",
     "wof:hierarchy":[
         {
@@ -436,7 +442,7 @@
         }
     ],
     "wof:id":421190605,
-    "wof:lastmodified":1566637209,
+    "wof:lastmodified":1582343850,
     "wof:name":"K'ut'aisi",
     "wof:parent_id":1108691319,
     "wof:placetype":"locality",
