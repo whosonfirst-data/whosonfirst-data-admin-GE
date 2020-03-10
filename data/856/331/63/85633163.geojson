@@ -1181,9 +1181,7 @@
         421190605
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            268
-        ],
+        "digitalenvoy:country_code":268,
         "fifa:id":"GEO",
         "fips:code":"GG",
         "gaul:id":"92",
@@ -1226,7 +1224,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1583529134,
+    "wof:lastmodified":1583797339,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
