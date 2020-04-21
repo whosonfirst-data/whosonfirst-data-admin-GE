@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.565952,
-    "geom:area_square_m":69325598653.869385,
+    "geom:area_square_m":69325598748.681488,
     "geom:bbox":"40.002357,41.056139,46.733437,43.584003",
     "geom:latitude":42.178496,
     "geom:longitude":43.500644,
@@ -66,6 +66,9 @@
     "name:arg_x_preferred":[
         "Cheorchia"
     ],
+    "name:ary_x_preferred":[
+        "\u062c\u0648\u0631\u062c\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u062c\u064a\u0648\u0631\u062c\u064a\u0627"
     ],
@@ -95,6 +98,9 @@
     ],
     "name:bam_x_preferred":[
         "Zey\u0254rzi"
+    ],
+    "name:ban_x_preferred":[
+        "Georgia"
     ],
     "name:bar_x_preferred":[
         "Georgien"
@@ -209,6 +215,12 @@
         "Georgien",
         "Georgia (flertydig)"
     ],
+    "name:deu_at_x_preferred":[
+        "Georgien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Georgien"
+    ],
     "name:deu_x_preferred":[
         "Georgia (Begriffskl\u00e4rung)"
     ],
@@ -235,6 +247,12 @@
     ],
     "name:ell_x_variant":[
         "\u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Georgia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Georgia"
     ],
     "name:eng_x_historical":[
         "Georgian Soviet Socialist Republic"
@@ -285,6 +303,9 @@
     "name:fas_x_variant":[
         "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
     ],
+    "name:fij_x_preferred":[
+        "Georgia"
+    ],
     "name:fin_x_preferred":[
         "Georgia (t\u00e4smennyssivu)"
     ],
@@ -321,6 +342,9 @@
     "name:gag_x_preferred":[
         "Gruziya"
     ],
+    "name:gcr_x_preferred":[
+        "J\u00e9y\u00f2rji"
+    ],
     "name:gla_x_preferred":[
         "Georgia"
     ],
@@ -343,6 +367,9 @@
     ],
     "name:gom_x_preferred":[
         "\u091c\u0949\u0930\u094d\u091c\u093f\u092f\u093e"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf32\ud800\udf34\ud800\udf30\ud800\udf3f\ud800\udf42\ud800\udf32\ud800\udf3e\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Georgia"
@@ -491,6 +518,9 @@
     ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u179f\u1780\u17a0\u17d2\u179f\u17c9\u17b8"
+    ],
+    "name:khm_x_variant":[
+        "\u1785\u1785\u1787\u17b8"
     ],
     "name:kik_x_preferred":[
         "Jojia"
@@ -787,6 +817,9 @@
         "Gruzja",
         "Georgia (ujednoznacznienie)"
     ],
+    "name:por_br_x_preferred":[
+        "Ge\u00f3rgia"
+    ],
     "name:por_x_preferred":[
         "Ge\u00f3rgia",
         "Ge\u00f3rgia (desambigua\u00e7\u00e3o)"
@@ -894,6 +927,12 @@
     "name:srd_x_preferred":[
         "Georgia"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Gruzija"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0443\u0437\u0438\u0458\u0430"
     ],
@@ -918,6 +957,9 @@
     ],
     "name:szl_x_preferred":[
         "Gruzyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Georgia"
     ],
     "name:tam_x_preferred":[
         "\u0b9c\u0bbe\u0bb0\u0bcd\u0b9c\u0bbf\u0baf\u0bbe"
@@ -1062,6 +1104,24 @@
     ],
     "name:zha_x_preferred":[
         "Gruzia"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u683c\u9c81\u5409\u4e9a"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u683c\u9b6f\u5409\u4e9e"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u683c\u9b6f\u5409\u4e9e"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u683c\u9c81\u5409\u4e9a"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u683c\u9c81\u5409\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u55ac\u6cbb\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u6cbb\u4e9e (\u6d88\u6b67\u7fa9)"
@@ -1224,7 +1284,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1583797339,
+    "wof:lastmodified":1587427301,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
