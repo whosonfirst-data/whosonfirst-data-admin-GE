@@ -712,7 +712,8 @@
         "qs_pg:id":1027103
     },
     "wof:coterminous":[
-        85671301
+        85671301,
+        1108805945
     ],
     "wof:country":"GE",
     "wof:created":1469052414,
@@ -731,7 +732,7 @@
         }
     ],
     "wof:id":890443227,
-    "wof:lastmodified":1607390890,
+    "wof:lastmodified":1608054816,
     "wof:name":"Tbilisi",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",

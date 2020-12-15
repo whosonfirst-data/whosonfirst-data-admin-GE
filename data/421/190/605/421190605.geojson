@@ -426,6 +426,9 @@
     "wof:concordances_alt":{
         "qs_pg:id":1119826
     },
+    "wof:coterminous":[
+        1108691319
+    ],
     "wof:country":"GE",
     "wof:created":1459009663,
     "wof:geom_alt":[
@@ -444,7 +447,7 @@
         }
     ],
     "wof:id":421190605,
-    "wof:lastmodified":1607390890,
+    "wof:lastmodified":1608054816,
     "wof:name":"K'ut'aisi",
     "wof:parent_id":1108691319,
     "wof:placetype":"locality",
