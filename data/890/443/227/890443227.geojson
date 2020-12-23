@@ -704,6 +704,7 @@
     "wof:concordances":{
         "gn:id":611717,
         "gp:id":1965878,
+        "ne:id":1159150961,
         "qs_pg:id":580727,
         "wd:id":"Q994",
         "wk:page":"Tbilisi"
@@ -732,7 +733,8 @@
         }
     ],
     "wof:id":890443227,
-    "wof:lastmodified":1608054816,
+    "wof:lastmodified":1608688178,
+    "wof:megacity":1,
     "wof:name":"Tbilisi",
     "wof:parent_id":1108691371,
     "wof:placetype":"locality",
