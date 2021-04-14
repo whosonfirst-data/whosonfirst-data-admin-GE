@@ -1277,7 +1277,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -1331,7 +1332,8 @@
     "wof:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"e9d3a0fce3694e65c54aa23a3cd7655c",
     "wof:hierarchy":[
@@ -1349,7 +1351,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1617828577,
+    "wof:lastmodified":1618362672,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
