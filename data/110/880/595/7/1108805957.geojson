@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Abkhazia"
     ],
+    "name:fra_x_preferred":[
+        "R\u00e9publique autonome d'Abkhazie"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0431\u0445\u0430\u0437\u0438\u044f"
     ],
@@ -77,7 +80,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1614893950,
+    "wof:lastmodified":1627522152,
     "wof:name":"Abkhazeti Autonomous Republic",
     "wof:parent_id":85633163,
     "wof:placetype":"region",
