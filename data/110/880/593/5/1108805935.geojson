@@ -26,6 +26,9 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:fra_x_preferred":[
+        "Mingr\u00e9lie-et-Haute-Svan\u00e9tie"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0435\u0433\u0440\u0435\u043b\u043e-\u0412\u0435\u0440\u0445\u043d\u044f\u044f-\u0421\u0432\u0430\u043d\u0435\u0442\u0438"
     ],
@@ -58,7 +61,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1614893950,
+    "wof:lastmodified":1628266710,
     "wof:name":"Samagrelo-Zemo Svaneti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",
