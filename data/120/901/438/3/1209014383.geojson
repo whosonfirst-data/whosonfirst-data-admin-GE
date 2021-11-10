@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Lat'a"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Lata"
+    ],
     "name:kat_x_preferred":[
         "Lata"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1209014383,
-    "wof:lastmodified":1566636996,
+    "wof:lastmodified":1636500450,
     "wof:name":"Lata",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",
