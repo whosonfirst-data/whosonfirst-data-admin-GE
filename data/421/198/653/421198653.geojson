@@ -38,6 +38,9 @@
     "name:est_x_preferred":[
         "\u0160uahhevi"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0627\u062e\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Chouakh\u00e9vi"
     ],
@@ -56,14 +59,29 @@
     "name:kat_x_variant":[
         "Shuakhevi"
     ],
+    "name:mdf_x_preferred":[
+        "\u0428\u0443\u0430\u0445\u044d\u0432\u0438"
+    ],
     "name:nld_x_preferred":[
         "Shuakhevi"
+    ],
+    "name:nld_x_variant":[
+        "Sjoeachevi"
+    ],
+    "name:pol_x_preferred":[
+        "Szuachewi"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0443\u0430\u0445\u0435\u0432\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Shuajevi"
+    ],
     "name:swe_x_preferred":[
         "Shuakhevi"
+    ],
+    "name:swe_x_variant":[
+        "Sjuachevi"
     ],
     "name:tur_x_preferred":[
         "\u015euahevi"
@@ -71,8 +89,17 @@
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0430\u0445\u0435\u0432\u0456"
     ],
+    "name:uzb_x_preferred":[
+        "Shuakhevi"
+    ],
     "name:war_x_preferred":[
         "Shuakhevi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e8\u10e3\u10d0\u10ee\u10d4\u10d5\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8212\u963f\u6d77\u7dad"
     ],
     "qs:gn_country":"GE",
     "qs:gn_fcode":"PPL",
@@ -122,7 +149,7 @@
         }
     ],
     "wof:id":421198653,
-    "wof:lastmodified":1566637208,
+    "wof:lastmodified":1690921430,
     "wof:name":"Shuakhevi",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

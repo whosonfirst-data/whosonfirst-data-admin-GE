@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u062e\u064a\u0646\u0641\u0627\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u062e\u064a\u0646\u0641\u0627\u0644\u0649"
+    ],
     "name:ast_x_preferred":[
         "Tsjinvali"
     ],
@@ -54,6 +57,9 @@
         "\u0426\u0445\u0438\u043d\u0432\u0430\u043b\u0438"
     ],
     "name:cat_x_preferred":[
+        "Tskhinvali"
+    ],
+    "name:cdo_x_preferred":[
         "Tskhinvali"
     ],
     "name:ceb_x_preferred":[
@@ -104,6 +110,9 @@
     "name:gag_x_preferred":[
         "Tshinvali"
     ],
+    "name:gle_x_preferred":[
+        "Tskhinvali"
+    ],
     "name:glg_x_preferred":[
         "Tskhinvali"
     ],
@@ -140,6 +149,9 @@
     "name:ind_x_preferred":[
         "Tskhinvali"
     ],
+    "name:isl_x_preferred":[
+        "Tskinval"
+    ],
     "name:ita_x_preferred":[
         "Tskhinvali"
     ],
@@ -167,6 +179,9 @@
     "name:lat_x_preferred":[
         "Tskhinvali"
     ],
+    "name:lat_x_variant":[
+        "Schinuvalium"
+    ],
     "name:lav_x_preferred":[
         "Chinvala"
     ],
@@ -175,6 +190,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0924\u0938\u094d\u0938\u093f\u0928\u0935\u0932\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0426\u0445\u0438\u043d\u0432\u0430\u043b\u0438"
     ],
     "name:mhr_x_preferred":[
         "\u0426\u0445\u0438\u043d\u0432\u0430\u043b"
@@ -205,6 +223,9 @@
     ],
     "name:nld_x_preferred":[
         "Tsinvali"
+    ],
+    "name:nld_x_variant":[
+        "Tschinvali"
     ],
     "name:nno_x_preferred":[
         "Tskhinvali"
@@ -257,8 +278,14 @@
     "name:slk_x_preferred":[
         "Cchinvali"
     ],
+    "name:slv_x_preferred":[
+        "Chinval"
+    ],
     "name:spa_x_preferred":[
         "Tsjinvali"
+    ],
+    "name:sqi_x_preferred":[
+        "Chinvali"
     ],
     "name:srd_x_preferred":[
         "Tskhinvali"
@@ -271,6 +298,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbf\u0bb8\u0bcd\u0b95\u0bbf\u0ba9\u0bcd\u0bb5\u0bbe\u0bb2\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0445\u0438\u043d\u0432\u0430\u043b"
     ],
     "name:tel_x_preferred":[
         "\u0c16\u0c3f\u0c28\u0c4d\u0c35\u0c3e\u0c32\u0c3f"
@@ -313,6 +343,9 @@
     ],
     "name:war_x_preferred":[
         "Tskhinvali"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8328\u6b23\u74e6\u5229"
     ],
     "name:xmf_x_preferred":[
         "\u10ea\u10ee\u10d8\u10dc\u10d5\u10d0\u10da\u10d8"
@@ -374,7 +407,7 @@
         }
     ],
     "wof:id":421174439,
-    "wof:lastmodified":1566637202,
+    "wof:lastmodified":1690921422,
     "wof:name":"Ts'khinvali",
     "wof:parent_id":1108691393,
     "wof:placetype":"locality",

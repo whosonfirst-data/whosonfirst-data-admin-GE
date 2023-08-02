@@ -20,6 +20,12 @@
     "name:abk_x_preferred":[
         "\u049a\u043e\u0431\u0443\u043b\u0435\u04ad"
     ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0628\u0648\u0644\u064a\u062a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628\u0648\u0644\u064a\u062a\u0649"
+    ],
     "name:aze_x_preferred":[
         "Kobuleti"
     ],
@@ -47,8 +53,14 @@
     "name:deu_x_preferred":[
         "Kobuleti"
     ],
+    "name:diq_x_preferred":[
+        "Kobuleti"
+    ],
     "name:dsb_x_preferred":[
         "Kobuleti"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03c0\u03bf\u03c5\u03bb\u03ad\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "K'obulet'i"
@@ -62,10 +74,16 @@
     "name:est_x_preferred":[
         "Khobulethi"
     ],
+    "name:eus_x_preferred":[
+        "Kobuleti"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0628\u0648\u0644\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Kobuleti"
+    ],
+    "name:gag_x_preferred":[
         "Kobuleti"
     ],
     "name:heb_x_preferred":[
@@ -89,8 +107,14 @@
     "name:kor_x_preferred":[
         "\ucf54\ubd88\ub808\ud2f0"
     ],
+    "name:lav_x_preferred":[
+        "Kobuleti"
+    ],
     "name:lit_x_preferred":[
         "Kobuletis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041a\u043e\u0431\u0443\u043b\u044d\u0442\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0648\u0628\u0648\u0644\u062a\u06cc"
@@ -119,11 +143,17 @@
     "name:slv_x_preferred":[
         "Kobuleti"
     ],
+    "name:spa_x_preferred":[
+        "Kobuleti"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0431\u0443\u043b\u0435\u0442\u0438"
     ],
     "name:swe_x_preferred":[
         "Kobuleti"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e2d\u0e1a\u0e39\u0e40\u0e25\u0e17\u0e35"
     ],
     "name:tur_x_preferred":[
         "Kobuleti"
@@ -133,6 +163,9 @@
     ],
     "name:und_x_variant":[
         "Kobulyety"
+    ],
+    "name:uzb_x_preferred":[
+        "Kobuleti"
     ],
     "name:war_x_preferred":[
         "Kobuleti"
@@ -191,7 +224,7 @@
         }
     ],
     "wof:id":421203881,
-    "wof:lastmodified":1566637199,
+    "wof:lastmodified":1690921414,
     "wof:name":"K'obulet'i",
     "wof:parent_id":1108691317,
     "wof:placetype":"locality",

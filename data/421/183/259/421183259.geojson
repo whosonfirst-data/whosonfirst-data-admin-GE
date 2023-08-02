@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0648\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Khoni"
+    ],
     "name:aze_x_preferred":[
         "Xoni"
     ],
@@ -25,6 +34,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Khoni"
     ],
     "name:ceb_x_preferred":[
         "Khoni"
@@ -40,6 +52,9 @@
     ],
     "name:deu_x_preferred":[
         "Choni"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Khoni"
@@ -77,11 +92,17 @@
     "name:kat_x_preferred":[
         "\u10ee\u10dd\u10dc\u10d8"
     ],
+    "name:lav_x_preferred":[
+        "Honi"
+    ],
     "name:lit_x_preferred":[
         "Chonis"
     ],
     "name:mal_x_preferred":[
         "\u0d16\u0d4b\u0d28\u0d3f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0425\u043e\u043d\u0438"
     ],
     "name:msa_x_preferred":[
         "Khoni"
@@ -175,7 +196,7 @@
         }
     ],
     "wof:id":421183259,
-    "wof:lastmodified":1566637213,
+    "wof:lastmodified":1690921442,
     "wof:name":"Khoni",
     "wof:parent_id":1108691313,
     "wof:placetype":"locality",

@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Martvili"
+    ],
     "name:aze_x_preferred":[
         "Martvili"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0432\u0438\u043b\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Martvili"
     ],
     "name:ceb_x_preferred":[
         "Mart'vili"
@@ -34,6 +40,9 @@
     ],
     "name:deu_x_preferred":[
         "Martwili"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c1\u03c4\u03b2\u03b9\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Martvili"
@@ -59,14 +68,23 @@
     "name:ita_x_preferred":[
         "Martvili"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c8\u30f4\u30a3\u30ea"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10e2\u10d5\u10d8\u10da\u10d8"
     ],
     "name:kat_x_variant":[
         "Mart\u2019vili"
     ],
+    "name:lav_x_preferred":[
+        "Martvili"
+    ],
     "name:lit_x_preferred":[
         "Martvilis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0432\u0438\u043b\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u0631\u062a\u200c\u0648\u06cc\u0644\u06cc"
@@ -83,6 +101,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0432\u0438\u043b\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Martvili"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0432\u0438\u043b\u0438"
     ],
@@ -97,6 +118,9 @@
     ],
     "name:und_x_variant":[
         "Gegechkari"
+    ],
+    "name:uzb_x_preferred":[
+        "Martvili"
     ],
     "name:war_x_preferred":[
         "Martvili"
@@ -157,7 +181,7 @@
         }
     ],
     "wof:id":421205449,
-    "wof:lastmodified":1566637201,
+    "wof:lastmodified":1690921419,
     "wof:name":"Martvili",
     "wof:parent_id":1108691333,
     "wof:placetype":"locality",

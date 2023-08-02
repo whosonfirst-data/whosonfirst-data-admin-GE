@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001906,
     "geom:area_square_m":17643842.290555,
-    "geom:bbox":"44.9971084595,41.5069274902,45.0677642822,41.5582885742",
+    "geom:bbox":"44.997108,41.506927,45.067764,41.558289",
     "geom:latitude":41.530527,
     "geom:longitude":45.032135,
     "iso:country":"GE",
@@ -31,6 +31,12 @@
     "name:aze_x_preferred":[
         "Qardabani"
     ],
+    "name:aze_x_variant":[
+        "Qardabani b\u0259l\u0259diyy\u0259si"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0430\u0431\u0430\u043d\u0441\u043a\u0456 \u043c\u0443\u043d\u0456\u0446\u044b\u043f\u0430\u043b\u0456\u0442\u044d\u0442"
+    ],
     "name:ceb_x_preferred":[
         "Gardabnis Munitsip'alit'et'i"
     ],
@@ -45,8 +51,10 @@
     ],
     "name:eng_x_variant":[
         "Roustavi",
-        "Gardabani",
         "Gardabani Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u062f\u0627\u0631\u06cc \u06af\u0627\u0631\u062f\u0627\u0628\u0627\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Gardabanin piirikunta"
@@ -63,17 +71,29 @@
     "name:ita_x_preferred":[
         "Municipalit\u00e0 di Gardabani"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30eb\u30c0\u30d0\u30cb\u5730\u533a"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10e0\u10d3\u10d0\u10d1\u10dc\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:nld_x_preferred":[
         "Gardabani Municipality"
     ],
+    "name:nld_x_variant":[
+        "Gardabani"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0430\u0431\u0430\u043d\u044b \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u0440\u0434\u0430\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u0438\u0442\u0435\u0442"
     ],
     "name:swe_x_preferred":[
         "Gardabnis Munitsip'alit'et'i"
+    ],
+    "name:swe_x_variant":[
+        "Gardabani"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0430\u0440\u0434\u0430\u0431\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442"
@@ -98,7 +118,7 @@
     },
     "wof:country":"GE",
     "wof:created":1474307925,
-    "wof:geomhash":"f45691995f313cae03bd42b56df4aa27",
+    "wof:geomhash":"1d9cb8b2e5adf1374dc1413a77454512",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +128,7 @@
         }
     ],
     "wof:id":1108691351,
-    "wof:lastmodified":1566637095,
+    "wof:lastmodified":1690921387,
     "wof:name":"Rustavi City",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",
@@ -119,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.99710845947266,
-    41.50692749023438,
-    45.06776428222656,
-    41.55828857421875
+    44.997108,
+    41.506927,
+    45.067764,
+    41.558289
 ],
-  "geometry": {"coordinates":[[[45.00568389892578,41.52880859375],[44.99710845947266,41.54071807861328],[45.02310180664062,41.55828857421875],[45.03843307495117,41.54813003540039],[45.05271530151367,41.53348159790039],[45.061279296875,41.5223503112793],[45.06776428222656,41.51297378540039],[45.06178665161133,41.50965881347656],[45.05269241333008,41.50692749023438],[45.0389289855957,41.50771331787109],[45.03062057495117,41.51201248168945],[45.00568389892578,41.52880859375]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[45.005684,41.528809],[44.997108,41.540718],[45.023102,41.558289],[45.038433,41.54813],[45.052715,41.533482],[45.061279,41.52235],[45.067764,41.512974],[45.061787,41.509659],[45.052692,41.506927],[45.038929,41.507713],[45.030621,41.512012],[45.005684,41.528809]]],"type":"Polygon"}
 }

@@ -17,6 +17,18 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0425\u0430\u0448\u04d9\u044b\u0440"
+    ],
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0634\u0648\u0631\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0627\u0634\u0648\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Khashuri"
+    ],
     "name:aze_x_preferred":[
         "Xa\u015furi"
     ],
@@ -28,6 +40,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0448\u0443\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Kh\u00e0ixuri"
     ],
     "name:ceb_x_preferred":[
         "Khashuri"
@@ -41,6 +56,9 @@
     "name:deu_x_preferred":[
         "Chaschuri"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c3\u03bf\u03cd\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Khashuri"
     ],
@@ -49,6 +67,9 @@
     ],
     "name:est_x_preferred":[
         "Ha\u0161uri"
+    ],
+    "name:eus_x_preferred":[
+        "Khaxuri"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0634\u0648\u0631\u06cc"
@@ -83,6 +104,9 @@
     "name:kat_x_preferred":[
         "\u10ee\u10d0\u10e8\u10e3\u10e0\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\ud558\uc288\ub9ac"
+    ],
     "name:lav_x_preferred":[
         "Ha\u0161uri"
     ],
@@ -91,6 +115,12 @@
     ],
     "name:mal_x_preferred":[
         "\u0d16\u0d37\u0d42\u0d30\u0d3f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0425\u0430\u0448\u0443\u0440\u0438"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062e\u0627\u0634\u0648\u0631\u06cc"
     ],
     "name:nah_x_preferred":[
         "Haxuri"
@@ -133,6 +163,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0634\u0648\u0631\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Xashuri"
     ],
     "name:war_x_preferred":[
         "Khashuri"
@@ -194,7 +227,7 @@
         }
     ],
     "wof:id":421167115,
-    "wof:lastmodified":1566637198,
+    "wof:lastmodified":1690921414,
     "wof:name":"Khashuri",
     "wof:parent_id":1108691305,
     "wof:placetype":"locality",

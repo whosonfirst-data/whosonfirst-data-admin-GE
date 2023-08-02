@@ -20,6 +20,12 @@
     "name:abk_x_preferred":[
         "\u0421\u0438\u0495\u043d\u0430\u0495\u044c"
     ],
+    "name:ast_x_preferred":[
+        "Sighnaghi"
+    ],
+    "name:ava_x_preferred":[
+        "\u0421\u0438\u0433\u044a\u043d\u0430\u0433\u044a\u0438"
+    ],
     "name:aze_x_preferred":[
         "Si\u011fna\u011fi"
     ],
@@ -35,8 +41,17 @@
     "name:che_x_preferred":[
         "\u0421\u0438\u0433\u043d\u0430\u0445\u0438"
     ],
+    "name:dan_x_preferred":[
+        "Sighnaghi"
+    ],
     "name:deu_x_preferred":[
         "Sighnaghi"
+    ],
+    "name:diq_x_preferred":[
+        "Si\u011fna\u011fi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b3\u03ba\u03bd\u03ac\u03b3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Sighnaghi"
@@ -56,11 +71,17 @@
     "name:fra_x_variant":[
         "Sighnaghi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e8'\u05e0\u05d0\u05e8'\u05d9"
+    ],
     "name:hsb_x_preferred":[
         "Signachi"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056b\u0572\u0576\u0561\u0572"
+    ],
+    "name:ind_x_preferred":[
+        "Signagi"
     ],
     "name:ita_x_preferred":[
         "Sighnaghi"
@@ -74,11 +95,17 @@
     "name:kat_x_variant":[
         "Sighnaghi"
     ],
+    "name:lav_x_preferred":[
+        "Signagi"
+    ],
     "name:lit_x_preferred":[
         "Signachis"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d17\u0d4d\u0d28\u0d3e\u0d17\u0d3f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0438\u0433\u043d\u0430\u0433\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u0633\u06cc\u0642\u0646\u0627\u0642\u06cc"
@@ -104,8 +131,17 @@
     "name:pol_x_preferred":[
         "Sighnaghi"
     ],
+    "name:ron_x_preferred":[
+        "Signahi"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0433\u043d\u0430\u0445\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Signagi"
+    ],
+    "name:spa_x_preferred":[
+        "Signagi"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0433\u043d\u0430\u0445\u0438"
@@ -124,6 +160,9 @@
     ],
     "name:und_x_variant":[
         "Signakh"
+    ],
+    "name:uzb_x_preferred":[
+        "Sighnaghi"
     ],
     "name:war_x_preferred":[
         "Sighnaghi"
@@ -182,7 +221,7 @@
         }
     ],
     "wof:id":421203101,
-    "wof:lastmodified":1566637199,
+    "wof:lastmodified":1690921416,
     "wof:name":"Signakhi",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",

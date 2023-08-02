@@ -20,6 +20,18 @@
     "name:abk_x_preferred":[
         "\u041a\u0430\u0441\u043f"
     ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0633\u0628\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0633\u0628\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kaspi"
+    ],
+    "name:aze_x_preferred":[
+        "Kaspi"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u043f\u0456"
     ],
@@ -62,14 +74,23 @@
     "name:ita_x_preferred":[
         "Kaspi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30d4"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e1\u10de\u10d8"
     ],
     "name:lat_x_preferred":[
         "Kaspi"
     ],
+    "name:lav_x_preferred":[
+        "Kaspi"
+    ],
     "name:lit_x_preferred":[
         "Kaspis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0430\u0441\u043f\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u0633\u067e\u06cc"
@@ -166,7 +187,7 @@
         }
     ],
     "wof:id":421202005,
-    "wof:lastmodified":1566637201,
+    "wof:lastmodified":1690921419,
     "wof:name":"Kaspi",
     "wof:parent_id":1108691297,
     "wof:placetype":"locality",

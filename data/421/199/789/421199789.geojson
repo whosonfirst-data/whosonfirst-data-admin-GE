@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0643\u0648\u0631\u064a\u0627\u0646\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Bakuriani"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0430\u043a\u0443\u0440\u0438\u0430\u043d\u0438 \u043a\u0443\u0440\u043e\u0440\u0442\u044b"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u044b\u044f\u043d\u0456"
     ],
@@ -32,14 +41,23 @@
     "name:che_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u0438\u0430\u043d\u0438"
     ],
+    "name:dan_x_preferred":[
+        "Bakuriani"
+    ],
     "name:deu_x_preferred":[
         "Bakuriani"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03ba\u03bf\u03c5\u03c1\u03b9\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bakuriani"
     ],
     "name:est_x_preferred":[
         "Bakuriani"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9\u0648\u0631\u06cc\u0627\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
         "Bakouriani"
@@ -53,6 +71,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u056f\u0578\u0582\u0580\u056b\u0561\u0576"
     ],
+    "name:ile_x_preferred":[
+        "Bakuriani"
+    ],
     "name:ita_x_preferred":[
         "Bakuriani"
     ],
@@ -65,8 +86,14 @@
     "name:lit_x_preferred":[
         "Bakurianis"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u043a\u0443\u0440\u0438\u0430\u043d\u0438"
+    ],
     "name:nld_x_preferred":[
         "Bakoerjani"
+    ],
+    "name:nob_x_preferred":[
+        "Bakuriani"
     ],
     "name:oss_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u0438\u0430\u043d\u0438"
@@ -80,6 +107,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043a\u0443\u0440\u0438\u0430\u043d\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Bakuriani"
+    ],
     "name:swe_x_preferred":[
         "Bakuriani"
     ],
@@ -91,6 +121,12 @@
     ],
     "name:und_x_variant":[
         "Bakuiani"
+    ],
+    "name:uzb_x_preferred":[
+        "Bakuriani"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10d9\u10e3\u10e0\u10d8\u10d0\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5eab\u5229\u5b89\u5c3c"
@@ -143,7 +179,7 @@
         }
     ],
     "wof:id":421199789,
-    "wof:lastmodified":1566637211,
+    "wof:lastmodified":1690921438,
     "wof:name":"Bakuriani",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

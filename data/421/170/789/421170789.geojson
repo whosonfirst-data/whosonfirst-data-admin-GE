@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0646\u0648\u0644\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0646\u0648\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Marneuli"
+    ],
     "name:aze_x_preferred":[
         "Marneuli"
     ],
@@ -29,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Marneuli"
+    ],
     "name:ceb_x_preferred":[
         "Marneuli"
     ],
@@ -39,6 +51,9 @@
         "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0438"
     ],
     "name:deu_x_preferred":[
+        "Marneuli"
+    ],
+    "name:diq_x_preferred":[
         "Marneuli"
     ],
     "name:dsb_x_preferred":[
@@ -80,8 +95,14 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10dc\u10d4\u10e3\u10da\u10d8"
     ],
+    "name:lav_x_preferred":[
+        "Marneuli"
+    ],
     "name:lit_x_preferred":[
         "Marneulis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u043d\u044d\u0443\u043b\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0627\u0631\u0646\u0626\u0648\u0644\u06cc"
@@ -107,6 +128,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Marneuli"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0440\u043d\u0435\u0443\u043b\u0438"
     ],
@@ -127,6 +151,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u0646\u0626\u0648\u0644\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Marneuli"
     ],
     "name:war_x_preferred":[
         "Marneuli"
@@ -187,7 +214,7 @@
         }
     ],
     "wof:id":421170789,
-    "wof:lastmodified":1566637212,
+    "wof:lastmodified":1690921440,
     "wof:name":"Marneuli",
     "wof:parent_id":1108691331,
     "wof:placetype":"locality",

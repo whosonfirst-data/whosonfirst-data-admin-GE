@@ -56,6 +56,9 @@
     "name:ita_x_preferred":[
         "Gonio"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30cb\u30aa"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10dc\u10d8\u10dd\u10e1 \u10ea\u10d8\u10ee\u10d4"
     ],
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421192325,
-    "wof:lastmodified":1566637197,
+    "wof:lastmodified":1690921412,
     "wof:name":"Gonio",
     "wof:parent_id":1108691309,
     "wof:placetype":"locality",

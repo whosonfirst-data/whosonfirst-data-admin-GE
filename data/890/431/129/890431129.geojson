@@ -22,11 +22,17 @@
     "name:abk_x_preferred":[
         "\u0410\u043c\u0431\u0440\u043e\u043b\u0430\u0443\u0440"
     ],
+    "name:ast_x_preferred":[
+        "Ambrolauri"
+    ],
     "name:aze_x_preferred":[
         "Ambrolauri"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043c\u0431\u0440\u0430\u043b\u0430\u0443\u0440\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043c\u0431\u0440\u0430\u043b\u0430\u0443\u0440\u044b"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043c\u0431\u0440\u043e\u043b\u0430\u0443\u0440\u0438"
@@ -46,10 +52,16 @@
     "name:deu_x_preferred":[
         "Ambrolauri"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03c1\u03bf\u03bb\u03b1\u03bf\u03cd\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Ambrolauri"
     ],
     "name:est_x_preferred":[
+        "Ambrolauri"
+    ],
+    "name:eus_x_preferred":[
         "Ambrolauri"
     ],
     "name:fas_x_preferred":[
@@ -91,11 +103,17 @@
     "name:kor_x_preferred":[
         "\uc554\ube0c\ub864\ub77c\uc6b0\ub9ac"
     ],
+    "name:lav_x_preferred":[
+        "Ambrolauri"
+    ],
     "name:lit_x_preferred":[
         "Ambrolauris"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d02\u0d2c\u0d4d\u0d30\u0d4b \u0d32\u0d57\u0d31\u0d3f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043c\u0431\u0440\u043e\u043b\u0430\u0443\u0440\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u0645\u0628\u0631\u0648\u0644\u0627\u0626\u0648\u0631\u06cc"
@@ -127,6 +145,9 @@
     "name:swe_x_preferred":[
         "Ambrolauri"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e21\u0e1a\u0e23\u0e2d\u0e25\u0e32\u0e2d\u0e39\u0e23\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Ambrolauri"
     ],
@@ -138,6 +159,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0645\u0628\u0631\u0648\u0644\u0627\u0626\u0648\u0631\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Ambrolauri"
     ],
     "name:war_x_preferred":[
         "Ambrolauri"
@@ -184,7 +208,7 @@
         }
     ],
     "wof:id":890431129,
-    "wof:lastmodified":1566637217,
+    "wof:lastmodified":1690921450,
     "wof:name":"Ambrolauri",
     "wof:parent_id":1108691249,
     "wof:placetype":"locality",

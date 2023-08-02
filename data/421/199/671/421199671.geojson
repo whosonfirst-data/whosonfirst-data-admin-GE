@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0633\u0642\u0627\u0644\u062a\u0648\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Tsqaltubo"
+    ],
     "name:aze_x_preferred":[
         "Tsxaltubo"
+    ],
+    "name:bak_x_preferred":[
+        "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e \u04a1\u0430\u043b\u0430\u04bb\u044b"
     ],
     "name:bel_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u0430"
@@ -34,6 +43,9 @@
     ],
     "name:che_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
+    ],
+    "name:dan_x_preferred":[
+        "Tskaltubo"
     ],
     "name:deu_x_preferred":[
         "Zqaltubo"
@@ -74,11 +86,17 @@
     "name:kor_x_preferred":[
         "\uce20\ud560\ud22c\ubcf4"
     ],
+    "name:lav_x_preferred":[
+        "Ckaltubo"
+    ],
     "name:lit_x_preferred":[
         "Cchaltubas"
     ],
     "name:mal_x_preferred":[
         "\u0d31\u0d4d\u0d31\u0d4d\u200c\u0d38\u0d4d\u0d16\u0d3e\u0d7d\u0d31\u0d4d\u0d31\u0d41\u0d2c\u0d4b"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0642\u0648\u0644\u062a\u0648\u0628\u0648"
@@ -98,6 +116,9 @@
     "name:rus_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Tsqaltubo"
+    ],
     "name:srp_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
     ],
@@ -109,6 +130,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0445\u0430\u043b\u0442\u0443\u0431\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Tsqaltubo"
     ],
     "name:war_x_preferred":[
         "Tsqaltubo"
@@ -165,7 +189,7 @@
         }
     ],
     "wof:id":421199671,
-    "wof:lastmodified":1566637211,
+    "wof:lastmodified":1690921437,
     "wof:name":"Ts'qaltubo",
     "wof:parent_id":1108691391,
     "wof:placetype":"locality",

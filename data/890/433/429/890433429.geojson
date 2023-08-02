@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Akhaldaba"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056d\u0561\u056c\u0564\u0561\u0562\u0561"
+    ],
     "name:kat_x_preferred":[
         "Akhaldaba"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":890433429,
-    "wof:lastmodified":1566637220,
+    "wof:lastmodified":1690921456,
     "wof:name":"Akhaldaba",
     "wof:parent_id":1108691363,
     "wof:placetype":"locality",

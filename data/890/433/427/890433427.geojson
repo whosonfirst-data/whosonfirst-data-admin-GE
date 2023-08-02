@@ -22,11 +22,17 @@
     "name:abk_x_preferred":[
         "\u0410\u0444\u043e\u043d \u04be\u044b\u0446"
     ],
+    "name:ast_x_preferred":[
+        "New Athos"
+    ],
     "name:aze_x_preferred":[
         "Yeni Afon"
     ],
     "name:bel_x_preferred":[
         "\u041d\u043e\u0432\u044b \u0410\u0444\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Nou Atos"
     ],
     "name:ceb_x_preferred":[
         "Stantsiya Novyy Afon"
@@ -52,11 +58,17 @@
     "name:eng_x_preferred":[
         "New Athos"
     ],
+    "name:eng_x_variant":[
+        "New Afon"
+    ],
     "name:epo_x_preferred":[
         "A\u0125ali Atoni"
     ],
     "name:est_x_preferred":[
         "Nov\u00f5i Afon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648 \u0622\u062a\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Novyi Afon"
@@ -82,6 +94,9 @@
     "name:ind_x_preferred":[
         "Athos Baru"
     ],
+    "name:ind_x_variant":[
+        "Afon Baru"
+    ],
     "name:ita_x_preferred":[
         "Nuovo Athos"
     ],
@@ -100,8 +115,17 @@
     "name:kor_x_preferred":[
         "\uc2e0 \uc544\ud1a0\uc2a4"
     ],
+    "name:kor_x_variant":[
+        "\ub178\ube44 \uc544\ud3f0"
+    ],
+    "name:lav_x_preferred":[
+        "Afon\u010dhica"
+    ],
     "name:lit_x_preferred":[
         "Naujasis Atonas"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0438-\u0410\u0442\u043e\u043d\u0438"
     ],
     "name:mhr_x_preferred":[
         "\u0423 \u0410\u0444\u043e\u043d"
@@ -136,6 +160,9 @@
     "name:swe_x_preferred":[
         "Afon Tjyts"
     ],
+    "name:tat_x_preferred":[
+        "\u042f\u04a3\u0430 \u0410\u0444\u043e\u043d"
+    ],
     "name:tur_x_preferred":[
         "New Athos"
     ],
@@ -147,6 +174,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0627 \u0622\u062a\u06be\u0648\u0633"
+    ],
+    "name:uzb_x_preferred":[
+        "Yangi Athos"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10ee\u10d0\u10da\u10d8 \u10d0\u10d7\u10dd\u10dc\u10d8"
@@ -185,7 +215,7 @@
         }
     ],
     "wof:id":890433427,
-    "wof:lastmodified":1566637220,
+    "wof:lastmodified":1690921456,
     "wof:name":"Stantsiya Novyy Afon",
     "wof:parent_id":1108691285,
     "wof:placetype":"locality",
