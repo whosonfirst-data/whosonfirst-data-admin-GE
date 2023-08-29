@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bak_x_preferred":[
+        "\u0413\u0443\u0434\u0430\u0443\u0440\u0438 \u043a\u0443\u0440\u043e\u0440\u0442\u044b"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0434\u0430\u0443\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Gudauri"
     ],
     "name:ceb_x_preferred":[
         "Gudauri"
@@ -29,6 +35,9 @@
     "name:deu_x_preferred":[
         "Gudauri"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03bd\u03c4\u03b1\u03bf\u03cd\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Gudauri"
     ],
@@ -37,6 +46,12 @@
     ],
     "name:fra_x_variant":[
         "Gudauri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d3\u05d0\u05d0\u05d5\u05e8\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u0564\u0561\u0578\u0582\u0580\u056b"
     ],
     "name:ita_x_preferred":[
         "Gudauri"
@@ -50,6 +65,9 @@
     "name:kat_x_variant":[
         "Gudauri"
     ],
+    "name:kor_x_preferred":[
+        "\uad6c\ub2e4\uc6b0\ub9ac"
+    ],
     "name:nld_x_preferred":[
         "Gudauri"
     ],
@@ -62,7 +80,13 @@
     "name:rus_x_preferred":[
         "\u0413\u0443\u0434\u0430\u0443\u0440\u0438"
     ],
+    "name:slk_x_preferred":[
+        "Gudauri"
+    ],
     "name:swe_x_preferred":[
+        "Gudauri"
+    ],
+    "name:tur_x_preferred":[
         "Gudauri"
     ],
     "name:ukr_x_preferred":[
@@ -70,6 +94,12 @@
     ],
     "name:und_x_variant":[
         "Goudaour"
+    ],
+    "name:vie_x_preferred":[
+        "Gudauri"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10e3\u10d3\u10d0\u10e3\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u53e4\u591a\u91cc"
@@ -121,7 +151,7 @@
         }
     ],
     "wof:id":421192445,
-    "wof:lastmodified":1566637197,
+    "wof:lastmodified":1690921412,
     "wof:name":"Gudauri",
     "wof:parent_id":1108691299,
     "wof:placetype":"locality",

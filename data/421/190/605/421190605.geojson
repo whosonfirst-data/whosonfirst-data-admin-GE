@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627\u064a\u0633\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u062a\u0627\u064a\u0633\u0649"
+    ],
     "name:ast_x_preferred":[
         "Kutaisi"
+    ],
+    "name:ava_x_preferred":[
+        "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
     ],
     "name:aze_x_preferred":[
         "Kutaisi"
@@ -52,6 +58,9 @@
     "name:cat_x_preferred":[
         "Kuta\u00efsi"
     ],
+    "name:cat_x_variant":[
+        "Kutaissi"
+    ],
     "name:ceb_x_preferred":[
         "Kutaisi"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:chv_x_preferred":[
         "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0648\u062a\u0627\u06cc\u0633\u06cc"
     ],
     "name:cym_x_preferred":[
         "Kutaisi"
@@ -99,6 +111,12 @@
     ],
     "name:fra_x_preferred":[
         "Kouta\u00efssi"
+    ],
+    "name:frr_x_preferred":[
+        "Kutaisi"
+    ],
+    "name:gle_x_preferred":[
+        "Kutaisi"
     ],
     "name:glg_x_preferred":[
         "Kutaisi"
@@ -154,6 +172,9 @@
     "name:kor_x_preferred":[
         "\ucfe0\ud0c0\uc774\uc2dc"
     ],
+    "name:lat_x_preferred":[
+        "Cytaea"
+    ],
     "name:lav_x_preferred":[
         "Kutaisi"
     ],
@@ -169,10 +190,19 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0924\u0948\u0938\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
+    ],
     "name:mhr_x_preferred":[
         "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
     ],
     "name:mkd_x_preferred":[
+        "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
+    ],
+    "name:mlt_x_preferred":[
+        "Kutaisi"
+    ],
+    "name:mon_x_preferred":[
         "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
     ],
     "name:msa_x_preferred":[
@@ -198,6 +228,9 @@
     ],
     "name:oss_x_preferred":[
         "\u041a\u0443\u0442\u0430\u0438\u0441\u0438"
+    ],
+    "name:oss_x_variant":[
+        "\u041a\u0443\u0442\u0430\u0438\u0441"
     ],
     "name:pol_x_preferred":[
         "Kutaisi"
@@ -253,8 +286,14 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c41\u0c24\u0c07\u0c38\u0c3f"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0443\u0442\u043e\u0438\u0441\u04e3"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e39\u0e17\u0e32\u0e22\u0e2a\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e39\u0e17\u0e32\u0e2d\u0e35\u0e0b\u0e35"
     ],
     "name:tur_x_preferred":[
         "Kutaisi"
@@ -274,14 +313,23 @@
     "name:uzb_x_preferred":[
         "Kutaisi"
     ],
+    "name:vec_x_preferred":[
+        "Kutaisi"
+    ],
     "name:vie_x_preferred":[
         "Kutaisi"
     ],
     "name:war_x_preferred":[
         "Kutaisi"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e93\u5854\u4f0a\u897f"
+    ],
     "name:xmf_x_preferred":[
         "\u10e5\u10e3\u10d7\u10d4\u10e8\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u5eab\u5854\u4f0a\u897f"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u5854\u4f0a\u897f"
@@ -410,8 +458,8 @@
     "wof:belongsto":[
         102191569,
         85633163,
-        1108691319,
-        1108805937
+        1108805937,
+        1108691319
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -447,7 +495,7 @@
         }
     ],
     "wof:id":421190605,
-    "wof:lastmodified":1608054816,
+    "wof:lastmodified":1690921434,
     "wof:name":"K'ut'aisi",
     "wof:parent_id":1108691319,
     "wof:placetype":"locality",

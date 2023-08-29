@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0643\u064a\u0628\u0648\u0644\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0643\u064a\u0628\u0648\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Tkibuli"
+    ],
     "name:aze_x_preferred":[
         "Tkibuli"
     ],
@@ -29,6 +38,9 @@
     "name:ceb_x_preferred":[
         "K'alak'i Tqibuli"
     ],
+    "name:ceb_x_variant":[
+        "Tqibuli"
+    ],
     "name:ces_x_preferred":[
         "Tkibuli"
     ],
@@ -37,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Tqibuli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ba\u03b9\u03bc\u03c0\u03bf\u03cd\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Tkibuli"
@@ -74,11 +89,17 @@
     "name:kat_x_preferred":[
         "\u10e2\u10e7\u10d8\u10d1\u10e3\u10da\u10d8"
     ],
+    "name:lav_x_preferred":[
+        "Tkibuli"
+    ],
     "name:lit_x_preferred":[
         "Tkibulis"
     ],
     "name:mal_x_preferred":[
         "\u0d24\u0d4d\u0d15\u0d3f\u0d2c\u0d41\u0d32\u0d3f"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0422\u043a\u0438\u0431\u0443\u043b\u0438"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u043a\u0438\u0431\u0443\u043b\u0438"
@@ -98,6 +119,9 @@
     "name:oss_x_preferred":[
         "\u0422\u043a\u0438\u0431\u0443\u043b\u0438"
     ],
+    "name:oss_x_variant":[
+        "\u0422\u044a\u0445\u044a\u0438\u0431\u0443\u043b"
+    ],
     "name:pol_x_preferred":[
         "Tkibuli"
     ],
@@ -107,11 +131,17 @@
     "name:sco_x_preferred":[
         "Tkibuli"
     ],
+    "name:spa_x_preferred":[
+        "Tkibuli"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u043a\u0438\u0431\u0443\u043b\u0438"
     ],
     "name:swe_x_preferred":[
         "Tqibuli"
+    ],
+    "name:szl_x_preferred":[
+        "Tkibuli"
     ],
     "name:tur_x_preferred":[
         "Tkibuli"
@@ -124,6 +154,9 @@
     ],
     "name:und_x_variant":[
         "Tkwibuli"
+    ],
+    "name:uzb_x_preferred":[
+        "Tkibuli"
     ],
     "name:war_x_preferred":[
         "Tqibuli"
@@ -180,7 +213,7 @@
         }
     ],
     "wof:id":421199137,
-    "wof:lastmodified":1566637211,
+    "wof:lastmodified":1690921436,
     "wof:name":"Tqibuli",
     "wof:parent_id":1108691383,
     "wof:placetype":"locality",

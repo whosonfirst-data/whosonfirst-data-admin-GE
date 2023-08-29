@@ -20,19 +20,31 @@
     "name:abk_x_preferred":[
         "\u04a6\u0430\u04ad"
     ],
+    "name:abk_x_variant":[
+        "\u0524\u0430\u04ad"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Poti"
     ],
     "name:aze_x_preferred":[
         "Poti"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u041f\u043e\u0446\u0456"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09a4\u09bf"
     ],
     "name:bos_x_preferred":[
+        "Poti"
+    ],
+    "name:bre_x_preferred":[
         "Poti"
     ],
     "name:bul_x_preferred":[
@@ -71,6 +83,9 @@
     "name:est_x_preferred":[
         "Phothi"
     ],
+    "name:eus_x_preferred":[
+        "Poti"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u062a\u06cc"
     ],
@@ -107,6 +122,9 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30c1"
     ],
+    "name:jpn_x_variant":[
+        "\u30dd\u30c6\u30a3"
+    ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0c9f\u0cbf"
     ],
@@ -122,14 +140,29 @@
     "name:kor_x_preferred":[
         "\ud3ec\ud2f0"
     ],
+    "name:lat_x_preferred":[
+        "Phasis"
+    ],
     "name:lav_x_preferred":[
         "Poti"
+    ],
+    "name:lez_x_preferred":[
+        "\u041f\u043e\u0442\u0438"
     ],
     "name:lit_x_preferred":[
         "Potis"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4a\u0d31\u0d4d\u0d31\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u092a\u094b\u091f\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041f\u043e\u0442\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u0442\u0438"
     ],
     "name:msa_x_preferred":[
         "Poti"
@@ -202,6 +235,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u062a\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Poti"
     ],
     "name:vep_x_preferred":[
         "Poti"
@@ -358,7 +394,7 @@
         }
     ],
     "wof:id":421203115,
-    "wof:lastmodified":1566637200,
+    "wof:lastmodified":1690921417,
     "wof:name":"P'ot'i",
     "wof:parent_id":1108691349,
     "wof:placetype":"locality",

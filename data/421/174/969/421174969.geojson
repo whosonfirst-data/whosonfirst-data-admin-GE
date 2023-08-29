@@ -41,6 +41,12 @@
     "name:ces_x_preferred":[
         "Apnoe"
     ],
+    "name:ces_x_variant":[
+        "apnoe"
+    ],
+    "name:dan_x_preferred":[
+        "apn\u00f8"
+    ],
     "name:deu_x_preferred":[
         "Atemstillstand"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:epo_x_preferred":[
         "Apneo"
+    ],
+    "name:epo_x_variant":[
+        "apneo"
     ],
     "name:eus_x_preferred":[
         "Apnea"
@@ -59,11 +68,17 @@
     "name:fas_x_variant":[
         "\u0628\u06cc\u200c\u062f\u0645\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "apnea"
+    ],
     "name:fra_x_preferred":[
         "Apn\u00e9e"
     ],
     "name:fra_x_variant":[
         "apn\u00e9e"
+    ],
+    "name:gle_x_preferred":[
+        "aipnia"
     ],
     "name:hbs_x_preferred":[
         "Apneja"
@@ -71,8 +86,14 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e4\u05e0\u05d9\u05d0\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "l\u00e9gz\u00e9sle\u00e1ll\u00e1s"
+    ],
     "name:ind_x_preferred":[
         "Apnea"
+    ],
+    "name:ipk_x_preferred":[
+        "Ani\u0121ni\u0121ipiallagniq"
     ],
     "name:ita_x_preferred":[
         "Apnea"
@@ -122,6 +143,18 @@
     "name:rus_x_preferred":[
         "\u0410\u043f\u043d\u043e\u044d"
     ],
+    "name:slv_x_preferred":[
+        "apneja"
+    ],
+    "name:sme_x_preferred":[
+        "apnea"
+    ],
+    "name:smn_x_preferred":[
+        "apnea"
+    ],
+    "name:sms_x_preferred":[
+        "apnea"
+    ],
     "name:spa_x_preferred":[
         "Apnea"
     ],
@@ -134,11 +167,17 @@
     "name:swe_x_preferred":[
         "Apn\u00e9"
     ],
+    "name:swe_x_variant":[
+        "apn\u00e9"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e23\u0e2b\u0e22\u0e38\u0e14\u0e2b\u0e32\u0e22\u0e43\u0e08"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043f\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0430\u043f\u043d\u043e\u0435"
     ],
     "name:und_x_variant":[
         "Ap\u2019nia"
@@ -148,6 +187,9 @@
     ],
     "name:vie_x_preferred":[
         "Ng\u1eebng th\u1edf"
+    ],
+    "name:yue_x_preferred":[
+        "\u505c\u6b62\u551e\u6c23"
     ],
     "name:zho_x_preferred":[
         "\u547c\u5438\u505c\u6b62"
@@ -198,7 +240,7 @@
         }
     ],
     "wof:id":421174969,
-    "wof:lastmodified":1566637203,
+    "wof:lastmodified":1690921423,
     "wof:name":"Apnia",
     "wof:parent_id":1108691243,
     "wof:placetype":"locality",

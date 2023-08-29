@@ -23,6 +23,12 @@
     "name:arz_x_preferred":[
         "\u062a\u0633\u0646\u0648\u0631\u064a"
     ],
+    "name:arz_x_variant":[
+        "\u062a\u0633\u0646\u0648\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Tsnori"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u043d\u043e\u0440\u0438"
     ],
@@ -35,7 +41,13 @@
     "name:deu_x_preferred":[
         "Znori"
     ],
+    "name:diq_x_preferred":[
+        "Tsnori"
+    ],
     "name:eng_x_preferred":[
+        "Tsnori"
+    ],
+    "name:est_x_preferred":[
         "Tsnori"
     ],
     "name:fas_x_preferred":[
@@ -59,8 +71,14 @@
     "name:kat_x_variant":[
         "Tsnori"
     ],
+    "name:lav_x_preferred":[
+        "Cnori"
+    ],
     "name:lit_x_preferred":[
         "Cnoris"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0426\u043d\u043e\u0440\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0633\u0646\u0631\u06cc"
@@ -73,6 +91,9 @@
     ],
     "name:oss_x_variant":[
         "\u0426\u043d\u043e\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Cnori"
     ],
     "name:ron_x_preferred":[
         "\u021anori"
@@ -94,6 +115,9 @@
     ],
     "name:und_x_variant":[
         "Sakobosubani"
+    ],
+    "name:uzb_x_preferred":[
+        "Tsnori"
     ],
     "name:xmf_x_preferred":[
         "\u10ec\u10dc\u10dd\u10e0\u10d8"
@@ -151,7 +175,7 @@
         }
     ],
     "wof:id":421200089,
-    "wof:lastmodified":1566637211,
+    "wof:lastmodified":1690921438,
     "wof:name":"Tsnori",
     "wof:parent_id":1108691365,
     "wof:placetype":"locality",

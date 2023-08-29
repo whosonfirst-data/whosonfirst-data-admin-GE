@@ -35,6 +35,9 @@
     "name:est_x_preferred":[
         "Hulo"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Khoulo"
     ],
@@ -47,14 +50,29 @@
     "name:kat_x_preferred":[
         "\u10ee\u10e3\u10da\u10dd"
     ],
+    "name:mdf_x_preferred":[
+        "\u0425\u0443\u043b\u043e"
+    ],
     "name:nld_x_preferred":[
         "Choelo"
+    ],
+    "name:oss_x_preferred":[
+        "\u0425\u0443\u043b\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Chulo"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u043b\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Julo"
+    ],
     "name:swe_x_preferred":[
         "Khulo"
+    ],
+    "name:swe_x_variant":[
+        "Chulo"
     ],
     "name:tur_x_preferred":[
         "Hulo"
@@ -64,6 +82,9 @@
     ],
     "name:und_x_variant":[
         "Daba"
+    ],
+    "name:uzb_x_preferred":[
+        "Khulo"
     ],
     "name:war_x_preferred":[
         "Khulo"
@@ -122,7 +143,7 @@
         }
     ],
     "wof:id":421182789,
-    "wof:lastmodified":1566637214,
+    "wof:lastmodified":1690921445,
     "wof:name":"Khulo",
     "wof:parent_id":1108691315,
     "wof:placetype":"locality",

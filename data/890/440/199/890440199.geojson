@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Jvari"
+    ],
     "name:aze_x_preferred":[
         "Cvari"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:eng_x_preferred":[
         "Jvari"
+    ],
+    "name:est_x_preferred":[
+        "D\u017evari"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0627\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Jvari"
@@ -61,14 +70,26 @@
     "name:kat_x_preferred":[
         "\u10ef\u10d5\u10d0\u10e0\u10d8"
     ],
+    "name:lav_x_preferred":[
+        "D\u017evari"
+    ],
     "name:lit_x_preferred":[
         "D\u017evaris"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0436\u0432\u0430\u0440\u0438"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u06cc\u0648\u0627\u0631\u06cc"
     ],
     "name:nld_x_preferred":[
         "Dzjvari"
     ],
     "name:oss_x_preferred":[
         "\u0414\u0436\u0432\u0430\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cwari"
     ],
     "name:por_x_preferred":[
         "Djvari"
@@ -78,6 +99,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0432\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Jvari"
     ],
     "name:srp_x_preferred":[
         "\u0416\u0432\u0430\u0440\u0438"
@@ -90,6 +114,9 @@
     ],
     "name:und_x_variant":[
         "Dzhvara"
+    ],
+    "name:uzb_x_preferred":[
+        "Jvari"
     ],
     "name:xmf_x_preferred":[
         "\u10ef\u10d5\u10d0\u10e0\u10d8"
@@ -130,7 +157,7 @@
         }
     ],
     "wof:id":890440199,
-    "wof:lastmodified":1566637215,
+    "wof:lastmodified":1690921446,
     "wof:name":"Jvari",
     "wof:parent_id":1108691387,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:arg_x_preferred":[
         "Sukhumi"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u062e\u0648\u0645\u0649"
+    ],
     "name:ast_x_preferred":[
         "Sujumi"
     ],
@@ -56,6 +59,9 @@
     "name:cat_x_preferred":[
         "Sukhumi"
     ],
+    "name:cdo_x_preferred":[
+        "Sukhumi"
+    ],
     "name:ceb_x_preferred":[
         "Sokhumi"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0421\u0443\u0445\u0443\u043c\u0438"
+    ],
+    "name:chv_x_variant":[
+        "\u0421\u0443\u0445\u0443\u043c"
     ],
     "name:cym_x_preferred":[
         "Sukhumi"
@@ -116,6 +125,9 @@
     "name:gag_x_preferred":[
         "Sohum"
     ],
+    "name:gle_x_preferred":[
+        "Sukhumi"
+    ],
     "name:glg_x_preferred":[
         "Sukhumi"
     ],
@@ -124,6 +136,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a96\u0ac1\u0aae\u0ac0"
+    ],
+    "name:hau_x_preferred":[
+        "Sukhumi"
     ],
     "name:hbs_x_preferred":[
         "Suhumi"
@@ -148,6 +163,9 @@
     ],
     "name:hyw_x_preferred":[
         "\u054d\u0578\u0582\u056d\u0578\u0582\u0574\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Sukhumi"
     ],
     "name:ilo_x_preferred":[
         "Sukhumi"
@@ -191,11 +209,17 @@
     "name:kom_x_preferred":[
         "\u0410\u043a\u0443\u0430"
     ],
+    "name:kom_x_variant":[
+        "\u0421\u0443\u0445\u0443\u043c"
+    ],
     "name:kor_x_preferred":[
         "\uc218\ud6c4\ubbf8"
     ],
     "name:lat_x_preferred":[
         "Sokhumi"
+    ],
+    "name:lat_x_variant":[
+        "Sebastopolis Albanorum"
     ],
     "name:lav_x_preferred":[
         "Suhumi"
@@ -208,6 +232,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0916\u0941\u092e\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0443\u0445\u0443\u043c\u0438"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0443\u0445\u0443\u043c"
@@ -259,6 +286,9 @@
     ],
     "name:pih_x_preferred":[
         "Sukhumi"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u062e\u0648\u0645\u06cc"
     ],
     "name:pol_x_preferred":[
         "Suchumi"
@@ -323,6 +353,9 @@
     "name:tat_x_preferred":[
         "\u0421\u0443\u0445\u0443\u043c\u0438"
     ],
+    "name:tat_x_variant":[
+        "\u0421\u0443\u0445\u0443\u043c"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c41\u0c16\u0c41\u0c2e\u0c3f"
     ],
@@ -364,6 +397,9 @@
     ],
     "name:war_x_preferred":[
         "Sukhumi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u547c\u7c73"
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10dd\u10ee\u10e3\u10db\u10d8"
@@ -517,7 +553,7 @@
         }
     ],
     "wof:id":421181479,
-    "wof:lastmodified":1566637206,
+    "wof:lastmodified":1690921428,
     "wof:name":"Sokhumi",
     "wof:parent_id":1108691369,
     "wof:placetype":"locality",

@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u062c\u0648\u0645\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062c\u0648\u0645\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Borjomi"
+    ],
     "name:aze_x_preferred":[
         "Borjomi"
     ],
@@ -107,6 +116,9 @@
     "name:lit_x_preferred":[
         "Bor\u017eomis"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u043e\u0440\u0436\u043e\u043c\u0438"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u0648\u0631\u062c\u0648\u0645\u06cc"
     ],
@@ -143,6 +155,9 @@
     "name:swe_x_preferred":[
         "Bordzjomi"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0440\u04b7\u043e\u043c\u04e3"
+    ],
     "name:tur_x_preferred":[
         "Borcomi"
     ],
@@ -159,6 +174,9 @@
         "\u0628\u0648\u0631\u062c\u0648\u0645\u06cc"
     ],
     "name:uzb_x_preferred":[
+        "Borjomi"
+    ],
+    "name:vie_x_preferred":[
         "Borjomi"
     ],
     "name:war_x_preferred":[
@@ -220,7 +238,7 @@
         }
     ],
     "wof:id":421174973,
-    "wof:lastmodified":1566637203,
+    "wof:lastmodified":1690921423,
     "wof:name":"Borjomi",
     "wof:parent_id":1108691261,
     "wof:placetype":"locality",

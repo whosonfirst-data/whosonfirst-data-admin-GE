@@ -20,6 +20,12 @@
     "name:abk_x_preferred":[
         "\u041e\u0447\u0430\u043c\u0447\u044b\u0440\u0430"
     ],
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0634\u0627\u0645\u0634\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0634\u0627\u0645\u0634\u064a\u0631"
+    ],
     "name:aze_x_preferred":[
         "O\u00e7am\u00e7\u0131re"
     ],
@@ -55,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Otschamtschire"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03c3\u03b1\u03bc\u03c4\u03c3\u03af\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Och'amch'ire"
@@ -95,8 +104,14 @@
     "name:hsb_x_preferred":[
         "O\u010dam\u010dira"
     ],
+    "name:hun_x_preferred":[
+        "Ocsamcsira"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0579\u0561\u0574\u0579\u056b\u0580\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Ochamchire"
     ],
     "name:ita_x_preferred":[
         "Ochamchire"
@@ -125,11 +140,17 @@
     "name:kor_x_preferred":[
         "\uc624\ucc38\uce58\ub77c"
     ],
+    "name:lav_x_preferred":[
+        "O\u010dam\u010dira"
+    ],
     "name:lit_x_preferred":[
         "O\u010dam\u010dyra"
     ],
     "name:lit_x_variant":[
         "O\u010dam\u010dira"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u044d"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0648\u0686\u0627\u0645\u0686\u06cc\u0631\u0627"
@@ -182,6 +203,12 @@
     "name:swe_x_variant":[
         "Otjamtjira"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "O\u00e7am\u00e7\u0131ra"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0447\u0430\u043c\u0447\u0438\u0440\u0435"
     ],
@@ -190,6 +217,9 @@
     ],
     "name:und_x_variant":[
         "Ochemchiri"
+    ],
+    "name:uzb_x_preferred":[
+        "Ochamchire"
     ],
     "name:war_x_preferred":[
         "Ochamchire"
@@ -251,7 +281,7 @@
         }
     ],
     "wof:id":421202001,
-    "wof:lastmodified":1566637200,
+    "wof:lastmodified":1690921418,
     "wof:name":"Och'amch'ire",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",

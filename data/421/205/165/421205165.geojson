@@ -23,6 +23,9 @@
     "name:bak_x_preferred":[
         "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0438"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0438"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:diq_x_preferred":[
         "Abastumani"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03b1\u03c3\u03c4\u03bf\u03c5\u03bc\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Abastumani"
@@ -71,11 +77,17 @@
     "name:lit_x_preferred":[
         "Abastumanis"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0438"
+    ],
     "name:nld_x_preferred":[
         "Abastumani"
     ],
     "name:nob_x_preferred":[
         "Abastumani"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0438"
     ],
     "name:pol_x_preferred":[
         "Abastumani"
@@ -95,11 +107,17 @@
     "name:swe_x_preferred":[
         "Abastumani"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0438"
+    ],
     "name:tur_x_preferred":[
         "Abastumani"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u0441\u0442\u0443\u043c\u0430\u043d\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Abastumani"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10d1\u10d0\u10e1\u10d7\u10e3\u10db\u10d0\u10dc\u10d8"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":421205165,
-    "wof:lastmodified":1566637202,
+    "wof:lastmodified":1690921421,
     "wof:name":"Abastumani",
     "wof:parent_id":1108691239,
     "wof:placetype":"locality",

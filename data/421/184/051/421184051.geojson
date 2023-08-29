@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0622\u062e\u0627\u0644\u0643\u0627\u0644\u0627\u0643\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u062e\u0627\u0644\u0643\u0627\u0644\u0627\u0643\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Akhalkalaki"
+    ],
     "name:aze_x_preferred":[
         "Axalkalaki"
     ],
@@ -92,8 +98,17 @@
     "name:kat_x_preferred":[
         "\u10d0\u10ee\u10d0\u10da\u10e5\u10d0\u10da\u10d0\u10e5\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uc544\uce7c\uce7c\ub77c\ud0a4"
+    ],
+    "name:lav_x_preferred":[
+        "Ahalkalaki"
+    ],
     "name:lit_x_preferred":[
         "Achalkalakis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u043a\u0430\u043b\u0430\u043a\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u0622\u062e\u0627\u0644\u06a9\u0644\u0627\u06a9\u06cc"
@@ -136,6 +151,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u062e\u0627\u0644\u06a9\u0627\u0644\u0627\u06a9\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Akhalkalaki"
     ],
     "name:war_x_preferred":[
         "Akhalkalaki"
@@ -197,7 +215,7 @@
         }
     ],
     "wof:id":421184051,
-    "wof:lastmodified":1566637212,
+    "wof:lastmodified":1690921440,
     "wof:name":"Akhalk'alak'i",
     "wof:parent_id":1108691243,
     "wof:placetype":"locality",

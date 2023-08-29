@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:aze_x_preferred":[
+        "Lentexi"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0435\u043d\u0442\u044d\u0445\u0456"
     ],
@@ -43,6 +46,9 @@
     "name:est_x_preferred":[
         "Lentehhi"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062a\u062e\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Lentekhi"
     ],
@@ -58,14 +64,32 @@
     "name:kat_x_variant":[
         "\u10da\u10d4\u10dc\u10e2\u10d4\u10ee\u10d8"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044d\u043d\u0442\u044d\u0445\u0438"
+    ],
     "name:nld_x_preferred":[
         "Lentekhi"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0435\u043d\u0442\u044a\u0435\u0445"
+    ],
+    "name:pol_x_preferred":[
+        "Lentechi"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0442\u0435\u0445\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Lenteji"
+    ],
     "name:swe_x_preferred":[
         "Lentekhi"
+    ],
+    "name:swe_x_variant":[
+        "Lentechi"
+    ],
+    "name:szl_x_preferred":[
+        "Lentechi"
     ],
     "name:tur_x_preferred":[
         "Lentehi"
@@ -76,8 +100,14 @@
     "name:und_x_variant":[
         "Leksura"
     ],
+    "name:uzb_x_preferred":[
+        "Lentekhi"
+    ],
     "name:war_x_preferred":[
         "Lentekhi"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d4\u10dc\u10e2\u10d4\u10ee\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u502b\u6cf0\u5e0c"
@@ -115,7 +145,7 @@
         }
     ],
     "wof:id":890441719,
-    "wof:lastmodified":1566637216,
+    "wof:lastmodified":1690921447,
     "wof:name":"Lentekhi",
     "wof:parent_id":1108691329,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Khobi"
+    ],
     "name:aze_x_preferred":[
         "Xobi"
     ],
@@ -59,8 +62,14 @@
     "name:kat_x_variant":[
         "Khobi"
     ],
+    "name:lav_x_preferred":[
+        "Hobi"
+    ],
     "name:lit_x_preferred":[
         "Chobis"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0425\u043e\u0431\u0438"
     ],
     "name:mzn_x_preferred":[
         "\u062e\u0628\u06cc"
@@ -71,8 +80,14 @@
     "name:oss_x_preferred":[
         "\u0425\u043e\u0431\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Chobi"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0431\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Jobi"
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0431\u0438"
@@ -91,6 +106,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0648\u0628\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Khobi"
     ],
     "name:war_x_preferred":[
         "Khobi"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":421196873,
-    "wof:lastmodified":1566637208,
+    "wof:lastmodified":1690921431,
     "wof:name":"Khobi",
     "wof:parent_id":1108691311,
     "wof:placetype":"locality",

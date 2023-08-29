@@ -43,6 +43,9 @@
     "name:fas_x_preferred":[
         "\u0634\u0627\u0647\u0648\u0645\u06cc\u0627\u0646\u06cc"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d5\u05de\u05d9\u05d0\u05e0\u05d9"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0570\u0578\u0582\u0574\u0575\u0561\u0576"
     ],
@@ -55,17 +58,35 @@
     "name:ltz_x_preferred":[
         "Shaumiani"
     ],
+    "name:mdf_x_preferred":[
+        "\u0428\u0430\u0443\u043c\u0438\u0430\u043d\u0438"
+    ],
     "name:nld_x_preferred":[
         "Shaumiani"
+    ],
+    "name:pol_x_preferred":[
+        "Szaumiani"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0443\u043c\u044f\u043d\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Shaumiani"
+    ],
     "name:swe_x_preferred":[
         "Naghvarevi"
     ],
+    "name:swe_x_variant":[
+        "Sjaumiani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0443\u043c\u044f\u043d\u0456"
+    ],
     "name:und_x_variant":[
         "Shulaveri"
+    ],
+    "name:zho_x_preferred":[
+        "\u90b5\u6b66\u52c9\u9547"
     ],
     "qs:name":"Naghvarevi",
     "qs:photos_9r":0,
@@ -98,7 +119,7 @@
         }
     ],
     "wof:id":890431111,
-    "wof:lastmodified":1566637217,
+    "wof:lastmodified":1690921450,
     "wof:name":"Naghvarevi",
     "wof:parent_id":1108691331,
     "wof:placetype":"locality",
