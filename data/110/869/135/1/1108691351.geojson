@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001906,
-    "geom:area_square_m":17643842.290555,
+    "geom:area_square_m":17643933.775437,
     "geom:bbox":"44.997108,41.506927,45.067764,41.558289",
     "geom:latitude":41.530527,
     "geom:longitude":45.032135,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Gardabani City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":41.530476,
     "lbl:longitude":45.0316,
     "lbl:max_zoom":10.0,
@@ -118,7 +124,7 @@
     },
     "wof:country":"GE",
     "wof:created":1474307925,
-    "wof:geomhash":"1d9cb8b2e5adf1374dc1413a77454512",
+    "wof:geomhash":"f041dbca1667281902c595abdad6941f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1108691351,
-    "wof:lastmodified":1690921387,
+    "wof:lastmodified":1694497838,
     "wof:name":"Rustavi City",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

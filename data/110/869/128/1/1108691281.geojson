@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120116,
-    "geom:area_square_m":1110675292.412233,
+    "geom:area_square_m":1110675287.361464,
     "geom:bbox":"44.701939,41.330368,45.315319,41.85619",
     "geom:latitude":41.599936,
     "geom:longitude":45.060058,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Gardabani District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.626996,
     "lbl:longitude":45.080529,
     "lbl:max_zoom":10.0,
@@ -117,7 +123,7 @@
     },
     "wof:country":"GE",
     "wof:created":1474307881,
-    "wof:geomhash":"654c1d7a6c12fb1758dd34551dbb9f4f",
+    "wof:geomhash":"1a4a9173620d06854e506fcc58bc0d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108691281,
-    "wof:lastmodified":1690921397,
+    "wof:lastmodified":1694497838,
     "wof:name":"Gardabani",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

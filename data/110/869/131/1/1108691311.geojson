@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076008,
-    "geom:area_square_m":695397513.211448,
+    "geom:area_square_m":695397331.915344,
     "geom:bbox":"41.611782,42.093426,42.066837,42.464886",
     "geom:latitude":42.277263,
     "geom:longitude":41.828545,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Khobi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.259572,
     "lbl:longitude":41.794203,
     "lbl:max_zoom":10.0,
@@ -120,7 +126,7 @@
     },
     "wof:country":"GE",
     "wof:created":1474307899,
-    "wof:geomhash":"f00dc19c8107c4b1b2bc6268ae593fb0",
+    "wof:geomhash":"98e440d34ea77045ba72fb6d1700220d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108691311,
-    "wof:lastmodified":1690921399,
+    "wof:lastmodified":1694497838,
     "wof:name":"Khobi",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",
