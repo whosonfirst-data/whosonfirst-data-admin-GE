@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002419,
-    "geom:area_square_m":21870806.650328,
+    "geom:area_square_m":21870801.344574,
     "geom:bbox":"40.959908,42.978271,41.044178,43.025249",
     "geom:latitude":43.002293,
     "geom:longitude":41.004359,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Sokhumi City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":43.005044,
     "lbl:longitude":41.005161,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sokhumi"
+    ],
     "name:eng_x_variant":[
         "Soukhumi",
         "Sokhumi"
@@ -48,7 +57,7 @@
     },
     "wof:country":"GE",
     "wof:created":1474307937,
-    "wof:geomhash":"d4863cce514ec916c09cdad520ea949c",
+    "wof:geomhash":"e254729bfb07ea9faf7e0ea9d0e2e42f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108691369,
-    "wof:lastmodified":1628266718,
+    "wof:lastmodified":1694498076,
     "wof:name":"Sokhumi City",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

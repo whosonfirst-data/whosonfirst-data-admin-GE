@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.229851,
-    "geom:area_square_m":11343377886.601908,
+    "geom:area_square_m":11343377886.601835,
     "geom:bbox":"45.0228614807,41.0446662903,46.7338371277,42.5657691956",
     "geom:latitude":41.761057,
     "geom:longitude":45.770304,
@@ -23,7 +23,7 @@
     "lbl:longitude":45.699392,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:abk_x_preferred":[
@@ -61,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c7\u03ad\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kakheti"
     ],
     "name:epo_x_preferred":[
         "Ka\u0125eti"
@@ -194,7 +197,7 @@
     },
     "wof:country":"GE",
     "wof:created":1485972931,
-    "wof:geomhash":"53487e7979410025ebb3f6643bdd47f2",
+    "wof:geomhash":"cbd19e9f576b695a241b8a908b920f98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -211,7 +214,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1566637092,
+    "wof:lastmodified":1694493125,
     "wof:name":"Kakheti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

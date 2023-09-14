@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045878,
-    "geom:area_square_m":424513673.227437,
+    "geom:area_square_m":424513673.227455,
     "geom:bbox":"41.5378799438,41.4366035461,41.9471740723,41.6989631653",
     "geom:latitude":41.555438,
     "geom:longitude":41.718257,
     "iso:country":"GE",
+    "label:eng_x_preferred_longname":[
+        "Khelvachauri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.561195,
     "lbl:longitude":41.684173,
     "lbl:max_zoom":10.0,
@@ -36,6 +42,9 @@
     ],
     "name:deu_x_preferred":[
         "Chelwatschauri"
+    ],
+    "name:eng_x_preferred":[
+        "Khelvachauri"
     ],
     "name:eng_x_variant":[
         "Khelvatshauri",
@@ -93,7 +102,7 @@
     },
     "wof:country":"GE",
     "wof:created":1474307898,
-    "wof:geomhash":"25036d2caf68a8fd5773b0dc3a6e6e05",
+    "wof:geomhash":"ff4c60a4317304ff7e4ec9218162af5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1108691309,
-    "wof:lastmodified":1566637105,
+    "wof:lastmodified":1694497838,
     "wof:name":"Khelvachauri",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",
