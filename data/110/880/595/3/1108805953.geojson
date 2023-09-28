@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.694411,
-    "geom:area_square_m":6427031594.602209,
+    "geom:area_square_m":6427032608.635651,
     "geom:bbox":"42.493076,41.10561,43.966663,41.939102",
     "geom:latitude":41.538851,
     "geom:longitude":43.329346,
@@ -23,7 +23,7 @@
     "lbl:longitude":43.318059,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:eng_x_preferred":[
@@ -59,11 +59,13 @@
     "wof:concordances":{
         "fips:code":"GG72",
         "hasc:id":"GE.SJ",
+        "iso:code":"GE-SJ",
         "iso:id":"GE-SJ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GE",
     "wof:created":1485972932,
-    "wof:geomhash":"542383d269a89cf8df202ee5aa34c1a1",
+    "wof:geomhash":"6ec6ec007a236131e53ccf82e5de1946",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +82,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1627522152,
+    "wof:lastmodified":1695884282,
     "wof:name":"Samtskhe-Javakheti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

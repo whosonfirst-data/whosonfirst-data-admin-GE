@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054701,
-    "geom:area_square_m":504890248.730025,
+    "geom:area_square_m":504890248.730037,
     "geom:bbox":"44.596981,41.616703,45.016941,41.837799",
     "geom:latitude":41.716419,
     "geom:longitude":44.812351,
@@ -23,7 +23,7 @@
     "lbl:longitude":44.787378,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:abk_x_preferred":[
@@ -542,14 +542,16 @@
     "wof:concordances":{
         "fips:code":"GG51",
         "hasc:id":"GE.TB",
+        "iso:code":"GE-TB",
         "iso:id":"GE-TB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890443227
     ],
     "wof:country":"GE",
     "wof:created":1485972931,
-    "wof:geomhash":"46e705997f1d67b5383238145f700173",
+    "wof:geomhash":"5f5b08f0df32d3bec7d14808ba240349",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -566,7 +568,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1608054816,
+    "wof:lastmodified":1695884282,
     "wof:name":"Tbilisi",
     "wof:parent_id":85633163,
     "wof:placetype":"region",
