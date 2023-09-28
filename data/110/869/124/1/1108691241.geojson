@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103583,
-    "geom:area_square_m":948252673.0947,
+    "geom:area_square_m":948252446.416892,
     "geom:bbox":"44.259342,42.019241,44.621704,42.520405",
     "geom:latitude":42.238925,
     "geom:longitude":44.441983,
@@ -142,9 +142,10 @@
         "hasc:id":"GE.MM.AG",
         "wd:id":"Q18586221"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307855,
-    "wof:geomhash":"6f14a7e1c173c9298fcdeebc5968bf2f",
+    "wof:geomhash":"ad054fc7d0fe9c6dda052b7bf63527f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108691241,
-    "wof:lastmodified":1690921408,
+    "wof:lastmodified":1695886293,
     "wof:name":"Akhalgori",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

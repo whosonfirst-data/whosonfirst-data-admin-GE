@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063088,
-    "geom:area_square_m":579632839.955067,
+    "geom:area_square_m":579633156.057946,
     "geom:bbox":"43.422741,41.835705,43.769302,42.203228",
     "geom:latitude":42.009822,
     "geom:longitude":43.616422,
@@ -137,9 +137,10 @@
         "hasc:id":"GE.SD.KS",
         "wd:id":"Q1790675"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307897,
-    "wof:geomhash":"cfedb9343ccbcd17695544cff7a3cfd0",
+    "wof:geomhash":"58ce7ee613e05846c8a3a4189e441d23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108691305,
-    "wof:lastmodified":1690921406,
+    "wof:lastmodified":1695886293,
     "wof:name":"Khashuri",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

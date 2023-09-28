@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074976,
-    "geom:area_square_m":683912515.670804,
+    "geom:area_square_m":683912233.766548,
     "geom:bbox":"41.547092,42.311184,42.041309,42.630035",
     "geom:latitude":42.464155,
     "geom:longitude":41.820088,
@@ -136,9 +136,10 @@
         "hasc:id":"GE.SZ.ZG",
         "wd:id":"Q2176973"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307957,
-    "wof:geomhash":"ad58ffe772a75c0a944f1a1194aaa6a1",
+    "wof:geomhash":"6cc4f257277235c796bdd302e7d2965a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108691401,
-    "wof:lastmodified":1690921411,
+    "wof:lastmodified":1695886293,
     "wof:name":"Zugdidi",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

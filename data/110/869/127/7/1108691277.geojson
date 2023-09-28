@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113618,
-    "geom:area_square_m":1020562363.194103,
+    "geom:area_square_m":1020562363.194087,
     "geom:bbox":"40.0023574829,43.1456298828,40.4977226257,43.5840034485",
     "geom:latitude":43.412193,
     "geom:longitude":40.266547,
@@ -271,9 +271,10 @@
     "wof:concordances":{
         "hasc:id":"GE.AB.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307878,
-    "wof:geomhash":"6d1eba7a5016aa513ac42e7d365ad0c1",
+    "wof:geomhash":"4efcff57d7a6fee5876424e4e6adb784",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -283,7 +284,7 @@
         }
     ],
     "wof:id":1108691277,
-    "wof:lastmodified":1566637099,
+    "wof:lastmodified":1695886291,
     "wof:name":"Gagra",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

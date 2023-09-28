@@ -124,6 +124,7 @@
         "hasc:id":"GE.SZ.KH",
         "wd:id":"Q2475615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307924,
     "wof:geomhash":"b1506a0ddea63f9c8dc86ba8c6dc043c",
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108691349,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886290,
     "wof:name":"Poti City",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

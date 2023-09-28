@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26948,
-    "geom:area_square_m":2503151198.688692,
+    "geom:area_square_m":2503151021.621813,
     "geom:bbox":"45.748657,41.044666,46.733837,41.572384",
     "geom:latitude":41.30492,
     "geom:longitude":46.245767,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GE.KA.DD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307874,
-    "wof:geomhash":"312a1ed56185fbd681e20e745336712a",
+    "wof:geomhash":"4e9e19ea3d2c3e768f37c6cdc12e0626",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108691269,
-    "wof:lastmodified":1627522152,
+    "wof:lastmodified":1695886621,
     "wof:name":"Dedoplitskaro",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

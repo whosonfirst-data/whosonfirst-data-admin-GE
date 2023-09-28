@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078976,
-    "geom:area_square_m":727309506.363901,
+    "geom:area_square_m":727308879.274425,
     "geom:bbox":"44.47374,41.687515,45.066444,41.994427",
     "geom:latitude":41.860261,
     "geom:longitude":44.704131,
@@ -149,9 +149,10 @@
         "hasc:id":"GE.MM.MK",
         "wd:id":"Q2266679"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307917,
-    "wof:geomhash":"3298f3bbd1079d6dcc90848f737d6f8f",
+    "wof:geomhash":"6aecb8e00d25a10b30cce71e54679b45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108691337,
-    "wof:lastmodified":1690921391,
+    "wof:lastmodified":1695886290,
     "wof:name":"Mtskheta",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

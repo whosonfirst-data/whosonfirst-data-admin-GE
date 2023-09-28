@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.338947,
-    "geom:area_square_m":3064422292.634588,
+    "geom:area_square_m":3064421731.205495,
     "geom:bbox":"41.862755,42.805546,43.149185,43.254871",
     "geom:latitude":43.015739,
     "geom:longitude":42.470326,
@@ -131,9 +131,10 @@
         "hasc:id":"GE.SZ.MS",
         "wd:id":"Q2490962"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307915,
-    "wof:geomhash":"861c20d07e936136649a158e90cafb07",
+    "wof:geomhash":"8fa0bf5cab574967e6e8eb20fcce1322",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108691335,
-    "wof:lastmodified":1690921392,
+    "wof:lastmodified":1695886290,
     "wof:name":"Mestia",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

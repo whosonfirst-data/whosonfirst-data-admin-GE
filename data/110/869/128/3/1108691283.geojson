@@ -134,6 +134,7 @@
         "hasc:id":"GE.SD.GR",
         "wd:id":"Q1417170"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307882,
     "wof:geomhash":"da290741ab30a2b67e54a4aa340ce388",
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108691283,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886291,
     "wof:name":"Gori",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

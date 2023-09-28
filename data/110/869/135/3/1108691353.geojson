@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099824,
-    "geom:area_square_m":912773533.049954,
+    "geom:area_square_m":912773156.21181,
     "geom:bbox":"43.260197,42.082752,43.790142,42.456337",
     "geom:latitude":42.312655,
     "geom:longitude":43.52314,
@@ -143,9 +143,10 @@
         "hasc:id":"GE.IM.SC",
         "wd:id":"Q893325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307927,
-    "wof:geomhash":"2eeea6d2333307005ac5748c2f2cfeb2",
+    "wof:geomhash":"0f4e6eae3f9ad0cafa74d6276183b01b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108691353,
-    "wof:lastmodified":1690921387,
+    "wof:lastmodified":1695886290,
     "wof:name":"Sachkhere",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065001,
-    "geom:area_square_m":597203115.825086,
+    "geom:area_square_m":597203118.631126,
     "geom:bbox":"42.394531,41.809982,42.804276,42.134426",
     "geom:latitude":42.010694,
     "geom:longitude":42.610405,
@@ -133,9 +133,10 @@
         "hasc:id":"GE.IM.VA",
         "wd:id":"Q893220"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307954,
-    "wof:geomhash":"f7bea42a33bd88fdca16bcf99dcb04f8",
+    "wof:geomhash":"b8a5ed0283ba81bc4becf8567f51f999",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108691395,
-    "wof:lastmodified":1690921404,
+    "wof:lastmodified":1695886292,
     "wof:name":"Vani",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

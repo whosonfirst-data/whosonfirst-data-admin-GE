@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165109,
-    "geom:area_square_m":1525328759.8928,
+    "geom:area_square_m":1525328766.501448,
     "geom:bbox":"45.022861,41.408195,45.642952,41.918953",
     "geom:latitude":41.658126,
     "geom:longitude":45.372545,
@@ -134,9 +134,10 @@
         "hasc:id":"GE.KA.SG",
         "wd:id":"Q1647344"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307928,
-    "wof:geomhash":"0e21725fee2785172a6ee5d492edf076",
+    "wof:geomhash":"75d54d7760b2ee941e024628af5564f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108691355,
-    "wof:lastmodified":1690921388,
+    "wof:lastmodified":1695886290,
     "wof:name":"Sagarejo",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

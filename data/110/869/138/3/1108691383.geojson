@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05155,
-    "geom:area_square_m":471058106.355314,
+    "geom:area_square_m":471058106.355247,
     "geom:bbox":"42.7323303223,42.2602653503,43.13621521,42.4825973511",
     "geom:latitude":42.353388,
     "geom:longitude":42.915413,
@@ -165,9 +165,10 @@
     "wof:concordances":{
         "hasc:id":"GE.IM.TQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307945,
-    "wof:geomhash":"67fe723287c1b88d5666bb28f15bde7c",
+    "wof:geomhash":"a81a12d895a69893f4fe1ae18a0ffce9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":1108691383,
-    "wof:lastmodified":1566637103,
+    "wof:lastmodified":1695886292,
     "wof:name":"Tkibuli",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

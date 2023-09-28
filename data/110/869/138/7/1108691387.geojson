@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073453,
-    "geom:area_square_m":667367347.073369,
+    "geom:area_square_m":667367523.037613,
     "geom:bbox":"41.884239,42.509357,42.254169,42.856281",
     "geom:latitude":42.712061,
     "geom:longitude":42.066701,
@@ -146,9 +146,10 @@
         "hasc:id":"GE.SZ.TL",
         "wd:id":"Q2475606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307948,
-    "wof:geomhash":"c4d7ccd02e7fc5ea39732865b7e7233d",
+    "wof:geomhash":"35d435e1e34f138a1299f9d4cca94e70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1108691387,
-    "wof:lastmodified":1690921401,
+    "wof:lastmodified":1695886292,
     "wof:name":"Tsalenjikha",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

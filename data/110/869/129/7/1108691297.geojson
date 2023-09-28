@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087415,
-    "geom:area_square_m":804754894.400279,
+    "geom:area_square_m":804754307.577587,
     "geom:bbox":"44.152031,41.730381,44.573429,42.053501",
     "geom:latitude":41.882219,
     "geom:longitude":44.36995,
@@ -142,9 +142,10 @@
         "hasc:id":"GE.SD.KP",
         "wd:id":"Q1518087"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307891,
-    "wof:geomhash":"d5abfa5a23909da791ef284717e13e2d",
+    "wof:geomhash":"cde05f872529673ca98ae29766f776dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108691297,
-    "wof:lastmodified":1690921394,
+    "wof:lastmodified":1695886291,
     "wof:name":"Kaspi",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

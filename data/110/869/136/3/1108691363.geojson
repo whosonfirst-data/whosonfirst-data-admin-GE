@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062659,
-    "geom:area_square_m":579373329.992921,
+    "geom:area_square_m":579373404.782801,
     "geom:bbox":"42.098408,41.431664,42.522564,41.804951",
     "geom:latitude":41.601539,
     "geom:longitude":42.250523,
@@ -131,9 +131,10 @@
         "hasc:id":"GE.AJ.SH",
         "wd:id":"Q660888"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307932,
-    "wof:geomhash":"30a91363560aa84abe3ec65fd055673c",
+    "wof:geomhash":"98e0f9f92ee842c5272033321c229515",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1108691363,
-    "wof:lastmodified":1690921400,
+    "wof:lastmodified":1695886292,
     "wof:name":"Shuakhevi",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

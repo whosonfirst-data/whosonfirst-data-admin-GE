@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088856,
-    "geom:area_square_m":817453397.310988,
+    "geom:area_square_m":817453954.926032,
     "geom:bbox":"42.126961,41.788834,42.668873,42.080322",
     "geom:latitude":41.926036,
     "geom:longitude":42.393751,
@@ -143,9 +143,10 @@
         "hasc:id":"GE.GU.CK",
         "wd:id":"Q2466860"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307872,
-    "wof:geomhash":"067cd1e5fb4617cc5ec15df7b9835ba7",
+    "wof:geomhash":"a115cd71c40ea1797b60c61e876e4c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108691267,
-    "wof:lastmodified":1690921397,
+    "wof:lastmodified":1695886291,
     "wof:name":"Chokhatauri",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

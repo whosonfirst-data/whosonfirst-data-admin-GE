@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118888,
-    "geom:area_square_m":1091284475.441449,
+    "geom:area_square_m":1091284374.863907,
     "geom:bbox":"43.61491,41.784626,44.057518,42.344681",
     "geom:latitude":42.069159,
     "geom:longitude":43.807119,
@@ -133,9 +133,10 @@
         "hasc:id":"GE.SD.KR",
         "wd:id":"Q1756629"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307890,
-    "wof:geomhash":"360c3de05a5c96670aca40158c8dd9bf",
+    "wof:geomhash":"2f6c0adeb6a091a9419125e15612e294",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108691295,
-    "wof:lastmodified":1690921395,
+    "wof:lastmodified":1695886291,
     "wof:name":"Kareli",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

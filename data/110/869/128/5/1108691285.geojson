@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15908,
-    "geom:area_square_m":1431921588.150766,
+    "geom:area_square_m":1431921588.150915,
     "geom:bbox":"40.3616294861,43.0614395142,40.9026298523,43.5530929565",
     "geom:latitude":43.284893,
     "geom:longitude":40.621946,
@@ -194,9 +194,10 @@
     "wof:concordances":{
         "hasc:id":"GE.AB.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307884,
-    "wof:geomhash":"f384c9d045c5c8252dcd41d1c5fe1a82",
+    "wof:geomhash":"73c4ac76220020d0cb7b110baf69df03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":1108691285,
-    "wof:lastmodified":1566637101,
+    "wof:lastmodified":1695886291,
     "wof:name":"Gudauta",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04717,
-    "geom:area_square_m":436238027.253582,
+    "geom:area_square_m":436237551.01947,
     "geom:bbox":"41.754894,41.492966,42.126358,41.698936",
     "geom:latitude":41.588752,
     "geom:longitude":41.969494,
@@ -136,9 +136,10 @@
         "hasc:id":"GE.AJ.KD",
         "wd:id":"Q1911993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307894,
-    "wof:geomhash":"c52bb6db07e0562ffab6d0ea2c17c05c",
+    "wof:geomhash":"0c845f0a6ef72f852f74eeae5b5e5f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108691301,
-    "wof:lastmodified":1690921405,
+    "wof:lastmodified":1695886293,
     "wof:name":"Keda",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

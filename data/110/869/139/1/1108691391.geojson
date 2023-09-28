@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076904,
-    "geom:area_square_m":703302196.713238,
+    "geom:area_square_m":703301755.680886,
     "geom:bbox":"42.451927,42.103775,42.887825,42.506596",
     "geom:latitude":42.30308,
     "geom:longitude":42.646823,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"GE.IM.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307951,
-    "wof:geomhash":"3ba4d97028c1160513120d3f4e9ed822",
+    "wof:geomhash":"76f57280107ded5d683e5be7979094ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108691391,
-    "wof:lastmodified":1627522152,
+    "wof:lastmodified":1695886621,
     "wof:name":"Tskaltubo",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"GE.AJ.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307865,
     "wof:geomhash":"5fde8bbe66ae7249232fae0a1ef6a635",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108691257,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886255,
     "wof:name":"Batumi City",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

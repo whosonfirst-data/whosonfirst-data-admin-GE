@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065627,
-    "geom:area_square_m":602285534.494507,
+    "geom:area_square_m":602285465.602874,
     "geom:bbox":"41.711643,41.972527,42.225502,42.184814",
     "geom:latitude":42.081329,
     "geom:longitude":41.964255,
@@ -147,9 +147,10 @@
         "hasc:id":"GE.GU.LK",
         "wd:id":"Q2380601"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307909,
-    "wof:geomhash":"61ad5a4ffddd2d3e79e823831536a083",
+    "wof:geomhash":"e644fdf5be62d1983fcc27eef3f1b340",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108691327,
-    "wof:lastmodified":1690921389,
+    "wof:lastmodified":1695886290,
     "wof:name":"Lanchkhuti",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

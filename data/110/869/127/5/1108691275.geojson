@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.326379,
-    "geom:area_square_m":2981578174.61128,
+    "geom:area_square_m":2981578159.896466,
     "geom:bbox":"44.466774,41.930035,45.310886,42.74818",
     "geom:latitude":42.370901,
     "geom:longitude":44.865138,
@@ -149,9 +149,10 @@
         "hasc:id":"GE.MM.DU",
         "wd:id":"Q2474310"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307876,
-    "wof:geomhash":"a56b9344f596480223707ffb61548abe",
+    "wof:geomhash":"b95ed63ba5ad27802b690999c9a47ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108691275,
-    "wof:lastmodified":1690921396,
+    "wof:lastmodified":1695886291,
     "wof:name":"Dusheti",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

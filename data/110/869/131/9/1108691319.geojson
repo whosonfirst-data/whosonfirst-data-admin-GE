@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003101,
-    "geom:area_square_m":28381982.009132,
+    "geom:area_square_m":28381982.009135,
     "geom:bbox":"42.661037,42.219509,42.736122,42.292564",
     "geom:latitude":42.258282,
     "geom:longitude":42.696259,
@@ -285,12 +285,13 @@
     "wof:concordances":{
         "hasc:id":"GE.IM.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421190605
     ],
     "wof:country":"GE",
     "wof:created":1474307905,
-    "wof:geomhash":"8df9f0fececee8b81cf98aa0c9800ccb",
+    "wof:geomhash":"f96bcd464b629bc0e1929f07a3276830",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -300,7 +301,7 @@
         }
     ],
     "wof:id":1108691319,
-    "wof:lastmodified":1608054816,
+    "wof:lastmodified":1695886457,
     "wof:name":"Kutaisi",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

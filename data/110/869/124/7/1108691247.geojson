@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242899,
-    "geom:area_square_m":2223102002.371046,
+    "geom:area_square_m":2223102579.778941,
     "geom:bbox":"45.046131,41.873653,45.780636,42.565769",
     "geom:latitude":42.253593,
     "geom:longitude":45.373186,
@@ -154,9 +154,10 @@
         "hasc:id":"GE.KA.AM",
         "wd:id":"Q748753"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307859,
-    "wof:geomhash":"fce28695dc5e2c769931153bbdd55226",
+    "wof:geomhash":"cfc9feaabf94524ce52c207b30cbf618",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1108691247,
-    "wof:lastmodified":1690921408,
+    "wof:lastmodified":1695886293,
     "wof:name":"Akhmeta",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

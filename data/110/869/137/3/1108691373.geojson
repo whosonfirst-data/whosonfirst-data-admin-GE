@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125082,
-    "geom:area_square_m":1149016302.620066,
+    "geom:area_square_m":1149016643.686842,
     "geom:bbox":"45.274731,41.795143,45.741722,42.291618",
     "geom:latitude":42.020791,
     "geom:longitude":45.507415,
@@ -139,9 +139,10 @@
         "hasc:id":"GE.KA.TE",
         "wd:id":"Q1953364"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307939,
-    "wof:geomhash":"c3cbc95e6e5bafa4ce9a4bd46838fa03",
+    "wof:geomhash":"96092071388d4108a881a59406e76bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108691373,
-    "wof:lastmodified":1690921404,
+    "wof:lastmodified":1695886293,
     "wof:name":"Telavi",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",
