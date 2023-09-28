@@ -1396,6 +1396,7 @@
         "hasc:id":"GE",
         "icao:code":"4l",
         "ioc:id":"GEO",
+        "iso:code":"GE",
         "itu:id":"GEO",
         "loc:id":"n81055241",
         "m49:code":"268",
@@ -1408,6 +1409,7 @@
         "wk:page":"Georgia (country)",
         "wmo:id":"GG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GE",
     "wof:country_alpha3":"GEO",
     "wof:geom_alt":[
@@ -1432,7 +1434,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1694639631,
+    "wof:lastmodified":1695881293,
     "wof:name":"Georgia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
