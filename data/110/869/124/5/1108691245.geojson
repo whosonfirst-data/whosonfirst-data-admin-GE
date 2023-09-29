@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106598,
-    "geom:area_square_m":985139837.225209,
+    "geom:area_square_m":985140336.686334,
     "geom:bbox":"42.79414,41.424446,43.276154,41.832333",
     "geom:latitude":41.635079,
     "geom:longitude":43.017681,
@@ -151,9 +151,10 @@
         "hasc:id":"GE.SJ.AT",
         "wd:id":"Q2513568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307858,
-    "wof:geomhash":"a05d3f13b2165a024425439b297be374",
+    "wof:geomhash":"7ec4609faac4c22b2ab2845b80b58c41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":1108691245,
-    "wof:lastmodified":1690921409,
+    "wof:lastmodified":1695886293,
     "wof:name":"Akhaltsikhe",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

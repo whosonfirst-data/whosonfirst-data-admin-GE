@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104735,
-    "geom:area_square_m":955231840.376033,
+    "geom:area_square_m":955232154.787412,
     "geom:bbox":"43.585419,42.318718,44.348026,42.627548",
     "geom:latitude":42.473248,
     "geom:longitude":44.013563,
@@ -138,9 +138,10 @@
         "hasc:id":"GE.SD.JV",
         "wd:id":"Q893278"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307888,
-    "wof:geomhash":"c56f73689a5f57dea64fb5e513562df9",
+    "wof:geomhash":"c80ff39019862403c77dc5353f016aa0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108691293,
-    "wof:lastmodified":1690921395,
+    "wof:lastmodified":1695886291,
     "wof:name":"Java",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

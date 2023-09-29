@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.728009,
-    "geom:area_square_m":6657820309.03792,
+    "geom:area_square_m":6657820309.037666,
     "geom:bbox":"44.2221412659,41.6875152588,45.3108863831,42.7619590759",
     "geom:latitude":42.302335,
     "geom:longitude":44.751694,
@@ -23,7 +23,7 @@
     "lbl:longitude":44.741219,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:abk_x_preferred":[
@@ -197,11 +197,13 @@
     "wof:concordances":{
         "fips:code":"GG69",
         "hasc:id":"GE.MM",
+        "iso:code":"GE-MM",
         "iso:id":"GE-MM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GE",
     "wof:created":1485972931,
-    "wof:geomhash":"6845318b3971803b54d29a69c858332d",
+    "wof:geomhash":"c36b25aef31cbb75ee437ae4b79a621b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -218,7 +220,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1566637092,
+    "wof:lastmodified":1695884280,
     "wof:name":"Mtskheta-Mtianeti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

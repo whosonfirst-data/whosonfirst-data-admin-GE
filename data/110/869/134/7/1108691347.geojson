@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072294,
-    "geom:area_square_m":665225999.499446,
+    "geom:area_square_m":665225375.256022,
     "geom:bbox":"41.754929,41.779629,42.292572,42.034088",
     "geom:latitude":41.91328,
     "geom:longitude":42.031369,
@@ -149,9 +149,10 @@
         "hasc:id":"GE.GU.OZ",
         "wd:id":"Q510761"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307923,
-    "wof:geomhash":"891a90719fe587d1204c502d2a6760f2",
+    "wof:geomhash":"fd1d29182aaa2bea0ef2569172f803f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108691347,
-    "wof:lastmodified":1690921393,
+    "wof:lastmodified":1695886290,
     "wof:name":"Ozurgeti",
     "wof:parent_id":1108805955,
     "wof:placetype":"county",

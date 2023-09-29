@@ -122,6 +122,7 @@
         "hasc:id":"GE.KK.GD",
         "wd:id":"Q2512996"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307925,
     "wof:geomhash":"f041dbca1667281902c595abdad6941f",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108691351,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886290,
     "wof:name":"Rustavi City",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

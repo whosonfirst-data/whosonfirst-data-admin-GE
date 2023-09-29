@@ -135,6 +135,7 @@
         "hasc:id":"GE.SD.GR",
         "wd:id":"Q1417170"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307953,
     "wof:geomhash":"6dcc692e5ddb78af123e4915d5dff0cc",
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108691393,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886292,
     "wof:name":"Tskhinvali",
     "wof:parent_id":1108805941,
     "wof:placetype":"county",

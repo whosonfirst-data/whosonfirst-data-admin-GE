@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080015,
-    "geom:area_square_m":738041010.332989,
+    "geom:area_square_m":738041421.940456,
     "geom:bbox":"41.707737,41.607265,42.219452,41.899086",
     "geom:latitude":41.759198,
     "geom:longitude":41.925839,
@@ -140,9 +140,10 @@
         "hasc:id":"GE.AJ.KB",
         "wd:id":"Q991409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307904,
-    "wof:geomhash":"e080d0db1478aae493e02b9970f0698c",
+    "wof:geomhash":"959bee13e3b7738b2f8fd4858b83808f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108691317,
-    "wof:lastmodified":1690921398,
+    "wof:lastmodified":1695886292,
     "wof:name":"Kobuleti",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

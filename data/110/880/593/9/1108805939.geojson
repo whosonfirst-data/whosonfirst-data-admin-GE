@@ -193,8 +193,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"GE.KA"
+        "hasc:id":"GE.KA",
+        "iso:code":"GE-KA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GE",
     "wof:created":1485972931,
     "wof:geomhash":"cbd19e9f576b695a241b8a908b920f98",
@@ -214,7 +216,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1694493125,
+    "wof:lastmodified":1695884280,
     "wof:name":"Kakheti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130585,
-    "geom:area_square_m":1207536829.020781,
+    "geom:area_square_m":1207536873.620386,
     "geom:bbox":"44.197208,41.42503,44.831032,41.76828",
     "geom:latitude":41.596812,
     "geom:longitude":44.474892,
@@ -144,9 +144,10 @@
         "hasc:id":"GE.KK.TR",
         "wd:id":"Q1954407"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307943,
-    "wof:geomhash":"1c6fa44f734c88874de9abab62916b33",
+    "wof:geomhash":"dcb270233bbce7963a30002ddfb3d512",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108691377,
-    "wof:lastmodified":1690921404,
+    "wof:lastmodified":1695886292,
     "wof:name":"Tetri Tskaro",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

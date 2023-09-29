@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098336,
-    "geom:area_square_m":896088850.05051,
+    "geom:area_square_m":896088379.381971,
     "geom:bbox":"42.174927,42.283634,42.617844,42.774544",
     "geom:latitude":42.527808,
     "geom:longitude":42.391835,
@@ -139,9 +139,10 @@
         "hasc:id":"GE.SZ.MV",
         "wd:id":"Q2511190"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307914,
-    "wof:geomhash":"0527c9f644cb6c104fed55b50fa720cf",
+    "wof:geomhash":"203cfc52c4b5aed9113261145942ceab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108691333,
-    "wof:lastmodified":1690921391,
+    "wof:lastmodified":1695886290,
     "wof:name":"Martvili",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

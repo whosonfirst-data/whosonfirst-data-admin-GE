@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120413,
-    "geom:area_square_m":1095853810.028864,
+    "geom:area_square_m":1095854325.416418,
     "geom:bbox":"44.222141,42.426712,44.853363,42.761959",
     "geom:latitude":42.608218,
     "geom:longitude":44.530838,
@@ -146,9 +146,10 @@
         "hasc:id":"GE.MM.QZ",
         "wd:id":"Q2475628"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307892,
-    "wof:geomhash":"593195a70a25205b857511e13594628e",
+    "wof:geomhash":"eac7bc66394b0bb6b9fb854aa6149a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":1108691299,
-    "wof:lastmodified":1690921394,
+    "wof:lastmodified":1695886290,
     "wof:name":"Kazbegi",
     "wof:parent_id":1108805943,
     "wof:placetype":"county",

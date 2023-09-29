@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102085,
-    "geom:area_square_m":947412923.234558,
+    "geom:area_square_m":947412656.054902,
     "geom:bbox":"44.527973,41.186752,45.09346,41.549706",
     "geom:latitude":41.362115,
     "geom:longitude":44.835599,
@@ -135,9 +135,10 @@
         "hasc:id":"GE.KK.MN",
         "wd:id":"Q2410306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307913,
-    "wof:geomhash":"526e1c0fa20752ab274f50bf7e1a61af",
+    "wof:geomhash":"4e8292fcd4872cd4a7e655c7e19cec24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108691331,
-    "wof:lastmodified":1690921391,
+    "wof:lastmodified":1695886290,
     "wof:name":"Marneuli",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

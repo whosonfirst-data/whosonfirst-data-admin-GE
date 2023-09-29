@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136798,
-    "geom:area_square_m":1266792517.898911,
+    "geom:area_square_m":1266792807.364395,
     "geom:bbox":"45.533695,41.248634,46.385559,41.700588",
     "geom:latitude":41.504505,
     "geom:longitude":45.933317,
@@ -134,9 +134,10 @@
         "hasc:id":"GE.KA.SI",
         "wd:id":"Q1953363"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307934,
-    "wof:geomhash":"dc816028ce32d9054f81fa683d0c6cb3",
+    "wof:geomhash":"b80e46d24670d5dc8ca1285fa3d992f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108691365,
-    "wof:lastmodified":1690921400,
+    "wof:lastmodified":1695886292,
     "wof:name":"Sighnagi",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

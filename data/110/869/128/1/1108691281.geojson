@@ -121,6 +121,7 @@
         "hasc:id":"GE.KK.GD",
         "wd:id":"Q2512996"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307881,
     "wof:geomhash":"1a4a9173620d06854e506fcc58bc0d1a",
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108691281,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886291,
     "wof:name":"Gardabani",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

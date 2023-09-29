@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07618,
-    "geom:area_square_m":703881638.279942,
+    "geom:area_square_m":703880858.187835,
     "geom:bbox":"42.252834,41.443996,42.602123,41.8409",
     "geom:latitude":41.648788,
     "geom:longitude":42.42404,
@@ -137,9 +137,10 @@
         "hasc:id":"GE.AJ.KL",
         "wd:id":"Q1252978"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307902,
-    "wof:geomhash":"14bfe8d205aa5471e6b6d98d854fad56",
+    "wof:geomhash":"53272718032e1cdad9fdc3db9099e715",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108691315,
-    "wof:lastmodified":1690921400,
+    "wof:lastmodified":1695886292,
     "wof:name":"Khulo",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

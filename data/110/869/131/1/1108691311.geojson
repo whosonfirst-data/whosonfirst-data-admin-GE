@@ -124,6 +124,7 @@
         "hasc:id":"GE.SZ.KH",
         "wd:id":"Q2475615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307899,
     "wof:geomhash":"98e440d34ea77045ba72fb6d1700220d",
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108691311,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886291,
     "wof:name":"Khobi",
     "wof:parent_id":1108805935,
     "wof:placetype":"county",

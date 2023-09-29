@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129386,
-    "geom:area_square_m":1193219337.941574,
+    "geom:area_square_m":1193219337.941609,
     "geom:bbox":"43.1261901855,41.5914802551,43.8938789368,41.9391021729",
     "geom:latitude":41.77088,
     "geom:longitude":43.488967,
@@ -186,9 +186,10 @@
     "wof:concordances":{
         "hasc:id":"GE.SJ.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307868,
-    "wof:geomhash":"e4d6209922ccb08fa22f569211e628ff",
+    "wof:geomhash":"ba28bc04182ea471d2a027b3e232d474",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":1108691261,
-    "wof:lastmodified":1566637100,
+    "wof:lastmodified":1695886291,
     "wof:name":"Borjomi",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

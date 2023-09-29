@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084085,
-    "geom:area_square_m":780247809.250822,
+    "geom:area_square_m":780247915.213061,
     "geom:bbox":"44.248947,41.178341,44.788754,41.498219",
     "geom:latitude":41.37179,
     "geom:longitude":44.51011,
@@ -139,9 +139,10 @@
         "hasc:id":"GE.KK.BL",
         "wd:id":"Q2513580"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307867,
-    "wof:geomhash":"0d81d84bc57cacdec7a20a0e1c8aad4c",
+    "wof:geomhash":"60611afec44a05bd3b5f47f51a59a5d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108691259,
-    "wof:lastmodified":1690921410,
+    "wof:lastmodified":1695886293,
     "wof:name":"Bolnisi",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

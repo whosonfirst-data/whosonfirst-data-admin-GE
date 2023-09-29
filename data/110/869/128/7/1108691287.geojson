@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204933,
-    "geom:area_square_m":1849524617.860536,
+    "geom:area_square_m":1849524617.860641,
     "geom:bbox":"41.0673980713,42.8018341064,42.1509628296,43.3649291992",
     "geom:latitude":43.124179,
     "geom:longitude":41.482345,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"GE.AB.GP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307885,
-    "wof:geomhash":"1037ddbee3f2092d8c061252b8d2b992",
+    "wof:geomhash":"4f29d0bbc84e491e290a7a29e614b890",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1108691287,
-    "wof:lastmodified":1566637100,
+    "wof:lastmodified":1695886291,
     "wof:name":"Gulripshi",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

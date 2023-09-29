@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038325,
-    "geom:area_square_m":351343403.578122,
+    "geom:area_square_m":351343157.898036,
     "geom:bbox":"42.213947,41.995102,42.541195,42.271587",
     "geom:latitude":42.150102,
     "geom:longitude":42.371667,
@@ -139,9 +139,10 @@
         "hasc:id":"GE.IM.SM",
         "wd:id":"Q2142574"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307930,
-    "wof:geomhash":"2412d5d2331377a94bc8655e420b190d",
+    "wof:geomhash":"1ea4cac9878c0e37fcdd83ef08967974",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108691357,
-    "wof:lastmodified":1690921387,
+    "wof:lastmodified":1695886289,
     "wof:name":"Samtredia",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

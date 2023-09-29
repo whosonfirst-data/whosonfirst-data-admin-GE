@@ -43,8 +43,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"GE.SZ"
+        "hasc:id":"GE.SZ",
+        "iso:code":"GE-SZ"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GE",
     "wof:created":1485972930,
     "wof:geomhash":"ec6db92765fcf3f8573461bd5b1573eb",
@@ -64,7 +66,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1694493127,
+    "wof:lastmodified":1695884285,
     "wof:name":"Samagrelo-Zemo Svaneti",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

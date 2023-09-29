@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"GE.AB.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307935,
     "wof:geomhash":"2ca6e06b19060e83dc847f4b53b1e4f8",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108691367,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886403,
     "wof:name":"Sokhumi",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

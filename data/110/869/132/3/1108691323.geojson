@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096938,
-    "geom:area_square_m":893330221.457545,
+    "geom:area_square_m":893329777.639684,
     "geom:bbox":"45.903927,41.589478,46.428474,42.006756",
     "geom:latitude":41.817383,
     "geom:longitude":46.167419,
@@ -133,9 +133,10 @@
         "hasc:id":"GE.KA.LG",
         "wd:id":"Q941140"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307908,
-    "wof:geomhash":"c8898f2bedb19b25807f040af996d96a",
+    "wof:geomhash":"8c347edb411ac397a19aea138cfb01e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108691323,
-    "wof:lastmodified":1690921390,
+    "wof:lastmodified":1695886289,
     "wof:name":"Lagodekhi",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

@@ -55,6 +55,7 @@
     "wof:concordances":{
         "hasc:id":"GE.AB.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307937,
     "wof:geomhash":"e254729bfb07ea9faf7e0ea9d0e2e42f",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108691369,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886403,
     "wof:name":"Sokhumi City",
     "wof:parent_id":1108805957,
     "wof:placetype":"county",

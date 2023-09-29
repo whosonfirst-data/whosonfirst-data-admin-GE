@@ -100,6 +100,7 @@
     "wof:concordances":{
         "hasc:id":"GE.AJ.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307898,
     "wof:geomhash":"ff4c60a4317304ff7e4ec9218162af5a",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108691309,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886292,
     "wof:name":"Khelvachauri",
     "wof:parent_id":1108805947,
     "wof:placetype":"county",

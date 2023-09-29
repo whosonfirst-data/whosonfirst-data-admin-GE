@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098579,
-    "geom:area_square_m":905853022.497044,
+    "geom:area_square_m":905853276.519,
     "geom:bbox":"42.999405,41.828495,43.505634,42.155926",
     "geom:latitude":42.000122,
     "geom:longitude":43.265691,
@@ -145,9 +145,10 @@
         "hasc:id":"GE.IM.KG",
         "wd:id":"Q2513642"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307895,
-    "wof:geomhash":"92dc002ef1171710f611cde595cb64d2",
+    "wof:geomhash":"b1427f984060dccb4028f3db908f7eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1108691303,
-    "wof:lastmodified":1690921406,
+    "wof:lastmodified":1695886293,
     "wof:name":"Kharagauli",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

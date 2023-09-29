@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090824,
-    "geom:area_square_m":835040268.91216,
+    "geom:area_square_m":835040467.354845,
     "geom:bbox":"42.642963,41.804096,43.12619,42.195316",
     "geom:latitude":41.966069,
     "geom:longitude":42.87971,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"GE.IM.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307864,
-    "wof:geomhash":"12dead84619a2572253f6b8ccb997511",
+    "wof:geomhash":"420bd4e2dcc3afbd605911ec7b4b0b21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108691255,
-    "wof:lastmodified":1627522152,
+    "wof:lastmodified":1695886621,
     "wof:name":"Bagdati",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

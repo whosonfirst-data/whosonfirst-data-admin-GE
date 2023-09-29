@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047503,
-    "geom:area_square_m":435624390.400349,
+    "geom:area_square_m":435624125.961297,
     "geom:bbox":"42.760105,42.028488,43.229229,42.229378",
     "geom:latitude":42.128967,
     "geom:longitude":43.048986,
@@ -143,9 +143,10 @@
         "hasc:id":"GE.IM.ZP",
         "wd:id":"Q2464187"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307956,
-    "wof:geomhash":"b9fc86320e969c789cfe691a28374e77",
+    "wof:geomhash":"c0efd6eeb7572a0160e36e13397f3ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108691399,
-    "wof:lastmodified":1690921403,
+    "wof:lastmodified":1695886292,
     "wof:name":"Zestafoni",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

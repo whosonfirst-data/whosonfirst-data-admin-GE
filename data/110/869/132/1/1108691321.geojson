@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102161,
-    "geom:area_square_m":939303923.548049,
+    "geom:area_square_m":939303510.697601,
     "geom:bbox":"45.557659,41.796371,46.121552,42.123283",
     "geom:latitude":41.963792,
     "geom:longitude":45.857764,
@@ -139,9 +139,10 @@
         "hasc:id":"GE.KA.QV",
         "wd:id":"Q1789499"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307907,
-    "wof:geomhash":"ebfdf7c342076a4a75cd0aa06a92d53e",
+    "wof:geomhash":"9b264f2c514099b5480af2dcfa9f62e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108691321,
-    "wof:lastmodified":1690921389,
+    "wof:lastmodified":1695886289,
     "wof:name":"Kvareli",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",

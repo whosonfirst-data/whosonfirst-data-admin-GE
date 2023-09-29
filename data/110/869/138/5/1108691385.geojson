@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079232,
-    "geom:area_square_m":720912308.124511,
+    "geom:area_square_m":720912535.904259,
     "geom:bbox":"42.528481,42.462124,43.107182,42.767601",
     "geom:latitude":42.622014,
     "geom:longitude":42.792282,
@@ -134,9 +134,10 @@
         "hasc:id":"GE.RK.TG",
         "wd:id":"Q2489909"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307947,
-    "wof:geomhash":"8a6d4703f1a644b9568e5b95846ff51c",
+    "wof:geomhash":"9b6d55db0121b8dc95fc404d62c0065e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108691385,
-    "wof:lastmodified":1690921402,
+    "wof:lastmodified":1695886292,
     "wof:name":"Tsageri",
     "wof:parent_id":1108805959,
     "wof:placetype":"county",

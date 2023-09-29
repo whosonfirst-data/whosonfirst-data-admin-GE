@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127296,
-    "geom:area_square_m":1181700471.911409,
+    "geom:area_square_m":1181700705.152247,
     "geom:bbox":"43.89045,41.164169,44.437691,41.548832",
     "geom:latitude":41.344987,
     "geom:longitude":44.134711,
@@ -134,9 +134,10 @@
         "hasc:id":"GE.KK.DM",
         "wd:id":"Q681371"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307875,
-    "wof:geomhash":"d43aaf90a3709c27ffd5d2f17f9b2b02",
+    "wof:geomhash":"1a530ccde7ef61e442cf121bcc06f13b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108691273,
-    "wof:lastmodified":1690921396,
+    "wof:lastmodified":1695886291,
     "wof:name":"Dmanisi",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

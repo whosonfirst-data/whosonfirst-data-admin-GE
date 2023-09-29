@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146033,
-    "geom:area_square_m":1356711304.599575,
+    "geom:area_square_m":1356711615.987208,
     "geom:bbox":"43.430244,41.10561,43.966663,41.534966",
     "geom:latitude":41.293521,
     "geom:longitude":43.7165,
@@ -140,9 +140,10 @@
         "hasc:id":"GE.SJ.NI",
         "wd:id":"Q1025123"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307918,
-    "wof:geomhash":"cdfa2466a51988ec6c64acc2037cdc22",
+    "wof:geomhash":"4862e5c7537599a7bfd744d3457bad6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108691339,
-    "wof:lastmodified":1690921390,
+    "wof:lastmodified":1695886290,
     "wof:name":"Ninotsminda",
     "wof:parent_id":1108805953,
     "wof:placetype":"county",

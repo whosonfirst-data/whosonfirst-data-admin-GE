@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112811,
-    "geom:area_square_m":1042844395.10676,
+    "geom:area_square_m":1042844380.219047,
     "geom:bbox":"43.672138,41.478497,44.260029,41.762165",
     "geom:latitude":41.617389,
     "geom:longitude":43.97101,
@@ -140,9 +140,10 @@
         "hasc:id":"GE.KK.TK",
         "wd:id":"Q2238147"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307950,
-    "wof:geomhash":"12a3d00a69b2ad8214ccb42e4b6b8689",
+    "wof:geomhash":"cfb367040dc7a4ee0144ea96825d069b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108691389,
-    "wof:lastmodified":1690921401,
+    "wof:lastmodified":1695886292,
     "wof:name":"Tsalka",
     "wof:parent_id":1108805951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312949,
-    "geom:area_square_m":2891717036.014752,
+    "geom:area_square_m":2891716543.093098,
     "geom:bbox":"41.53788,41.431664,42.602123,41.899086",
     "geom:latitude":41.644803,
     "geom:longitude":42.087337,
@@ -407,12 +407,14 @@
         "gn:id":615929,
         "gp:id":20070400,
         "hasc:id":"GE.AJ",
+        "iso:code":"GE-AJ",
         "iso:id":"GE-AJ",
         "wd:id":"Q45693"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GE",
     "wof:created":1485972932,
-    "wof:geomhash":"4d9a67ea4f5e664579a841aa013ffa6b",
+    "wof:geomhash":"31121228b804bc2f46c08d7fe3bcf97e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -429,7 +431,7 @@
         "abk",
         "oss"
     ],
-    "wof:lastmodified":1690921386,
+    "wof:lastmodified":1695884326,
     "wof:name":"Ajara Autonomous Republic",
     "wof:parent_id":85633163,
     "wof:placetype":"region",

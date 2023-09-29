@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045668,
-    "geom:area_square_m":417077113.880447,
+    "geom:area_square_m":417077492.636161,
     "geom:bbox":"42.3232,42.225338,42.640057,42.561111",
     "geom:latitude":42.387778,
     "geom:longitude":42.495975,
@@ -133,9 +133,10 @@
         "hasc:id":"GE.IM.KN",
         "wd:id":"Q2513080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307901,
-    "wof:geomhash":"194cdee6712a9b7e53eb6035631b1d5f",
+    "wof:geomhash":"216f1c3be9135764d4dd1a814420dc30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108691313,
-    "wof:lastmodified":1690921399,
+    "wof:lastmodified":1695886292,
     "wof:name":"Khoni",
     "wof:parent_id":1108805937,
     "wof:placetype":"county",

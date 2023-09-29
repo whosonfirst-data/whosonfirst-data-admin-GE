@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091384,
-    "geom:area_square_m":843352960.124971,
+    "geom:area_square_m":843352746.283038,
     "geom:bbox":"45.520592,41.531876,45.979099,41.898666",
     "geom:latitude":41.725096,
     "geom:longitude":45.739201,
@@ -137,9 +137,10 @@
         "hasc:id":"GE.KA.GJ",
         "wd:id":"Q1560942"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GE",
     "wof:created":1474307887,
-    "wof:geomhash":"7a458de10bfb8a457244d523ed38c16e",
+    "wof:geomhash":"63b6f963b819ed9357f2fc1096002f80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1108691291,
-    "wof:lastmodified":1690921394,
+    "wof:lastmodified":1695886291,
     "wof:name":"Gurjaani",
     "wof:parent_id":1108805939,
     "wof:placetype":"county",
