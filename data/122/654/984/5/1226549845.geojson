@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":612024
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            613005
+        ]
+    },
     "wof:country":"GE",
     "wof:geomhash":"26fc247f1a30b246d9ae8ba5ab9c873b",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226549845,
-    "wof:lastmodified":1566637399,
+    "wof:lastmodified":1706239752,
     "wof:name":"Shamta",
     "wof:parent_id":1108691377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ge",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310511333
+    ],
     "wof:tags":[]
 },
   "bbox": [
