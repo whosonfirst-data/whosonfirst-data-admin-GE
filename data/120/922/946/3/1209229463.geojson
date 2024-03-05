@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":613423
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            872084
+        ]
+    },
     "wof:country":"GE",
     "wof:geomhash":"3d60e1a60804d7e12743332e317b756a",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209229463,
-    "wof:lastmodified":1566637016,
+    "wof:lastmodified":1706239752,
     "wof:name":"Kvemo-Otrevi",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ge",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209530287
+    ],
     "wof:tags":[]
 },
   "bbox": [

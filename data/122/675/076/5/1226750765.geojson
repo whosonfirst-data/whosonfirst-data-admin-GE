@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":615476
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            612662
+        ]
+    },
     "wof:country":"GE",
     "wof:geomhash":"96d39a157145baa1330284d22b7c7b33",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226750765,
-    "wof:lastmodified":1566637343,
+    "wof:lastmodified":1706239752,
     "wof:name":"Beslakhuba",
     "wof:parent_id":1108691341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ge",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327444189
+    ],
     "wof:tags":[]
 },
   "bbox": [

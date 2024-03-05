@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":612862
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            874169
+        ]
+    },
     "wof:country":"GE",
     "wof:geomhash":"835c31f025762b089341e0f2eb00cf3f",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1193145871,
-    "wof:lastmodified":1566637061,
+    "wof:lastmodified":1706239752,
     "wof:name":"Mukhuri",
     "wof:parent_id":1108691279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ge",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259997533
+    ],
     "wof:tags":[]
 },
   "bbox": [

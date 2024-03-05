@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"44.12861,42.18389,44.12861,42.18389",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -38,7 +40,7 @@
         "gn:id":872084
     },
     "wof:country":"GE",
-    "wof:geomhash":"363d0bd462b42bbe57d8a7edb4cd6706",
+    "wof:geomhash":"8c58ab126478bfa8b4408f74fef609a4",
     "wof:hierarchy":[
         {
             "country_id":85633163,
@@ -46,20 +48,22 @@
         }
     ],
     "wof:id":1209530287,
-    "wof:lastmodified":1566636990,
+    "wof:lastmodified":1706239752,
     "wof:name":"Kvemo-Otrevi",
     "wof:parent_id":85633163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ge",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209229463
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     44.12861,
-    42.18389000000001,
+    42.18389,
     44.12861,
-    42.18389000000001
+    42.18389
 ],
-  "geometry": {"coordinates":[44.12861,42.18389000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.12861,42.18389],"type":"Point"}
 }
